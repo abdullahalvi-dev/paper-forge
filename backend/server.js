@@ -260,19 +260,28 @@ app.use((error, req, res, next) => {
   });
 });
 
-connectDB()
-  .then(async () => {
-    http.createServer(app).listen(port, () => {
-      console.log(`Paper Forge running on http://localhost:${port}`);
-    });
-    if (httpsEnabled) {
-      const httpsOptions = await ensureLocalHttpsCertificate();
-      https.createServer(httpsOptions, app).listen(httpsPort, () => {
-        console.log(`Paper Forge secure server running on https://localhost:${httpsPort}`);
+connectDB().catch((error) => {
+  console.error(error.message);
+});
+
+if (process.env.VERCEL !== '1') {
+  connectDB()
+    .then(async () => {
+      http.createServer(app).listen(port, () => {
+        console.log(`Paper Forge running on http://localhost:${port}`);
       });
-    }
-  })
-  .catch((error) => {
-    console.error(error.message);
-    process.exit(1);
-  });
+
+      if (httpsEnabled) {
+        const httpsOptions = await ensureLocalHttpsCertificate();
+        https.createServer(httpsOptions, app).listen(httpsPort, () => {
+          console.log(`Paper Forge secure server running on https://localhost:${httpsPort}`);
+        });
+      }
+    })
+    .catch((error) => {
+      console.error(error.message);
+      process.exit(1);
+    });
+}
+
+module.exports = app;
