@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 1: The motion of a body along a circular path is called:",
+    "options": [
+      "Circular motion",
+      "Linear motion",
+      "Random motion",
+      "Projectile motion"
+    ],
+    "correctAnswer": "Circular motion",
+    "explanation": "Motion along a circular path is circular motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 2: A radian is the angle subtended at the centre of a circle by an arc equal to:",
+    "options": [
+      "Radius",
+      "Diameter",
+      "Circumference",
+      "Area"
+    ],
+    "correctAnswer": "Radius",
+    "explanation": "One radian is subtended by an arc equal in length to the radius.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 3: The SI unit of angular displacement is:",
+    "options": [
+      "radian",
+      "metre",
+      "second",
+      "newton"
+    ],
+    "correctAnswer": "radian",
+    "explanation": "Angular displacement is measured in radians.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 4: Angular velocity is the rate of change of:",
+    "options": [
+      "Angular displacement",
+      "Linear displacement",
+      "Mass",
+      "Force"
+    ],
+    "correctAnswer": "Angular displacement",
+    "explanation": "ω = Δθ/Δt.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 5: The SI unit of angular velocity is:",
+    "options": [
+      "rad s⁻¹",
+      "m s⁻¹",
+      "m s⁻²",
+      "N m"
+    ],
+    "correctAnswer": "rad s⁻¹",
+    "explanation": "Angular velocity is measured in radians per second.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 6: The relation between linear velocity v and angular velocity ω is:",
+    "options": [
+      "v = rω",
+      "v = ω/r",
+      "v = r/ω",
+      "v = r²ω"
+    ],
+    "correctAnswer": "v = rω",
+    "explanation": "Linear speed in circular motion is v = rω.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "linear velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 7: The direction of linear velocity in circular motion is:",
+    "options": [
+      "Tangential to the circle",
+      "Toward the centre",
+      "Away from the centre",
+      "Zero always"
+    ],
+    "correctAnswer": "Tangential to the circle",
+    "explanation": "Instantaneous velocity is tangent to the circular path.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "velocity direction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 8: Centripetal acceleration is directed:",
+    "options": [
+      "Toward the centre",
+      "Away from the centre",
+      "Along the tangent",
+      "Opposite to velocity only"
+    ],
+    "correctAnswer": "Toward the centre",
+    "explanation": "Centripetal acceleration always points toward the centre.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 9: The formula for centripetal acceleration is:",
+    "options": [
+      "a = v²/r",
+      "a = vr",
+      "a = r/v²",
+      "a = mv²/r"
+    ],
+    "correctAnswer": "a = v²/r",
+    "explanation": "Centripetal acceleration is v²/r.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 10: The formula for centripetal force is:",
+    "options": [
+      "F = mv²/r",
+      "F = mvr",
+      "F = mr/v²",
+      "F = v²/mr"
+    ],
+    "correctAnswer": "F = mv²/r",
+    "explanation": "Centripetal force is mass times centripetal acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 11: Centripetal force is required to:",
+    "options": [
+      "Keep a body moving in a circular path",
+      "Stop a body completely",
+      "Increase mass",
+      "Remove inertia"
+    ],
+    "correctAnswer": "Keep a body moving in a circular path",
+    "explanation": "Without centripetal force, the body moves along a tangent.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 12: If the radius is doubled while speed remains constant, centripetal acceleration becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Half",
+    "explanation": "a = v²/r, so doubling r halves acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 13: If speed is doubled while radius remains constant, centripetal acceleration becomes:",
+    "options": [
+      "Four times",
+      "Double",
+      "Half",
+      "Unchanged"
+    ],
+    "correctAnswer": "Four times",
+    "explanation": "a = v²/r, so doubling v makes a four times.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 14: In uniform circular motion, speed is:",
+    "options": [
+      "Constant",
+      "Continuously increasing",
+      "Continuously decreasing",
+      "Always zero"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Uniform circular motion has constant speed.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 15: In uniform circular motion, velocity is:",
+    "options": [
+      "Changing",
+      "Constant",
+      "Zero",
+      "Independent of direction"
+    ],
+    "correctAnswer": "Changing",
+    "explanation": "Velocity changes because direction changes continuously.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 16: Uniform circular motion is accelerated motion because:",
+    "options": [
+      "Direction of velocity changes",
+      "Speed must increase",
+      "Mass changes",
+      "Radius disappears"
+    ],
+    "correctAnswer": "Direction of velocity changes",
+    "explanation": "Acceleration occurs due to change in velocity direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 17: Time period is the time taken to complete:",
+    "options": [
+      "One revolution",
+      "One metre",
+      "One radian only",
+      "One force cycle"
+    ],
+    "correctAnswer": "One revolution",
+    "explanation": "Time period T is time for one complete revolution.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 18: Frequency is the number of revolutions per:",
+    "options": [
+      "Second",
+      "Metre",
+      "Radian",
+      "Newton"
+    ],
+    "correctAnswer": "Second",
+    "explanation": "Frequency means cycles or revolutions per second.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 19: The relation between time period T and frequency f is:",
+    "options": [
+      "f = 1/T",
+      "f = T",
+      "f = 2πT",
+      "f = rT"
+    ],
+    "correctAnswer": "f = 1/T",
+    "explanation": "Frequency is reciprocal of time period.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 20: The relation between angular velocity and frequency is:",
+    "options": [
+      "ω = 2πf",
+      "ω = f/2π",
+      "ω = 2π/f",
+      "ω = rf"
+    ],
+    "correctAnswer": "ω = 2πf",
+    "explanation": "One revolution is 2π radians, so ω = 2πf.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 21: The relation between angular velocity and time period is:",
+    "options": [
+      "ω = 2π/T",
+      "ω = T/2π",
+      "ω = 2πT",
+      "ω = rT"
+    ],
+    "correctAnswer": "ω = 2π/T",
+    "explanation": "Angular speed for one revolution is 2π/T.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 22: If a wheel makes 10 revolutions in 2 s, its frequency is:",
+    "options": [
+      "5 Hz",
+      "10 Hz",
+      "20 Hz",
+      "2 Hz"
+    ],
+    "correctAnswer": "5 Hz",
+    "explanation": "f = revolutions/time = 10/2 = 5 Hz.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 23: If frequency is 5 Hz, time period is:",
+    "options": [
+      "0.2 s",
+      "5 s",
+      "10 s",
+      "2 s"
+    ],
+    "correctAnswer": "0.2 s",
+    "explanation": "T = 1/f = 1/5 = 0.2 s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 24: If angular velocity is 10 rad s⁻¹ and radius is 2 m, linear speed is:",
+    "options": [
+      "20 m s⁻¹",
+      "5 m s⁻¹",
+      "10 m s⁻¹",
+      "12 m s⁻¹"
+    ],
+    "correctAnswer": "20 m s⁻¹",
+    "explanation": "v = rω = 2 × 10 = 20 m/s.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "linear velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 25: If v = 6 m s⁻¹ and r = 3 m, angular velocity is:",
+    "options": [
+      "2 rad s⁻¹",
+      "18 rad s⁻¹",
+      "9 rad s⁻¹",
+      "3 rad s⁻¹"
+    ],
+    "correctAnswer": "2 rad s⁻¹",
+    "explanation": "ω = v/r = 6/3 = 2 rad/s.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 26: If v = 10 m s⁻¹ and r = 5 m, centripetal acceleration is:",
+    "options": [
+      "20 m s⁻²",
+      "2 m s⁻²",
+      "50 m s⁻²",
+      "100 m s⁻²"
+    ],
+    "correctAnswer": "20 m s⁻²",
+    "explanation": "a = v²/r = 100/5 = 20 m/s².",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 27: If m = 2 kg, v = 5 m s⁻¹ and r = 1 m, centripetal force is:",
+    "options": [
+      "50 N",
+      "10 N",
+      "25 N",
+      "100 N"
+    ],
+    "correctAnswer": "50 N",
+    "explanation": "F = mv²/r = 2×25/1 = 50 N.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 28: A stone tied to a string moves in a horizontal circle. The centripetal force is provided by:",
+    "options": [
+      "Tension in the string",
+      "Weight only",
+      "Normal reaction only",
+      "Air pressure only"
+    ],
+    "correctAnswer": "Tension in the string",
+    "explanation": "String tension acts toward the centre.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 29: When the string of a rotating stone breaks, the stone moves:",
+    "options": [
+      "Tangentially",
+      "Toward the centre",
+      "Inward spiral",
+      "At rest immediately"
+    ],
+    "correctAnswer": "Tangentially",
+    "explanation": "The stone continues in the direction of instantaneous velocity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 30: For a car moving around a flat circular road, centripetal force is mainly provided by:",
+    "options": [
+      "Friction",
+      "Gravity",
+      "Air pressure",
+      "Engine sound"
+    ],
+    "correctAnswer": "Friction",
+    "explanation": "Static friction supplies centripetal force on a flat road.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 31: If friction is insufficient on a circular road, the vehicle tends to:",
+    "options": [
+      "Skid outward",
+      "Move inward",
+      "Stop instantly",
+      "Lose mass"
+    ],
+    "correctAnswer": "Skid outward",
+    "explanation": "Insufficient centripetal force causes outward skidding tendency.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 32: Banking of roads is done to provide:",
+    "options": [
+      "Centripetal force safely",
+      "More mass to car",
+      "Less gravity",
+      "Zero speed"
+    ],
+    "correctAnswer": "Centripetal force safely",
+    "explanation": "A component of normal reaction helps provide centripetal force.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 33: On a banked road, centripetal force is partly provided by:",
+    "options": [
+      "Horizontal component of normal reaction",
+      "Vertical component of weight only",
+      "Sound energy",
+      "Heat energy"
+    ],
+    "correctAnswer": "Horizontal component of normal reaction",
+    "explanation": "The normal reaction has a horizontal component toward the centre.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 34: The banking angle depends on:",
+    "options": [
+      "Speed and radius",
+      "Colour of road",
+      "Mass only",
+      "Temperature only"
+    ],
+    "correctAnswer": "Speed and radius",
+    "explanation": "For ideal banking, tanθ = v²/rg.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 35: For ideal banking without friction, tan θ equals:",
+    "options": [
+      "v²/rg",
+      "rg/v²",
+      "vr/g",
+      "v/r"
+    ],
+    "correctAnswer": "v²/rg",
+    "explanation": "The standard formula is tanθ = v²/(rg).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 36: Artificial gravity in a rotating space station is due to:",
+    "options": [
+      "Centripetal acceleration",
+      "Chemical reaction",
+      "Magnetism only",
+      "Sound waves"
+    ],
+    "correctAnswer": "Centripetal acceleration",
+    "explanation": "Rotation provides acceleration that creates artificial gravity effect.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "artificial gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 37: For artificial gravity, acceleration is given by:",
+    "options": [
+      "a = rω²",
+      "a = r/ω²",
+      "a = ω/r",
+      "a = mrω"
+    ],
+    "correctAnswer": "a = rω²",
+    "explanation": "Centripetal acceleration can be written as rω².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "artificial gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 38: The formula a = rω² is equivalent to:",
+    "options": [
+      "a = v²/r",
+      "a = vr",
+      "a = r/v",
+      "a = mω²"
+    ],
+    "correctAnswer": "a = v²/r",
+    "explanation": "Since v = rω, v²/r = rω².",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 39: A satellite remains in orbit because gravitational force provides:",
+    "options": [
+      "Centripetal force",
+      "Frictional force",
+      "Tension",
+      "Normal reaction"
+    ],
+    "correctAnswer": "Centripetal force",
+    "explanation": "Gravity acts as the centripetal force for orbital motion.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "satellites"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 40: For a satellite in circular orbit, gravitational force is directed:",
+    "options": [
+      "Toward Earth's centre",
+      "Tangentially",
+      "Away from Earth",
+      "Randomly"
+    ],
+    "correctAnswer": "Toward Earth's centre",
+    "explanation": "Gravity pulls the satellite toward Earth's centre.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "satellites"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 41: A geostationary satellite has time period approximately:",
+    "options": [
+      "24 hours",
+      "1 hour",
+      "12 hours",
+      "7 days"
+    ],
+    "correctAnswer": "24 hours",
+    "explanation": "It matches Earth's rotation period.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 42: The orbit of a geostationary satellite lies above:",
+    "options": [
+      "Equator",
+      "North pole",
+      "South pole",
+      "Any city"
+    ],
+    "correctAnswer": "Equator",
+    "explanation": "A geostationary satellite orbits in the equatorial plane.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 43: Geostationary satellites appear stationary because:",
+    "options": [
+      "Their angular speed equals Earth's angular speed",
+      "They have zero speed",
+      "They are outside gravity",
+      "They have no mass"
+    ],
+    "correctAnswer": "Their angular speed equals Earth's angular speed",
+    "explanation": "They rotate with the same angular speed as Earth.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 44: Angular acceleration is rate of change of:",
+    "options": [
+      "Angular velocity",
+      "Linear displacement",
+      "Mass",
+      "Radius"
+    ],
+    "correctAnswer": "Angular velocity",
+    "explanation": "α = Δω/Δt.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 45: The SI unit of angular acceleration is:",
+    "options": [
+      "rad s⁻²",
+      "rad s⁻¹",
+      "m s⁻¹",
+      "N"
+    ],
+    "correctAnswer": "rad s⁻²",
+    "explanation": "Angular acceleration is measured in rad/s².",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 46: The relation between tangential acceleration and angular acceleration is:",
+    "options": [
+      "aₜ = rα",
+      "aₜ = α/r",
+      "aₜ = r/α",
+      "aₜ = rω"
+    ],
+    "correctAnswer": "aₜ = rα",
+    "explanation": "Tangential acceleration equals radius times angular acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 47: Torque is the turning effect of:",
+    "options": [
+      "Force",
+      "Mass",
+      "Temperature",
+      "Speed only"
+    ],
+    "correctAnswer": "Force",
+    "explanation": "Torque measures the rotational effect of a force.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 48: The SI unit of torque is:",
+    "options": [
+      "N m",
+      "N",
+      "kg m⁻³",
+      "m s⁻¹"
+    ],
+    "correctAnswer": "N m",
+    "explanation": "Torque = force × moment arm, so unit is newton metre.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 49: Torque τ is given by:",
+    "options": [
+      "τ = rF sinθ",
+      "τ = r/F",
+      "τ = F/r",
+      "τ = mv²/r"
+    ],
+    "correctAnswer": "τ = rF sinθ",
+    "explanation": "The magnitude of torque is rF sinθ.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 50: Torque is maximum when angle between r and F is:",
+    "options": [
+      "90°",
+      "0°",
+      "180°",
+      "30°"
+    ],
+    "correctAnswer": "90°",
+    "explanation": "sinθ is maximum at 90°.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 51: Torque is zero when force passes through:",
+    "options": [
+      "Axis of rotation",
+      "Outer edge",
+      "Centre of mass only always",
+      "A tangent"
+    ],
+    "correctAnswer": "Axis of rotation",
+    "explanation": "Moment arm becomes zero when line of action passes through axis.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 52: Moment of inertia depends on:",
+    "options": [
+      "Mass distribution about axis",
+      "Colour of object",
+      "Temperature only",
+      "Sound level"
+    ],
+    "correctAnswer": "Mass distribution about axis",
+    "explanation": "Moment of inertia depends on mass and how far it is from the axis.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 53: The SI unit of moment of inertia is:",
+    "options": [
+      "kg m²",
+      "kg m",
+      "N m",
+      "kg m s⁻¹"
+    ],
+    "correctAnswer": "kg m²",
+    "explanation": "Moment of inertia has unit mass × length².",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 54: For a point mass, moment of inertia is:",
+    "options": [
+      "I = mr²",
+      "I = mv²",
+      "I = m/r²",
+      "I = Fr"
+    ],
+    "correctAnswer": "I = mr²",
+    "explanation": "For a point mass at distance r, I = mr².",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 55: Rotational kinetic energy is:",
+    "options": [
+      "K = 1/2 Iω²",
+      "K = Iω",
+      "K = 1/2 mv",
+      "K = Fr"
+    ],
+    "correctAnswer": "K = 1/2 Iω²",
+    "explanation": "Rotational kinetic energy is 1/2 Iω².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 56: Angular momentum is given by:",
+    "options": [
+      "L = Iω",
+      "L = F/r",
+      "L = mr",
+      "L = v/r"
+    ],
+    "correctAnswer": "L = Iω",
+    "explanation": "For a rotating rigid body, angular momentum is Iω.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 57: The SI unit of angular momentum is:",
+    "options": [
+      "kg m² s⁻¹",
+      "kg m s⁻¹",
+      "N m",
+      "rad s⁻¹"
+    ],
+    "correctAnswer": "kg m² s⁻¹",
+    "explanation": "L = Iω, so unit is kg m²/s.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 58: If no external torque acts, angular momentum:",
+    "options": [
+      "Remains conserved",
+      "Becomes zero",
+      "Always increases",
+      "Always decreases"
+    ],
+    "correctAnswer": "Remains conserved",
+    "explanation": "Angular momentum is conserved when net external torque is zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 59: A skater spins faster when arms are pulled inward because:",
+    "options": [
+      "Moment of inertia decreases",
+      "Mass increases",
+      "Gravity becomes zero",
+      "Angular momentum disappears"
+    ],
+    "correctAnswer": "Moment of inertia decreases",
+    "explanation": "With angular momentum conserved, decreasing I increases ω.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 60: In circular motion, centripetal force does no work because:",
+    "options": [
+      "It is perpendicular to displacement",
+      "It is parallel to velocity",
+      "It is zero",
+      "It increases mass"
+    ],
+    "correctAnswer": "It is perpendicular to displacement",
+    "explanation": "Centripetal force is radial while displacement is tangential.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "work in circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 61: Work done by centripetal force in uniform circular motion is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Negative always",
+      "Equal to mv²"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "The force is perpendicular to instantaneous displacement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "work in circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 62: The acceleration of a body in uniform circular motion is non-zero because:",
+    "options": [
+      "Velocity direction changes",
+      "Speed changes only",
+      "Mass changes",
+      "Radius is zero"
+    ],
+    "correctAnswer": "Velocity direction changes",
+    "explanation": "Velocity changes even if speed is constant.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 63: If angular speed is doubled and radius is constant, centripetal acceleration becomes:",
+    "options": [
+      "Four times",
+      "Double",
+      "Half",
+      "Unchanged"
+    ],
+    "correctAnswer": "Four times",
+    "explanation": "a = rω², so doubling ω makes acceleration four times.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 64: If radius is doubled and angular speed is constant, centripetal acceleration becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "a = rω², so acceleration is directly proportional to r.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 65: If mass is doubled at same speed and radius, centripetal force becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "F = mv²/r, so force is directly proportional to mass.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 66: The angle in radians is related to arc length s by:",
+    "options": [
+      "θ = s/r",
+      "θ = sr",
+      "θ = r/s",
+      "θ = s²/r"
+    ],
+    "correctAnswer": "θ = s/r",
+    "explanation": "Angular displacement in radians is arc length divided by radius.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 67: Arc length s is given by:",
+    "options": [
+      "s = rθ",
+      "s = θ/r",
+      "s = r/θ",
+      "s = r²θ²"
+    ],
+    "correctAnswer": "s = rθ",
+    "explanation": "From θ = s/r, s = rθ.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 68: If arc length is 4 m and radius is 2 m, angular displacement is:",
+    "options": [
+      "2 rad",
+      "8 rad",
+      "0.5 rad",
+      "6 rad"
+    ],
+    "correctAnswer": "2 rad",
+    "explanation": "θ = s/r = 4/2 = 2 rad.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 69: If θ = 3 rad and r = 2 m, arc length is:",
+    "options": [
+      "6 m",
+      "1.5 m",
+      "5 m",
+      "3 m"
+    ],
+    "correctAnswer": "6 m",
+    "explanation": "s = rθ = 2×3 = 6 m.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "arc length"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 70: One complete revolution is equal to:",
+    "options": [
+      "2π radians",
+      "π radians",
+      "π/2 radians",
+      "1 radian"
+    ],
+    "correctAnswer": "2π radians",
+    "explanation": "A full circle contains 2π radians.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 71: Half revolution is equal to:",
+    "options": [
+      "π radians",
+      "2π radians",
+      "π/2 radians",
+      "4π radians"
+    ],
+    "correctAnswer": "π radians",
+    "explanation": "Half of 2π radians is π radians.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 72: The number of radians in 90° is:",
+    "options": [
+      "π/2",
+      "π",
+      "2π",
+      "π/4"
+    ],
+    "correctAnswer": "π/2",
+    "explanation": "90° is one-fourth revolution, so it is π/2 radians.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 73: A body moving in a circle with constant angular velocity has:",
+    "options": [
+      "Uniform circular motion",
+      "Linear motion",
+      "Simple harmonic motion only",
+      "Random motion"
+    ],
+    "correctAnswer": "Uniform circular motion",
+    "explanation": "Constant angular velocity implies uniform circular motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 74: The radial acceleration is another name for:",
+    "options": [
+      "Centripetal acceleration",
+      "Tangential acceleration",
+      "Angular acceleration",
+      "Gravitational potential"
+    ],
+    "correctAnswer": "Centripetal acceleration",
+    "explanation": "Radial acceleration points toward the centre.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 75: Tangential acceleration changes:",
+    "options": [
+      "Magnitude of linear velocity",
+      "Mass",
+      "Radius only",
+      "Centre of circle"
+    ],
+    "correctAnswer": "Magnitude of linear velocity",
+    "explanation": "Tangential acceleration changes speed along the tangent.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "tangential acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 76: Centripetal acceleration changes:",
+    "options": [
+      "Direction of velocity",
+      "Mass",
+      "Radius only",
+      "Time period only"
+    ],
+    "correctAnswer": "Direction of velocity",
+    "explanation": "Centripetal acceleration changes velocity direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 77: A conical pendulum moves in:",
+    "options": [
+      "Horizontal circle",
+      "Vertical straight line",
+      "Parabolic path",
+      "Random path"
+    ],
+    "correctAnswer": "Horizontal circle",
+    "explanation": "The bob of a conical pendulum describes a horizontal circle.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "conical pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 78: In a conical pendulum, horizontal component of tension provides:",
+    "options": [
+      "Centripetal force",
+      "Weight",
+      "Friction",
+      "Air drag only"
+    ],
+    "correctAnswer": "Centripetal force",
+    "explanation": "The inward horizontal component of tension supplies centripetal force.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "conical pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 79: In a vertical circle, speed of a body is maximum at:",
+    "options": [
+      "Lowest point",
+      "Highest point",
+      "Left side only",
+      "Right side only"
+    ],
+    "correctAnswer": "Lowest point",
+    "explanation": "Gravitational potential energy is minimum at the lowest point, so speed is maximum.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 80: In a vertical circle, speed of a body is minimum at:",
+    "options": [
+      "Highest point",
+      "Lowest point",
+      "Centre",
+      "Everywhere same always"
+    ],
+    "correctAnswer": "Highest point",
+    "explanation": "Potential energy is maximum at the top, so speed is minimum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 81: The minimum speed at the highest point of vertical circle is:",
+    "options": [
+      "√(rg)",
+      "√(2rg)",
+      "rg",
+      "g/r"
+    ],
+    "correctAnswer": "√(rg)",
+    "explanation": "At top, for just complete circle, v²/r = g, so v = √rg.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 82: The minimum speed at lowest point for a vertical circle is:",
+    "options": [
+      "√(5rg)",
+      "√(rg)",
+      "√(2rg)",
+      "rg"
+    ],
+    "correctAnswer": "√(5rg)",
+    "explanation": "For just completing a vertical circle, bottom speed is √(5rg).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 83: For a body in circular motion, if resultant force is zero, it will:",
+    "options": [
+      "Move along tangent",
+      "Keep moving in same circle",
+      "Move to centre",
+      "Stop immediately"
+    ],
+    "correctAnswer": "Move along tangent",
+    "explanation": "Without centripetal force, inertia carries it tangentially.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 84: A force directed toward the centre is called:",
+    "options": [
+      "Centripetal force",
+      "Centrifugal force",
+      "Tangential force",
+      "Frictionless force"
+    ],
+    "correctAnswer": "Centripetal force",
+    "explanation": "Centripetal means centre-seeking.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 85: The apparent outward force in a rotating frame is called:",
+    "options": [
+      "Centrifugal force",
+      "Centripetal force",
+      "Gravitational force",
+      "Magnetic force"
+    ],
+    "correctAnswer": "Centrifugal force",
+    "explanation": "Centrifugal force is apparent in a non-inertial rotating frame.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centrifugal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 86: Centrifugal force is considered:",
+    "options": [
+      "Pseudo force",
+      "Real interaction force always",
+      "Gravitational force only",
+      "Tension force only"
+    ],
+    "correctAnswer": "Pseudo force",
+    "explanation": "It appears in rotating non-inertial frames.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centrifugal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 87: In an inertial frame, the force needed for circular motion is:",
+    "options": [
+      "Centripetal force",
+      "Centrifugal force",
+      "No force",
+      "Only pseudo force"
+    ],
+    "correctAnswer": "Centripetal force",
+    "explanation": "Circular motion requires a real inward force in an inertial frame.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 88: The dimension of angular velocity is:",
+    "options": [
+      "T⁻¹",
+      "LT⁻¹",
+      "LT⁻²",
+      "MLT⁻²"
+    ],
+    "correctAnswer": "T⁻¹",
+    "explanation": "Radian is dimensionless, so angular velocity has dimension T⁻¹.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 89: The dimension of centripetal acceleration is:",
+    "options": [
+      "LT⁻²",
+      "LT⁻¹",
+      "T⁻¹",
+      "MLT⁻²"
+    ],
+    "correctAnswer": "LT⁻²",
+    "explanation": "Acceleration has dimension length per time squared.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 90: The dimension of torque is:",
+    "options": [
+      "ML²T⁻²",
+      "MLT⁻²",
+      "ML²T⁻¹",
+      "LT⁻²"
+    ],
+    "correctAnswer": "ML²T⁻²",
+    "explanation": "Torque = force × distance = MLT⁻² × L.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 91: The dimension of angular momentum is:",
+    "options": [
+      "ML²T⁻¹",
+      "MLT⁻¹",
+      "ML²T⁻²",
+      "T⁻¹"
+    ],
+    "correctAnswer": "ML²T⁻¹",
+    "explanation": "Angular momentum = Iω = ML² × T⁻¹.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 92: If angular velocity is constant, angular acceleration is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Equal to radius",
+      "Equal to speed"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "No change in angular velocity means angular acceleration is zero.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 93: If angular velocity changes uniformly, angular acceleration is:",
+    "options": [
+      "Constant",
+      "Zero always",
+      "Infinite",
+      "Equal to radius"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Uniform change in angular velocity means constant angular acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 94: Rotational analogue of mass is:",
+    "options": [
+      "Moment of inertia",
+      "Torque",
+      "Angular velocity",
+      "Frequency"
+    ],
+    "correctAnswer": "Moment of inertia",
+    "explanation": "Moment of inertia measures resistance to rotational acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 95: Rotational analogue of force is:",
+    "options": [
+      "Torque",
+      "Moment of inertia",
+      "Angular momentum",
+      "Frequency"
+    ],
+    "correctAnswer": "Torque",
+    "explanation": "Torque produces angular acceleration like force produces linear acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 96: Rotational analogue of linear momentum is:",
+    "options": [
+      "Angular momentum",
+      "Torque",
+      "Moment of inertia",
+      "Angular displacement"
+    ],
+    "correctAnswer": "Angular momentum",
+    "explanation": "Angular momentum is the rotational counterpart of linear momentum.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 97: The equation τ = Iα resembles:",
+    "options": [
+      "F = ma",
+      "v = rω",
+      "s = rθ",
+      "p = mv"
+    ],
+    "correctAnswer": "F = ma",
+    "explanation": "Torque is rotational analogue of force and α of acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational dynamics"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 98: A flywheel stores energy mainly as:",
+    "options": [
+      "Rotational kinetic energy",
+      "Chemical energy",
+      "Sound energy",
+      "Electrical charge only"
+    ],
+    "correctAnswer": "Rotational kinetic energy",
+    "explanation": "A spinning flywheel stores rotational kinetic energy.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 99: A small mass far from the axis contributes more to:",
+    "options": [
+      "Moment of inertia",
+      "Temperature",
+      "Frequency only",
+      "Linear density only"
+    ],
+    "correctAnswer": "Moment of inertia",
+    "explanation": "I = mr², so greater distance increases contribution.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "mcq",
+    "question": "MCQ 100: The greater the moment of inertia, the harder it is to:",
+    "options": [
+      "Change rotational motion",
+      "Change colour",
+      "Measure mass",
+      "Find radius"
+    ],
+    "correctAnswer": "Change rotational motion",
+    "explanation": "Moment of inertia is resistance to change in rotational motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 1: Define circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 2: Define angular displacement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 3: Define one radian.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 4: Write the relation between arc length and angular displacement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 5: Define angular velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 6: Write the SI unit of angular velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 7: Write the relation between linear velocity and angular velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "linear velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 8: Define time period in circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 9: Define frequency in circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 10: Write the relation between frequency and time period.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 11: Write the relation between angular velocity and frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 12: Define uniform circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 13: Why is uniform circular motion accelerated motion?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 14: Define centripetal acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 15: Write the formula for centripetal acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 16: Define centripetal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 17: Write the formula for centripetal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 18: Why does a stone move tangentially when its string breaks?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 19: What provides centripetal force to a car moving on a flat circular road?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 20: Why are roads banked at turns?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 21: Write the formula for ideal banking of roads.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 22: What is artificial gravity?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "artificial gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 23: How is artificial gravity produced in a rotating space station?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "artificial gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 24: Why does a satellite remain in orbit?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "satellites"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 25: What is a geostationary satellite?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 26: Write two conditions for a geostationary satellite.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 27: Define angular acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 28: Write the SI unit of angular acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 29: Write the relation between tangential acceleration and angular acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 30: Define torque.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 31: Write the SI unit of torque.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 32: When is torque maximum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 33: When is torque zero?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 34: Define moment of inertia.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 35: Write the SI unit of moment of inertia.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 36: Write moment of inertia of a point mass.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 37: Define rotational kinetic energy.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 38: Write the formula for rotational kinetic energy.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 39: Define angular momentum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 40: Write the formula for angular momentum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 41: State the law of conservation of angular momentum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 42: Why does a skater spin faster when arms are pulled inward?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 43: Why does centripetal force do no work?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "work in circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 44: Differentiate between centripetal and centrifugal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 45: What is centrifugal force?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centrifugal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 46: Why is centrifugal force called a pseudo force?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centrifugal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 47: What is the minimum speed at the top of a vertical circle?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 48: Where is speed maximum in a vertical circle?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 49: Find distance and displacement after one complete circular revolution.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "distance displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "short",
+    "question": "Short Question 50: Give two daily life examples of circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 1: Explain circular motion and derive the relation s = rθ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "radian"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 2: Define angular velocity and derive the relation v = rω.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 3: Explain uniform circular motion and prove that it is accelerated motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "uniform circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 4: Derive the formula for centripetal acceleration a = v²/r.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 5: Derive the formula for centripetal force F = mv²/r.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 6: Explain the motion of a stone tied to a string and discuss what happens when the string breaks.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "centripetal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 7: Explain banking of roads and derive tanθ = v²/rg for ideal banking.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "banking"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 8: Explain artificial gravity in a rotating space station.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "artificial gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 9: Explain satellite motion and show how gravity provides centripetal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "satellites"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 10: Write a detailed note on geostationary satellites and their uses.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "geostationary satellite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 11: Explain angular acceleration and tangential acceleration with formulas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 12: Define torque and discuss its dependence on force, distance and angle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 13: Explain moment of inertia and factors on which it depends.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "moment of inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 14: Derive rotational kinetic energy K = 1/2 Iω².",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 15: Explain angular momentum and state its conservation law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 16: Explain why a skater spins faster by folding arms inward.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "angular momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 17: Compare linear and rotational quantities in tabular form.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "rotational dynamics"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 18: Explain vertical circular motion and discuss speeds at top and bottom.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "vertical circle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 19: Solve numerical problems involving centripetal force, acceleration, period and frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "numericals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Circular Motion",
+    "chapterId": "Circular Motion",
+    "type": "long",
+    "question": "Long Question 20: Discuss applications of circular motion in daily life, vehicles, satellites and rotating machines.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Circular Motion",
+      "applications"
+    ]
+  }
+]

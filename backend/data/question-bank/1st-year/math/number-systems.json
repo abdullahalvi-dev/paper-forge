@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 1: Which set represents the natural numbers?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "natural numbers"
+    ],
+    "options": [
+      "{0, 1, 2, 3, ...}",
+      "{1, 2, 3, 4, ...}",
+      "{..., -2, -1, 0, 1, 2, ...}",
+      "All fractions"
+    ],
+    "correctAnswer": "{1, 2, 3, 4, ...}",
+    "explanation": "Natural numbers are the counting numbers starting from 1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 2: Which number is an integer but not a whole number?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "integers"
+    ],
+    "options": [
+      "0",
+      "7",
+      "-5",
+      "3/2"
+    ],
+    "correctAnswer": "-5",
+    "explanation": "Integers include negative whole numbers, but whole numbers do not include negative numbers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 3: Which of the following is a rational number?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "rational numbers"
+    ],
+    "options": [
+      "√2",
+      "π",
+      "0.75",
+      "√3"
+    ],
+    "correctAnswer": "0.75",
+    "explanation": "0.75 = 3/4, so it can be written as p/q."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 4: Which of the following is irrational?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "irrational numbers"
+    ],
+    "options": [
+      "0.333...",
+      "√16",
+      "22/7",
+      "√5"
+    ],
+    "correctAnswer": "√5",
+    "explanation": "√5 cannot be expressed as a ratio of two integers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 5: Every rational number can be written in the form:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "rational numbers"
+    ],
+    "options": [
+      "p + q",
+      "p/q where q ≠ 0",
+      "pq only",
+      "√p"
+    ],
+    "correctAnswer": "p/q where q ≠ 0",
+    "explanation": "A rational number is any number expressible as p/q, where p and q are integers and q is non-zero."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 6: The set of real numbers contains:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "real numbers"
+    ],
+    "options": [
+      "only rational numbers",
+      "only irrational numbers",
+      "both rational and irrational numbers",
+      "only natural numbers"
+    ],
+    "correctAnswer": "both rational and irrational numbers",
+    "explanation": "Real numbers are made up of rational and irrational numbers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 7: The decimal expansion of a rational number is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "decimal expansion"
+    ],
+    "options": [
+      "always non-terminating non-recurring",
+      "terminating or recurring",
+      "always irrational",
+      "never repeating"
+    ],
+    "correctAnswer": "terminating or recurring",
+    "explanation": "Rational numbers have terminating or repeating decimal expansions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 8: The decimal expansion of an irrational number is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "irrational numbers"
+    ],
+    "options": [
+      "terminating",
+      "recurring",
+      "non-terminating and non-recurring",
+      "always zero"
+    ],
+    "correctAnswer": "non-terminating and non-recurring",
+    "explanation": "Irrational numbers have decimals that neither terminate nor repeat."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 9: What is the additive identity in real numbers?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "identity"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "10"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Adding 0 to any real number leaves it unchanged."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 10: What is the multiplicative identity in real numbers?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "identity"
+    ],
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Multiplying any real number by 1 leaves it unchanged."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 11: What is the additive inverse of 7?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "inverse"
+    ],
+    "options": [
+      "7",
+      "-7",
+      "1/7",
+      "0"
+    ],
+    "correctAnswer": "-7",
+    "explanation": "The additive inverse of a number a is -a because a + (-a) = 0."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 12: What is the multiplicative inverse of 5?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "inverse"
+    ],
+    "options": [
+      "-5",
+      "1/5",
+      "0",
+      "5"
+    ],
+    "correctAnswer": "1/5",
+    "explanation": "The multiplicative inverse of a non-zero number a is 1/a."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 13: Which property is shown by a + b = b + a?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "properties"
+    ],
+    "options": [
+      "Associative property",
+      "Commutative property",
+      "Distributive property",
+      "Closure property"
+    ],
+    "correctAnswer": "Commutative property",
+    "explanation": "The order of addition is changed, so it is the commutative property."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 14: Which property is shown by a(b + c) = ab + ac?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "properties"
+    ],
+    "options": [
+      "Commutative property",
+      "Associative property",
+      "Distributive property",
+      "Identity property"
+    ],
+    "correctAnswer": "Distributive property",
+    "explanation": "Multiplication is distributed over addition."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 15: If a and b are rational numbers, then a + b is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "closure"
+    ],
+    "options": [
+      "always irrational",
+      "always rational",
+      "sometimes imaginary",
+      "never real"
+    ],
+    "correctAnswer": "always rational",
+    "explanation": "Rational numbers are closed under addition."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 16: If a and b are rational numbers and b ≠ 0, then a/b is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "closure"
+    ],
+    "options": [
+      "always irrational",
+      "always rational",
+      "not real",
+      "always zero"
+    ],
+    "correctAnswer": "always rational",
+    "explanation": "Rational numbers are closed under division by a non-zero rational number."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 17: Which one is not a real number?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "real numbers"
+    ],
+    "options": [
+      "√4",
+      "-3",
+      "2/5",
+      "√-9"
+    ],
+    "correctAnswer": "√-9",
+    "explanation": "The square root of a negative number is not real; it is imaginary/complex."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 18: The number i is defined as:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "√1",
+      "√-1",
+      "-1",
+      "1/0"
+    ],
+    "correctAnswer": "√-1",
+    "explanation": "The imaginary unit i is defined by i = √-1, so i² = -1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 19: What is i² equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "0"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "By definition, i = √-1, therefore i² = -1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 20: What is i³ equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "i",
+      "-i",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "i³ = i² × i = -1 × i = -i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 21: What is i⁴ equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "i",
+      "-i",
+      "-1",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "explanation": "i⁴ = (i²)² = (-1)² = 1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 22: A complex number is generally written as:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "a/b",
+      "a + bi",
+      "√a",
+      "ab"
+    ],
+    "correctAnswer": "a + bi",
+    "explanation": "The standard form of a complex number is a + bi."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 23: In z = 3 + 4i, the real part is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "3",
+      "4",
+      "i",
+      "7"
+    ],
+    "correctAnswer": "3",
+    "explanation": "In a + bi, a is the real part."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 24: In z = 3 + 4i, the imaginary part is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "3",
+      "4",
+      "4i",
+      "7"
+    ],
+    "correctAnswer": "4",
+    "explanation": "In a + bi, b is called the imaginary part."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 25: The conjugate of 5 + 2i is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "5 - 2i",
+      "-5 + 2i",
+      "-5 - 2i",
+      "2 + 5i"
+    ],
+    "correctAnswer": "5 - 2i",
+    "explanation": "The conjugate of a + bi is a - bi."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 26: The conjugate of -3 - 7i is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "-3 + 7i",
+      "3 - 7i",
+      "3 + 7i",
+      "-7 - 3i"
+    ],
+    "correctAnswer": "-3 + 7i",
+    "explanation": "Only the sign of the imaginary part changes in the conjugate."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 27: The modulus of z = 3 + 4i is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "|z| = √(3² + 4²) = √25 = 5."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 28: The modulus of z = 5 - 12i is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "7",
+      "13",
+      "17",
+      "12"
+    ],
+    "correctAnswer": "13",
+    "explanation": "|z| = √(5² + (-12)²) = √169 = 13."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 29: If z = a + bi, then |z| equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "a + b",
+      "a² + b²",
+      "√(a² + b²)",
+      "a - b"
+    ],
+    "correctAnswer": "√(a² + b²)",
+    "explanation": "The modulus of a complex number a + bi is √(a² + b²)."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 30: The product of a complex number and its conjugate is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "always imaginary",
+      "a² + b²",
+      "a + b",
+      "a - b"
+    ],
+    "correctAnswer": "a² + b²",
+    "explanation": "(a + bi)(a - bi) = a² + b²."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 31: What is (2 + 3i) + (4 - i)?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex addition"
+    ],
+    "options": [
+      "6 + 2i",
+      "6 + 4i",
+      "2 + 2i",
+      "8 + 3i"
+    ],
+    "correctAnswer": "6 + 2i",
+    "explanation": "Add real parts and imaginary parts separately: 2+4=6 and 3i-i=2i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 32: What is (5 - 2i) - (3 + i)?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex subtraction"
+    ],
+    "options": [
+      "2 - 3i",
+      "2 - i",
+      "8 - i",
+      "2 + 3i"
+    ],
+    "correctAnswer": "2 - 3i",
+    "explanation": "Subtract real and imaginary parts: 5-3=2 and -2i-i=-3i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 33: What is (2 + i)(3 + i)?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex multiplication"
+    ],
+    "options": [
+      "5 + 5i",
+      "6 + 2i",
+      "5 + 5i",
+      "6 + i"
+    ],
+    "correctAnswer": "5 + 5i",
+    "explanation": "(2+i)(3+i)=6+2i+3i+i²=6+5i-1=5+5i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 34: What is (1 + i)²?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex multiplication"
+    ],
+    "options": [
+      "2i",
+      "1 + 2i",
+      "-2i",
+      "0"
+    ],
+    "correctAnswer": "2i",
+    "explanation": "(1+i)² = 1 + 2i + i² = 2i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 35: Which is the correct value of 1/i?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "i",
+      "-i",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "1/i multiplied by i/i gives i/i² = i/(-1) = -i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 36: Which of the following is purely imaginary?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "3 + 2i",
+      "5",
+      "7i",
+      "-4"
+    ],
+    "correctAnswer": "7i",
+    "explanation": "A purely imaginary number has zero real part and non-zero imaginary part."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 37: Which of the following is purely real?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "complex numbers"
+    ],
+    "options": [
+      "2 + i",
+      "5i",
+      "-8",
+      "3 - 4i"
+    ],
+    "correctAnswer": "-8",
+    "explanation": "A purely real number has no imaginary part."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 38: The absolute value of -9 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "absolute value"
+    ],
+    "options": [
+      "-9",
+      "9",
+      "0",
+      "1/9"
+    ],
+    "correctAnswer": "9",
+    "explanation": "Absolute value gives distance from zero, so |-9| = 9."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 39: The value of |5 - 8| is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "absolute value"
+    ],
+    "options": [
+      "3",
+      "-3",
+      "13",
+      "0"
+    ],
+    "correctAnswer": "3",
+    "explanation": "|5-8|=|-3|=3."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 40: On the number line, absolute value represents:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "absolute value"
+    ],
+    "options": [
+      "direction only",
+      "distance from zero",
+      "negative sign",
+      "fraction only"
+    ],
+    "correctAnswer": "distance from zero",
+    "explanation": "Absolute value is the non-negative distance of a number from zero."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 41: Which inequality is true?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "inequalities"
+    ],
+    "options": [
+      "-5 > -2",
+      "-1 < -4",
+      "0 > -3",
+      "-7 > 2"
+    ],
+    "correctAnswer": "0 > -3",
+    "explanation": "Zero is greater than any negative number."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 42: If x > 3, then x may be:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "inequalities"
+    ],
+    "options": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "correctAnswer": "4",
+    "explanation": "4 is greater than 3."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 43: If x ≤ -2, then x may be:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "inequalities"
+    ],
+    "options": [
+      "0",
+      "-1",
+      "-2",
+      "3"
+    ],
+    "correctAnswer": "-2",
+    "explanation": "The symbol ≤ means less than or equal to."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 44: Which interval represents x > 2?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "intervals"
+    ],
+    "options": [
+      "(2, ∞)",
+      "[2, ∞)",
+      "(-∞, 2)",
+      "(-∞, 2]"
+    ],
+    "correctAnswer": "(2, ∞)",
+    "explanation": "For x > 2, 2 is not included, so the interval is (2, ∞)."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 45: Which interval represents x ≥ 5?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "intervals"
+    ],
+    "options": [
+      "(5, ∞)",
+      "[5, ∞)",
+      "(-∞, 5)",
+      "(-∞, 5]"
+    ],
+    "correctAnswer": "[5, ∞)",
+    "explanation": "For x ≥ 5, 5 is included, so square bracket is used."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 46: Which interval represents -2 < x < 4?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "intervals"
+    ],
+    "options": [
+      "[-2, 4]",
+      "(-2, 4)",
+      "(-∞, 4)",
+      "(-2, ∞)"
+    ],
+    "correctAnswer": "(-2, 4)",
+    "explanation": "Both endpoints are not included because the inequalities are strict."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 47: Which of these is a subset of real numbers?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "sets"
+    ],
+    "options": [
+      "Complex numbers only",
+      "Rational numbers",
+      "Non-real imaginary numbers",
+      "None"
+    ],
+    "correctAnswer": "Rational numbers",
+    "explanation": "Rational numbers are contained in real numbers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement is true?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "number systems"
+    ],
+    "options": [
+      "Every real number is rational",
+      "Every rational number is real",
+      "Every irrational number is complex only",
+      "No integer is rational"
+    ],
+    "correctAnswer": "Every rational number is real",
+    "explanation": "All rational numbers are part of the real number system."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 49: Which statement is false?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "number systems"
+    ],
+    "options": [
+      "Every integer is rational",
+      "Every natural number is whole",
+      "Every irrational number is rational",
+      "Every whole number is integer"
+    ],
+    "correctAnswer": "Every irrational number is rational",
+    "explanation": "Irrational and rational numbers are separate subsets of real numbers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 50: Zero is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "whole numbers"
+    ],
+    "options": [
+      "natural number in all systems",
+      "whole number",
+      "irrational number",
+      "not an integer"
+    ],
+    "correctAnswer": "whole number",
+    "explanation": "Whole numbers include 0, 1, 2, 3, and so on."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 51: Which number is not rational?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "irrational numbers"
+    ],
+    "options": [
+      "-4",
+      "0",
+      "2/3",
+      "π"
+    ],
+    "correctAnswer": "π",
+    "explanation": "π is irrational because its decimal expansion is non-terminating and non-recurring."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 52: What is the modulus of 1 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "1i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 53: What is i^8 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 54: What is i^13 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 55: What is i^18 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 56: What is i^23 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 57: What is the conjugate of 6 + 7i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "6 - 7i",
+      "-6 + 7i",
+      "7 + 6i",
+      "6 + 7i"
+    ],
+    "correctAnswer": "6 - 7i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 58: What is the modulus of 7 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "7",
+      "-7",
+      "0",
+      "7i"
+    ],
+    "correctAnswer": "7",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 59: What is i^32 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 60: What is i^37 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 61: What is i^42 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 62: What is i^47 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 63: What is the conjugate of 12 + 13i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "12 - 13i",
+      "-12 + 13i",
+      "13 + 12i",
+      "12 + 13i"
+    ],
+    "correctAnswer": "12 - 13i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 64: What is the modulus of 13 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "13",
+      "-13",
+      "0",
+      "13i"
+    ],
+    "correctAnswer": "13",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 65: What is i^56 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 66: What is i^61 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 67: What is i^66 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 68: What is i^71 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 69: What is the conjugate of 18 + 19i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "18 - 19i",
+      "-18 + 19i",
+      "19 + 18i",
+      "18 + 19i"
+    ],
+    "correctAnswer": "18 - 19i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 70: What is the modulus of 19 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "19",
+      "-19",
+      "0",
+      "19i"
+    ],
+    "correctAnswer": "19",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 71: What is i^80 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 72: What is i^85 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 73: What is i^90 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 74: What is i^95 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 75: What is the conjugate of 24 + 25i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "24 - 25i",
+      "-24 + 25i",
+      "25 + 24i",
+      "24 + 25i"
+    ],
+    "correctAnswer": "24 - 25i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 76: What is the modulus of 25 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "25",
+      "-25",
+      "0",
+      "25i"
+    ],
+    "correctAnswer": "25",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 77: What is i^104 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 78: What is i^109 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 79: What is i^114 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 80: What is i^119 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 81: What is the conjugate of 30 + 31i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "30 - 31i",
+      "-30 + 31i",
+      "31 + 30i",
+      "30 + 31i"
+    ],
+    "correctAnswer": "30 - 31i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 82: What is the modulus of 31 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "31",
+      "-31",
+      "0",
+      "31i"
+    ],
+    "correctAnswer": "31",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 83: What is i^128 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 84: What is i^133 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 85: What is i^138 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 86: What is i^143 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 87: What is the conjugate of 36 + 37i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "36 - 37i",
+      "-36 + 37i",
+      "37 + 36i",
+      "36 + 37i"
+    ],
+    "correctAnswer": "36 - 37i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 88: What is the modulus of 37 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "37",
+      "-37",
+      "0",
+      "37i"
+    ],
+    "correctAnswer": "37",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 89: What is i^152 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 90: What is i^157 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 91: What is i^162 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 92: What is i^167 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 93: What is the conjugate of 42 + 43i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "42 - 43i",
+      "-42 + 43i",
+      "43 + 42i",
+      "42 + 43i"
+    ],
+    "correctAnswer": "42 - 43i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 94: What is the modulus of 43 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "43",
+      "-43",
+      "0",
+      "43i"
+    ],
+    "correctAnswer": "43",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 95: What is i^176 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Powers of i repeat every 4, and i^(4k)=1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 96: What is i^181 equal to?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+1)=i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 97: What is i^186 equal to?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Powers of i repeat every 4, and i^(4k+2)=-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 98: What is i^191 equal to?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "powers of i"
+    ],
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": "-i",
+    "explanation": "Powers of i repeat every 4, and i^(4k+3)=-i."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 99: What is the conjugate of 48 + 49i?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "conjugate"
+    ],
+    "options": [
+      "48 - 49i",
+      "-48 + 49i",
+      "49 + 48i",
+      "48 + 49i"
+    ],
+    "correctAnswer": "48 - 49i",
+    "explanation": "The conjugate of a + bi is a - bi, so the sign of the imaginary part changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "mcq",
+    "question": "MCQ 100: What is the modulus of 49 + 0i?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "modulus"
+    ],
+    "options": [
+      "49",
+      "-49",
+      "0",
+      "49i"
+    ],
+    "correctAnswer": "49",
+    "explanation": "For a real number a, |a + 0i| = |a|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 1: Define natural numbers with one example.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 2: Define whole numbers with one example.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 3: Define integers with two examples.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 4: What is a rational number?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 5: What is an irrational number?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 6: Differentiate between rational and irrational numbers.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 7: What is meant by a real number?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 8: Write the standard form of a complex number.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 9: Define imaginary unit i.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 10: What is the value of i²?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 11: Find the conjugate of 4 + 7i.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 12: Find the modulus of 6 + 8i.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 13: What is meant by the real part of a complex number?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 14: What is meant by the imaginary part of a complex number?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 15: Define absolute value of a real number.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 16: Represent |x| in words.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 17: Write the additive identity for real numbers.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 18: Write the multiplicative identity for real numbers.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 19: What is the additive inverse of -11?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 20: What is the multiplicative inverse of 9?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 21: State the commutative property of addition.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 22: State the associative property of multiplication.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 23: State the distributive property of multiplication over addition.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 24: Why is division by zero undefined?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 25: Write one terminating decimal and one recurring decimal.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 26: How can you identify an irrational decimal?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 27: Is every integer a rational number? Give reason.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 28: Is every rational number a real number? Give reason.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 29: Is every real number a complex number? Give reason.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 30: What is the conjugate of a - bi?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 31: Why is z multiplied by its conjugate useful?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 32: Find (3 + 2i) + (5 - i).",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 33: Find (7 - 4i) - (2 + 3i).",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 34: Find (1 + 2i)(2 + i).",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 35: Simplify 1/i.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 36: Write the interval notation for x > 4.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 37: Write the interval notation for x ≤ -3.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 38: Write the interval notation for -1 < x < 6.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 39: What does an open interval mean?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 40: What does a closed interval mean?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 41: Explain the number line representation of real numbers.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 42: Define modulus of a complex number.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 43: What is the formula for |a + bi|?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 44: Find |−15|.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 45: Find |3 − 10|.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 46: Name the set that contains rational and irrational numbers.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 47: Give two examples of irrational numbers.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 48: Give two examples of rational numbers.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 49: What is a purely imaginary number?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "short",
+    "question": "Short Question 50: What is a purely real complex number?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 1: Explain the classification of number systems from natural numbers to complex numbers with suitable examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 2: Describe rational and irrational numbers in detail. Also explain their decimal expansions.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 3: Explain real numbers and their representation on the number line.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 4: Define complex numbers. Explain real part, imaginary part, conjugate, and modulus with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 5: Prove that the product of a complex number and its conjugate is a real number.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 6: Solve and explain operations on complex numbers: addition, subtraction, multiplication, and division.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 7: Explain the powers of i and show the cyclic pattern of i, i², i³, and i⁴.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 8: Describe absolute value of real numbers and solve examples involving absolute value.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 9: Explain interval notation and represent different types of intervals on the number line.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 10: Discuss the properties of real numbers: closure, commutative, associative, distributive, identity, and inverse properties.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 11: Compare natural numbers, whole numbers, integers, rational numbers, irrational numbers, and real numbers.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 12: Explain why every rational number is real but every real number is not rational.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 13: Describe how complex numbers extend the real number system.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 14: Explain conjugate of a complex number and its use in division of complex numbers.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 15: Find and explain the modulus and conjugate of several complex numbers using formula.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 16: Solve examples of inequalities and write their interval notation.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 17: Explain the difference between open, closed, half-open, bounded, and unbounded intervals.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 18: Describe the relation between real numbers and complex numbers with set notation.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 19: Explain the importance of the number line in understanding real numbers and inequalities.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Number Systems",
+    "chapterId": "Number Systems",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on the chapter Number Systems with definitions, examples, and important formulas.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Number Systems",
+      "long question"
+    ]
+  }
+]

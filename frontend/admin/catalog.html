@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Catalog | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body data-page="admin-catalog">
+    <div class="app-shell admin-shell">
+      <aside class="sidebar"></aside>
+      <main class="main">
+        <div class="topbar admin-topbar">
+          <div class="page-title"><h1>Catalog</h1><p>Create and organize class, subject, and chapter records.</p></div>
+        </div>
+
+        <section class="metric-grid">
+          <div class="metric-card"><span>Classes</span><strong id="catalogClassCount">0</strong></div>
+          <div class="metric-card"><span>Subjects</span><strong id="catalogSubjectCount">0</strong></div>
+          <div class="metric-card"><span>Chapters</span><strong id="catalogChapterCount">0</strong></div>
+          <div class="metric-card"><span>Question Bank</span><strong>16,320</strong></div>
+        </section>
+
+        <div class="sales-grid">
+          <section class="panel catalog-card">
+            <div class="panel-title"><h2>Create catalog item</h2></div>
+            <form id="catalogForm" class="form-grid">
+              <div>
+                <label class="form-label">Type</label>
+                <select class="form-select" name="kind">
+                  <option value="class">Class</option>
+                  <option value="subject">Subject</option>
+                  <option value="chapter">Chapter</option>
+                </select>
+              </div>
+              <div><label class="form-label">Name</label><input class="form-control" name="name" required></div>
+              <div><label class="form-label">Class</label><input class="form-control" name="classLevel" placeholder="9th"></div>
+              <div><label class="form-label">Subject</label><input class="form-control" name="subject" placeholder="Physics"></div>
+              <div class="span-2"><button class="btn btn-primary" type="submit"><i class="bi bi-plus-circle"></i> Save Item</button></div>
+            </form>
+          </section>
+          <section class="admin-widget">
+            <div class="panel-title"><h2>Structure Rule</h2></div>
+            <ul class="dash-list">
+              <li><div><strong>Class</strong><div class="muted">9th, 10th, 1st Year, 2nd Year</div></div><span class="pill-soft">Level</span></li>
+              <li><div><strong>Subject</strong><div class="muted">Physics, Chemistry, Math</div></div><span class="pill-soft">Course</span></li>
+              <li><div><strong>Chapter</strong><div class="muted">Selectable in paper and practice modules</div></div><span class="pill-soft">Bank</span></li>
+            </ul>
+          </section>
+        </div>
+
+        <section class="panel mt-3">
+          <div class="table-responsive">
+            <table class="table align-middle compact-table">
+              <thead><tr><th>Type</th><th>Name</th><th>Class</th><th>Subject</th><th>Created</th><th>Action</th></tr></thead>
+              <tbody id="catalogBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js"></script>
+  </body>
+</html>

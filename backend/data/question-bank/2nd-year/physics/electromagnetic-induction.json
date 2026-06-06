@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 1: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 1.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 1.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 2.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 3."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 1.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 2: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 2.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 2.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 3.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 4."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 2.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 3: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 3.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 4.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 3.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 5."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 3.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 4: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 4.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 5.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 6.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 4."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 4.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 5: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 5.",
+      "It ignores the role of generator in Electromagnetic Induction situation 5.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 6.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 7."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 5.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 6: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 6.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 6.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 7.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 8."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 6.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 7: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 7.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 8.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 7.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 9."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 7.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 8: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 8.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 9.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 10.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 8."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 8.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 9: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 9.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 9.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 10.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 11."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 9.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 10: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 10.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 10.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 11.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 12."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 10.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 11: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 11.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 12.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 11.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 13."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 11.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 12: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 12.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 13.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 14.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 12."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 12.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 13: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 13.",
+      "It ignores the role of generator in Electromagnetic Induction situation 13.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 14.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 15."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 13.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 14: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 14.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 14.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 15.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 16."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 14.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 15: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 15.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 16.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 15.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 17."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 15.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 16: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 16.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 17.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 18.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 16."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 16.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 17: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 17.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 17.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 18.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 19."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 17.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 18: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 18.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 18.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 19.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 20."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 18.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 19: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 19.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 20.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 19.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 21."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 19.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 20: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 20.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 21.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 22.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 20."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 20.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 21: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 21.",
+      "It ignores the role of generator in Electromagnetic Induction situation 21.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 22.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 23."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 21.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 22: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 22.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 22.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 23.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 24."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 22.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 23: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 23.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 24.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 23.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 25."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 23.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 24: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 24.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 25.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 26.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 24."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 24.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 25: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 25.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 25.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 26.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 27."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 25.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 26: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 26.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 26.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 27.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 28."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 26.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 27: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 27.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 28.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 27.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 29."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 27.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 28: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 28.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 29.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 30.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 28."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 28.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 29: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 29.",
+      "It ignores the role of generator in Electromagnetic Induction situation 29.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 30.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 31."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 29.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 30: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 30.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 30.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 31.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 32."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 30.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 31: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 31.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 32.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 31.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 33."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 31.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 32: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 32.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 33.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 34.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 32."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 32.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 33: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 33.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 33.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 34.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 35."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 33.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 34: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 34.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 34.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 35.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 36."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 34.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 35: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 35.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 36.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 35.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 37."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 35.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 36: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 36.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 37.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 38.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 36."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 36.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 37: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 37.",
+      "It ignores the role of generator in Electromagnetic Induction situation 37.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 38.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 39."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 37.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 38: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 38.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 38.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 39.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 40."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 38.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 39: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 39.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 40.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 39.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 41."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 39.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 40: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 40.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 41.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 42.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 40."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 40.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 41: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 41.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 41.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 42.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 43."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 41.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 42: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 42.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 42.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 43.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 44."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 42.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 43: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 43.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 44.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 43.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 45."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 43.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 44: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 44.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 45.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 46.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 44."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 44.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 45: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 45.",
+      "It ignores the role of generator in Electromagnetic Induction situation 45.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 46.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 47."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 45.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 46: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 46.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 46.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 47.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 48."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 46.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 47: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 47.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 48.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 47.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 49."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 47.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 48: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 48.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 49.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 50.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 48."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 48.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 49: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 49.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 49.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 50.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 51."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 49.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 50: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 50.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 50.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 51.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 52."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 50.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 51: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 51.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 52.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 51.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 53."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 51.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 52: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 52.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 53.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 54.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 52."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 52.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 53: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 53.",
+      "It ignores the role of generator in Electromagnetic Induction situation 53.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 54.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 55."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 53.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 54: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 54.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 54.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 55.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 56."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 54.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 55: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 55.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 56.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 55.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 57."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 55.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 56: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 56.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 57.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 58.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 56."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 56.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 57: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 57.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 57.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 58.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 59."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 57.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 58: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 58.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 58.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 59.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 60."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 58.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 59: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 59.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 60.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 59.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 61."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 59.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 60: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 60.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 61.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 62.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 60."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 60.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 61: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 61.",
+      "It ignores the role of generator in Electromagnetic Induction situation 61.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 62.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 63."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 61.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 62: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 62.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 62.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 63.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 64."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 62.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 63: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 63.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 64.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 63.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 65."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 63.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 64: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 64.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 65.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 66.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 64."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 64.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 65: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 65.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 65.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 66.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 67."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 65.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 66: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 66.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 66.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 67.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 68."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 66.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 67: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 67.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 68.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 67.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 69."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 67.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 68: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 68.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 69.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 70.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 68."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 68.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 69: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 69.",
+      "It ignores the role of generator in Electromagnetic Induction situation 69.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 70.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 71."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 69.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 70: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 70.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 70.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 71.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 72."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 70.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 71: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 71.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 72.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 71.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 73."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 71.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 72: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 72.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 73.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 74.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 72."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 72.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 73: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 73.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 73.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 74.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 75."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 73.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 74: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 74.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 74.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 75.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 76."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 74.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 75: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 75.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 76.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 75.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 77."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 75.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 76: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 76.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 77.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 78.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 76."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 76.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 77: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 77.",
+      "It ignores the role of generator in Electromagnetic Induction situation 77.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 78.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 79."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 77.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 78: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 78.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 78.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 79.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 80."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 78.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 79: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 79.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 80.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 79.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 81."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 79.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 80: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 80.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 81.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 82.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 80."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 80.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 81: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 81.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 81.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 82.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 83."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 81.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 82: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 82.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 82.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 83.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 84."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 82.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 83: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 83.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 84.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 83.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 85."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 83.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 84: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 84.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 85.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 86.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 84."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 84.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 85: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 85.",
+      "It ignores the role of generator in Electromagnetic Induction situation 85.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 86.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 87."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 85.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 86: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 86.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 86.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 87.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 88."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 86.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 87: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 87.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 88.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 87.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 89."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 87.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 88: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 88.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 89.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 90.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 88."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 88.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 89: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 89.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 89.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 90.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 91."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 89.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 90: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 90.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 90.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 91.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 92."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 90.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 91: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 91.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 92.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 91.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 93."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 91.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 92: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 92.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 93.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 94.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 92."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 92.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 93: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes generator?",
+    "options": [
+      "generator explains the correct physical relation in Electromagnetic Induction case 93.",
+      "It ignores the role of generator in Electromagnetic Induction situation 93.",
+      "It treats generator as a constant without checking the Electromagnetic Induction data 94.",
+      "It mixes generator with an unrelated chemistry idea in Electromagnetic Induction example 95."
+    ],
+    "correctAnswer": "generator explains the correct physical relation in Electromagnetic Induction case 93.",
+    "explanation": "The correct option connects generator with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 94: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for motor effect?",
+    "options": [
+      "It ignores the role of motor effect in Electromagnetic Induction situation 94.",
+      "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 94.",
+      "It treats motor effect as a constant without checking the Electromagnetic Induction data 95.",
+      "It mixes motor effect with an unrelated chemistry idea in Electromagnetic Induction example 96."
+    ],
+    "correctAnswer": "The best answer is to apply motor effect with proper units in Electromagnetic Induction example 94.",
+    "explanation": "The correct option connects motor effect with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 95: Which statement is correct about transformer in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of transformer in Electromagnetic Induction situation 95.",
+      "It treats transformer as a constant without checking the Electromagnetic Induction data 96.",
+      "transformer is the useful principle for solving this Electromagnetic Induction situation 95.",
+      "It mixes transformer with an unrelated chemistry idea in Electromagnetic Induction example 97."
+    ],
+    "correctAnswer": "transformer is the useful principle for solving this Electromagnetic Induction situation 95.",
+    "explanation": "The correct option connects transformer with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 96: In an experiment related to \"Electromagnetic Induction\", why is Lenz law important?",
+    "options": [
+      "It ignores the role of Lenz law in Electromagnetic Induction situation 96.",
+      "It treats Lenz law as a constant without checking the Electromagnetic Induction data 97.",
+      "It mixes Lenz law with an unrelated chemistry idea in Electromagnetic Induction example 98.",
+      "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 96."
+    ],
+    "correctAnswer": "This statement correctly links Lenz law with measurement and change in Electromagnetic Induction item 96.",
+    "explanation": "The correct option connects Lenz law with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 97: In 2nd Year Physics chapter \"Electromagnetic Induction\", which option best describes magnetic field?",
+    "options": [
+      "magnetic field explains the correct physical relation in Electromagnetic Induction case 97.",
+      "It ignores the role of magnetic field in Electromagnetic Induction situation 97.",
+      "It treats magnetic field as a constant without checking the Electromagnetic Induction data 98.",
+      "It mixes magnetic field with an unrelated chemistry idea in Electromagnetic Induction example 99."
+    ],
+    "correctAnswer": "magnetic field explains the correct physical relation in Electromagnetic Induction case 97.",
+    "explanation": "The correct option connects magnetic field with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 98: While solving a numerical from \"Electromagnetic Induction\", what should be checked first for electromagnet?",
+    "options": [
+      "It ignores the role of electromagnet in Electromagnetic Induction situation 98.",
+      "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 98.",
+      "It treats electromagnet as a constant without checking the Electromagnetic Induction data 99.",
+      "It mixes electromagnet with an unrelated chemistry idea in Electromagnetic Induction example 100."
+    ],
+    "correctAnswer": "The best answer is to apply electromagnet with proper units in Electromagnetic Induction example 98.",
+    "explanation": "The correct option connects electromagnet with the main learning point of Electromagnetic Induction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 99: Which statement is correct about flux in \"Electromagnetic Induction\"?",
+    "options": [
+      "It ignores the role of flux in Electromagnetic Induction situation 99.",
+      "It treats flux as a constant without checking the Electromagnetic Induction data 100.",
+      "flux is the useful principle for solving this Electromagnetic Induction situation 99.",
+      "It mixes flux with an unrelated chemistry idea in Electromagnetic Induction example 101."
+    ],
+    "correctAnswer": "flux is the useful principle for solving this Electromagnetic Induction situation 99.",
+    "explanation": "The correct option connects flux with the main learning point of Electromagnetic Induction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "mcq",
+    "question": "MCQ 100: In an experiment related to \"Electromagnetic Induction\", why is induced current important?",
+    "options": [
+      "It ignores the role of induced current in Electromagnetic Induction situation 100.",
+      "It treats induced current as a constant without checking the Electromagnetic Induction data 101.",
+      "It mixes induced current with an unrelated chemistry idea in Electromagnetic Induction example 102.",
+      "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 100."
+    ],
+    "correctAnswer": "This statement correctly links induced current with measurement and change in Electromagnetic Induction item 100.",
+    "explanation": "The correct option connects induced current with the main learning point of Electromagnetic Induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 1: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 2: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 3: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 4: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 5: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 6: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 7: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 8: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 9: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 10: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 11: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 12: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 13: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 14: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 15: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 16: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 17: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 18: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 19: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 20: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 21: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 22: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 23: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 24: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 25: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 26: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 27: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 28: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 29: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 30: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 31: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 32: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 33: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 34: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 35: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 36: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 37: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 38: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 39: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 40: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 41: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 42: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 43: State the role of flux in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "flux is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about flux.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 44: Give one daily-life example related to induced current.",
+    "options": [],
+    "correctAnswer": "induced current is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about induced current.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 45: Define generator in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "generator is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about generator.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 46: Write two key points about motor effect from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "motor effect is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about motor effect.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 47: State the role of transformer in solving questions from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "transformer is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about transformer.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 48: Give one daily-life example related to Lenz law.",
+    "options": [],
+    "correctAnswer": "Lenz law is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about Lenz law.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 49: Define magnetic field in the context of \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "magnetic field is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about magnetic field.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "short",
+    "question": "Short Question 50: Write two key points about electromagnet from \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "electromagnet is an important quantity or idea in Electromagnetic Induction used to describe, measure, or predict physical behavior.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about electromagnet.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 1: Explain magnetic field from \"Electromagnetic Induction\" with formula, unit, and one example.",
+    "options": [],
+    "correctAnswer": "Explain the definition of magnetic field, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for magnetic field.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 2: Describe an experiment or numerical method based on electromagnet in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of electromagnet, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for electromagnet.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 3: Write a detailed note on flux and its applications in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of flux, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for flux.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 4: Compare induced current with a related idea from \"Electromagnetic Induction\" and explain both.",
+    "options": [],
+    "correctAnswer": "Explain the definition of induced current, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for induced current.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 5: Explain generator from \"Electromagnetic Induction\" with formula, unit, and one example.",
+    "options": [],
+    "correctAnswer": "Explain the definition of generator, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for generator.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 6: Describe an experiment or numerical method based on motor effect in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of motor effect, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for motor effect.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 7: Write a detailed note on transformer and its applications in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of transformer, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for transformer.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 8: Compare Lenz law with a related idea from \"Electromagnetic Induction\" and explain both.",
+    "options": [],
+    "correctAnswer": "Explain the definition of Lenz law, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for Lenz law.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 9: Explain magnetic field from \"Electromagnetic Induction\" with formula, unit, and one example.",
+    "options": [],
+    "correctAnswer": "Explain the definition of magnetic field, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for magnetic field.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 10: Describe an experiment or numerical method based on electromagnet in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of electromagnet, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for electromagnet.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 11: Write a detailed note on flux and its applications in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of flux, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for flux.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 12: Compare induced current with a related idea from \"Electromagnetic Induction\" and explain both.",
+    "options": [],
+    "correctAnswer": "Explain the definition of induced current, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for induced current.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 13: Explain generator from \"Electromagnetic Induction\" with formula, unit, and one example.",
+    "options": [],
+    "correctAnswer": "Explain the definition of generator, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for generator.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "generator"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 14: Describe an experiment or numerical method based on motor effect in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of motor effect, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for motor effect.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "motor effect"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 15: Write a detailed note on transformer and its applications in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of transformer, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for transformer.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "transformer"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 16: Compare Lenz law with a related idea from \"Electromagnetic Induction\" and explain both.",
+    "options": [],
+    "correctAnswer": "Explain the definition of Lenz law, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for Lenz law.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "Lenz law"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 17: Explain magnetic field from \"Electromagnetic Induction\" with formula, unit, and one example.",
+    "options": [],
+    "correctAnswer": "Explain the definition of magnetic field, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for magnetic field.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "magnetic field"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 18: Describe an experiment or numerical method based on electromagnet in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of electromagnet, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for electromagnet.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "electromagnet"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 19: Write a detailed note on flux and its applications in \"Electromagnetic Induction\".",
+    "options": [],
+    "correctAnswer": "Explain the definition of flux, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for flux.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "flux"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "chapterId": "Electromagnetic Induction",
+    "type": "long",
+    "question": "Long Question 20: Compare induced current with a related idea from \"Electromagnetic Induction\" and explain both.",
+    "options": [],
+    "correctAnswer": "Explain the definition of induced current, write the related formula or rule where needed, mention units, and show how it is applied in Electromagnetic Induction with one example.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for induced current.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Physics",
+      "Electromagnetic Induction",
+      "induced current"
+    ]
+  }
+]

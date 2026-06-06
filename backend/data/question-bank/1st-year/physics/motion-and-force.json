@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 1: The change in position of a body with respect to time is called:",
+    "options": [
+      "Motion",
+      "Rest",
+      "Force",
+      "Mass"
+    ],
+    "correctAnswer": "Motion",
+    "explanation": "Motion means change of position with time relative to a reference point.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 2: A body is at rest if:",
+    "options": [
+      "Its position does not change with time relative to surroundings",
+      "It has zero mass",
+      "It has no force ever",
+      "It is always moving"
+    ],
+    "correctAnswer": "Its position does not change with time relative to surroundings",
+    "explanation": "Rest is relative to a reference frame.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "rest"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 3: Distance is a:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Base unit",
+      "Dimensionless quantity"
+    ],
+    "correctAnswer": "Scalar quantity",
+    "explanation": "Distance has magnitude only and no direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "distance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 4: Displacement is a:",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Unitless quantity",
+      "Chemical quantity"
+    ],
+    "correctAnswer": "Vector quantity",
+    "explanation": "Displacement has magnitude and direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 5: The SI unit of distance is:",
+    "options": [
+      "metre",
+      "second",
+      "kilogram",
+      "newton"
+    ],
+    "correctAnswer": "metre",
+    "explanation": "Distance is length, so its SI unit is metre.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "distance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 6: The shortest distance between initial and final position is:",
+    "options": [
+      "Displacement",
+      "Speed",
+      "Acceleration",
+      "Force"
+    ],
+    "correctAnswer": "Displacement",
+    "explanation": "Displacement is the shortest directed distance between two positions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 7: Speed is defined as:",
+    "options": [
+      "Distance travelled per unit time",
+      "Displacement per unit time",
+      "Force per unit mass",
+      "Momentum per unit time"
+    ],
+    "correctAnswer": "Distance travelled per unit time",
+    "explanation": "Speed = distance/time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 8: Velocity is defined as:",
+    "options": [
+      "Displacement per unit time",
+      "Distance per unit time",
+      "Mass per unit time",
+      "Force per area"
+    ],
+    "correctAnswer": "Displacement per unit time",
+    "explanation": "Velocity is rate of change of displacement.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 9: The SI unit of speed is:",
+    "options": [
+      "m s⁻¹",
+      "m s⁻²",
+      "N",
+      "kg m s⁻¹"
+    ],
+    "correctAnswer": "m s⁻¹",
+    "explanation": "Speed = distance/time.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 10: Acceleration is defined as:",
+    "options": [
+      "Change in velocity per unit time",
+      "Change in distance only",
+      "Mass per unit volume",
+      "Force per distance"
+    ],
+    "correctAnswer": "Change in velocity per unit time",
+    "explanation": "Acceleration = change in velocity/time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 11: The SI unit of acceleration is:",
+    "options": [
+      "m s⁻²",
+      "m s⁻¹",
+      "N m",
+      "kg m s⁻¹"
+    ],
+    "correctAnswer": "m s⁻²",
+    "explanation": "Acceleration is velocity per unit time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 12: Uniform velocity means:",
+    "options": [
+      "Equal displacement in equal intervals of time in same direction",
+      "Speed changes every second",
+      "Direction changes continuously",
+      "Acceleration increases"
+    ],
+    "correctAnswer": "Equal displacement in equal intervals of time in same direction",
+    "explanation": "Uniform velocity requires constant magnitude and direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "uniform velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 13: Uniform acceleration means:",
+    "options": [
+      "Equal change in velocity in equal intervals of time",
+      "Equal distance in unequal time",
+      "Zero displacement",
+      "No force ever"
+    ],
+    "correctAnswer": "Equal change in velocity in equal intervals of time",
+    "explanation": "Uniform acceleration is constant rate of velocity change.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "uniform acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 14: If velocity is constant, acceleration is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Negative always",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Acceleration is change in velocity per time; no change means zero acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 15: A distance-time graph with straight line shows:",
+    "options": [
+      "Uniform speed",
+      "Uniform acceleration",
+      "Rest only",
+      "Changing direction only"
+    ],
+    "correctAnswer": "Uniform speed",
+    "explanation": "A straight distance-time graph has constant slope, meaning uniform speed.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 16: The slope of a distance-time graph represents:",
+    "options": [
+      "Speed",
+      "Acceleration",
+      "Force",
+      "Momentum"
+    ],
+    "correctAnswer": "Speed",
+    "explanation": "Speed is rate of change of distance with time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 17: The slope of a velocity-time graph represents:",
+    "options": [
+      "Acceleration",
+      "Distance",
+      "Mass",
+      "Power"
+    ],
+    "correctAnswer": "Acceleration",
+    "explanation": "Acceleration is rate of change of velocity with time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 18: Area under velocity-time graph represents:",
+    "options": [
+      "Displacement",
+      "Acceleration",
+      "Force",
+      "Mass"
+    ],
+    "correctAnswer": "Displacement",
+    "explanation": "Area under v-t graph gives displacement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 19: First equation of motion is:",
+    "options": [
+      "v = u + at",
+      "s = vt²",
+      "F = ma",
+      "p = mv"
+    ],
+    "correctAnswer": "v = u + at",
+    "explanation": "This equation relates final velocity, initial velocity, acceleration and time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 20: Second equation of motion is:",
+    "options": [
+      "s = ut + 1/2 at²",
+      "v = u + at",
+      "F = ma",
+      "P = W/t"
+    ],
+    "correctAnswer": "s = ut + 1/2 at²",
+    "explanation": "This equation gives displacement under uniform acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 21: Third equation of motion is:",
+    "options": [
+      "v² = u² + 2as",
+      "s = vt",
+      "p = mv",
+      "F = mg"
+    ],
+    "correctAnswer": "v² = u² + 2as",
+    "explanation": "This equation relates velocities, acceleration and displacement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 22: The equations of motion are valid for:",
+    "options": [
+      "Uniform acceleration",
+      "Variable acceleration only",
+      "Zero mass only",
+      "Circular motion only"
+    ],
+    "correctAnswer": "Uniform acceleration",
+    "explanation": "Standard equations of motion apply when acceleration is constant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 23: If a body starts from rest, its initial velocity is:",
+    "options": [
+      "0",
+      "1 m/s",
+      "9.8 m/s",
+      "Infinite"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Starting from rest means initial velocity u = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 24: If acceleration is negative, it is called:",
+    "options": [
+      "Retardation or deceleration",
+      "Momentum",
+      "Impulse",
+      "Pressure"
+    ],
+    "correctAnswer": "Retardation or deceleration",
+    "explanation": "Negative acceleration opposes motion.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 25: Force is defined as:",
+    "options": [
+      "An agent that changes or tends to change the state of motion",
+      "Mass per unit volume",
+      "Distance per time",
+      "Energy per time"
+    ],
+    "correctAnswer": "An agent that changes or tends to change the state of motion",
+    "explanation": "Force can change speed, direction or shape of a body.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 26: The SI unit of force is:",
+    "options": [
+      "newton",
+      "joule",
+      "watt",
+      "pascal"
+    ],
+    "correctAnswer": "newton",
+    "explanation": "Force is measured in newton.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 27: One newton is equal to:",
+    "options": [
+      "kg m s⁻²",
+      "kg m² s⁻²",
+      "kg m s⁻¹",
+      "N m"
+    ],
+    "correctAnswer": "kg m s⁻²",
+    "explanation": "From F = ma, unit is kg m s⁻².",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 28: Newton's first law is also called:",
+    "options": [
+      "Law of inertia",
+      "Law of acceleration",
+      "Law of action-reaction",
+      "Law of gravitation"
+    ],
+    "correctAnswer": "Law of inertia",
+    "explanation": "First law describes inertia of a body.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 29: Inertia is the property of a body by which it:",
+    "options": [
+      "Resists change in its state of rest or motion",
+      "Always accelerates",
+      "Loses mass",
+      "Changes temperature"
+    ],
+    "correctAnswer": "Resists change in its state of rest or motion",
+    "explanation": "Inertia resists changes in motion.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 30: Mass is a measure of:",
+    "options": [
+      "Inertia",
+      "Velocity",
+      "Acceleration",
+      "Pressure"
+    ],
+    "correctAnswer": "Inertia",
+    "explanation": "Greater mass means greater inertia.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "mass"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 31: Newton's second law gives relation:",
+    "options": [
+      "F = ma",
+      "F = mg only",
+      "v = u + at",
+      "p = mv only"
+    ],
+    "correctAnswer": "F = ma",
+    "explanation": "Net force equals mass times acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 32: Acceleration produced in a body is directly proportional to:",
+    "options": [
+      "Net force",
+      "Mass only",
+      "Time only",
+      "Distance only"
+    ],
+    "correctAnswer": "Net force",
+    "explanation": "According to F = ma, acceleration increases with force for fixed mass.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 33: For a fixed force, acceleration is inversely proportional to:",
+    "options": [
+      "Mass",
+      "Velocity",
+      "Distance",
+      "Time"
+    ],
+    "correctAnswer": "Mass",
+    "explanation": "a = F/m, so larger mass gives smaller acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 34: Newton's third law states that:",
+    "options": [
+      "Every action has an equal and opposite reaction",
+      "Force equals mass times acceleration",
+      "A body remains at rest only",
+      "Energy is always lost"
+    ],
+    "correctAnswer": "Every action has an equal and opposite reaction",
+    "explanation": "Action and reaction forces are equal in magnitude and opposite in direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 35: Action and reaction forces act on:",
+    "options": [
+      "Different bodies",
+      "Same body only",
+      "No body",
+      "Only fluids"
+    ],
+    "correctAnswer": "Different bodies",
+    "explanation": "They cannot cancel each other because they act on different bodies.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 36: Momentum is defined as:",
+    "options": [
+      "Product of mass and velocity",
+      "Product of force and distance",
+      "Mass per volume",
+      "Distance per time"
+    ],
+    "correctAnswer": "Product of mass and velocity",
+    "explanation": "p = mv.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 37: The SI unit of momentum is:",
+    "options": [
+      "kg m s⁻¹",
+      "N m",
+      "kg m s⁻²",
+      "J s⁻¹"
+    ],
+    "correctAnswer": "kg m s⁻¹",
+    "explanation": "Momentum = mass × velocity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 38: Momentum is a:",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Dimensionless quantity",
+      "Base quantity"
+    ],
+    "correctAnswer": "Vector quantity",
+    "explanation": "Momentum has direction same as velocity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 39: Impulse is defined as:",
+    "options": [
+      "Product of force and time",
+      "Force per area",
+      "Mass per velocity",
+      "Distance per time"
+    ],
+    "correctAnswer": "Product of force and time",
+    "explanation": "Impulse = FΔt.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 40: Impulse is equal to:",
+    "options": [
+      "Change in momentum",
+      "Change in mass",
+      "Change in distance only",
+      "Change in power"
+    ],
+    "correctAnswer": "Change in momentum",
+    "explanation": "Impulse-momentum theorem states impulse equals change in momentum.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 41: The SI unit of impulse is:",
+    "options": [
+      "N s",
+      "N m",
+      "W",
+      "Pa"
+    ],
+    "correctAnswer": "N s",
+    "explanation": "Impulse = force × time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 42: Law of conservation of momentum applies when:",
+    "options": [
+      "No external force acts on the system",
+      "External force is maximum",
+      "Friction is infinite",
+      "Mass is zero"
+    ],
+    "correctAnswer": "No external force acts on the system",
+    "explanation": "Total momentum remains constant in an isolated system.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum conservation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 43: Friction is a force that:",
+    "options": [
+      "Opposes relative motion",
+      "Always increases motion",
+      "Acts only upward",
+      "Has no effect"
+    ],
+    "correctAnswer": "Opposes relative motion",
+    "explanation": "Friction acts opposite to relative or attempted motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 44: Friction acts:",
+    "options": [
+      "Opposite to motion or tendency of motion",
+      "Always in direction of motion",
+      "Only downward",
+      "Only upward"
+    ],
+    "correctAnswer": "Opposite to motion or tendency of motion",
+    "explanation": "Friction resists sliding or attempted sliding.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 45: Static friction acts when:",
+    "options": [
+      "Body tends to move but has not started sliding",
+      "Body is freely falling",
+      "Body is in vacuum only",
+      "Body has no contact"
+    ],
+    "correctAnswer": "Body tends to move but has not started sliding",
+    "explanation": "Static friction prevents start of relative motion.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 46: Kinetic friction acts when:",
+    "options": [
+      "Body is sliding",
+      "Body is at rest only",
+      "No surfaces touch",
+      "Mass is zero"
+    ],
+    "correctAnswer": "Body is sliding",
+    "explanation": "Kinetic friction acts during sliding motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 47: Limiting friction is:",
+    "options": [
+      "Maximum value of static friction",
+      "Minimum velocity",
+      "Zero force",
+      "Weight of body"
+    ],
+    "correctAnswer": "Maximum value of static friction",
+    "explanation": "It acts just before motion starts.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 48: Friction can be reduced by:",
+    "options": [
+      "Lubrication",
+      "Increasing roughness",
+      "Removing wheels",
+      "Increasing normal reaction always"
+    ],
+    "correctAnswer": "Lubrication",
+    "explanation": "Lubricants reduce contact friction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 49: Friction is useful in:",
+    "options": [
+      "Walking",
+      "Slipping only",
+      "Stopping all machines",
+      "Removing gravity"
+    ],
+    "correctAnswer": "Walking",
+    "explanation": "Friction provides grip between foot and ground.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 50: Weight of a body is:",
+    "options": [
+      "Force with which Earth attracts it",
+      "Mass of body only",
+      "Volume of body",
+      "Speed of body"
+    ],
+    "correctAnswer": "Force with which Earth attracts it",
+    "explanation": "Weight is gravitational force on a body.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 51: Weight is calculated by:",
+    "options": [
+      "W = mg",
+      "W = mv",
+      "W = ma/t",
+      "W = s/t"
+    ],
+    "correctAnswer": "W = mg",
+    "explanation": "Weight equals mass times gravitational acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 52: The value of g near Earth's surface is approximately:",
+    "options": [
+      "9.8 m s⁻²",
+      "9.8 m s⁻¹",
+      "98 m s⁻²",
+      "0.98 m s⁻²"
+    ],
+    "correctAnswer": "9.8 m s⁻²",
+    "explanation": "Standard gravitational acceleration is about 9.8 m/s².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 53: Mass is:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Force only",
+      "Acceleration"
+    ],
+    "correctAnswer": "Scalar quantity",
+    "explanation": "Mass has magnitude only.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "mass"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 54: Weight is:",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Dimensionless",
+      "Unitless"
+    ],
+    "correctAnswer": "Vector quantity",
+    "explanation": "Weight is a force and acts toward Earth's centre.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 55: Free fall means motion under:",
+    "options": [
+      "Gravity alone",
+      "Friction only",
+      "Applied force only",
+      "Tension only"
+    ],
+    "correctAnswer": "Gravity alone",
+    "explanation": "In free fall, only gravitational force acts ideally.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "free fall"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 56: In free fall near Earth, acceleration is:",
+    "options": [
+      "g",
+      "zero",
+      "m",
+      "v/t always"
+    ],
+    "correctAnswer": "g",
+    "explanation": "A freely falling body accelerates downward at g.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "free fall"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 57: Projectile motion is motion under:",
+    "options": [
+      "Gravity after projection",
+      "Friction only",
+      "Constant horizontal force only",
+      "No acceleration"
+    ],
+    "correctAnswer": "Gravity after projection",
+    "explanation": "Projectile motion occurs when a body is projected and then moves under gravity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "projectile"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 58: Horizontal component of projectile velocity remains constant if:",
+    "options": [
+      "Air resistance is neglected",
+      "Gravity is removed",
+      "Mass is zero",
+      "Vertical velocity is zero always"
+    ],
+    "correctAnswer": "Air resistance is neglected",
+    "explanation": "No horizontal acceleration acts when air resistance is neglected.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "projectile"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 59: In circular motion, direction of velocity:",
+    "options": [
+      "Continuously changes",
+      "Never changes",
+      "Is always zero",
+      "Is always downward"
+    ],
+    "correctAnswer": "Continuously changes",
+    "explanation": "Velocity is tangent to circular path and changes direction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 60: Centripetal force is directed:",
+    "options": [
+      "Toward the centre of circle",
+      "Away from centre",
+      "Along tangent only",
+      "Upward always"
+    ],
+    "correctAnswer": "Toward the centre of circle",
+    "explanation": "Centripetal force keeps body moving in a circular path.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 61: Centripetal acceleration is directed:",
+    "options": [
+      "Toward the centre",
+      "Away from centre",
+      "Along displacement only",
+      "Opposite to mass"
+    ],
+    "correctAnswer": "Toward the centre",
+    "explanation": "Centripetal acceleration changes direction of velocity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 62: The formula for centripetal force is:",
+    "options": [
+      "F = mv²/r",
+      "F = ma²/r",
+      "F = mr/v²",
+      "F = v/r"
+    ],
+    "correctAnswer": "F = mv²/r",
+    "explanation": "Centripetal force required for circular motion is mv²/r.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 63: Tension is a force transmitted through:",
+    "options": [
+      "String or rope",
+      "Liquid only",
+      "Vacuum only",
+      "Magnetic field only"
+    ],
+    "correctAnswer": "String or rope",
+    "explanation": "Tension acts along a stretched string or rope.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 64: Normal reaction acts:",
+    "options": [
+      "Perpendicular to contact surface",
+      "Parallel to surface only",
+      "Downward always",
+      "Opposite to mass"
+    ],
+    "correctAnswer": "Perpendicular to contact surface",
+    "explanation": "Normal reaction is contact force perpendicular to surface.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "normal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 65: If net force on a body is zero, its acceleration is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Negative always",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "From F = ma, zero net force means zero acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 66: Balanced forces produce:",
+    "options": [
+      "No acceleration",
+      "Maximum acceleration",
+      "Change in mass",
+      "No weight"
+    ],
+    "correctAnswer": "No acceleration",
+    "explanation": "Balanced forces have zero resultant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 67: Unbalanced forces produce:",
+    "options": [
+      "Acceleration",
+      "Only rest",
+      "No change",
+      "Zero velocity always"
+    ],
+    "correctAnswer": "Acceleration",
+    "explanation": "A non-zero net force changes motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 68: The resultant force is:",
+    "options": [
+      "Vector sum of all forces",
+      "Product of masses",
+      "Distance per time",
+      "Area under graph"
+    ],
+    "correctAnswer": "Vector sum of all forces",
+    "explanation": "Net/resultant force is sum of forces considering direction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 69: A passenger jerks forward when a moving bus suddenly stops due to:",
+    "options": [
+      "Inertia of motion",
+      "Inertia of rest",
+      "No inertia",
+      "Zero mass"
+    ],
+    "correctAnswer": "Inertia of motion",
+    "explanation": "The body tends to continue moving forward.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 70: A passenger jerks backward when a bus suddenly starts due to:",
+    "options": [
+      "Inertia of rest",
+      "Inertia of motion only",
+      "Frictionless air",
+      "Momentum conservation only"
+    ],
+    "correctAnswer": "Inertia of rest",
+    "explanation": "Body tends to remain at rest while bus starts moving.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 71: Seat belts protect passengers by:",
+    "options": [
+      "Increasing stopping time and reducing force",
+      "Increasing force only",
+      "Removing inertia",
+      "Increasing mass"
+    ],
+    "correctAnswer": "Increasing stopping time and reducing force",
+    "explanation": "Greater stopping time reduces average impact force.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 72: A cricketer moves hands backward while catching ball to:",
+    "options": [
+      "Increase stopping time",
+      "Decrease stopping time",
+      "Increase ball mass",
+      "Remove momentum"
+    ],
+    "correctAnswer": "Increase stopping time",
+    "explanation": "Increasing time reduces force for same change in momentum.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 73: The equation F = Δp/Δt represents:",
+    "options": [
+      "Newton's second law in momentum form",
+      "Newton's first law only",
+      "Friction law",
+      "Hooke's law"
+    ],
+    "correctAnswer": "Newton's second law in momentum form",
+    "explanation": "Force equals rate of change of momentum.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 74: If mass doubles and force remains same, acceleration becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Zero always"
+    ],
+    "correctAnswer": "Half",
+    "explanation": "a = F/m, so doubling mass halves acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 75: If force doubles and mass remains same, acceleration becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times smaller",
+      "Zero"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "a is directly proportional to F.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 76: A body moving with uniform speed in a circle has:",
+    "options": [
+      "Changing velocity",
+      "Constant velocity",
+      "Zero acceleration",
+      "No force"
+    ],
+    "correctAnswer": "Changing velocity",
+    "explanation": "Direction of velocity changes in circular motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 77: Uniform circular motion has acceleration because:",
+    "options": [
+      "Direction of velocity changes",
+      "Speed must change",
+      "Mass changes",
+      "Radius is zero"
+    ],
+    "correctAnswer": "Direction of velocity changes",
+    "explanation": "Velocity is vector; change in direction causes acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 78: In a velocity-time graph, a horizontal line means:",
+    "options": [
+      "Uniform velocity",
+      "Uniform acceleration",
+      "Increasing acceleration",
+      "Rest only"
+    ],
+    "correctAnswer": "Uniform velocity",
+    "explanation": "Velocity is constant when v-t graph is horizontal.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 79: In a velocity-time graph, a straight inclined line means:",
+    "options": [
+      "Uniform acceleration",
+      "Zero acceleration",
+      "No motion",
+      "Uniform displacement"
+    ],
+    "correctAnswer": "Uniform acceleration",
+    "explanation": "Constant slope of v-t graph gives constant acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 80: If displacement is zero after a round trip, distance is:",
+    "options": [
+      "Not necessarily zero",
+      "Always zero",
+      "Negative always",
+      "Equal to acceleration"
+    ],
+    "correctAnswer": "Not necessarily zero",
+    "explanation": "Distance is total path length; displacement can be zero for round trip.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "distance displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 81: Average speed is:",
+    "options": [
+      "Total distance divided by total time",
+      "Displacement divided by time",
+      "Velocity plus time",
+      "Force divided by mass"
+    ],
+    "correctAnswer": "Total distance divided by total time",
+    "explanation": "Average speed uses total path length.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 82: Average velocity is:",
+    "options": [
+      "Total displacement divided by total time",
+      "Total distance divided by time",
+      "Speed times mass",
+      "Force times time"
+    ],
+    "correctAnswer": "Total displacement divided by total time",
+    "explanation": "Average velocity uses displacement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 83: A body at rest may have:",
+    "options": [
+      "Zero velocity",
+      "Maximum acceleration always",
+      "Infinite speed",
+      "Negative mass"
+    ],
+    "correctAnswer": "Zero velocity",
+    "explanation": "Rest means no change of position with time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "rest"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 84: A force cannot change:",
+    "options": [
+      "Mass of body normally",
+      "Speed",
+      "Direction of motion",
+      "Shape"
+    ],
+    "correctAnswer": "Mass of body normally",
+    "explanation": "Force can change state of motion or shape, not mass normally.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 85: The dimensional formula of force is:",
+    "options": [
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[LT⁻¹]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[MLT⁻²]",
+    "explanation": "Force = mass × acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 86: The dimensional formula of momentum is:",
+    "options": [
+      "[MLT⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[LT⁻²]"
+    ],
+    "correctAnswer": "[MLT⁻¹]",
+    "explanation": "Momentum = mass × velocity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 87: The dimensional formula of impulse is:",
+    "options": [
+      "[MLT⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻³]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[MLT⁻¹]",
+    "explanation": "Impulse has same dimensions as momentum.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 88: If a = 0, equation v = u + at becomes:",
+    "options": [
+      "v = u",
+      "v = at",
+      "u = at",
+      "v = 0 always"
+    ],
+    "correctAnswer": "v = u",
+    "explanation": "With zero acceleration, final velocity equals initial velocity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 89: If u = 0, second equation of motion becomes:",
+    "options": [
+      "s = 1/2 at²",
+      "s = ut",
+      "s = vt",
+      "s = a/t²"
+    ],
+    "correctAnswer": "s = 1/2 at²",
+    "explanation": "Starting from rest means u = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 90: A body falling freely from rest has initial velocity:",
+    "options": [
+      "0",
+      "g",
+      "9.8 m/s",
+      "1 m/s"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Freely falling from rest starts with u = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "free fall"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 91: The force that pulls objects toward Earth is:",
+    "options": [
+      "Gravitational force",
+      "Friction",
+      "Tension",
+      "Normal reaction"
+    ],
+    "correctAnswer": "Gravitational force",
+    "explanation": "Earth attracts bodies through gravity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 92: The force exerted by a surface on a body is:",
+    "options": [
+      "Normal reaction",
+      "Weight",
+      "Momentum",
+      "Impulse"
+    ],
+    "correctAnswer": "Normal reaction",
+    "explanation": "Normal force is contact force from a surface.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "normal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 93: A rocket moves upward due to:",
+    "options": [
+      "Action-reaction principle",
+      "Only inertia of rest",
+      "Zero momentum",
+      "No force"
+    ],
+    "correctAnswer": "Action-reaction principle",
+    "explanation": "Expelled gases push rocket upward by Newton's third law.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 94: Walking is possible due to:",
+    "options": [
+      "Friction between foot and ground",
+      "Absence of friction",
+      "Only gravity",
+      "Zero normal force"
+    ],
+    "correctAnswer": "Friction between foot and ground",
+    "explanation": "Friction provides forward grip.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 95: A book resting on a table has weight balanced by:",
+    "options": [
+      "Normal reaction",
+      "Friction only",
+      "Tension only",
+      "Momentum"
+    ],
+    "correctAnswer": "Normal reaction",
+    "explanation": "Normal reaction balances weight vertically.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "normal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 96: If no external force acts, total momentum of a system:",
+    "options": [
+      "Remains conserved",
+      "Becomes zero always",
+      "Increases always",
+      "Decreases always"
+    ],
+    "correctAnswer": "Remains conserved",
+    "explanation": "Momentum conservation applies to isolated systems.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum conservation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 97: The force responsible for changing direction in circular motion is:",
+    "options": [
+      "Centripetal force",
+      "Frictionless force only",
+      "Weight always",
+      "Tension never"
+    ],
+    "correctAnswer": "Centripetal force",
+    "explanation": "Centripetal force acts toward the center.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 98: The SI unit of coefficient of friction is:",
+    "options": [
+      "No unit",
+      "newton",
+      "metre",
+      "kg"
+    ],
+    "correctAnswer": "No unit",
+    "explanation": "Coefficient of friction is a ratio of forces.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 99: Coefficient of friction is:",
+    "options": [
+      "Ratio of frictional force to normal reaction",
+      "Product of mass and velocity",
+      "Force per area",
+      "Distance per time"
+    ],
+    "correctAnswer": "Ratio of frictional force to normal reaction",
+    "explanation": "μ = F/N.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "mcq",
+    "question": "MCQ 100: The formula for weight is:",
+    "options": [
+      "W = mg",
+      "W = ma only",
+      "W = mv",
+      "W = v/t"
+    ],
+    "correctAnswer": "W = mg",
+    "explanation": "Weight is gravitational force.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 1: Define motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 2: Define rest with respect to reference point.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "rest"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 3: Differentiate between distance and displacement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "distance displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 4: Define speed and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 5: Define velocity and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 6: Differentiate between speed and velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 7: Define acceleration and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 8: What is uniform motion?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "uniform motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 9: What is uniform acceleration?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "uniform acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 10: Write the first equation of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 11: Write the second equation of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 12: Write the third equation of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 13: What does slope of distance-time graph represent?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 14: What does slope of velocity-time graph represent?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 15: What does area under velocity-time graph represent?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 16: Define force and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 17: State Newton’s first law of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 18: Define inertia.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 19: Why is Newton’s first law called law of inertia?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 20: State Newton’s second law of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 21: Write the mathematical form of Newton’s second law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 22: State Newton’s third law of motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 23: Why action and reaction do not cancel each other?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 24: Define momentum and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 25: Define impulse and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 26: State impulse-momentum theorem.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 27: State law of conservation of momentum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum conservation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 28: Define friction.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 29: Differentiate between static and kinetic friction.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 30: What is limiting friction?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 31: Write two advantages of friction.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 32: Write two disadvantages of friction.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 33: How can friction be reduced?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 34: Define weight and write its formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 35: Differentiate between mass and weight.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "mass weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 36: What is free fall?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "free fall"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 37: What is the value of g near Earth’s surface?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 38: Define projectile motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "projectile"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 39: Why horizontal velocity of projectile remains constant?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "projectile"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 40: Define circular motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 41: What is centripetal force?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 42: Write the formula of centripetal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 43: What is centripetal acceleration?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 44: Define tension.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 45: Define normal reaction.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "normal force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 46: What are balanced forces?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 47: What are unbalanced forces?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 48: Give one daily life example of inertia.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 49: Why does a cricketer move hands backward while catching a ball?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "short",
+    "question": "Short Question 50: Why is seat belt used in vehicles?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 1: Explain distance and displacement with examples and differences.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "distance displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 2: Explain speed, velocity and acceleration with SI units and formulas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "speed velocity acceleration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 3: Derive the first equation of motion: v = u + at.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 4: Derive the second equation of motion: s = ut + 1/2 at².",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 5: Derive the third equation of motion: v² = u² + 2as.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "equations of motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 6: Explain distance-time and velocity-time graphs with their slopes and areas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "motion graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 7: State and explain Newton’s first law of motion with daily life examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 8: State and explain Newton’s second law of motion and derive F = ma.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 9: State and explain Newton’s third law of motion with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 10: Explain inertia and its types/examples in daily life.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "inertia"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 11: Define momentum and impulse. Explain impulse-momentum theorem.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum impulse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 12: State and explain law of conservation of momentum with example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "momentum conservation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 13: Explain friction, its types, advantages and disadvantages.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 14: Explain methods of reducing friction and increasing friction where needed.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "friction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 15: Differentiate between mass and weight in detail.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "mass weight"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 16: Explain free fall and motion under gravity with equations.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "free fall"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 17: Explain projectile motion and its horizontal and vertical components.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "projectile"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 18: Explain uniform circular motion, centripetal acceleration and centripetal force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "circular motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 19: Describe tension and normal reaction with examples of connected bodies and surfaces.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Motion and Force",
+    "chapterId": "Motion and Force",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on applications of Newton’s laws in daily life.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Motion and Force",
+      "Newton laws"
+    ]
+  }
+]

@@ -1,0 +1,679 @@
+{
+  "totalQuestions": 16333,
+  "totalFiles": 96,
+  "generatedAt": "2026-05-18T10:24:59.241Z",
+  "files": [
+    {
+      "file": "data/question-bank/10th/chemistry/acids-bases-and-salts.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/atmosphere.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/biochemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/chemical-equilibrium.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/chemical-industries.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/hydrocarbons.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/organic-chemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/chemistry/water.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/basic-statistics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/introduction-to-trigonometry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/partial-fractions.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/projection-of-a-side-of-a-triangle.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/quadratic-equations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/sets-and-functions.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/theory-of-quadratic-equations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/math/variations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/basic-electronics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/current-electricity.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/electromagnetism.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/electrostatics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/geometrical-optics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/information-technology.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/simple-harmonic-motion-and-waves.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/10th/physics/sound.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/atomic-structure.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/basic-concepts.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/chemical-bonding.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/chemical-equilibrium.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/experimental-techniques.json",
+      "total": 183,
+      "mcq": 113,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/gases.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/liquids-and-solids.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/chemistry/thermochemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/mathematical-induction.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/matrices-and-determinants.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/number-systems.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/permutations-combinations-and-probability.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/quadratic-equations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/sequences-and-series.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/sets-functions-and-groups.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/math/trigonometric-functions.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/circular-motion.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/fluid-dynamics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/measurements.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/motion-and-force.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/oscillations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/vectors-and-equilibrium.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/waves.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/1st-year/physics/work-and-energy.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/group-iiia-and-iva-elements.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/group-va-and-via-elements.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/hydrocarbons.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/macromolecules.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/organic-chemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/periodic-classification.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/s-block-elements.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/chemistry/transition-elements.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/conic-sections.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/differentiation.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/functions-and-limits.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/integration.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/introduction-to-analytic-geometry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/linear-programming.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/probability.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/math/vectors.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/alternating-current.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/current-electricity.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/electromagnetic-induction.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/electromagnetism.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/electronics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/electrostatics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/modern-physics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/2nd-year/physics/physics-of-solids.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/chemical-reactivity.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/electrochemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/fundamentals-of-chemistry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/periodic-table.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/physical-states-of-matter.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/solutions.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/structure-of-atoms.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/chemistry/structure-of-molecules.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/algebraic-expressions.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/congruent-triangles.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/coordinate-geometry.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/factorization.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/linear-equations.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/logarithms.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/matrices-and-determinants.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/math/real-and-complex-numbers.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/dynamics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/gravitation.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/kinematics.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/physical-quantities-and-measurement.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/properties-of-matter.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/thermal-properties.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/turning-effect-of-forces.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    },
+    {
+      "file": "data/question-bank/9th/physics/work-and-energy.json",
+      "total": 170,
+      "mcq": 100,
+      "short": 50,
+      "long": 20
+    }
+  ]
+}

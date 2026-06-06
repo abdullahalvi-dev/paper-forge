@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 1: The order of a matrix having 3 rows and 4 columns is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix order"
+    ],
+    "options": [
+      "3 × 4",
+      "4 × 3",
+      "7 × 1",
+      "1 × 7"
+    ],
+    "correctAnswer": "3 × 4",
+    "explanation": "Order is rows × columns."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 2: A matrix with only one row is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "types of matrices"
+    ],
+    "options": [
+      "Row matrix",
+      "Column matrix",
+      "Square matrix",
+      "Null matrix"
+    ],
+    "correctAnswer": "Row matrix",
+    "explanation": "A one-row matrix is a row matrix."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 3: A matrix with only one column is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "types of matrices"
+    ],
+    "options": [
+      "Column matrix",
+      "Row matrix",
+      "Diagonal matrix",
+      "Identity matrix"
+    ],
+    "correctAnswer": "Column matrix",
+    "explanation": "A one-column matrix is a column matrix."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 4: A matrix with equal number of rows and columns is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "square matrix"
+    ],
+    "options": [
+      "Square matrix",
+      "Rectangular matrix",
+      "Row matrix",
+      "Column matrix"
+    ],
+    "correctAnswer": "Square matrix",
+    "explanation": "A square matrix has equal rows and columns."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 5: A matrix whose all entries are zero is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "null matrix"
+    ],
+    "options": [
+      "Null matrix",
+      "Unit matrix",
+      "Scalar matrix",
+      "Diagonal matrix"
+    ],
+    "correctAnswer": "Null matrix",
+    "explanation": "All-zero matrix is a null matrix."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 6: A diagonal matrix whose diagonal entries are all equal is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "scalar matrix"
+    ],
+    "options": [
+      "Scalar matrix",
+      "Null matrix",
+      "Rectangular matrix",
+      "Skew matrix"
+    ],
+    "correctAnswer": "Scalar matrix",
+    "explanation": "A scalar matrix is a diagonal matrix with equal diagonal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 7: In an identity matrix, diagonal elements are:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "identity matrix"
+    ],
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Any number"
+    ],
+    "correctAnswer": "1",
+    "explanation": "All principal diagonal entries of identity matrix are 1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 8: Two matrices can be added only when they have:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix addition"
+    ],
+    "options": [
+      "Same order",
+      "Same determinant",
+      "Same inverse",
+      "Same trace"
+    ],
+    "correctAnswer": "Same order",
+    "explanation": "Addition is possible only for matrices of same order."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 9: Matrix multiplication AB is defined if:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix multiplication"
+    ],
+    "options": [
+      "Columns of A = rows of B",
+      "A and B have same order",
+      "A and B are row matrices",
+      "A and B have same determinant"
+    ],
+    "correctAnswer": "Columns of A = rows of B",
+    "explanation": "For AB, columns of A must match rows of B."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 10: If A is 2 × 3 and B is 3 × 4, AB has order:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix multiplication"
+    ],
+    "options": [
+      "2 × 4",
+      "3 × 3",
+      "4 × 2",
+      "2 × 3"
+    ],
+    "correctAnswer": "2 × 4",
+    "explanation": "Product order is rows of A × columns of B."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 11: In general, matrix multiplication is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "properties"
+    ],
+    "options": [
+      "Not commutative",
+      "Always commutative",
+      "Same as scalar multiplication",
+      "Undefined for square matrices"
+    ],
+    "correctAnswer": "Not commutative",
+    "explanation": "Generally AB ≠ BA."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 12: Transpose of a matrix is obtained by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "transpose"
+    ],
+    "options": [
+      "Interchanging rows and columns",
+      "Changing all signs",
+      "Finding determinant",
+      "Multiplying diagonals"
+    ],
+    "correctAnswer": "Interchanging rows and columns",
+    "explanation": "Rows become columns in transpose."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 13: If A is 2 × 3, then Aᵀ has order:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "transpose"
+    ],
+    "options": [
+      "3 × 2",
+      "2 × 3",
+      "2 × 2",
+      "3 × 3"
+    ],
+    "correctAnswer": "3 × 2",
+    "explanation": "Transpose reverses the order."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 14: For any matrix A, (Aᵀ)ᵀ equals:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "transpose"
+    ],
+    "options": [
+      "A",
+      "-A",
+      "A⁻¹",
+      "O"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Transpose twice returns original matrix."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 15: (AB)ᵀ equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "transpose"
+    ],
+    "options": [
+      "BᵀAᵀ",
+      "AᵀBᵀ",
+      "AB",
+      "BA"
+    ],
+    "correctAnswer": "BᵀAᵀ",
+    "explanation": "Transpose of product reverses order."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 16: A square matrix A is symmetric if:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "symmetric matrix"
+    ],
+    "options": [
+      "Aᵀ = A",
+      "Aᵀ = -A",
+      "A² = A",
+      "A = O"
+    ],
+    "correctAnswer": "Aᵀ = A",
+    "explanation": "Symmetric matrix equals its transpose."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 17: A square matrix A is skew-symmetric if:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "skew symmetric"
+    ],
+    "options": [
+      "Aᵀ = -A",
+      "Aᵀ = A",
+      "A² = I",
+      "A = I"
+    ],
+    "correctAnswer": "Aᵀ = -A",
+    "explanation": "Skew-symmetric matrix satisfies Aᵀ = -A."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 18: Diagonal elements of a skew-symmetric matrix are:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "skew symmetric"
+    ],
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "Any equal number"
+    ],
+    "correctAnswer": "0",
+    "explanation": "aii = -aii implies aii = 0."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 19: The determinant of [[a,b],[c,d]] is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "ad - bc",
+      "ab - cd",
+      "ac - bd",
+      "ad + bc"
+    ],
+    "correctAnswer": "ad - bc",
+    "explanation": "2 × 2 determinant equals ad - bc."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 20: The determinant of [[2,3],[4,5]] is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "-2",
+      "2",
+      "22",
+      "10"
+    ],
+    "correctAnswer": "-2",
+    "explanation": "2×5 - 3×4 = -2."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 21: If determinant of a square matrix is zero, matrix is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "singular matrix"
+    ],
+    "options": [
+      "Singular",
+      "Non-singular",
+      "Identity",
+      "Scalar"
+    ],
+    "correctAnswer": "Singular",
+    "explanation": "Zero determinant means singular."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 22: A matrix has inverse only if it is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "Non-singular square matrix",
+      "Singular matrix",
+      "Rectangular matrix",
+      "Null matrix"
+    ],
+    "correctAnswer": "Non-singular square matrix",
+    "explanation": "Inverse exists for square matrices with non-zero determinant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 23: The determinant of a diagonal matrix equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "Product of diagonal elements",
+      "Sum of all elements",
+      "Product of non-diagonal elements",
+      "Zero always"
+    ],
+    "correctAnswer": "Product of diagonal elements",
+    "explanation": "For diagonal matrices, determinant is product of diagonal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 24: If two rows of a determinant are identical, determinant is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant properties"
+    ],
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "Double"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Identical rows make determinant zero."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 25: If two columns of a determinant are interchanged, determinant:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant properties"
+    ],
+    "options": [
+      "Changes sign",
+      "Remains same",
+      "Becomes zero always",
+      "Becomes one"
+    ],
+    "correctAnswer": "Changes sign",
+    "explanation": "Interchanging two rows or columns changes sign."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 26: Minor of an element is obtained by deleting:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "minor"
+    ],
+    "options": [
+      "Its row and column",
+      "Only row",
+      "Only column",
+      "Main diagonal"
+    ],
+    "correctAnswer": "Its row and column",
+    "explanation": "Minor is determinant after deleting that row and column."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 27: Cofactor Aij equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cofactor"
+    ],
+    "options": [
+      "(-1)^(i+j) times minor",
+      "i+j times minor",
+      "Only minor",
+      "Negative determinant"
+    ],
+    "correctAnswer": "(-1)^(i+j) times minor",
+    "explanation": "Cofactor includes sign factor."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 28: Adjoint of A is transpose of:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "adjoint"
+    ],
+    "options": [
+      "Cofactor matrix",
+      "Original matrix",
+      "Inverse matrix",
+      "Zero matrix"
+    ],
+    "correctAnswer": "Cofactor matrix",
+    "explanation": "Adjoint is transpose of cofactor matrix."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 29: For non-singular A, A⁻¹ equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "adj(A)/|A|",
+      "|A|/adj(A)",
+      "A/|A|",
+      "adj(A)|A|"
+    ],
+    "correctAnswer": "adj(A)/|A|",
+    "explanation": "A inverse = adj(A)/det(A)."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 30: If |A| = 0, A⁻¹:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "Does not exist",
+      "Equals A",
+      "Equals I",
+      "Equals O"
+    ],
+    "correctAnswer": "Does not exist",
+    "explanation": "Inverse requires non-zero determinant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 31: For square matrices A and B, |AB| equals:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "|A||B|",
+      "|A| + |B|",
+      "|A| - |B|",
+      "|A|/|B|"
+    ],
+    "correctAnswer": "|A||B|",
+    "explanation": "Determinant of product equals product of determinants."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 32: Cramer’s rule is used to solve:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "System of linear equations",
+      "Quadratic equations only",
+      "Trigonometric identities",
+      "Logarithmic equations only"
+    ],
+    "correctAnswer": "System of linear equations",
+    "explanation": "Cramer’s rule solves linear systems by determinants."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 33: Cramer’s rule applies when coefficient determinant is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Non-zero",
+      "Zero",
+      "Negative only",
+      "One only"
+    ],
+    "correctAnswer": "Non-zero",
+    "explanation": "Unique solution requires D ≠ 0."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 34: The inverse method for AX = B gives:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse method"
+    ],
+    "options": [
+      "X = A⁻¹B",
+      "X = AB⁻¹",
+      "X = BA⁻¹",
+      "X = A + B"
+    ],
+    "correctAnswer": "X = A⁻¹B",
+    "explanation": "Left multiply by A inverse."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 35: Determinant is defined only for:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "Square matrices",
+      "All rectangular matrices",
+      "Row matrices only",
+      "Column matrices only"
+    ],
+    "correctAnswer": "Square matrices",
+    "explanation": "Only square matrices have determinants."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 36: If AB = BA = I, then B is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "Inverse of A",
+      "Transpose of A",
+      "Minor of A",
+      "Cofactor of A"
+    ],
+    "correctAnswer": "Inverse of A",
+    "explanation": "B satisfying AB = BA = I is A inverse."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 37: For invertible A and B, (AB)⁻¹ equals:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "B⁻¹A⁻¹",
+      "A⁻¹B⁻¹",
+      "AB",
+      "BA"
+    ],
+    "correctAnswer": "B⁻¹A⁻¹",
+    "explanation": "Inverse of product reverses order."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 38: For square matrix A, |Aᵀ| equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "|A|",
+      "-|A|",
+      "0",
+      "1/|A|"
+    ],
+    "correctAnswer": "|A|",
+    "explanation": "Transpose preserves determinant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 39: If A is 3 × 3, number of elements in A is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix order"
+    ],
+    "options": [
+      "9",
+      "6",
+      "3",
+      "12"
+    ],
+    "correctAnswer": "9",
+    "explanation": "3×3 = 9 entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 40: The element a23 is in:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix notation"
+    ],
+    "options": [
+      "2nd row and 3rd column",
+      "3rd row and 2nd column",
+      "2nd column and 3rd row",
+      "3rd diagonal"
+    ],
+    "correctAnswer": "2nd row and 3rd column",
+    "explanation": "First subscript is row, second is column."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 41: Trace of [[1,2],[3,4]] is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "trace"
+    ],
+    "options": [
+      "5",
+      "10",
+      "-2",
+      "3"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Trace = 1 + 4 = 5."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 42: Adding a multiple of one row to another row makes determinant:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant properties"
+    ],
+    "options": [
+      "Unchanged",
+      "Zero",
+      "Change sign",
+      "Squared"
+    ],
+    "correctAnswer": "Unchanged",
+    "explanation": "This row operation does not change determinant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 43: The determinant of [[0,1],[1,0]] is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "-1",
+      "1",
+      "0",
+      "2"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "0×0 - 1×1 = -1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 44: If A = [[1,2],[2,4]], then A is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "singular matrix"
+    ],
+    "options": [
+      "Singular",
+      "Non-singular",
+      "Identity",
+      "Diagonal"
+    ],
+    "correctAnswer": "Singular",
+    "explanation": "Determinant is 1×4 - 2×2 = 0."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 45: If A is 3 × 3, |kA| equals (case 45):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 46: For Cramer’s rule, x is (case 46):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 47: For Cramer’s rule, y is (case 47):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 48: The inverse of [[a,b],[c,d]] includes matrix (case 48):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 49: Matrices A and B are equal if (case 49):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 50: If coefficient determinant D ≠ 0, system has (case 50):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 51: The determinant of [[3,0],[0,4]] is (case 51):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "12",
+      "7",
+      "-12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "explanation": "For diagonal matrix determinant = 3×4 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 52: The determinant of [[5,2],[0,3]] is (case 52):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "15",
+      "10",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Triangular determinant = 5×3 = 15."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 53: If |A| = 2 and |B| = 3, |AB| is (case 53):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "6",
+      "5",
+      "1",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "|AB| = |A||B| = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 54: If A is 2 × 2, |kA| equals (case 54):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k²|A|",
+      "k|A|",
+      "2k|A|",
+      "|A|/k"
+    ],
+    "correctAnswer": "k²|A|",
+    "explanation": "For order 2, |kA| = k²|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 55: If A is 3 × 3, |kA| equals (case 55):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 56: For Cramer’s rule, x is (case 56):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 57: For Cramer’s rule, y is (case 57):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 58: The inverse of [[a,b],[c,d]] includes matrix (case 58):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 59: Matrices A and B are equal if (case 59):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 60: If coefficient determinant D ≠ 0, system has (case 60):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 61: The determinant of [[3,0],[0,4]] is (case 61):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "12",
+      "7",
+      "-12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "explanation": "For diagonal matrix determinant = 3×4 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 62: The determinant of [[5,2],[0,3]] is (case 62):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "15",
+      "10",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Triangular determinant = 5×3 = 15."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 63: If |A| = 2 and |B| = 3, |AB| is (case 63):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "6",
+      "5",
+      "1",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "|AB| = |A||B| = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 64: If A is 2 × 2, |kA| equals (case 64):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k²|A|",
+      "k|A|",
+      "2k|A|",
+      "|A|/k"
+    ],
+    "correctAnswer": "k²|A|",
+    "explanation": "For order 2, |kA| = k²|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 65: If A is 3 × 3, |kA| equals (case 65):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 66: For Cramer’s rule, x is (case 66):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 67: For Cramer’s rule, y is (case 67):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 68: The inverse of [[a,b],[c,d]] includes matrix (case 68):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 69: Matrices A and B are equal if (case 69):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 70: If coefficient determinant D ≠ 0, system has (case 70):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 71: The determinant of [[3,0],[0,4]] is (case 71):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "12",
+      "7",
+      "-12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "explanation": "For diagonal matrix determinant = 3×4 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 72: The determinant of [[5,2],[0,3]] is (case 72):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "15",
+      "10",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Triangular determinant = 5×3 = 15."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 73: If |A| = 2 and |B| = 3, |AB| is (case 73):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "6",
+      "5",
+      "1",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "|AB| = |A||B| = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 74: If A is 2 × 2, |kA| equals (case 74):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k²|A|",
+      "k|A|",
+      "2k|A|",
+      "|A|/k"
+    ],
+    "correctAnswer": "k²|A|",
+    "explanation": "For order 2, |kA| = k²|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 75: If A is 3 × 3, |kA| equals (case 75):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 76: For Cramer’s rule, x is (case 76):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 77: For Cramer’s rule, y is (case 77):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 78: The inverse of [[a,b],[c,d]] includes matrix (case 78):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 79: Matrices A and B are equal if (case 79):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 80: If coefficient determinant D ≠ 0, system has (case 80):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 81: The determinant of [[3,0],[0,4]] is (case 81):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "12",
+      "7",
+      "-12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "explanation": "For diagonal matrix determinant = 3×4 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 82: The determinant of [[5,2],[0,3]] is (case 82):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "15",
+      "10",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Triangular determinant = 5×3 = 15."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 83: If |A| = 2 and |B| = 3, |AB| is (case 83):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "6",
+      "5",
+      "1",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "|AB| = |A||B| = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 84: If A is 2 × 2, |kA| equals (case 84):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k²|A|",
+      "k|A|",
+      "2k|A|",
+      "|A|/k"
+    ],
+    "correctAnswer": "k²|A|",
+    "explanation": "For order 2, |kA| = k²|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 85: If A is 3 × 3, |kA| equals (case 85):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 86: For Cramer’s rule, x is (case 86):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 87: For Cramer’s rule, y is (case 87):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 88: The inverse of [[a,b],[c,d]] includes matrix (case 88):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 89: Matrices A and B are equal if (case 89):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 90: If coefficient determinant D ≠ 0, system has (case 90):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 91: The determinant of [[3,0],[0,4]] is (case 91):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "12",
+      "7",
+      "-12",
+      "0"
+    ],
+    "correctAnswer": "12",
+    "explanation": "For diagonal matrix determinant = 3×4 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 92: The determinant of [[5,2],[0,3]] is (case 92):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinant"
+    ],
+    "options": [
+      "15",
+      "10",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Triangular determinant = 5×3 = 15."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 93: If |A| = 2 and |B| = 3, |AB| is (case 93):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "6",
+      "5",
+      "1",
+      "-6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "|AB| = |A||B| = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 94: If A is 2 × 2, |kA| equals (case 94):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k²|A|",
+      "k|A|",
+      "2k|A|",
+      "|A|/k"
+    ],
+    "correctAnswer": "k²|A|",
+    "explanation": "For order 2, |kA| = k²|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 95: If A is 3 × 3, |kA| equals (case 95):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "determinants"
+    ],
+    "options": [
+      "k³|A|",
+      "k²|A|",
+      "k|A|",
+      "3|A|"
+    ],
+    "correctAnswer": "k³|A|",
+    "explanation": "For order 3, |kA| = k³|A|."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 96: For Cramer’s rule, x is (case 96):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dx/D",
+      "D/Dx",
+      "Dy/D",
+      "D/Dy"
+    ],
+    "correctAnswer": "Dx/D",
+    "explanation": "Cramer’s rule gives x = Dx/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 97: For Cramer’s rule, y is (case 97):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "cramers rule"
+    ],
+    "options": [
+      "Dy/D",
+      "D/Dy",
+      "Dx/D",
+      "D/Dx"
+    ],
+    "correctAnswer": "Dy/D",
+    "explanation": "Cramer’s rule gives y = Dy/D."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 98: The inverse of [[a,b],[c,d]] includes matrix (case 98):",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "inverse matrix"
+    ],
+    "options": [
+      "[[d,-b],[-c,a]]",
+      "[[a,-b],[-c,d]]",
+      "[[d,b],[c,a]]",
+      "[[-d,b],[c,-a]]"
+    ],
+    "correctAnswer": "[[d,-b],[-c,a]]",
+    "explanation": "Swap a,d and change signs of b,c."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 99: Matrices A and B are equal if (case 99):",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "matrix equality"
+    ],
+    "options": [
+      "Same order and corresponding entries equal",
+      "Only determinants equal",
+      "Only orders equal",
+      "Only traces equal"
+    ],
+    "correctAnswer": "Same order and corresponding entries equal",
+    "explanation": "Matrix equality requires same order and equal entries."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "mcq",
+    "question": "MCQ 100: If coefficient determinant D ≠ 0, system has (case 100):",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "linear equations"
+    ],
+    "options": [
+      "Unique solution",
+      "No solution always",
+      "Infinite solutions always",
+      "No variables"
+    ],
+    "correctAnswer": "Unique solution",
+    "explanation": "Non-zero determinant gives unique solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 1: Define a matrix and give one example.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 2: What is meant by the order of a matrix?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 3: Define row matrix.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 4: Define column matrix.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 5: Define square matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 6: Define null matrix.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 7: Define diagonal matrix.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 8: Define scalar matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 9: Define identity matrix.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 10: What is meant by equal matrices?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 11: State the condition for addition of two matrices.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 12: State the condition for multiplication of two matrices.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 13: What is the transpose of a matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 14: Define symmetric matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 15: Define skew-symmetric matrix.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 16: What is a determinant?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 17: Write the formula for determinant of a 2 × 2 matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 18: What is a singular matrix?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 19: What is a non-singular matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 20: Define minor of an element.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 21: Define cofactor of an element.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 22: What is adjoint of a matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 23: State the formula for inverse of a matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 24: When does inverse of a matrix exist?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 25: State Cramer’s rule for two variables.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 26: What is coefficient matrix?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 27: What is augmented matrix?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 28: What is meant by trace of a matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 29: Write one property of determinants involving identical rows.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 30: Write one property of determinants involving row interchange.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 31: What happens to determinant if one row is multiplied by a constant?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 32: What is the determinant of an identity matrix?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 33: What is the determinant of a triangular matrix?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 34: What is the additive inverse of a matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 35: What is the additive identity matrix?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 36: Why is matrix multiplication not always commutative?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 37: State associative law of matrix addition.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 38: State distributive law of matrix multiplication over addition.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 39: Find the order of a matrix with 4 rows and 2 columns.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 40: How many elements are in a 3 × 5 matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 41: Locate the element a23 in a matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 42: What is meant by principal diagonal?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 43: What is a rectangular matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 44: What is an invertible matrix?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 45: State the relation between |A| and |Aᵀ|.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 46: What is the determinant of a zero matrix?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 47: What is the inverse method for solving AX = B?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 48: When can Cramer’s rule not be applied?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 49: Differentiate between minor and cofactor.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "short",
+    "question": "Short Question 50: Write the inverse formula for a 2 × 2 matrix.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 1: Explain different types of matrices with suitable examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 2: Describe matrix addition and subtraction with their properties and examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 3: Explain matrix multiplication. State its condition and solve one example.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 4: Discuss transpose of a matrix and prove basic transpose properties.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 5: Explain symmetric and skew-symmetric matrices with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 6: Define determinant and explain the method of finding determinant of a 3 × 3 matrix.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 7: State and explain important properties of determinants with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 8: Explain minors and cofactors of a determinant with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 9: Describe the method of finding adjoint of a square matrix.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 10: Derive and explain the inverse formula of a 2 × 2 matrix.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 11: Find inverse of a square matrix using adjoint method and explain all steps.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 12: Explain singular and non-singular matrices with determinant-based examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 13: Solve a system of two linear equations using Cramer’s rule.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 14: Solve a system of three linear equations using determinants.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 15: Explain the inverse matrix method for solving simultaneous linear equations.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 16: Compare Cramer’s rule and inverse matrix method for solving equations.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 17: Prove that determinant of a matrix is equal to determinant of its transpose.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 18: Explain how row and column operations affect the value of determinant.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 19: Discuss applications of matrices in solving linear equations.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Matrices and Determinants",
+    "chapterId": "Matrices and Determinants",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on matrices and determinants as used in 1st Year Mathematics.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Matrices and Determinants",
+      "long question"
+    ]
+  }
+]

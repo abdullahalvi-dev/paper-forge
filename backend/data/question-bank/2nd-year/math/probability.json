@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 1: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 1.",
+      "It skips the rule of mean and guesses the Probability answer 1.",
+      "It changes the given values before applying mean in Probability problem 2.",
+      "It uses a diagram only and avoids the needed mean calculation 3."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 1.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 2: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 2.",
+      "The correct method is to apply median and verify each step in Probability item 2.",
+      "It changes the given values before applying median in Probability problem 3.",
+      "It uses a diagram only and avoids the needed median calculation 4."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 2.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 3: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 3.",
+      "It changes the given values before applying mode in Probability problem 4.",
+      "mode is the rule needed to solve this Probability problem 3.",
+      "It uses a diagram only and avoids the needed mode calculation 5."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 3.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 4: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 4.",
+      "It changes the given values before applying variance in Probability problem 5.",
+      "It uses a diagram only and avoids the needed variance calculation 6.",
+      "This choice correctly uses variance to complete the Probability calculation 4."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 4.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 5: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 5.",
+      "It skips the rule of event and guesses the Probability answer 5.",
+      "It changes the given values before applying event in Probability problem 6.",
+      "It uses a diagram only and avoids the needed event calculation 7."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 5.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 6: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 6.",
+      "The correct method is to apply sample space and verify each step in Probability item 6.",
+      "It changes the given values before applying sample space in Probability problem 7.",
+      "It uses a diagram only and avoids the needed sample space calculation 8."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 6.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 7: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 7.",
+      "It changes the given values before applying permutation in Probability problem 8.",
+      "permutation is the rule needed to solve this Probability problem 7.",
+      "It uses a diagram only and avoids the needed permutation calculation 9."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 7.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 8: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 8.",
+      "It changes the given values before applying combination in Probability problem 9.",
+      "It uses a diagram only and avoids the needed combination calculation 10.",
+      "This choice correctly uses combination to complete the Probability calculation 8."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 8.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 9: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 9.",
+      "It skips the rule of mean and guesses the Probability answer 9.",
+      "It changes the given values before applying mean in Probability problem 10.",
+      "It uses a diagram only and avoids the needed mean calculation 11."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 9.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 10: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 10.",
+      "The correct method is to apply median and verify each step in Probability item 10.",
+      "It changes the given values before applying median in Probability problem 11.",
+      "It uses a diagram only and avoids the needed median calculation 12."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 10.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 11: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 11.",
+      "It changes the given values before applying mode in Probability problem 12.",
+      "mode is the rule needed to solve this Probability problem 11.",
+      "It uses a diagram only and avoids the needed mode calculation 13."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 11.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 12: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 12.",
+      "It changes the given values before applying variance in Probability problem 13.",
+      "It uses a diagram only and avoids the needed variance calculation 14.",
+      "This choice correctly uses variance to complete the Probability calculation 12."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 12.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 13: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 13.",
+      "It skips the rule of event and guesses the Probability answer 13.",
+      "It changes the given values before applying event in Probability problem 14.",
+      "It uses a diagram only and avoids the needed event calculation 15."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 13.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 14: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 14.",
+      "The correct method is to apply sample space and verify each step in Probability item 14.",
+      "It changes the given values before applying sample space in Probability problem 15.",
+      "It uses a diagram only and avoids the needed sample space calculation 16."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 14.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 15: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 15.",
+      "It changes the given values before applying permutation in Probability problem 16.",
+      "permutation is the rule needed to solve this Probability problem 15.",
+      "It uses a diagram only and avoids the needed permutation calculation 17."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 15.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 16: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 16.",
+      "It changes the given values before applying combination in Probability problem 17.",
+      "It uses a diagram only and avoids the needed combination calculation 18.",
+      "This choice correctly uses combination to complete the Probability calculation 16."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 16.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 17: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 17.",
+      "It skips the rule of mean and guesses the Probability answer 17.",
+      "It changes the given values before applying mean in Probability problem 18.",
+      "It uses a diagram only and avoids the needed mean calculation 19."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 17.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 18: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 18.",
+      "The correct method is to apply median and verify each step in Probability item 18.",
+      "It changes the given values before applying median in Probability problem 19.",
+      "It uses a diagram only and avoids the needed median calculation 20."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 18.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 19: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 19.",
+      "It changes the given values before applying mode in Probability problem 20.",
+      "mode is the rule needed to solve this Probability problem 19.",
+      "It uses a diagram only and avoids the needed mode calculation 21."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 19.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 20: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 20.",
+      "It changes the given values before applying variance in Probability problem 21.",
+      "It uses a diagram only and avoids the needed variance calculation 22.",
+      "This choice correctly uses variance to complete the Probability calculation 20."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 20.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 21: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 21.",
+      "It skips the rule of event and guesses the Probability answer 21.",
+      "It changes the given values before applying event in Probability problem 22.",
+      "It uses a diagram only and avoids the needed event calculation 23."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 21.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 22: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 22.",
+      "The correct method is to apply sample space and verify each step in Probability item 22.",
+      "It changes the given values before applying sample space in Probability problem 23.",
+      "It uses a diagram only and avoids the needed sample space calculation 24."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 22.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 23: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 23.",
+      "It changes the given values before applying permutation in Probability problem 24.",
+      "permutation is the rule needed to solve this Probability problem 23.",
+      "It uses a diagram only and avoids the needed permutation calculation 25."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 23.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 24.",
+      "It changes the given values before applying combination in Probability problem 25.",
+      "It uses a diagram only and avoids the needed combination calculation 26.",
+      "This choice correctly uses combination to complete the Probability calculation 24."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 24.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 25: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 25.",
+      "It skips the rule of mean and guesses the Probability answer 25.",
+      "It changes the given values before applying mean in Probability problem 26.",
+      "It uses a diagram only and avoids the needed mean calculation 27."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 25.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 26: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 26.",
+      "The correct method is to apply median and verify each step in Probability item 26.",
+      "It changes the given values before applying median in Probability problem 27.",
+      "It uses a diagram only and avoids the needed median calculation 28."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 26.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 27: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 27.",
+      "It changes the given values before applying mode in Probability problem 28.",
+      "mode is the rule needed to solve this Probability problem 27.",
+      "It uses a diagram only and avoids the needed mode calculation 29."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 27.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 28: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 28.",
+      "It changes the given values before applying variance in Probability problem 29.",
+      "It uses a diagram only and avoids the needed variance calculation 30.",
+      "This choice correctly uses variance to complete the Probability calculation 28."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 28.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 29: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 29.",
+      "It skips the rule of event and guesses the Probability answer 29.",
+      "It changes the given values before applying event in Probability problem 30.",
+      "It uses a diagram only and avoids the needed event calculation 31."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 29.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 30: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 30.",
+      "The correct method is to apply sample space and verify each step in Probability item 30.",
+      "It changes the given values before applying sample space in Probability problem 31.",
+      "It uses a diagram only and avoids the needed sample space calculation 32."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 30.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 31: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 31.",
+      "It changes the given values before applying permutation in Probability problem 32.",
+      "permutation is the rule needed to solve this Probability problem 31.",
+      "It uses a diagram only and avoids the needed permutation calculation 33."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 31.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 32: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 32.",
+      "It changes the given values before applying combination in Probability problem 33.",
+      "It uses a diagram only and avoids the needed combination calculation 34.",
+      "This choice correctly uses combination to complete the Probability calculation 32."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 32.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 33: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 33.",
+      "It skips the rule of mean and guesses the Probability answer 33.",
+      "It changes the given values before applying mean in Probability problem 34.",
+      "It uses a diagram only and avoids the needed mean calculation 35."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 33.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 34: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 34.",
+      "The correct method is to apply median and verify each step in Probability item 34.",
+      "It changes the given values before applying median in Probability problem 35.",
+      "It uses a diagram only and avoids the needed median calculation 36."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 34.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 35: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 35.",
+      "It changes the given values before applying mode in Probability problem 36.",
+      "mode is the rule needed to solve this Probability problem 35.",
+      "It uses a diagram only and avoids the needed mode calculation 37."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 35.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 36: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 36.",
+      "It changes the given values before applying variance in Probability problem 37.",
+      "It uses a diagram only and avoids the needed variance calculation 38.",
+      "This choice correctly uses variance to complete the Probability calculation 36."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 36.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 37: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 37.",
+      "It skips the rule of event and guesses the Probability answer 37.",
+      "It changes the given values before applying event in Probability problem 38.",
+      "It uses a diagram only and avoids the needed event calculation 39."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 37.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 38: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 38.",
+      "The correct method is to apply sample space and verify each step in Probability item 38.",
+      "It changes the given values before applying sample space in Probability problem 39.",
+      "It uses a diagram only and avoids the needed sample space calculation 40."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 38.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 39: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 39.",
+      "It changes the given values before applying permutation in Probability problem 40.",
+      "permutation is the rule needed to solve this Probability problem 39.",
+      "It uses a diagram only and avoids the needed permutation calculation 41."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 39.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 40: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 40.",
+      "It changes the given values before applying combination in Probability problem 41.",
+      "It uses a diagram only and avoids the needed combination calculation 42.",
+      "This choice correctly uses combination to complete the Probability calculation 40."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 40.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 41: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 41.",
+      "It skips the rule of mean and guesses the Probability answer 41.",
+      "It changes the given values before applying mean in Probability problem 42.",
+      "It uses a diagram only and avoids the needed mean calculation 43."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 41.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 42: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 42.",
+      "The correct method is to apply median and verify each step in Probability item 42.",
+      "It changes the given values before applying median in Probability problem 43.",
+      "It uses a diagram only and avoids the needed median calculation 44."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 42.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 43: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 43.",
+      "It changes the given values before applying mode in Probability problem 44.",
+      "mode is the rule needed to solve this Probability problem 43.",
+      "It uses a diagram only and avoids the needed mode calculation 45."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 43.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 44: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 44.",
+      "It changes the given values before applying variance in Probability problem 45.",
+      "It uses a diagram only and avoids the needed variance calculation 46.",
+      "This choice correctly uses variance to complete the Probability calculation 44."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 44.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 45: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 45.",
+      "It skips the rule of event and guesses the Probability answer 45.",
+      "It changes the given values before applying event in Probability problem 46.",
+      "It uses a diagram only and avoids the needed event calculation 47."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 45.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 46: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 46.",
+      "The correct method is to apply sample space and verify each step in Probability item 46.",
+      "It changes the given values before applying sample space in Probability problem 47.",
+      "It uses a diagram only and avoids the needed sample space calculation 48."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 46.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 47: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 47.",
+      "It changes the given values before applying permutation in Probability problem 48.",
+      "permutation is the rule needed to solve this Probability problem 47.",
+      "It uses a diagram only and avoids the needed permutation calculation 49."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 47.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 48.",
+      "It changes the given values before applying combination in Probability problem 49.",
+      "It uses a diagram only and avoids the needed combination calculation 50.",
+      "This choice correctly uses combination to complete the Probability calculation 48."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 48.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 49: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 49.",
+      "It skips the rule of mean and guesses the Probability answer 49.",
+      "It changes the given values before applying mean in Probability problem 50.",
+      "It uses a diagram only and avoids the needed mean calculation 51."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 49.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 50: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 50.",
+      "The correct method is to apply median and verify each step in Probability item 50.",
+      "It changes the given values before applying median in Probability problem 51.",
+      "It uses a diagram only and avoids the needed median calculation 52."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 50.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 51: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 51.",
+      "It changes the given values before applying mode in Probability problem 52.",
+      "mode is the rule needed to solve this Probability problem 51.",
+      "It uses a diagram only and avoids the needed mode calculation 53."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 51.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 52: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 52.",
+      "It changes the given values before applying variance in Probability problem 53.",
+      "It uses a diagram only and avoids the needed variance calculation 54.",
+      "This choice correctly uses variance to complete the Probability calculation 52."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 52.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 53: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 53.",
+      "It skips the rule of event and guesses the Probability answer 53.",
+      "It changes the given values before applying event in Probability problem 54.",
+      "It uses a diagram only and avoids the needed event calculation 55."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 53.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 54: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 54.",
+      "The correct method is to apply sample space and verify each step in Probability item 54.",
+      "It changes the given values before applying sample space in Probability problem 55.",
+      "It uses a diagram only and avoids the needed sample space calculation 56."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 54.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 55: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 55.",
+      "It changes the given values before applying permutation in Probability problem 56.",
+      "permutation is the rule needed to solve this Probability problem 55.",
+      "It uses a diagram only and avoids the needed permutation calculation 57."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 55.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 56: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 56.",
+      "It changes the given values before applying combination in Probability problem 57.",
+      "It uses a diagram only and avoids the needed combination calculation 58.",
+      "This choice correctly uses combination to complete the Probability calculation 56."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 56.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 57: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 57.",
+      "It skips the rule of mean and guesses the Probability answer 57.",
+      "It changes the given values before applying mean in Probability problem 58.",
+      "It uses a diagram only and avoids the needed mean calculation 59."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 57.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 58: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 58.",
+      "The correct method is to apply median and verify each step in Probability item 58.",
+      "It changes the given values before applying median in Probability problem 59.",
+      "It uses a diagram only and avoids the needed median calculation 60."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 58.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 59: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 59.",
+      "It changes the given values before applying mode in Probability problem 60.",
+      "mode is the rule needed to solve this Probability problem 59.",
+      "It uses a diagram only and avoids the needed mode calculation 61."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 59.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 60.",
+      "It changes the given values before applying variance in Probability problem 61.",
+      "It uses a diagram only and avoids the needed variance calculation 62.",
+      "This choice correctly uses variance to complete the Probability calculation 60."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 60.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 61: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 61.",
+      "It skips the rule of event and guesses the Probability answer 61.",
+      "It changes the given values before applying event in Probability problem 62.",
+      "It uses a diagram only and avoids the needed event calculation 63."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 61.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 62: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 62.",
+      "The correct method is to apply sample space and verify each step in Probability item 62.",
+      "It changes the given values before applying sample space in Probability problem 63.",
+      "It uses a diagram only and avoids the needed sample space calculation 64."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 62.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 63: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 63.",
+      "It changes the given values before applying permutation in Probability problem 64.",
+      "permutation is the rule needed to solve this Probability problem 63.",
+      "It uses a diagram only and avoids the needed permutation calculation 65."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 63.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 64: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 64.",
+      "It changes the given values before applying combination in Probability problem 65.",
+      "It uses a diagram only and avoids the needed combination calculation 66.",
+      "This choice correctly uses combination to complete the Probability calculation 64."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 64.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 65: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 65.",
+      "It skips the rule of mean and guesses the Probability answer 65.",
+      "It changes the given values before applying mean in Probability problem 66.",
+      "It uses a diagram only and avoids the needed mean calculation 67."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 65.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 66: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 66.",
+      "The correct method is to apply median and verify each step in Probability item 66.",
+      "It changes the given values before applying median in Probability problem 67.",
+      "It uses a diagram only and avoids the needed median calculation 68."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 66.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 67: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 67.",
+      "It changes the given values before applying mode in Probability problem 68.",
+      "mode is the rule needed to solve this Probability problem 67.",
+      "It uses a diagram only and avoids the needed mode calculation 69."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 67.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 68: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 68.",
+      "It changes the given values before applying variance in Probability problem 69.",
+      "It uses a diagram only and avoids the needed variance calculation 70.",
+      "This choice correctly uses variance to complete the Probability calculation 68."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 68.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 69: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 69.",
+      "It skips the rule of event and guesses the Probability answer 69.",
+      "It changes the given values before applying event in Probability problem 70.",
+      "It uses a diagram only and avoids the needed event calculation 71."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 69.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 70: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 70.",
+      "The correct method is to apply sample space and verify each step in Probability item 70.",
+      "It changes the given values before applying sample space in Probability problem 71.",
+      "It uses a diagram only and avoids the needed sample space calculation 72."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 70.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 71: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 71.",
+      "It changes the given values before applying permutation in Probability problem 72.",
+      "permutation is the rule needed to solve this Probability problem 71.",
+      "It uses a diagram only and avoids the needed permutation calculation 73."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 71.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 72.",
+      "It changes the given values before applying combination in Probability problem 73.",
+      "It uses a diagram only and avoids the needed combination calculation 74.",
+      "This choice correctly uses combination to complete the Probability calculation 72."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 72.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 73: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 73.",
+      "It skips the rule of mean and guesses the Probability answer 73.",
+      "It changes the given values before applying mean in Probability problem 74.",
+      "It uses a diagram only and avoids the needed mean calculation 75."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 73.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 74: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 74.",
+      "The correct method is to apply median and verify each step in Probability item 74.",
+      "It changes the given values before applying median in Probability problem 75.",
+      "It uses a diagram only and avoids the needed median calculation 76."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 74.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 75: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 75.",
+      "It changes the given values before applying mode in Probability problem 76.",
+      "mode is the rule needed to solve this Probability problem 75.",
+      "It uses a diagram only and avoids the needed mode calculation 77."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 75.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 76.",
+      "It changes the given values before applying variance in Probability problem 77.",
+      "It uses a diagram only and avoids the needed variance calculation 78.",
+      "This choice correctly uses variance to complete the Probability calculation 76."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 76.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 77: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 77.",
+      "It skips the rule of event and guesses the Probability answer 77.",
+      "It changes the given values before applying event in Probability problem 78.",
+      "It uses a diagram only and avoids the needed event calculation 79."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 77.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 78: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 78.",
+      "The correct method is to apply sample space and verify each step in Probability item 78.",
+      "It changes the given values before applying sample space in Probability problem 79.",
+      "It uses a diagram only and avoids the needed sample space calculation 80."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 78.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 79: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 79.",
+      "It changes the given values before applying permutation in Probability problem 80.",
+      "permutation is the rule needed to solve this Probability problem 79.",
+      "It uses a diagram only and avoids the needed permutation calculation 81."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 79.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 80: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 80.",
+      "It changes the given values before applying combination in Probability problem 81.",
+      "It uses a diagram only and avoids the needed combination calculation 82.",
+      "This choice correctly uses combination to complete the Probability calculation 80."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 80.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 81: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 81.",
+      "It skips the rule of mean and guesses the Probability answer 81.",
+      "It changes the given values before applying mean in Probability problem 82.",
+      "It uses a diagram only and avoids the needed mean calculation 83."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 81.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 82: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 82.",
+      "The correct method is to apply median and verify each step in Probability item 82.",
+      "It changes the given values before applying median in Probability problem 83.",
+      "It uses a diagram only and avoids the needed median calculation 84."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 82.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 83: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 83.",
+      "It changes the given values before applying mode in Probability problem 84.",
+      "mode is the rule needed to solve this Probability problem 83.",
+      "It uses a diagram only and avoids the needed mode calculation 85."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 83.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 84: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 84.",
+      "It changes the given values before applying variance in Probability problem 85.",
+      "It uses a diagram only and avoids the needed variance calculation 86.",
+      "This choice correctly uses variance to complete the Probability calculation 84."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 84.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 85: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 85.",
+      "It skips the rule of event and guesses the Probability answer 85.",
+      "It changes the given values before applying event in Probability problem 86.",
+      "It uses a diagram only and avoids the needed event calculation 87."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 85.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 86: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 86.",
+      "The correct method is to apply sample space and verify each step in Probability item 86.",
+      "It changes the given values before applying sample space in Probability problem 87.",
+      "It uses a diagram only and avoids the needed sample space calculation 88."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 86.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 87: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 87.",
+      "It changes the given values before applying permutation in Probability problem 88.",
+      "permutation is the rule needed to solve this Probability problem 87.",
+      "It uses a diagram only and avoids the needed permutation calculation 89."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 87.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 88: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 88.",
+      "It changes the given values before applying combination in Probability problem 89.",
+      "It uses a diagram only and avoids the needed combination calculation 90.",
+      "This choice correctly uses combination to complete the Probability calculation 88."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 88.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 89: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 89.",
+      "It skips the rule of mean and guesses the Probability answer 89.",
+      "It changes the given values before applying mean in Probability problem 90.",
+      "It uses a diagram only and avoids the needed mean calculation 91."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 89.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 90: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 90.",
+      "The correct method is to apply median and verify each step in Probability item 90.",
+      "It changes the given values before applying median in Probability problem 91.",
+      "It uses a diagram only and avoids the needed median calculation 92."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 90.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 91: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 91.",
+      "It changes the given values before applying mode in Probability problem 92.",
+      "mode is the rule needed to solve this Probability problem 91.",
+      "It uses a diagram only and avoids the needed mode calculation 93."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 91.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 92: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 92.",
+      "It changes the given values before applying variance in Probability problem 93.",
+      "It uses a diagram only and avoids the needed variance calculation 94.",
+      "This choice correctly uses variance to complete the Probability calculation 92."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 92.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 93: In 2nd Year Math chapter \"Probability\", what is the correct approach for event?",
+    "options": [
+      "Use event step by step to reach the correct result in Probability question 93.",
+      "It skips the rule of event and guesses the Probability answer 93.",
+      "It changes the given values before applying event in Probability problem 94.",
+      "It uses a diagram only and avoids the needed event calculation 95."
+    ],
+    "correctAnswer": "Use event step by step to reach the correct result in Probability question 93.",
+    "explanation": "The correct option connects event with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 94: Which option is a valid step when using sample space in \"Probability\"?",
+    "options": [
+      "It skips the rule of sample space and guesses the Probability answer 94.",
+      "The correct method is to apply sample space and verify each step in Probability item 94.",
+      "It changes the given values before applying sample space in Probability problem 95.",
+      "It uses a diagram only and avoids the needed sample space calculation 96."
+    ],
+    "correctAnswer": "The correct method is to apply sample space and verify each step in Probability item 94.",
+    "explanation": "The correct option connects sample space with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 95: For problems from \"Probability\", why is permutation useful?",
+    "options": [
+      "It skips the rule of permutation and guesses the Probability answer 95.",
+      "It changes the given values before applying permutation in Probability problem 96.",
+      "permutation is the rule needed to solve this Probability problem 95.",
+      "It uses a diagram only and avoids the needed permutation calculation 97."
+    ],
+    "correctAnswer": "permutation is the rule needed to solve this Probability problem 95.",
+    "explanation": "The correct option connects permutation with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 96: Which statement is correct about combination?",
+    "options": [
+      "It skips the rule of combination and guesses the Probability answer 96.",
+      "It changes the given values before applying combination in Probability problem 97.",
+      "It uses a diagram only and avoids the needed combination calculation 98.",
+      "This choice correctly uses combination to complete the Probability calculation 96."
+    ],
+    "correctAnswer": "This choice correctly uses combination to complete the Probability calculation 96.",
+    "explanation": "The correct option connects combination with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 97: In 2nd Year Math chapter \"Probability\", what is the correct approach for mean?",
+    "options": [
+      "Use mean step by step to reach the correct result in Probability question 97.",
+      "It skips the rule of mean and guesses the Probability answer 97.",
+      "It changes the given values before applying mean in Probability problem 98.",
+      "It uses a diagram only and avoids the needed mean calculation 99."
+    ],
+    "correctAnswer": "Use mean step by step to reach the correct result in Probability question 97.",
+    "explanation": "The correct option connects mean with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 98: Which option is a valid step when using median in \"Probability\"?",
+    "options": [
+      "It skips the rule of median and guesses the Probability answer 98.",
+      "The correct method is to apply median and verify each step in Probability item 98.",
+      "It changes the given values before applying median in Probability problem 99.",
+      "It uses a diagram only and avoids the needed median calculation 100."
+    ],
+    "correctAnswer": "The correct method is to apply median and verify each step in Probability item 98.",
+    "explanation": "The correct option connects median with the main learning point of Probability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 99: For problems from \"Probability\", why is mode useful?",
+    "options": [
+      "It skips the rule of mode and guesses the Probability answer 99.",
+      "It changes the given values before applying mode in Probability problem 100.",
+      "mode is the rule needed to solve this Probability problem 99.",
+      "It uses a diagram only and avoids the needed mode calculation 101."
+    ],
+    "correctAnswer": "mode is the rule needed to solve this Probability problem 99.",
+    "explanation": "The correct option connects mode with the main learning point of Probability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "mcq",
+    "question": "MCQ 100: Which statement is correct about variance?",
+    "options": [
+      "It skips the rule of variance and guesses the Probability answer 100.",
+      "It changes the given values before applying variance in Probability problem 101.",
+      "It uses a diagram only and avoids the needed variance calculation 102.",
+      "This choice correctly uses variance to complete the Probability calculation 100."
+    ],
+    "correctAnswer": "This choice correctly uses variance to complete the Probability calculation 100.",
+    "explanation": "The correct option connects variance with the main learning point of Probability.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 1: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 2: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 3: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 4: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 5: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 6: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 7: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 8: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 9: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 10: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 11: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 12: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 13: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 14: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 15: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 16: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 17: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 18: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 19: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 20: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 21: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 22: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 23: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 24: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 25: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 26: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 27: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 28: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 29: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 30: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 31: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 32: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 33: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 34: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 35: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 36: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 37: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 38: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 39: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 40: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 41: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 42: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 43: Mention two steps for solving a question involving mode.",
+    "options": [],
+    "correctAnswer": "mode is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mode.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 44: Give one example where variance is applied.",
+    "options": [],
+    "correctAnswer": "variance is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about variance.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 45: Define or state event in \"Probability\".",
+    "options": [],
+    "correctAnswer": "event is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about event.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 46: Write the main rule used for sample space.",
+    "options": [],
+    "correctAnswer": "sample space is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sample space.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 47: Mention two steps for solving a question involving permutation.",
+    "options": [],
+    "correctAnswer": "permutation is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about permutation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 48: Give one example where combination is applied.",
+    "options": [],
+    "correctAnswer": "combination is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about combination.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 49: Define or state mean in \"Probability\".",
+    "options": [],
+    "correctAnswer": "mean is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about mean.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "short",
+    "question": "Short Question 50: Write the main rule used for median.",
+    "options": [],
+    "correctAnswer": "median is a mathematical idea in Probability used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about median.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 1: Solve a detailed question involving mean from \"Probability\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for mean, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mean.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 2: Explain the method of median with a worked example from \"Probability\".",
+    "options": [],
+    "correctAnswer": "State the rule for median, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for median.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 3: Prove or verify the main result related to mode.",
+    "options": [],
+    "correctAnswer": "State the rule for mode, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mode.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 4: Write a detailed solution strategy for questions based on variance.",
+    "options": [],
+    "correctAnswer": "State the rule for variance, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for variance.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 5: Solve a detailed question involving event from \"Probability\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for event, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for event.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 6: Explain the method of sample space with a worked example from \"Probability\".",
+    "options": [],
+    "correctAnswer": "State the rule for sample space, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for sample space.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 7: Prove or verify the main result related to permutation.",
+    "options": [],
+    "correctAnswer": "State the rule for permutation, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for permutation.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 8: Write a detailed solution strategy for questions based on combination.",
+    "options": [],
+    "correctAnswer": "State the rule for combination, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for combination.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 9: Solve a detailed question involving mean from \"Probability\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for mean, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mean.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 10: Explain the method of median with a worked example from \"Probability\".",
+    "options": [],
+    "correctAnswer": "State the rule for median, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for median.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 11: Prove or verify the main result related to mode.",
+    "options": [],
+    "correctAnswer": "State the rule for mode, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mode.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 12: Write a detailed solution strategy for questions based on variance.",
+    "options": [],
+    "correctAnswer": "State the rule for variance, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for variance.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 13: Solve a detailed question involving event from \"Probability\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for event, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for event.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "event"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 14: Explain the method of sample space with a worked example from \"Probability\".",
+    "options": [],
+    "correctAnswer": "State the rule for sample space, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for sample space.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 15: Prove or verify the main result related to permutation.",
+    "options": [],
+    "correctAnswer": "State the rule for permutation, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for permutation.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 16: Write a detailed solution strategy for questions based on combination.",
+    "options": [],
+    "correctAnswer": "State the rule for combination, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for combination.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 17: Solve a detailed question involving mean from \"Probability\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for mean, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mean.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 18: Explain the method of median with a worked example from \"Probability\".",
+    "options": [],
+    "correctAnswer": "State the rule for median, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for median.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "median"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 19: Prove or verify the main result related to mode.",
+    "options": [],
+    "correctAnswer": "State the rule for mode, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for mode.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "mode"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Probability",
+    "chapterId": "Probability",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed solution strategy for questions based on variance.",
+    "options": [],
+    "correctAnswer": "State the rule for variance, write the step-by-step method, solve using the given relation, and verify the answer according to Probability.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for variance.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Probability",
+      "variance"
+    ]
+  }
+]

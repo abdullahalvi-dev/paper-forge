@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 1: Who discovered the electron?",
+    "options": [
+      "J. J. Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correctAnswer": "J. J. Thomson",
+    "explanation": "The correct answer is J. J. Thomson because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 2: Which particle has a negative charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Alpha particle"
+    ],
+    "correctAnswer": "Electron",
+    "explanation": "The correct answer is Electron because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 3: Which particle has a positive charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Photon"
+    ],
+    "correctAnswer": "Proton",
+    "explanation": "The correct answer is Proton because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 4: Which particle has no charge?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Positron"
+    ],
+    "correctAnswer": "Neutron",
+    "explanation": "The correct answer is Neutron because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 5: The nucleus of an atom was discovered by:",
+    "options": [
+      "Ernest Rutherford",
+      "J. J. Thomson",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "correctAnswer": "Ernest Rutherford",
+    "explanation": "The correct answer is Ernest Rutherford because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 6: The neutron was discovered by:",
+    "options": [
+      "James Chadwick",
+      "Rutherford",
+      "Bohr",
+      "Thomson"
+    ],
+    "correctAnswer": "James Chadwick",
+    "explanation": "The correct answer is James Chadwick because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 7: The proton was discovered by:",
+    "options": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "J. J. Thomson",
+      "Robert Millikan"
+    ],
+    "correctAnswer": "Ernest Rutherford",
+    "explanation": "The correct answer is Ernest Rutherford because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 8: The charge-to-mass ratio of electron was determined by:",
+    "options": [
+      "J. J. Thomson",
+      "R. A. Millikan",
+      "Rutherford",
+      "Chadwick"
+    ],
+    "correctAnswer": "J. J. Thomson",
+    "explanation": "The correct answer is J. J. Thomson because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 9: The charge on electron was determined by:",
+    "options": [
+      "R. A. Millikan",
+      "J. J. Thomson",
+      "Niels Bohr",
+      "Einstein"
+    ],
+    "correctAnswer": "R. A. Millikan",
+    "explanation": "The correct answer is R. A. Millikan because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 10: Canal rays helped in the discovery of:",
+    "options": [
+      "Protons",
+      "Electrons",
+      "Neutrons",
+      "Photons"
+    ],
+    "correctAnswer": "Protons",
+    "explanation": "The correct answer is Protons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 11: Cathode rays are made up of:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Neutrons",
+      "Alpha particles"
+    ],
+    "correctAnswer": "Electrons",
+    "explanation": "The correct answer is Electrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 12: Anode rays are also called:",
+    "options": [
+      "Canal rays",
+      "Cathode rays",
+      "X-rays",
+      "Gamma rays"
+    ],
+    "correctAnswer": "Canal rays",
+    "explanation": "The correct answer is Canal rays because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 13: The mass number of an atom is equal to:",
+    "options": [
+      "Number of protons plus neutrons",
+      "Number of protons only",
+      "Number of electrons only",
+      "Number of neutrons only"
+    ],
+    "correctAnswer": "Number of protons plus neutrons",
+    "explanation": "The correct answer is Number of protons plus neutrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 14: The atomic number of an element is equal to:",
+    "options": [
+      "Number of protons",
+      "Number of neutrons",
+      "Number of nucleons",
+      "Number of shells"
+    ],
+    "correctAnswer": "Number of protons",
+    "explanation": "The correct answer is Number of protons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 15: In a neutral atom, the number of electrons is equal to the number of:",
+    "options": [
+      "Protons",
+      "Neutrons",
+      "Nucleons",
+      "Isotopes"
+    ],
+    "correctAnswer": "Protons",
+    "explanation": "The correct answer is Protons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 16: Isotopes are atoms of the same element having different:",
+    "options": [
+      "Mass numbers",
+      "Atomic numbers",
+      "Number of protons",
+      "Electronic configurations always"
+    ],
+    "correctAnswer": "Mass numbers",
+    "explanation": "The correct answer is Mass numbers because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 17: Isobars are atoms having the same:",
+    "options": [
+      "Mass number",
+      "Atomic number",
+      "Number of electrons",
+      "Number of neutrons"
+    ],
+    "correctAnswer": "Mass number",
+    "explanation": "The correct answer is Mass number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 18: Isotones are atoms having the same number of:",
+    "options": [
+      "Neutrons",
+      "Protons",
+      "Electrons",
+      "Nucleons"
+    ],
+    "correctAnswer": "Neutrons",
+    "explanation": "The correct answer is Neutrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 19: The symbol Z represents:",
+    "options": [
+      "Atomic number",
+      "Mass number",
+      "Neutron number",
+      "Principal quantum number"
+    ],
+    "correctAnswer": "Atomic number",
+    "explanation": "The correct answer is Atomic number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 20: The symbol A represents:",
+    "options": [
+      "Mass number",
+      "Atomic number",
+      "Azimuthal quantum number",
+      "Avogadro number"
+    ],
+    "correctAnswer": "Mass number",
+    "explanation": "The correct answer is Mass number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 21: The maximum number of electrons in a shell is given by:",
+    "options": [
+      "2n²",
+      "n²",
+      "2n",
+      "n+2"
+    ],
+    "correctAnswer": "2n²",
+    "explanation": "The correct answer is 2n² because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 22: The K shell can contain maximum:",
+    "options": [
+      "2 electrons",
+      "8 electrons",
+      "18 electrons",
+      "32 electrons"
+    ],
+    "correctAnswer": "2 electrons",
+    "explanation": "The correct answer is 2 electrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 23: The L shell can contain maximum:",
+    "options": [
+      "8 electrons",
+      "2 electrons",
+      "18 electrons",
+      "32 electrons"
+    ],
+    "correctAnswer": "8 electrons",
+    "explanation": "The correct answer is 8 electrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 24: The M shell can contain maximum:",
+    "options": [
+      "18 electrons",
+      "8 electrons",
+      "2 electrons",
+      "32 electrons"
+    ],
+    "correctAnswer": "18 electrons",
+    "explanation": "The correct answer is 18 electrons because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 25: Which quantum number describes the main energy level?",
+    "options": [
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correctAnswer": "Principal quantum number",
+    "explanation": "The correct answer is Principal quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 26: Which quantum number is denoted by n?",
+    "options": [
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correctAnswer": "Principal quantum number",
+    "explanation": "The correct answer is Principal quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 27: Which quantum number is denoted by l?",
+    "options": [
+      "Azimuthal quantum number",
+      "Principal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correctAnswer": "Azimuthal quantum number",
+    "explanation": "The correct answer is Azimuthal quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 28: Which quantum number determines the shape of an orbital?",
+    "options": [
+      "Azimuthal quantum number",
+      "Principal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correctAnswer": "Azimuthal quantum number",
+    "explanation": "The correct answer is Azimuthal quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 29: Which quantum number determines the orientation of an orbital?",
+    "options": [
+      "Magnetic quantum number",
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Spin quantum number"
+    ],
+    "correctAnswer": "Magnetic quantum number",
+    "explanation": "The correct answer is Magnetic quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 30: Which quantum number gives the spin direction of an electron?",
+    "options": [
+      "Spin quantum number",
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Magnetic quantum number"
+    ],
+    "correctAnswer": "Spin quantum number",
+    "explanation": "The correct answer is Spin quantum number because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 31: The possible values of spin quantum number are:",
+    "options": [
+      "+1/2 and -1/2",
+      "0 and 1",
+      "-1, 0, +1",
+      "1, 2, 3"
+    ],
+    "correctAnswer": "+1/2 and -1/2",
+    "explanation": "The correct answer is +1/2 and -1/2 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 32: For n = 3, possible values of l are:",
+    "options": [
+      "0, 1, 2",
+      "1, 2, 3",
+      "0, 1, 2, 3",
+      "-1, 0, +1"
+    ],
+    "correctAnswer": "0, 1, 2",
+    "explanation": "The correct answer is 0, 1, 2 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 33: For l = 1, the subshell is:",
+    "options": [
+      "p",
+      "s",
+      "d",
+      "f"
+    ],
+    "correctAnswer": "p",
+    "explanation": "The correct answer is p because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 34: For l = 0, the subshell is:",
+    "options": [
+      "s",
+      "p",
+      "d",
+      "f"
+    ],
+    "correctAnswer": "s",
+    "explanation": "The correct answer is s because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 35: For l = 2, the subshell is:",
+    "options": [
+      "d",
+      "s",
+      "p",
+      "f"
+    ],
+    "correctAnswer": "d",
+    "explanation": "The correct answer is d because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 36: For l = 3, the subshell is:",
+    "options": [
+      "f",
+      "s",
+      "p",
+      "d"
+    ],
+    "correctAnswer": "f",
+    "explanation": "The correct answer is f because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 37: The number of orbitals in p subshell is:",
+    "options": [
+      "3",
+      "1",
+      "5",
+      "7"
+    ],
+    "correctAnswer": "3",
+    "explanation": "The correct answer is 3 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 38: The number of orbitals in d subshell is:",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "The correct answer is 5 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 39: The number of orbitals in f subshell is:",
+    "options": [
+      "7",
+      "5",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "7",
+    "explanation": "The correct answer is 7 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 40: The maximum number of electrons in an orbital is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "2",
+    "explanation": "The correct answer is 2 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 41: The maximum number of electrons in s subshell is:",
+    "options": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "2",
+    "explanation": "The correct answer is 2 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 42: The maximum number of electrons in p subshell is:",
+    "options": [
+      "6",
+      "2",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "6",
+    "explanation": "The correct answer is 6 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 43: The maximum number of electrons in d subshell is:",
+    "options": [
+      "10",
+      "6",
+      "2",
+      "14"
+    ],
+    "correctAnswer": "10",
+    "explanation": "The correct answer is 10 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 44: The maximum number of electrons in f subshell is:",
+    "options": [
+      "14",
+      "10",
+      "6",
+      "2"
+    ],
+    "correctAnswer": "14",
+    "explanation": "The correct answer is 14 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 45: According to Aufbau principle, electrons enter orbitals in order of:",
+    "options": [
+      "Increasing energy",
+      "Decreasing energy",
+      "Increasing atomic mass",
+      "Decreasing atomic number"
+    ],
+    "correctAnswer": "Increasing energy",
+    "explanation": "The correct answer is Increasing energy because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 46: According to Pauli exclusion principle, an orbital can have at most:",
+    "options": [
+      "Two electrons with opposite spins",
+      "Two electrons with same spin",
+      "Four electrons with opposite spins",
+      "One electron only always"
+    ],
+    "correctAnswer": "Two electrons with opposite spins",
+    "explanation": "The correct answer is Two electrons with opposite spins because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 47: According to Hund's rule, electrons occupy degenerate orbitals:",
+    "options": [
+      "Singly first with parallel spins",
+      "In pairs first",
+      "Randomly without spin",
+      "Only after d orbitals are filled"
+    ],
+    "correctAnswer": "Singly first with parallel spins",
+    "explanation": "The correct answer is Singly first with parallel spins because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 48: The electronic configuration of hydrogen is:",
+    "options": [
+      "1s¹",
+      "1s²",
+      "2s¹",
+      "1p¹"
+    ],
+    "correctAnswer": "1s¹",
+    "explanation": "The correct answer is 1s¹ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 49: The electronic configuration of helium is:",
+    "options": [
+      "1s²",
+      "1s¹",
+      "2s²",
+      "1p²"
+    ],
+    "correctAnswer": "1s²",
+    "explanation": "The correct answer is 1s² because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 50: The electronic configuration of lithium is:",
+    "options": [
+      "1s² 2s¹",
+      "1s² 2s²",
+      "1s¹ 2s²",
+      "1s² 2p¹"
+    ],
+    "correctAnswer": "1s² 2s¹",
+    "explanation": "The correct answer is 1s² 2s¹ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 51: The electronic configuration of carbon is:",
+    "options": [
+      "1s² 2s² 2p²",
+      "1s² 2s² 2p⁴",
+      "1s² 2p⁴",
+      "1s² 2s¹ 2p³"
+    ],
+    "correctAnswer": "1s² 2s² 2p²",
+    "explanation": "The correct answer is 1s² 2s² 2p² because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 52: The electronic configuration of oxygen is:",
+    "options": [
+      "1s² 2s² 2p⁴",
+      "1s² 2s² 2p²",
+      "1s² 2s² 2p⁶",
+      "1s² 2p⁶"
+    ],
+    "correctAnswer": "1s² 2s² 2p⁴",
+    "explanation": "The correct answer is 1s² 2s² 2p⁴ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 53: The electronic configuration of sodium is:",
+    "options": [
+      "1s² 2s² 2p⁶ 3s¹",
+      "1s² 2s² 2p⁶ 3s²",
+      "1s² 2s² 2p⁵ 3s²",
+      "1s² 2s² 2p⁶ 3p¹"
+    ],
+    "correctAnswer": "1s² 2s² 2p⁶ 3s¹",
+    "explanation": "The correct answer is 1s² 2s² 2p⁶ 3s¹ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 54: The electronic configuration of chlorine is:",
+    "options": [
+      "1s² 2s² 2p⁶ 3s² 3p⁵",
+      "1s² 2s² 2p⁶ 3s² 3p⁶",
+      "1s² 2s² 2p⁶ 3s¹ 3p⁶",
+      "1s² 2s² 2p⁵ 3s² 3p⁶"
+    ],
+    "correctAnswer": "1s² 2s² 2p⁶ 3s² 3p⁵",
+    "explanation": "The correct answer is 1s² 2s² 2p⁶ 3s² 3p⁵ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 55: The electronic configuration of argon is:",
+    "options": [
+      "1s² 2s² 2p⁶ 3s² 3p⁶",
+      "1s² 2s² 2p⁶ 3s² 3p⁵",
+      "1s² 2s² 2p⁶ 3s¹ 3p⁶",
+      "1s² 2s² 2p⁶ 3p⁶"
+    ],
+    "correctAnswer": "1s² 2s² 2p⁶ 3s² 3p⁶",
+    "explanation": "The correct answer is 1s² 2s² 2p⁶ 3s² 3p⁶ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 56: Which orbital has the lowest energy?",
+    "options": [
+      "1s",
+      "2s",
+      "2p",
+      "3s"
+    ],
+    "correctAnswer": "1s",
+    "explanation": "The correct answer is 1s because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 57: The order of filling after 3p is:",
+    "options": [
+      "4s",
+      "3d",
+      "4p",
+      "5s"
+    ],
+    "correctAnswer": "4s",
+    "explanation": "The correct answer is 4s because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 58: Which subshell is filled before 3d according to Aufbau principle?",
+    "options": [
+      "4s",
+      "4p",
+      "3p",
+      "5s"
+    ],
+    "correctAnswer": "4s",
+    "explanation": "The correct answer is 4s because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 59: The shape of s orbital is:",
+    "options": [
+      "Spherical",
+      "Dumb-bell",
+      "Double dumb-bell",
+      "Complex cloverleaf only"
+    ],
+    "correctAnswer": "Spherical",
+    "explanation": "The correct answer is Spherical because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 60: The shape of p orbital is generally:",
+    "options": [
+      "Dumb-bell",
+      "Spherical",
+      "Circular ring",
+      "Straight line"
+    ],
+    "correctAnswer": "Dumb-bell",
+    "explanation": "The correct answer is Dumb-bell because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 61: The number of p orbitals along x, y and z axes is:",
+    "options": [
+      "Three",
+      "Two",
+      "Five",
+      "Seven"
+    ],
+    "correctAnswer": "Three",
+    "explanation": "The correct answer is Three because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 62: Atomic orbitals are regions where probability of finding electron is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Always equal everywhere",
+      "Independent of energy"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "The correct answer is Maximum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 63: The Bohr model was mainly successful for:",
+    "options": [
+      "Hydrogen atom and hydrogen-like ions",
+      "All multi-electron atoms",
+      "Only solids",
+      "Only molecules"
+    ],
+    "correctAnswer": "Hydrogen atom and hydrogen-like ions",
+    "explanation": "The correct answer is Hydrogen atom and hydrogen-like ions because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 64: In Bohr's model, electrons revolve around nucleus in:",
+    "options": [
+      "Stationary orbits",
+      "Random paths",
+      "Straight lines",
+      "Nuclear shells"
+    ],
+    "correctAnswer": "Stationary orbits",
+    "explanation": "The correct answer is Stationary orbits because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 65: Energy is emitted when an electron jumps from:",
+    "options": [
+      "Higher to lower energy level",
+      "Lower to higher energy level",
+      "Nucleus to orbit",
+      "Neutron to proton"
+    ],
+    "correctAnswer": "Higher to lower energy level",
+    "explanation": "The correct answer is Higher to lower energy level because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 66: Energy is absorbed when an electron jumps from:",
+    "options": [
+      "Lower to higher energy level",
+      "Higher to lower energy level",
+      "Orbit to nucleus",
+      "Proton to neutron"
+    ],
+    "correctAnswer": "Lower to higher energy level",
+    "explanation": "The correct answer is Lower to higher energy level because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 67: The energy of a photon is given by:",
+    "options": [
+      "E = hν",
+      "E = mc² only",
+      "E = mgh",
+      "E = 1/2mv²"
+    ],
+    "correctAnswer": "E = hν",
+    "explanation": "The correct answer is E = hν because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 68: Planck's constant is represented by:",
+    "options": [
+      "h",
+      "ν",
+      "λ",
+      "c"
+    ],
+    "correctAnswer": "h",
+    "explanation": "The correct answer is h because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 69: Frequency is represented by:",
+    "options": [
+      "ν",
+      "h",
+      "λ",
+      "m"
+    ],
+    "correctAnswer": "ν",
+    "explanation": "The correct answer is ν because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 70: Wavelength is represented by:",
+    "options": [
+      "λ",
+      "ν",
+      "h",
+      "Z"
+    ],
+    "correctAnswer": "λ",
+    "explanation": "The correct answer is λ because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 71: The speed of light is represented by:",
+    "options": [
+      "c",
+      "h",
+      "ν",
+      "n"
+    ],
+    "correctAnswer": "c",
+    "explanation": "The correct answer is c because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 72: The relationship between wavelength and frequency is:",
+    "options": [
+      "c = λν",
+      "c = hν",
+      "λ = hc",
+      "ν = mc²"
+    ],
+    "correctAnswer": "c = λν",
+    "explanation": "The correct answer is c = λν because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 73: Which electromagnetic radiation has the shortest wavelength?",
+    "options": [
+      "Gamma rays",
+      "Radio waves",
+      "Microwaves",
+      "Infrared rays"
+    ],
+    "correctAnswer": "Gamma rays",
+    "explanation": "The correct answer is Gamma rays because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 74: Which electromagnetic radiation has the longest wavelength?",
+    "options": [
+      "Radio waves",
+      "Gamma rays",
+      "X-rays",
+      "Ultraviolet rays"
+    ],
+    "correctAnswer": "Radio waves",
+    "explanation": "The correct answer is Radio waves because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 75: Which radiation has the highest frequency?",
+    "options": [
+      "Gamma rays",
+      "Radio waves",
+      "Infrared rays",
+      "Microwaves"
+    ],
+    "correctAnswer": "Gamma rays",
+    "explanation": "The correct answer is Gamma rays because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 76: Which radiation has the lowest frequency?",
+    "options": [
+      "Radio waves",
+      "Gamma rays",
+      "X-rays",
+      "Ultraviolet rays"
+    ],
+    "correctAnswer": "Radio waves",
+    "explanation": "The correct answer is Radio waves because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 77: Visible light lies between:",
+    "options": [
+      "Ultraviolet and infrared",
+      "X-rays and gamma rays",
+      "Radio waves and microwaves",
+      "Gamma rays and ultraviolet"
+    ],
+    "correctAnswer": "Ultraviolet and infrared",
+    "explanation": "The correct answer is Ultraviolet and infrared because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 78: The splitting of white light into colours is called:",
+    "options": [
+      "Spectrum",
+      "Diffraction only",
+      "Ionization",
+      "Sublimation"
+    ],
+    "correctAnswer": "Spectrum",
+    "explanation": "The correct answer is Spectrum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 79: A continuous spectrum contains:",
+    "options": [
+      "All wavelengths in a range",
+      "Only selected bright lines",
+      "Only dark lines",
+      "No radiation"
+    ],
+    "correctAnswer": "All wavelengths in a range",
+    "explanation": "The correct answer is All wavelengths in a range because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 80: A line spectrum contains:",
+    "options": [
+      "Separate lines of definite wavelengths",
+      "All wavelengths continuously",
+      "Only radio waves",
+      "No visible colour"
+    ],
+    "correctAnswer": "Separate lines of definite wavelengths",
+    "explanation": "The correct answer is Separate lines of definite wavelengths because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 81: Hydrogen spectrum is an example of:",
+    "options": [
+      "Line spectrum",
+      "Continuous spectrum",
+      "Band spectrum only",
+      "Absorption of sound"
+    ],
+    "correctAnswer": "Line spectrum",
+    "explanation": "The correct answer is Line spectrum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 82: The Lyman series of hydrogen spectrum lies in:",
+    "options": [
+      "Ultraviolet region",
+      "Visible region",
+      "Infrared region",
+      "Microwave region"
+    ],
+    "correctAnswer": "Ultraviolet region",
+    "explanation": "The correct answer is Ultraviolet region because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 83: The Balmer series of hydrogen spectrum lies mainly in:",
+    "options": [
+      "Visible region",
+      "Ultraviolet region",
+      "Infrared region",
+      "Radio region"
+    ],
+    "correctAnswer": "Visible region",
+    "explanation": "The correct answer is Visible region because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 84: The Paschen series of hydrogen spectrum lies in:",
+    "options": [
+      "Infrared region",
+      "Visible region",
+      "Ultraviolet region",
+      "Gamma region"
+    ],
+    "correctAnswer": "Infrared region",
+    "explanation": "The correct answer is Infrared region because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 85: The final energy level for Lyman series is:",
+    "options": [
+      "n = 1",
+      "n = 2",
+      "n = 3",
+      "n = 4"
+    ],
+    "correctAnswer": "n = 1",
+    "explanation": "The correct answer is n = 1 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 86: The final energy level for Balmer series is:",
+    "options": [
+      "n = 2",
+      "n = 1",
+      "n = 3",
+      "n = 4"
+    ],
+    "correctAnswer": "n = 2",
+    "explanation": "The correct answer is n = 2 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 87: The final energy level for Paschen series is:",
+    "options": [
+      "n = 3",
+      "n = 1",
+      "n = 2",
+      "n = 4"
+    ],
+    "correctAnswer": "n = 3",
+    "explanation": "The correct answer is n = 3 because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 88: The photoelectric effect supports the:",
+    "options": [
+      "Particle nature of light",
+      "Wave nature of electron only",
+      "Nuclear model only",
+      "Existence of neutron only"
+    ],
+    "correctAnswer": "Particle nature of light",
+    "explanation": "The correct answer is Particle nature of light because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 89: The de Broglie equation relates wavelength with:",
+    "options": [
+      "Momentum",
+      "Temperature",
+      "Pressure",
+      "Volume"
+    ],
+    "correctAnswer": "Momentum",
+    "explanation": "The correct answer is Momentum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 90: The de Broglie wavelength is given by:",
+    "options": [
+      "λ = h/mv",
+      "λ = hv",
+      "λ = mc²",
+      "λ = c/ν only"
+    ],
+    "correctAnswer": "λ = h/mv",
+    "explanation": "The correct answer is λ = h/mv because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 91: Heisenberg uncertainty principle states that it is impossible to determine exactly both position and:",
+    "options": [
+      "Momentum",
+      "Charge",
+      "Mass number",
+      "Atomic number"
+    ],
+    "correctAnswer": "Momentum",
+    "explanation": "The correct answer is Momentum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 92: Which concept replaced fixed circular orbits with probability regions?",
+    "options": [
+      "Quantum mechanical model",
+      "Dalton model",
+      "Plum pudding model",
+      "Rutherford model only"
+    ],
+    "correctAnswer": "Quantum mechanical model",
+    "explanation": "The correct answer is Quantum mechanical model because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 93: Rutherford's gold foil experiment showed that most of the atom is:",
+    "options": [
+      "Empty space",
+      "Filled with protons",
+      "Made of neutrons only",
+      "Solid positive sphere"
+    ],
+    "correctAnswer": "Empty space",
+    "explanation": "The correct answer is Empty space because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 94: In Rutherford's experiment, a few alpha particles were deflected because of:",
+    "options": [
+      "Small dense positive nucleus",
+      "Electrons in shells",
+      "Neutrons in orbit",
+      "Negative nucleus"
+    ],
+    "correctAnswer": "Small dense positive nucleus",
+    "explanation": "The correct answer is Small dense positive nucleus because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 95: The plum pudding model was proposed by:",
+    "options": [
+      "J. J. Thomson",
+      "Rutherford",
+      "Bohr",
+      "Chadwick"
+    ],
+    "correctAnswer": "J. J. Thomson",
+    "explanation": "The correct answer is J. J. Thomson because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 96: According to Thomson's model, electrons are embedded in:",
+    "options": [
+      "A positively charged sphere",
+      "A negatively charged nucleus",
+      "Empty space only",
+      "Neutron cloud"
+    ],
+    "correctAnswer": "A positively charged sphere",
+    "explanation": "The correct answer is A positively charged sphere because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 97: The main defect of Rutherford model was that it could not explain:",
+    "options": [
+      "Stability of atom and line spectrum",
+      "Existence of protons",
+      "Positive charge of nucleus",
+      "Deflection of alpha particles"
+    ],
+    "correctAnswer": "Stability of atom and line spectrum",
+    "explanation": "The correct answer is Stability of atom and line spectrum because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 98: Bohr's model explained the line spectrum of:",
+    "options": [
+      "Hydrogen",
+      "Chlorine",
+      "Sodium chloride",
+      "Oxygen molecule"
+    ],
+    "correctAnswer": "Hydrogen",
+    "explanation": "The correct answer is Hydrogen because it matches the standard concept of Atomic Structure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 99: Ionization energy of hydrogen atom is related to transition from n = 1 to:",
+    "options": [
+      "n = infinity",
+      "n = 2",
+      "n = 3",
+      "n = 0"
+    ],
+    "correctAnswer": "n = infinity",
+    "explanation": "The correct answer is n = infinity because it matches the standard concept of Atomic Structure.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "mcq",
+    "question": "MCQ 100: The region around nucleus where finding an electron is most probable is called:",
+    "options": [
+      "Orbital",
+      "Orbit",
+      "Shell only",
+      "Nucleon"
+    ],
+    "correctAnswer": "Orbital",
+    "explanation": "The correct answer is Orbital because it matches the standard concept of Atomic Structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "MCQ"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 1: Define atomic structure.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 2: What is an atom?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 3: Define atomic number.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 4: Define mass number.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 5: What are isotopes?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 6: What are isobars?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 7: What are isotones?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 8: Write the charge and relative mass of electron.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 9: Write the charge and relative mass of proton.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 10: Write the charge and relative mass of neutron.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 11: What are cathode rays?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 12: What are canal rays?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 13: Who discovered electron and how?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 14: State Rutherford's nuclear model of atom.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 15: Write two conclusions of Rutherford's gold foil experiment.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 16: Write two defects of Rutherford's atomic model.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 17: State Bohr's postulates about atomic structure.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 18: What is meant by stationary orbit?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 19: What is meant by energy level?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 20: Why does an electron emit energy?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 21: Why does an electron absorb energy?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 22: Define electromagnetic radiation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 23: Define wavelength.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 24: Define frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 25: Write the relation between wavelength, frequency and speed of light.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 26: What is a spectrum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 27: Differentiate between continuous spectrum and line spectrum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 28: What is hydrogen spectrum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 29: Name the main spectral series of hydrogen.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 30: In which region does Lyman series lie?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 31: In which region does Balmer series lie?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 32: In which region does Paschen series lie?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 33: State Planck's quantum theory.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 34: Write the formula for energy of a photon.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 35: What is photoelectric effect?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 36: What does photoelectric effect prove?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 37: State de Broglie's hypothesis.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 38: Write de Broglie equation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 39: State Heisenberg uncertainty principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 40: What is an orbital?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 41: Differentiate between orbit and orbital.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 42: Define quantum numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 43: What is principal quantum number?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 44: What is azimuthal quantum number?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 45: What is magnetic quantum number?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 46: What is spin quantum number?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 47: State Aufbau principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 48: State Pauli exclusion principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 49: State Hund's rule.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "short",
+    "question": "Short Question 50: Write the electronic configuration of sodium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Short Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 1: Describe the discovery of electron using discharge tube experiment.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 2: Explain Rutherford's gold foil experiment with observations and conclusions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 3: Discuss Rutherford's atomic model and its defects.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 4: Explain Bohr's atomic model and its important postulates.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 5: Describe how Bohr's model explains the hydrogen spectrum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 6: Explain Lyman, Balmer and Paschen series of hydrogen spectrum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 7: Discuss electromagnetic spectrum and its different regions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 8: Explain Planck's quantum theory and the equation E = hν.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 9: Describe the photoelectric effect and its significance in atomic structure.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 10: Explain de Broglie's concept of matter waves with equation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 11: Discuss Heisenberg uncertainty principle and its importance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 12: Explain the quantum mechanical concept of orbitals.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 13: Describe all four quantum numbers with their possible values.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 14: Explain the shapes of s and p orbitals with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 15: Discuss Aufbau principle, Pauli exclusion principle and Hund's rule.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 16: Write electronic configurations of elements from hydrogen to argon.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 17: Explain isotopes, isobars and isotones with suitable examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 18: Describe the structure of atom in terms of protons, neutrons and electrons.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 19: Explain the relationship between atomic number, mass number and number of neutrons.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Atomic Structure",
+    "chapterId": "Atomic Structure",
+    "type": "long",
+    "question": "Long Question 20: Compare Bohr's orbit concept with the modern orbital concept.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Atomic Structure",
+      "Long Question"
+    ]
+  }
+]

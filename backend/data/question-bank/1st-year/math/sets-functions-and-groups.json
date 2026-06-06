@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 1: Which notation correctly represents that x is an element of set A?",
+    "options": [
+      "x ∈ A",
+      "x ⊂ A",
+      "x = A",
+      "A ∈ x"
+    ],
+    "correctAnswer": "x ∈ A",
+    "explanation": "The symbol ∈ means 'is an element of'.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 2: If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B is:",
+    "options": [
+      "{1, 2, 3, 4, 5}",
+      "{3}",
+      "{1, 2}",
+      "{4, 5}"
+    ],
+    "correctAnswer": "{1, 2, 3, 4, 5}",
+    "explanation": "The union contains all distinct elements from both sets.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "union"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 3: If A = {a, b, c} and B = {b, c, d}, then A ∩ B is:",
+    "options": [
+      "{b, c}",
+      "{a, d}",
+      "{a, b, c, d}",
+      "{a}"
+    ],
+    "correctAnswer": "{b, c}",
+    "explanation": "The intersection contains elements common to both sets.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "intersection"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 4: The empty set is denoted by:",
+    "options": [
+      "∅",
+      "∞",
+      "∈",
+      "⊂"
+    ],
+    "correctAnswer": "∅",
+    "explanation": "The symbol ∅ denotes a set with no elements.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "empty set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 5: If A has n elements, then the number of subsets of A is:",
+    "options": [
+      "2^n",
+      "n^2",
+      "n!",
+      "2n"
+    ],
+    "correctAnswer": "2^n",
+    "explanation": "A set with n elements has 2^n subsets.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subsets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 6: If A = {1, 2}, then the power set P(A) is:",
+    "options": [
+      "{∅, {1}, {2}, {1, 2}}",
+      "{{1}, {2}}",
+      "{1, 2, ∅}",
+      "{∅, {1, 2}}"
+    ],
+    "correctAnswer": "{∅, {1}, {2}, {1, 2}}",
+    "explanation": "The power set contains all subsets of A.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "power set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 7: A set containing exactly one element is called:",
+    "options": [
+      "Singleton set",
+      "Empty set",
+      "Universal set",
+      "Infinite set"
+    ],
+    "correctAnswer": "Singleton set",
+    "explanation": "A singleton set has one element.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 8: If U = {1,2,3,4,5} and A = {2,4}, then A′ is:",
+    "options": [
+      "{1,3,5}",
+      "{2,4}",
+      "{1,2,3,4,5}",
+      "∅"
+    ],
+    "correctAnswer": "{1,3,5}",
+    "explanation": "The complement contains elements of U not in A.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 9: Which law states A ∪ A = A?",
+    "options": [
+      "Idempotent law",
+      "Associative law",
+      "Distributive law",
+      "De Morgan's law"
+    ],
+    "correctAnswer": "Idempotent law",
+    "explanation": "Idempotent law says A ∪ A = A and A ∩ A = A.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "set laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 10: Which statement represents De Morgan's law?",
+    "options": [
+      "(A ∪ B)′ = A′ ∩ B′",
+      "A ∪ B = B ∪ A",
+      "A ∩ A = A",
+      "A ∪ ∅ = A"
+    ],
+    "correctAnswer": "(A ∪ B)′ = A′ ∩ B′",
+    "explanation": "The complement of a union is the intersection of complements.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "De Morgan"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 11: If A ⊆ B, then:",
+    "options": [
+      "Every element of A is in B",
+      "Every element of B is in A",
+      "A and B have no common elements",
+      "A is empty only"
+    ],
+    "correctAnswer": "Every element of A is in B",
+    "explanation": "A is a subset of B if all elements of A belong to B.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subsets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 12: Which set is a subset of every set?",
+    "options": [
+      "Empty set",
+      "Universal set",
+      "Power set",
+      "Singleton set"
+    ],
+    "correctAnswer": "Empty set",
+    "explanation": "The empty set has no element that can violate the subset condition.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "empty set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 13: If A = {1,2,3,4} and B = {3,4,5}, then A − B is:",
+    "options": [
+      "{1,2}",
+      "{3,4}",
+      "{5}",
+      "{1,2,5}"
+    ],
+    "correctAnswer": "{1,2}",
+    "explanation": "A − B contains elements in A but not in B.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "difference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 14: If A and B are disjoint sets, then A ∩ B equals:",
+    "options": [
+      "∅",
+      "A",
+      "B",
+      "U"
+    ],
+    "correctAnswer": "∅",
+    "explanation": "Disjoint sets have no common elements.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "disjoint sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 15: The set of all possible elements under discussion is called:",
+    "options": [
+      "Universal set",
+      "Empty set",
+      "Power set",
+      "Finite set"
+    ],
+    "correctAnswer": "Universal set",
+    "explanation": "The universal set contains all elements relevant to the problem.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "universal set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 16: If n(A)=5, n(B)=7, and n(A∩B)=2, then n(A∪B) is:",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "5"
+    ],
+    "correctAnswer": "10",
+    "explanation": "n(A∪B)=n(A)+n(B)-n(A∩B)=5+7-2=10.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cardinality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 17: A relation from A to B is a subset of:",
+    "options": [
+      "A × B",
+      "A ∪ B",
+      "A ∩ B",
+      "B × B only"
+    ],
+    "correctAnswer": "A × B",
+    "explanation": "A relation from A to B consists of ordered pairs from A × B.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 18: If A has 2 elements and B has 3 elements, then A × B has:",
+    "options": [
+      "6 elements",
+      "5 elements",
+      "3 elements",
+      "2 elements"
+    ],
+    "correctAnswer": "6 elements",
+    "explanation": "n(A×B)=n(A)n(B)=2×3=6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cartesian product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 19: In an ordered pair (a,b), the first component is:",
+    "options": [
+      "a",
+      "b",
+      "{a,b}",
+      "a+b"
+    ],
+    "correctAnswer": "a",
+    "explanation": "The first coordinate/component of (a,b) is a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "ordered pair"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 20: Which relation on a set A is reflexive?",
+    "options": [
+      "Every a∈A is related to itself",
+      "No element is related to itself",
+      "Only one pair exists",
+      "All elements are distinct"
+    ],
+    "correctAnswer": "Every a∈A is related to itself",
+    "explanation": "Reflexive means (a,a) belongs to the relation for every a in A.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 21: A relation R is symmetric if:",
+    "options": [
+      "aRb implies bRa",
+      "aRb and bRc imply aRc",
+      "aRa for every a",
+      "aRb never happens"
+    ],
+    "correctAnswer": "aRb implies bRa",
+    "explanation": "Symmetric relation reverses each related pair.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 22: A relation R is transitive if:",
+    "options": [
+      "aRb and bRc imply aRc",
+      "aRb implies bRa",
+      "aRa for every a",
+      "aRb implies a=b always"
+    ],
+    "correctAnswer": "aRb and bRc imply aRc",
+    "explanation": "Transitivity connects a to c through b.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 23: A function from A to B assigns:",
+    "options": [
+      "Each element of A exactly one image in B",
+      "Each element of B exactly one preimage in A",
+      "Two images to every element of A",
+      "No image to elements of A"
+    ],
+    "correctAnswer": "Each element of A exactly one image in B",
+    "explanation": "A function gives each domain element exactly one output.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 24: The set of first components of a function is called:",
+    "options": [
+      "Domain",
+      "Range",
+      "Codomain",
+      "Image only"
+    ],
+    "correctAnswer": "Domain",
+    "explanation": "The domain contains all input values.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 25: The set of actual output values of a function is called:",
+    "options": [
+      "Range",
+      "Domain",
+      "Universal set",
+      "Power set"
+    ],
+    "correctAnswer": "Range",
+    "explanation": "The range is the set of actual images.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 26: For f(x)=2x+3, f(4) equals:",
+    "options": [
+      "11",
+      "8",
+      "7",
+      "5"
+    ],
+    "correctAnswer": "11",
+    "explanation": "f(4)=2(4)+3=11.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "function value"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 27: For f(x)=x², f(−3) equals:",
+    "options": [
+      "9",
+      "−9",
+      "6",
+      "−6"
+    ],
+    "correctAnswer": "9",
+    "explanation": "f(−3)=(-3)^2=9.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "function value"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 28: If f(x)=x+5, then f⁻¹(x) is:",
+    "options": [
+      "x−5",
+      "x+5",
+      "5−x",
+      "1/(x+5)"
+    ],
+    "correctAnswer": "x−5",
+    "explanation": "Let y=x+5; then x=y−5, so f⁻¹(x)=x−5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 29: A one-one function is also called:",
+    "options": [
+      "Injective function",
+      "Onto function",
+      "Constant function",
+      "Identity function"
+    ],
+    "correctAnswer": "Injective function",
+    "explanation": "One-one and injective mean distinct inputs have distinct outputs.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "injective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 30: An onto function is also called:",
+    "options": [
+      "Surjective function",
+      "Injective function",
+      "Constant function",
+      "Null function"
+    ],
+    "correctAnswer": "Surjective function",
+    "explanation": "Onto and surjective mean every codomain element is an image.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "surjective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 31: A function that is both one-one and onto is called:",
+    "options": [
+      "Bijective",
+      "Constant",
+      "Many-one",
+      "Undefined"
+    ],
+    "correctAnswer": "Bijective",
+    "explanation": "Bijective means injective and surjective.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "bijective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 32: Which function has f(x)=x for all x in its domain?",
+    "options": [
+      "Identity function",
+      "Constant function",
+      "Quadratic function",
+      "Many-one function"
+    ],
+    "correctAnswer": "Identity function",
+    "explanation": "The identity function maps each element to itself.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 33: For f(x)=3x and g(x)=x+2, (f∘g)(x) is:",
+    "options": [
+      "3x+6",
+      "3x+2",
+      "x+5",
+      "3x²"
+    ],
+    "correctAnswer": "3x+6",
+    "explanation": "(f∘g)(x)=f(g(x))=f(x+2)=3(x+2)=3x+6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 34: For f(x)=x² and g(x)=x−1, (g∘f)(x) is:",
+    "options": [
+      "x²−1",
+      "(x−1)²",
+      "x²+1",
+      "2x−1"
+    ],
+    "correctAnswer": "x²−1",
+    "explanation": "(g∘f)(x)=g(x²)=x²−1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 35: If f is bijective, then f has:",
+    "options": [
+      "An inverse function",
+      "No inverse",
+      "Only one input",
+      "Empty domain"
+    ],
+    "correctAnswer": "An inverse function",
+    "explanation": "A function has an inverse function when it is bijective.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 36: For f(x)=1/x, the domain over real numbers excludes:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "All negative numbers"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Division by zero is undefined.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 37: For f(x)=√x over real numbers, the domain is:",
+    "options": [
+      "x ≥ 0",
+      "x < 0",
+      "All real numbers",
+      "x ≠ 0"
+    ],
+    "correctAnswer": "x ≥ 0",
+    "explanation": "The square root of a real number is defined for nonnegative x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 38: For f(x)=x² over real numbers, the range is:",
+    "options": [
+      "y ≥ 0",
+      "All real numbers",
+      "y < 0",
+      "y ≠ 0"
+    ],
+    "correctAnswer": "y ≥ 0",
+    "explanation": "A square is always nonnegative.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 39: Which relation is a function?",
+    "options": [
+      "{(1,2),(2,3),(3,4)}",
+      "{(1,2),(1,3)}",
+      "{(2,1),(2,4)}",
+      "{(3,1),(3,2)}"
+    ],
+    "correctAnswer": "{(1,2),(2,3),(3,4)}",
+    "explanation": "Each input appears once with exactly one output.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 40: Which relation is not a function?",
+    "options": [
+      "{(1,2),(1,3),(2,4)}",
+      "{(1,2),(2,3)}",
+      "{(a,b),(c,d)}",
+      "{(0,0),(1,1)}"
+    ],
+    "correctAnswer": "{(1,2),(1,3),(2,4)}",
+    "explanation": "Input 1 has two different images, so it is not a function.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 41: If f(x)=2x−1 and f(a)=7, then a is:",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "4",
+    "explanation": "2a−1=7 gives 2a=8, so a=4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "function value"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 42: The codomain of a function is:",
+    "options": [
+      "The target set of possible outputs",
+      "The input set only",
+      "Only actual images",
+      "The empty set"
+    ],
+    "correctAnswer": "The target set of possible outputs",
+    "explanation": "Codomain is the set into which the function maps.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "codomain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 43: If f:A→B and A={1,2}, B={a,b,c}, then possible ordered pairs in A×B are:",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "2"
+    ],
+    "correctAnswer": "6",
+    "explanation": "A×B contains 2×3=6 ordered pairs.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cartesian product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 44: A many-one function allows:",
+    "options": [
+      "Different elements of domain to have same image",
+      "One input to have two images",
+      "No output for some input",
+      "Only identity mapping"
+    ],
+    "correctAnswer": "Different elements of domain to have same image",
+    "explanation": "Many-one functions may map different inputs to the same output.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "many-one"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 45: For f(x)=x−2 and g(x)=2x, (f∘g)(3) is:",
+    "options": [
+      "4",
+      "1",
+      "8",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "explanation": "g(3)=6 and f(6)=4.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 46: For f(x)=x+1, f⁻¹(5) equals:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "1"
+    ],
+    "correctAnswer": "4",
+    "explanation": "f⁻¹(x)=x−1, so f⁻¹(5)=4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 47: A binary operation on a set S combines:",
+    "options": [
+      "Two elements of S to produce an element of S",
+      "One element of S only",
+      "Elements outside S only",
+      "No elements"
+    ],
+    "correctAnswer": "Two elements of S to produce an element of S",
+    "explanation": "A binary operation maps S×S into S.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 48: Closure property means:",
+    "options": [
+      "The result of operation remains in the set",
+      "Every element has inverse",
+      "Operation is always commutative",
+      "Identity does not exist"
+    ],
+    "correctAnswer": "The result of operation remains in the set",
+    "explanation": "A set is closed under an operation if all results stay in the set.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "closure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 49: Under addition, the identity element in integers is:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "a+0=0+a=a for every integer a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 50: Under multiplication, the identity element in nonzero real numbers is:",
+    "options": [
+      "1",
+      "0",
+      "−1",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "explanation": "a×1=1×a=a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 51: The additive inverse of 7 is:",
+    "options": [
+      "−7",
+      "7",
+      "1/7",
+      "0"
+    ],
+    "correctAnswer": "−7",
+    "explanation": "7+(−7)=0, the additive identity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 52: The multiplicative inverse of 5 is:",
+    "options": [
+      "1/5",
+      "−5",
+      "0",
+      "5"
+    ],
+    "correctAnswer": "1/5",
+    "explanation": "5×(1/5)=1, the multiplicative identity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 53: A group must satisfy:",
+    "options": [
+      "Closure, associativity, identity, inverse",
+      "Closure only",
+      "Commutativity only",
+      "Identity only"
+    ],
+    "correctAnswer": "Closure, associativity, identity, inverse",
+    "explanation": "These four axioms define a group.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 54: A group that is also commutative is called:",
+    "options": [
+      "Abelian group",
+      "Cyclic set",
+      "Power group",
+      "Empty group"
+    ],
+    "correctAnswer": "Abelian group",
+    "explanation": "An Abelian group satisfies a*b=b*a for all elements.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "abelian group"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 55: Which set forms a group under usual addition?",
+    "options": [
+      "Integers",
+      "Natural numbers",
+      "Positive integers",
+      "Nonzero natural numbers"
+    ],
+    "correctAnswer": "Integers",
+    "explanation": "Integers are closed under addition and have identity 0 and additive inverses.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 56: Natural numbers under addition do not form a group because:",
+    "options": [
+      "Additive inverses are missing",
+      "Addition is not associative",
+      "Closure fails",
+      "Identity is not 0"
+    ],
+    "correctAnswer": "Additive inverses are missing",
+    "explanation": "For example, 3 has inverse −3, which is not a natural number.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 57: Nonzero real numbers under multiplication form:",
+    "options": [
+      "A group",
+      "Not closed set",
+      "A set without identity",
+      "A set without inverses"
+    ],
+    "correctAnswer": "A group",
+    "explanation": "Nonzero real numbers are closed under multiplication, have identity 1 and reciprocals.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 58: Zero has no multiplicative inverse because:",
+    "options": [
+      "Division by zero is undefined",
+      "0×1=1",
+      "0 is negative",
+      "0 is not a number"
+    ],
+    "correctAnswer": "Division by zero is undefined",
+    "explanation": "No real number multiplied by 0 gives 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 59: Associative law for operation * means:",
+    "options": [
+      "(a*b)*c = a*(b*c)",
+      "a*b = b*a",
+      "a*e = a",
+      "a*a⁻¹ = e"
+    ],
+    "correctAnswer": "(a*b)*c = a*(b*c)",
+    "explanation": "Associativity allows regrouping without changing result.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "associativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 60: Commutative law for operation * means:",
+    "options": [
+      "a*b = b*a",
+      "(a*b)*c=a*(b*c)",
+      "a*e=a",
+      "a*b=a"
+    ],
+    "correctAnswer": "a*b = b*a",
+    "explanation": "Commutativity allows changing the order.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "commutativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 61: If e is identity for operation *, then:",
+    "options": [
+      "a*e = e*a = a",
+      "a*e = e only",
+      "a*e = 0 always",
+      "e has no relation with a"
+    ],
+    "correctAnswer": "a*e = e*a = a",
+    "explanation": "Identity leaves every element unchanged.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 62: If a⁻¹ is inverse of a in a group, then:",
+    "options": [
+      "a*a⁻¹ = a⁻¹*a = e",
+      "a*a⁻¹ = a",
+      "a*a⁻¹ = 0 always",
+      "a⁻¹ = a always"
+    ],
+    "correctAnswer": "a*a⁻¹ = a⁻¹*a = e",
+    "explanation": "An inverse combines with the element to give identity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 63: Which operation is closed on integers?",
+    "options": [
+      "Addition",
+      "Division",
+      "Square root",
+      "Reciprocal"
+    ],
+    "correctAnswer": "Addition",
+    "explanation": "The sum of two integers is always an integer.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "closure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 64: Integers under subtraction are not a group mainly because:",
+    "options": [
+      "Subtraction is not associative",
+      "Subtraction is always closed",
+      "0 is not integer",
+      "Each integer has no negative"
+    ],
+    "correctAnswer": "Subtraction is not associative",
+    "explanation": "For example, (5−3)−1 ≠ 5−(3−1).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 65: The operation a*b=a+b on integers has identity:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "No identity"
+    ],
+    "correctAnswer": "0",
+    "explanation": "a+0=a and 0+a=a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 66: For operation a*b=a+b+1 on integers, identity is:",
+    "options": [
+      "−1",
+      "0",
+      "1",
+      "No identity"
+    ],
+    "correctAnswer": "−1",
+    "explanation": "a*e=a+e+1=a gives e=−1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 67: For operation a*b=a+b+ab on real numbers except −1, identity is:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "a*0=a+0+0=a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 68: If A={1,2,3}, then relation R={(1,1),(2,2),(3,3)} is:",
+    "options": [
+      "Identity relation",
+      "Empty relation",
+      "Universal relation",
+      "Inverse relation"
+    ],
+    "correctAnswer": "Identity relation",
+    "explanation": "It relates every element only to itself.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 69: A relation containing all ordered pairs of A×A is called:",
+    "options": [
+      "Universal relation",
+      "Empty relation",
+      "Identity relation",
+      "One-one relation"
+    ],
+    "correctAnswer": "Universal relation",
+    "explanation": "The universal relation on A is A×A.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 70: The inverse relation of R is obtained by:",
+    "options": [
+      "Reversing each ordered pair",
+      "Deleting all pairs",
+      "Taking only first elements",
+      "Adding all pairs"
+    ],
+    "correctAnswer": "Reversing each ordered pair",
+    "explanation": "If (a,b)∈R, then (b,a)∈R⁻¹.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse relation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 71: If R={(1,2),(3,4)}, then R⁻¹ is:",
+    "options": [
+      "{(2,1),(4,3)}",
+      "{(1,3),(2,4)}",
+      "{(1,2),(3,4)}",
+      "{(2,4),(1,3)}"
+    ],
+    "correctAnswer": "{(2,1),(4,3)}",
+    "explanation": "The inverse relation reverses each ordered pair.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse relation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 72: A relation that is reflexive, symmetric and transitive is called:",
+    "options": [
+      "Equivalence relation",
+      "Function",
+      "Binary operation",
+      "One-one function"
+    ],
+    "correctAnswer": "Equivalence relation",
+    "explanation": "These three properties define an equivalence relation.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 73: The domain of relation R={(1,2),(3,4),(5,6)} is:",
+    "options": [
+      "{1,3,5}",
+      "{2,4,6}",
+      "{1,2,3,4,5,6}",
+      "{2,3,5}"
+    ],
+    "correctAnswer": "{1,3,5}",
+    "explanation": "The domain is the set of first components.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 74: The range of relation R={(1,2),(3,4),(5,2)} is:",
+    "options": [
+      "{2,4}",
+      "{1,3,5}",
+      "{1,2,3,4,5}",
+      "{5,2}"
+    ],
+    "correctAnswer": "{2,4}",
+    "explanation": "The range is the set of second components.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 75: If f:A→B is onto, then range of f is:",
+    "options": [
+      "B",
+      "A",
+      "A×B",
+      "∅"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Onto means every element of codomain B is used as an image.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "surjective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 76: If f:A→B is one-one, then:",
+    "options": [
+      "Distinct elements of A have distinct images",
+      "All elements of A have same image",
+      "Every element of B must be image",
+      "A must be empty"
+    ],
+    "correctAnswer": "Distinct elements of A have distinct images",
+    "explanation": "One-one means no two different inputs share the same output.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "injective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 77: A constant function is generally:",
+    "options": [
+      "Many-one if domain has more than one element",
+      "Always one-one",
+      "Always onto every codomain",
+      "Not a function"
+    ],
+    "correctAnswer": "Many-one if domain has more than one element",
+    "explanation": "A constant function maps all inputs to the same output.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "constant function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 78: If f(x)=5 for all x, then f is:",
+    "options": [
+      "Constant function",
+      "Identity function",
+      "Onto function always",
+      "Inverse function"
+    ],
+    "correctAnswer": "Constant function",
+    "explanation": "The output remains fixed for all inputs.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "constant function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 79: Which function is one-one over real numbers?",
+    "options": [
+      "f(x)=2x+1",
+      "f(x)=x²",
+      "f(x)=5",
+      "f(x)=|x|"
+    ],
+    "correctAnswer": "f(x)=2x+1",
+    "explanation": "A nonzero linear function is one-one over real numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "injective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 80: Which function is not one-one over real numbers?",
+    "options": [
+      "f(x)=x²",
+      "f(x)=x+1",
+      "f(x)=3x",
+      "f(x)=x−5"
+    ],
+    "correctAnswer": "f(x)=x²",
+    "explanation": "f(2)=f(−2)=4, so it is not one-one.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "injective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 81: If f(x)=2x, then f⁻¹(x) is:",
+    "options": [
+      "x/2",
+      "2x",
+      "x−2",
+      "1/(2x)"
+    ],
+    "correctAnswer": "x/2",
+    "explanation": "Let y=2x; then x=y/2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 82: If f(x)=x/3, then f⁻¹(x) is:",
+    "options": [
+      "3x",
+      "x/3",
+      "x+3",
+      "1/(3x)"
+    ],
+    "correctAnswer": "3x",
+    "explanation": "Let y=x/3; then x=3y.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 83: For f(x)=x+2 and g(x)=x², (f∘g)(x) equals:",
+    "options": [
+      "x²+2",
+      "(x+2)²",
+      "x²+4",
+      "2x²"
+    ],
+    "correctAnswer": "x²+2",
+    "explanation": "f(g(x))=f(x²)=x²+2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 84: For f(x)=x+2 and g(x)=x², (g∘f)(x) equals:",
+    "options": [
+      "(x+2)²",
+      "x²+2",
+      "x²+4",
+      "2x+2"
+    ],
+    "correctAnswer": "(x+2)²",
+    "explanation": "g(f(x))=g(x+2)=(x+2)^2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 85: Composition of functions is generally:",
+    "options": [
+      "Not commutative",
+      "Always commutative",
+      "Never associative",
+      "Not defined for any functions"
+    ],
+    "correctAnswer": "Not commutative",
+    "explanation": "Usually f∘g is not equal to g∘f.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 86: If A={1,2,3}, then the identity function on A maps 2 to:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Identity function maps each element to itself.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 87: Which is true for a finite set A with 4 elements?",
+    "options": [
+      "P(A) has 16 elements",
+      "P(A) has 8 elements",
+      "P(A) has 4 elements",
+      "P(A) has 2 elements"
+    ],
+    "correctAnswer": "P(A) has 16 elements",
+    "explanation": "A power set has 2^n elements; 2^4=16.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "power set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 88: If n(A∪B)=20, n(A)=12 and n(B)=15, then n(A∩B) is:",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "7",
+    "explanation": "n(A∩B)=12+15−20=7.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cardinality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 89: If A∩B=∅, then n(A∪B) equals:",
+    "options": [
+      "n(A)+n(B)",
+      "n(A)−n(B)",
+      "n(A)n(B)",
+      "0"
+    ],
+    "correctAnswer": "n(A)+n(B)",
+    "explanation": "For disjoint sets, there is no overlap to subtract.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cardinality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 90: Which statement is true?",
+    "options": [
+      "A∩U=A",
+      "A∪∅=∅",
+      "A∩∅=A",
+      "A∪A′=∅"
+    ],
+    "correctAnswer": "A∩U=A",
+    "explanation": "Intersecting with universal set leaves A unchanged.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "set laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 91: Which statement is true?",
+    "options": [
+      "A∪A′=U",
+      "A∩A′=U",
+      "A−A=U",
+      "A∪∅=∅"
+    ],
+    "correctAnswer": "A∪A′=U",
+    "explanation": "A and its complement together form the universal set.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 92: Which law is A∪B = B∪A?",
+    "options": [
+      "Commutative law",
+      "Associative law",
+      "Distributive law",
+      "Identity law"
+    ],
+    "correctAnswer": "Commutative law",
+    "explanation": "Commutative law allows changing order.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "set laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 93: Which law is (A∪B)∪C = A∪(B∪C)?",
+    "options": [
+      "Associative law",
+      "Commutative law",
+      "Complement law",
+      "Identity law"
+    ],
+    "correctAnswer": "Associative law",
+    "explanation": "Associative law allows regrouping.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "set laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 94: Which law is A∩(B∪C)=(A∩B)∪(A∩C)?",
+    "options": [
+      "Distributive law",
+      "Commutative law",
+      "Identity law",
+      "Inverse law"
+    ],
+    "correctAnswer": "Distributive law",
+    "explanation": "Intersection distributes over union.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "set laws"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 95: If A={x | x is an even natural number less than 10}, then A is:",
+    "options": [
+      "{2,4,6,8}",
+      "{1,3,5,7,9}",
+      "{0,2,4,6,8,10}",
+      "{2,4,6,8,10}"
+    ],
+    "correctAnswer": "{2,4,6,8}",
+    "explanation": "Even natural numbers less than 10 are 2, 4, 6, and 8.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 96: If A={1,2,3}, then A×A has:",
+    "options": [
+      "9 ordered pairs",
+      "6 ordered pairs",
+      "3 ordered pairs",
+      "12 ordered pairs"
+    ],
+    "correctAnswer": "9 ordered pairs",
+    "explanation": "n(A×A)=3×3=9.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cartesian product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 97: Which pair belongs to {1,2}×{a,b}?",
+    "options": [
+      "(1,a)",
+      "(a,1)",
+      "(3,a)",
+      "(1,c)"
+    ],
+    "correctAnswer": "(1,a)",
+    "explanation": "The first component must come from {1,2} and second from {a,b}.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cartesian product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 98: A binary operation * on S must satisfy:",
+    "options": [
+      "a*b ∈ S for all a,b∈S",
+      "a*b ∉ S always",
+      "a*b is undefined",
+      "a*b must equal a"
+    ],
+    "correctAnswer": "a*b ∈ S for all a,b∈S",
+    "explanation": "Closure is required for a binary operation on S.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 99: If * is defined by a*b=a−b on integers, then * is:",
+    "options": [
+      "Not associative",
+      "Always commutative",
+      "Has identity 1",
+      "Not closed"
+    ],
+    "correctAnswer": "Not associative",
+    "explanation": "Subtraction is closed on integers but not associative.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "mcq",
+    "question": "MCQ 100: Which operation is associative on integers?",
+    "options": [
+      "Addition",
+      "Subtraction",
+      "Division",
+      "Taking reciprocal"
+    ],
+    "correctAnswer": "Addition",
+    "explanation": "Integer addition is associative.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "associativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 1: Define a set and give one example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 2: Differentiate between finite and infinite sets.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 3: Define subset and proper subset.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subsets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 4: What is a power set?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "power set"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 5: State the formula for the number of subsets of a finite set.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subsets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 6: Define union of two sets.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "union"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 7: Define intersection of two sets.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "intersection"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 8: What are disjoint sets?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "disjoint sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 9: Define complement of a set.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 10: State De Morgan's laws for sets.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "De Morgan"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 11: What is the difference of two sets?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "difference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 12: Define Cartesian product of two sets.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cartesian product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 13: What is an ordered pair?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "ordered pair"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 14: Define relation from A to B.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 15: What is the domain of a relation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 16: What is the range of a relation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 17: Define inverse relation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse relation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 18: What is a reflexive relation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 19: What is a symmetric relation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 20: What is a transitive relation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 21: Define equivalence relation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 22: Define function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 23: Differentiate between domain and codomain of a function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 24: What is range of a function?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 25: Define one-one function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "injective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 26: Define onto function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "surjective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 27: Define bijective function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "bijective"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 28: What is an identity function?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 29: What is a constant function?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "constant function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 30: What is a many-one function?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "many-one"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 31: Define inverse function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 32: When does a function have an inverse?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 33: Define composition of functions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 34: Is composition of functions always commutative?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 35: Find the domain restriction for f(x)=1/x.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 36: Find the domain restriction for f(x)=√x over real numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 37: Define binary operation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 38: What is closure property?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "closure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 39: Define associative property.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "associativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 40: Define commutative property.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "commutativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 41: What is an identity element?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 42: What is inverse of an element under a binary operation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 43: Define group.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 44: List the four group axioms.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 45: Define Abelian group.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "abelian group"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 46: Why do natural numbers under addition not form a group?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 47: Why do nonzero real numbers form a group under multiplication?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 48: Define subgroup.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subgroups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 49: What is the identity element under addition?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "short",
+    "question": "Short Question 50: What is the identity element under multiplication?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 1: Explain set operations union, intersection, difference and complement with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "sets"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 2: Prove De Morgan's laws using suitable examples or Venn diagram reasoning.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "De Morgan"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 3: If A and B are finite sets, derive and explain n(A∪B)=n(A)+n(B)−n(A∩B).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "cardinality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 4: Define Cartesian product and relation. Explain domain and range of a relation with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 5: Explain reflexive, symmetric and transitive relations with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 6: Define equivalence relation and verify an example relation as equivalence relation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "relations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 7: Define function. Explain domain, codomain and range with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 8: Explain one-one, onto and bijective functions with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "functions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 9: Explain inverse function and the condition for existence of inverse function.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "inverse function"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 10: Explain composition of functions and show that composition is not always commutative.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 11: Find f∘g and g∘f for suitable functions and compare the results.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "composition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 12: Discuss domain and range of common functions such as polynomial, rational and square root functions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 13: Define binary operation and explain closure with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "binary operation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 14: Explain identity and inverse elements under a binary operation with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 15: State and explain all four group axioms with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 16: Show that integers form a group under usual addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 17: Show that nonzero real numbers form a group under usual multiplication.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 18: Explain why natural numbers under addition do not form a group.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "groups"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 19: Define Abelian group and give examples of Abelian groups.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "abelian group"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sets Functions and Groups",
+    "chapterId": "Sets Functions and Groups",
+    "type": "long",
+    "question": "Long Question 20: Define subgroup and explain how to check whether a subset is a subgroup.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sets Functions and Groups",
+      "subgroups"
+    ]
+  }
+]

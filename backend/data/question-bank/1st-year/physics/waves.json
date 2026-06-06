@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 1: The maximum displacement of a vibrating particle from its mean position is called:",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wavelength",
+      "Time period"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanation": "Amplitude is the maximum displacement from the mean position.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 2: The number of vibrations completed in one second is called:",
+    "options": [
+      "Frequency",
+      "Time period",
+      "Amplitude",
+      "Phase"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Frequency is the number of complete oscillations per second.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 3: The SI unit of frequency is:",
+    "options": [
+      "Hertz",
+      "Meter",
+      "Second",
+      "Newton"
+    ],
+    "correctAnswer": "Hertz",
+    "explanation": "Frequency is measured in hertz (Hz).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 4: The distance between two consecutive crests is called:",
+    "options": [
+      "Wavelength",
+      "Amplitude",
+      "Frequency",
+      "Speed"
+    ],
+    "correctAnswer": "Wavelength",
+    "explanation": "Wavelength is the distance between two consecutive points in the same phase.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 5: The relation between wave speed, frequency and wavelength is:",
+    "options": [
+      "v = fλ",
+      "v = f/λ",
+      "v = λ/f",
+      "v = 1/fλ"
+    ],
+    "correctAnswer": "v = fλ",
+    "explanation": "Wave speed equals frequency multiplied by wavelength.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 6: A wave that needs a material medium for propagation is called:",
+    "options": [
+      "Mechanical wave",
+      "Electromagnetic wave",
+      "Light wave",
+      "Radio wave"
+    ],
+    "correctAnswer": "Mechanical wave",
+    "explanation": "Mechanical waves require a medium to travel.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "mechanical waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 7: Sound waves in air are:",
+    "options": [
+      "Longitudinal waves",
+      "Transverse waves",
+      "Electromagnetic waves",
+      "Polarized waves"
+    ],
+    "correctAnswer": "Longitudinal waves",
+    "explanation": "Sound in air travels through compressions and rarefactions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 8: Light waves are an example of:",
+    "options": [
+      "Electromagnetic waves",
+      "Mechanical waves",
+      "Longitudinal waves",
+      "Matter waves only"
+    ],
+    "correctAnswer": "Electromagnetic waves",
+    "explanation": "Light can travel through vacuum, so it is electromagnetic.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "electromagnetic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 9: In a transverse wave, particles of the medium vibrate:",
+    "options": [
+      "Perpendicular to wave direction",
+      "Parallel to wave direction",
+      "In circular paths only",
+      "Without displacement"
+    ],
+    "correctAnswer": "Perpendicular to wave direction",
+    "explanation": "Transverse wave particles vibrate perpendicular to propagation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 10: In a longitudinal wave, particles of the medium vibrate:",
+    "options": [
+      "Parallel to wave direction",
+      "Perpendicular to wave direction",
+      "Randomly only",
+      "At rest"
+    ],
+    "correctAnswer": "Parallel to wave direction",
+    "explanation": "Longitudinal wave particles vibrate parallel to propagation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 11: A region of high pressure in a longitudinal wave is called:",
+    "options": [
+      "Compression",
+      "Rarefaction",
+      "Crest",
+      "Trough"
+    ],
+    "correctAnswer": "Compression",
+    "explanation": "Compression is the region where particles are close together.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 12: A region of low pressure in a longitudinal wave is called:",
+    "options": [
+      "Rarefaction",
+      "Compression",
+      "Crest",
+      "Node"
+    ],
+    "correctAnswer": "Rarefaction",
+    "explanation": "Rarefaction is the region where particles are spread apart.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 13: The time required to complete one vibration is called:",
+    "options": [
+      "Time period",
+      "Frequency",
+      "Wavelength",
+      "Amplitude"
+    ],
+    "correctAnswer": "Time period",
+    "explanation": "Time period is the time of one complete oscillation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 14: The relation between frequency and time period is:",
+    "options": [
+      "f = 1/T",
+      "f = T",
+      "f = T²",
+      "f = 1/T²"
+    ],
+    "correctAnswer": "f = 1/T",
+    "explanation": "Frequency is reciprocal of time period.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 15: When two waves overlap, the principle involved is:",
+    "options": [
+      "Superposition",
+      "Refraction",
+      "Polarization",
+      "Evaporation"
+    ],
+    "correctAnswer": "Superposition",
+    "explanation": "The resultant displacement is the vector sum of individual displacements.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "superposition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 16: When two waves meet in phase, the interference is:",
+    "options": [
+      "Constructive",
+      "Destructive",
+      "Random",
+      "Zero always"
+    ],
+    "correctAnswer": "Constructive",
+    "explanation": "In-phase waves produce a larger resultant amplitude.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "constructive interference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 17: When two waves meet out of phase by 180°, the interference is:",
+    "options": [
+      "Destructive",
+      "Constructive",
+      "Resonant",
+      "Refractive"
+    ],
+    "correctAnswer": "Destructive",
+    "explanation": "Opposite phase waves reduce or cancel the resultant amplitude.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "destructive interference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 18: A stationary wave is formed by the superposition of:",
+    "options": [
+      "Two identical waves travelling in opposite directions",
+      "Two waves of different media only",
+      "One wave only",
+      "Two light rays only"
+    ],
+    "correctAnswer": "Two identical waves travelling in opposite directions",
+    "explanation": "Stationary waves arise from two same-frequency waves moving oppositely.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "stationary waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 19: A point of zero displacement in a stationary wave is called:",
+    "options": [
+      "Node",
+      "Antinode",
+      "Crest",
+      "Trough"
+    ],
+    "correctAnswer": "Node",
+    "explanation": "At a node, the amplitude remains zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "nodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 20: A point of maximum displacement in a stationary wave is called:",
+    "options": [
+      "Antinode",
+      "Node",
+      "Compression",
+      "Rarefaction"
+    ],
+    "correctAnswer": "Antinode",
+    "explanation": "An antinode has maximum amplitude in a stationary wave.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "antinodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 21: The phenomenon in which a body vibrates with maximum amplitude at natural frequency is:",
+    "options": [
+      "Resonance",
+      "Reflection",
+      "Refraction",
+      "Diffraction"
+    ],
+    "correctAnswer": "Resonance",
+    "explanation": "Resonance occurs when driving frequency equals natural frequency.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 22: Echo is produced due to:",
+    "options": [
+      "Reflection of sound",
+      "Refraction of sound",
+      "Polarization of sound",
+      "Absorption only"
+    ],
+    "correctAnswer": "Reflection of sound",
+    "explanation": "Echo is reflected sound heard separately.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 23: The minimum time gap required to hear a distinct echo is approximately:",
+    "options": [
+      "0.1 s",
+      "0.01 s",
+      "1 s",
+      "10 s"
+    ],
+    "correctAnswer": "0.1 s",
+    "explanation": "Human ear needs about 0.1 s to distinguish echo.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 24: The speed of sound is greatest in:",
+    "options": [
+      "Solids",
+      "Liquids",
+      "Gases",
+      "Vacuum"
+    ],
+    "correctAnswer": "Solids",
+    "explanation": "Sound generally travels fastest in solids due to strong elasticity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 25: Sound cannot travel through:",
+    "options": [
+      "Vacuum",
+      "Steel",
+      "Water",
+      "Air"
+    ],
+    "correctAnswer": "Vacuum",
+    "explanation": "Sound needs a material medium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 26: Pitch of sound mainly depends on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Intensity only",
+      "Speed only"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Higher frequency gives higher pitch.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "pitch"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 27: Loudness of sound mainly depends on:",
+    "options": [
+      "Amplitude",
+      "Wavelength only",
+      "Speed only",
+      "Phase only"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanation": "Greater amplitude usually produces louder sound.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "loudness"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 28: Quality or timbre of sound helps us to distinguish:",
+    "options": [
+      "Different sources having same pitch and loudness",
+      "Only loud sounds",
+      "Only reflected sounds",
+      "Only ultrasonic waves"
+    ],
+    "correctAnswer": "Different sources having same pitch and loudness",
+    "explanation": "Quality depends on waveform and harmonics.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "quality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 29: Beats are produced when two sound waves have:",
+    "options": [
+      "Slightly different frequencies",
+      "Exactly same amplitude only",
+      "Same frequency and phase only",
+      "Zero frequency"
+    ],
+    "correctAnswer": "Slightly different frequencies",
+    "explanation": "Beats arise from interference of close frequencies.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 30: The number of beats per second is equal to:",
+    "options": [
+      "Difference of frequencies",
+      "Sum of frequencies",
+      "Product of frequencies",
+      "Ratio of wavelengths"
+    ],
+    "correctAnswer": "Difference of frequencies",
+    "explanation": "Beat frequency is |f1 − f2|.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 31: The apparent change in frequency due to relative motion is called:",
+    "options": [
+      "Doppler effect",
+      "Resonance",
+      "Echo",
+      "Diffraction"
+    ],
+    "correctAnswer": "Doppler effect",
+    "explanation": "Doppler effect changes observed frequency when source or observer moves.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 32: When a sound source moves towards a stationary observer, apparent frequency:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Does not change"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "Wavefronts crowd together, increasing observed frequency.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 33: Wave intensity is proportional to:",
+    "options": [
+      "Square of amplitude",
+      "Amplitude only",
+      "Wavelength only",
+      "Time period only"
+    ],
+    "correctAnswer": "Square of amplitude",
+    "explanation": "For waves, intensity is generally proportional to amplitude squared.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "intensity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 34: The bending of waves around obstacles is called:",
+    "options": [
+      "Diffraction",
+      "Reflection",
+      "Refraction",
+      "Resonance"
+    ],
+    "correctAnswer": "Diffraction",
+    "explanation": "Diffraction is spreading/bending around edges or openings.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 35: The change in direction of a wave at a boundary is called:",
+    "options": [
+      "Reflection",
+      "Interference",
+      "Beats",
+      "Polarization"
+    ],
+    "correctAnswer": "Reflection",
+    "explanation": "Reflection is bouncing back from a surface.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "reflection of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 36: The change in direction of a wave due to change of speed in another medium is:",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Diffraction",
+      "Resonance"
+    ],
+    "correctAnswer": "Refraction",
+    "explanation": "Refraction occurs when wave speed changes across media.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 37: Polarization can occur only in:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves",
+      "Sound waves in air",
+      "All mechanical waves"
+    ],
+    "correctAnswer": "Transverse waves",
+    "explanation": "Only transverse waves can be polarized.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "polarization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 38: Water ripples on the surface are mainly:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves only",
+      "Electromagnetic waves",
+      "Stationary waves only"
+    ],
+    "correctAnswer": "Transverse waves",
+    "explanation": "Surface ripples show up-and-down motion while waves move outward.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 39: The speed of a wave on a string increases when:",
+    "options": [
+      "Tension increases",
+      "Mass per unit length increases only",
+      "Amplitude becomes zero",
+      "Frequency becomes zero"
+    ],
+    "correctAnswer": "Tension increases",
+    "explanation": "Wave speed on a string increases with tension.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "string vibration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 40: In a ripple tank, plane waves are produced by:",
+    "options": [
+      "Straight vibrating bar",
+      "Point source only",
+      "Concave mirror",
+      "Loudspeaker only"
+    ],
+    "correctAnswer": "Straight vibrating bar",
+    "explanation": "A straight bar produces plane water waves.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ripple tank"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 41: Circular water waves are produced by:",
+    "options": [
+      "Point source",
+      "Straight source",
+      "Plane mirror",
+      "Vacuum tube"
+    ],
+    "correctAnswer": "Point source",
+    "explanation": "A point disturbance produces circular wavefronts.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ripple tank"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 42: A wavefront is a surface joining points having:",
+    "options": [
+      "Same phase",
+      "Same speed only",
+      "Same mass only",
+      "Same temperature only"
+    ],
+    "correctAnswer": "Same phase",
+    "explanation": "All points on a wavefront vibrate in the same phase.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wavefront"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 43: A ray is always drawn:",
+    "options": [
+      "Normal to the wavefront",
+      "Parallel to the wavefront",
+      "Opposite to amplitude",
+      "Along a node only"
+    ],
+    "correctAnswer": "Normal to the wavefront",
+    "explanation": "Ray direction is perpendicular to wavefront.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ray"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 44: Ultrasound has frequency:",
+    "options": [
+      "Greater than 20 kHz",
+      "Less than 20 Hz",
+      "Equal to 1 Hz",
+      "Between 20 Hz and 20 kHz only"
+    ],
+    "correctAnswer": "Greater than 20 kHz",
+    "explanation": "Ultrasound is above the upper audible limit.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 45: The audible frequency range for humans is approximately:",
+    "options": [
+      "20 Hz to 20 kHz",
+      "0 Hz to 20 Hz",
+      "20 kHz to 200 kHz",
+      "1 MHz to 10 MHz"
+    ],
+    "correctAnswer": "20 Hz to 20 kHz",
+    "explanation": "Humans usually hear from about 20 Hz to 20,000 Hz.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 46: Infrasonic waves have frequency:",
+    "options": [
+      "Less than 20 Hz",
+      "Greater than 20 kHz",
+      "Exactly 20 kHz",
+      "Greater than 1 MHz"
+    ],
+    "correctAnswer": "Less than 20 Hz",
+    "explanation": "Infrasound lies below human hearing range.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 47: SONAR uses:",
+    "options": [
+      "Ultrasonic waves",
+      "Infrared rays only",
+      "X-rays only",
+      "Static electricity"
+    ],
+    "correctAnswer": "Ultrasonic waves",
+    "explanation": "SONAR detects objects using reflected ultrasonic waves.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sonar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 48: The formula used in echo ranging is:",
+    "options": [
+      "d = vt/2",
+      "d = vt",
+      "d = v/t",
+      "d = t/2v"
+    ],
+    "correctAnswer": "d = vt/2",
+    "explanation": "Sound travels to the object and back, so distance is half of total path.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 49: A progressive wave transfers:",
+    "options": [
+      "Energy without transferring matter permanently",
+      "Matter only",
+      "Charge only",
+      "No energy"
+    ],
+    "correctAnswer": "Energy without transferring matter permanently",
+    "explanation": "Wave motion transfers energy through oscillations.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "energy transfer"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 50: Particles in a progressive wave:",
+    "options": [
+      "Oscillate about their mean positions",
+      "Move permanently with the wave",
+      "Remain fixed always",
+      "Disappear"
+    ],
+    "correctAnswer": "Oscillate about their mean positions",
+    "explanation": "Medium particles vibrate locally while energy moves forward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "progressive waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 51: If a wave has frequency 50 Hz and wavelength 2 m, its speed is:",
+    "options": [
+      "100 m/s",
+      "25 m/s",
+      "52 m/s",
+      "48 m/s"
+    ],
+    "correctAnswer": "100 m/s",
+    "explanation": "Using v = fλ = 50 × 2 = 100 m/s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 52: If the time period of a wave is 0.02 s, its frequency is:",
+    "options": [
+      "50 Hz",
+      "20 Hz",
+      "0.04 Hz",
+      "100 Hz"
+    ],
+    "correctAnswer": "50 Hz",
+    "explanation": "f = 1/T = 1/0.02 = 50 Hz.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 53: If frequency is 100 Hz, the time period is:",
+    "options": [
+      "0.01 s",
+      "0.1 s",
+      "1 s",
+      "10 s"
+    ],
+    "correctAnswer": "0.01 s",
+    "explanation": "T = 1/f = 1/100 = 0.01 s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 54: If sound travels at 340 m/s and echo is heard after 2 s, the distance of reflector is:",
+    "options": [
+      "340 m",
+      "680 m",
+      "170 m",
+      "34 m"
+    ],
+    "correctAnswer": "340 m",
+    "explanation": "d = vt/2 = 340 × 2 / 2 = 340 m.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 55: If two tuning forks have frequencies 256 Hz and 260 Hz, beats per second are:",
+    "options": [
+      "4",
+      "516",
+      "2",
+      "260"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Beat frequency = |260 − 256| = 4 Hz.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 56: If wavelength is doubled at constant wave speed, frequency becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Zero"
+    ],
+    "correctAnswer": "Half",
+    "explanation": "Since v = fλ, frequency is inversely proportional to wavelength.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 57: The distance between a node and nearest antinode is:",
+    "options": [
+      "λ/4",
+      "λ/2",
+      "λ",
+      "2λ"
+    ],
+    "correctAnswer": "λ/4",
+    "explanation": "In a stationary wave, adjacent node and antinode are λ/4 apart.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "stationary waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 58: The distance between two consecutive nodes is:",
+    "options": [
+      "λ/2",
+      "λ/4",
+      "λ",
+      "2λ"
+    ],
+    "correctAnswer": "λ/2",
+    "explanation": "Adjacent nodes are separated by half wavelength.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "nodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 59: The distance between two consecutive antinodes is:",
+    "options": [
+      "λ/2",
+      "λ/4",
+      "λ",
+      "3λ/2"
+    ],
+    "correctAnswer": "λ/2",
+    "explanation": "Adjacent antinodes are separated by λ/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "antinodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 60: In stationary waves, energy is:",
+    "options": [
+      "Not transferred along the medium",
+      "Transferred continuously forward",
+      "Converted into mass",
+      "Destroyed"
+    ],
+    "correctAnswer": "Not transferred along the medium",
+    "explanation": "Stationary waves do not carry energy from one point to another.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "stationary waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 61: The fundamental frequency is also called:",
+    "options": [
+      "First harmonic",
+      "Second harmonic",
+      "Third harmonic",
+      "Overtone only"
+    ],
+    "correctAnswer": "First harmonic",
+    "explanation": "Fundamental frequency is the first harmonic.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "harmonics"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 62: The first overtone in a stretched string is:",
+    "options": [
+      "Second harmonic",
+      "First harmonic",
+      "Third harmonic",
+      "Zero harmonic"
+    ],
+    "correctAnswer": "Second harmonic",
+    "explanation": "The first overtone corresponds to the second harmonic.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "harmonics"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 63: The speed of sound in air increases when:",
+    "options": [
+      "Temperature increases",
+      "Temperature decreases",
+      "Pressure alone decreases at constant temperature",
+      "Vacuum is created"
+    ],
+    "correctAnswer": "Temperature increases",
+    "explanation": "Sound speed in air increases with temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 64: A medium with high elasticity generally allows sound to travel:",
+    "options": [
+      "Faster",
+      "Slower",
+      "With zero speed",
+      "Only as light"
+    ],
+    "correctAnswer": "Faster",
+    "explanation": "Elastic restoring forces help sound propagate faster.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 65: The wave property that proves sound can reflect is:",
+    "options": [
+      "Echo",
+      "Polarization",
+      "Photoelectric effect",
+      "Dispersion only"
+    ],
+    "correctAnswer": "Echo",
+    "explanation": "Echo is evidence of reflection of sound.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 66: An example of resonance is:",
+    "options": [
+      "A tuning fork making another identical tuning fork vibrate",
+      "Light passing through vacuum",
+      "A stone at rest",
+      "A mirror absorbing sound"
+    ],
+    "correctAnswer": "A tuning fork making another identical tuning fork vibrate",
+    "explanation": "Identical natural frequency causes large forced vibrations.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 67: The phenomenon used to tune musical instruments is:",
+    "options": [
+      "Beats",
+      "Diffraction",
+      "Refraction",
+      "Polarization"
+    ],
+    "correctAnswer": "Beats",
+    "explanation": "Beats help compare two nearly equal frequencies.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 68: When the observer moves away from a stationary source, apparent frequency:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes infinite",
+      "Becomes unchanged always"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "Moving away increases spacing of received wavefronts.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 69: The Doppler effect is not observed when:",
+    "options": [
+      "There is no relative motion between source and observer",
+      "Source moves toward observer",
+      "Observer moves away",
+      "Both move relative to medium"
+    ],
+    "correctAnswer": "There is no relative motion between source and observer",
+    "explanation": "Doppler shift requires relative motion along the line of sound.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 70: Wave speed depends mainly on:",
+    "options": [
+      "Properties of the medium",
+      "Only amplitude",
+      "Only color",
+      "Only loudness"
+    ],
+    "correctAnswer": "Properties of the medium",
+    "explanation": "Wave speed is determined by medium properties.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 71: Electromagnetic waves differ from sound waves because they:",
+    "options": [
+      "Can travel through vacuum",
+      "Need air only",
+      "Are always longitudinal",
+      "Have no frequency"
+    ],
+    "correctAnswer": "Can travel through vacuum",
+    "explanation": "Electromagnetic waves do not require a material medium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "electromagnetic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 72: Sound intensity level is commonly measured in:",
+    "options": [
+      "Decibel",
+      "Hertz",
+      "Meter",
+      "Joule only"
+    ],
+    "correctAnswer": "Decibel",
+    "explanation": "Sound level is measured in decibels (dB).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "intensity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 73: The higher the frequency of sound, the higher its:",
+    "options": [
+      "Pitch",
+      "Loudness only",
+      "Speed in air only",
+      "Amplitude only"
+    ],
+    "correctAnswer": "Pitch",
+    "explanation": "Pitch is directly related to frequency.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "pitch"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 74: If amplitude of a wave is increased, its energy generally:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Does not exist"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "Wave energy is proportional to the square of amplitude.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 75: The phase difference between two points separated by one wavelength is:",
+    "options": [
+      "2π rad",
+      "π rad",
+      "π/2 rad",
+      "0.5π rad"
+    ],
+    "correctAnswer": "2π rad",
+    "explanation": "One wavelength corresponds to a phase change of 2π radians.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 76: Two points in the same phase have path difference:",
+    "options": [
+      "nλ",
+      "(n+1/2)λ",
+      "λ/4",
+      "λ/8"
+    ],
+    "correctAnswer": "nλ",
+    "explanation": "Same phase occurs when path difference is an integral multiple of wavelength.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 77: Two points in opposite phase have path difference:",
+    "options": [
+      "(n+1/2)λ",
+      "nλ",
+      "2nλ",
+      "λ/4 only"
+    ],
+    "correctAnswer": "(n+1/2)λ",
+    "explanation": "Opposite phase occurs for odd half-wavelength path differences.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 78: Diffraction is more noticeable when obstacle size is:",
+    "options": [
+      "Comparable to wavelength",
+      "Much larger than wavelength only",
+      "Zero always",
+      "Infinite only"
+    ],
+    "correctAnswer": "Comparable to wavelength",
+    "explanation": "Diffraction becomes prominent when aperture/obstacle size is close to wavelength.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 79: Long-wavelength waves diffract:",
+    "options": [
+      "More than short-wavelength waves",
+      "Less than short-wavelength waves",
+      "Never",
+      "Only in vacuum"
+    ],
+    "correctAnswer": "More than short-wavelength waves",
+    "explanation": "Greater wavelength produces stronger diffraction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 80: Sound bends around corners because of:",
+    "options": [
+      "Diffraction",
+      "Polarization",
+      "Evaporation",
+      "Ionization"
+    ],
+    "correctAnswer": "Diffraction",
+    "explanation": "Sound has wavelengths large enough to diffract around obstacles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 81: The law of reflection for waves states that:",
+    "options": [
+      "Angle of incidence equals angle of reflection",
+      "Frequency becomes zero",
+      "Amplitude must double",
+      "Wavelength is always zero"
+    ],
+    "correctAnswer": "Angle of incidence equals angle of reflection",
+    "explanation": "Reflection obeys equal angles measured from the normal.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "reflection of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 82: During refraction, the quantity that remains unchanged is:",
+    "options": [
+      "Frequency",
+      "Speed",
+      "Wavelength",
+      "Direction always"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Frequency is fixed by the source and remains same across media.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 83: When a wave enters a slower medium, its wavelength:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes infinite",
+      "Does not exist"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "Since f remains constant and v decreases, wavelength decreases.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 84: The pattern of compressions and rarefactions is found in:",
+    "options": [
+      "Longitudinal waves",
+      "Transverse waves only",
+      "Polarized light only",
+      "Stationary string only"
+    ],
+    "correctAnswer": "Longitudinal waves",
+    "explanation": "Longitudinal waves consist of compressions and rarefactions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 85: Crests and troughs are parts of:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves only",
+      "Sound pressure waves only",
+      "No wave"
+    ],
+    "correctAnswer": "Transverse waves",
+    "explanation": "Transverse waves have crests and troughs.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 86: The point of maximum positive displacement is called:",
+    "options": [
+      "Crest",
+      "Trough",
+      "Node",
+      "Rarefaction"
+    ],
+    "correctAnswer": "Crest",
+    "explanation": "A crest is the highest point of a transverse wave.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 87: The point of maximum negative displacement is called:",
+    "options": [
+      "Trough",
+      "Crest",
+      "Compression",
+      "Antinode"
+    ],
+    "correctAnswer": "Trough",
+    "explanation": "A trough is the lowest point of a transverse wave.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 88: A stretched string fixed at both ends produces:",
+    "options": [
+      "Stationary waves",
+      "Only electromagnetic waves",
+      "Only compression waves",
+      "No vibration"
+    ],
+    "correctAnswer": "Stationary waves",
+    "explanation": "Reflected waves superpose to form stationary waves on a string.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "string vibration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 89: The frequency of a stretched string increases if its length is:",
+    "options": [
+      "Decreased",
+      "Increased",
+      "Made infinite",
+      "Not changed with tension"
+    ],
+    "correctAnswer": "Decreased",
+    "explanation": "Frequency is inversely related to length for a stretched string.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "string vibration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 90: In an open organ pipe, the ends are:",
+    "options": [
+      "Antinodes",
+      "Nodes",
+      "One node and one antinode",
+      "Always silent"
+    ],
+    "correctAnswer": "Antinodes",
+    "explanation": "Open ends are displacement antinodes.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "organ pipes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 91: In a closed organ pipe, the closed end is a:",
+    "options": [
+      "Node",
+      "Antinode",
+      "Crest",
+      "Rarefaction only"
+    ],
+    "correctAnswer": "Node",
+    "explanation": "Closed end is a displacement node.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "organ pipes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 92: A closed organ pipe produces mainly:",
+    "options": [
+      "Odd harmonics",
+      "Even harmonics only",
+      "No harmonics",
+      "Only second harmonic"
+    ],
+    "correctAnswer": "Odd harmonics",
+    "explanation": "Closed pipes support odd harmonics in the ideal case.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "organ pipes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 93: A wave equation y = A sin(ωt − kx) represents:",
+    "options": [
+      "Progressive wave",
+      "Stationary wave only",
+      "No wave",
+      "Circular motion only"
+    ],
+    "correctAnswer": "Progressive wave",
+    "explanation": "This is the standard form of a travelling wave.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 94: Angular frequency is related to frequency by:",
+    "options": [
+      "ω = 2πf",
+      "ω = f/2π",
+      "ω = 2π/f",
+      "ω = f²"
+    ],
+    "correctAnswer": "ω = 2πf",
+    "explanation": "Angular frequency equals 2π times frequency.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 95: Wave number is given by:",
+    "options": [
+      "k = 2π/λ",
+      "k = 2πλ",
+      "k = λ/2π",
+      "k = fλ"
+    ],
+    "correctAnswer": "k = 2π/λ",
+    "explanation": "Wave number is angular phase change per unit distance.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 96: A medium is necessary for propagation of:",
+    "options": [
+      "Sound waves",
+      "Light waves",
+      "Radio waves",
+      "X-rays"
+    ],
+    "correctAnswer": "Sound waves",
+    "explanation": "Sound is mechanical and requires a medium.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "medium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 97: In vacuum, the speed of electromagnetic waves is approximately:",
+    "options": [
+      "3 × 10^8 m/s",
+      "340 m/s",
+      "1500 m/s",
+      "0 m/s"
+    ],
+    "correctAnswer": "3 × 10^8 m/s",
+    "explanation": "Electromagnetic waves travel at the speed of light in vacuum.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "electromagnetic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 98: Seismic P-waves are:",
+    "options": [
+      "Longitudinal waves",
+      "Transverse waves only",
+      "Light waves",
+      "Surface water waves"
+    ],
+    "correctAnswer": "Longitudinal waves",
+    "explanation": "P-waves involve compressions and rarefactions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "seismic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 99: Seismic S-waves are:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves",
+      "Sound waves in air",
+      "Electromagnetic waves"
+    ],
+    "correctAnswer": "Transverse waves",
+    "explanation": "S-waves involve shear motion transverse to propagation.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "seismic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "mcq",
+    "question": "MCQ 100: The superposition principle is valid when waves:",
+    "options": [
+      "Overlap in the same medium",
+      "Travel in vacuum only",
+      "Have no amplitude",
+      "Are not waves"
+    ],
+    "correctAnswer": "Overlap in the same medium",
+    "explanation": "Overlapping waves add their displacements according to superposition.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "superposition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 1: Define wave motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 2: What is a mechanical wave?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "mechanical waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 3: Define electromagnetic wave.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "electromagnetic waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 4: Differentiate between transverse and longitudinal waves.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 5: Define amplitude of a wave.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 6: What is frequency? Write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 7: Define time period and write its relation with frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 8: What is wavelength?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 9: Write the relation between wave speed, frequency and wavelength.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 10: What are compressions and rarefactions?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 11: What is a crest and a trough?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 12: Define wavefront.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wavefront"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 13: What is a ray in wave motion?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ray"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 14: State the principle of superposition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "superposition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 15: Define constructive interference.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "constructive interference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 16: Define destructive interference.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "destructive interference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 17: What are stationary waves?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "stationary waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 18: What is a node?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "nodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 19: What is an antinode?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "antinodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 20: Write the distance between two consecutive nodes in a stationary wave.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "nodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 21: Write the distance between a node and nearest antinode.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "antinodes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 22: Define resonance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 23: Give one daily-life example of resonance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 24: What is an echo?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 25: Why is a minimum time interval needed to hear a clear echo?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 26: Write the formula used to find distance by echo method.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 27: Why can sound not travel through vacuum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 28: On which factors does the speed of sound depend?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 29: Why does sound travel faster in solids than in gases?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 30: Define loudness of sound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "loudness"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 31: Define pitch of sound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "pitch"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 32: What is quality or timbre of sound?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "quality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 33: What are beats?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 34: How can beats be used to tune musical instruments?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 35: Define Doppler effect.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 36: What happens to apparent frequency when source moves toward observer?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 37: Define intensity of sound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "intensity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 38: What is the relation between intensity and amplitude?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "intensity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 39: Define diffraction of waves.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 40: Why is diffraction of sound common in daily life?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 41: State the law of reflection for waves.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "reflection of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 42: What is refraction of waves?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 43: Which quantity remains unchanged during refraction of a wave?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 44: What is polarization?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "polarization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 45: Why can longitudinal waves not be polarized?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "polarization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 46: What is ultrasound?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 47: Write two uses of ultrasound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 48: What is SONAR?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sonar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 49: How are waves used in medical diagnosis?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "short",
+    "question": "Short Question 50: Why is wave study important in communication systems?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 1: Explain wave motion and describe its main characteristics with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 2: Differentiate between transverse and longitudinal waves with diagrams and examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "transverse waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 3: Explain the terms amplitude, wavelength, frequency, time period and wave speed.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave properties"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 4: Derive the relation v = fλ for wave motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 5: Explain the principle of superposition and discuss constructive and destructive interference.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "interference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 6: Describe the formation of stationary waves and explain nodes and antinodes.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "stationary waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 7: Explain resonance with examples from daily life and laboratory experiments.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 8: Explain reflection of sound and describe the conditions required for hearing a clear echo.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 9: Derive the formula d = vt/2 for echo ranging and solve a suitable numerical example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 10: Explain the speed of sound in different media and factors affecting it.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "speed of sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 11: Discuss loudness, pitch and quality of sound in detail.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sound properties"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 12: Explain beats and describe how beats are used in tuning musical instruments.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "beats"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 13: Explain Doppler effect and discuss its practical applications.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "Doppler effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 14: Describe diffraction of waves and explain why sound bends around obstacles.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "diffraction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 15: Explain refraction of waves and describe what happens to speed, wavelength and frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "refraction of waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 16: Explain polarization and why it proves the transverse nature of waves.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "polarization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 17: Describe the use of ultrasound in medicine and industry.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 18: Explain SONAR and its use in measuring the depth of sea.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "sonar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 19: Discuss progressive waves and stationary waves by comparing their properties.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "progressive waves"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Waves",
+    "chapterId": "Waves",
+    "type": "long",
+    "question": "Long Question 20: Explain applications of waves in communication, engineering and daily life.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Waves",
+      "applications"
+    ]
+  }
+]

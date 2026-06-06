@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 1: Physics is based mainly on:",
+    "options": [
+      "Observation and measurement",
+      "Guess work only",
+      "Poetry",
+      "History only"
+    ],
+    "correctAnswer": "Observation and measurement",
+    "explanation": "Physics studies nature through observation, experiment and measurement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 2: A measurable property of a body is called:",
+    "options": [
+      "Physical quantity",
+      "Chemical formula",
+      "Biological species",
+      "Pure number only"
+    ],
+    "correctAnswer": "Physical quantity",
+    "explanation": "A physical quantity can be measured and expressed with a number and unit.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 3: A physical quantity is completely described by:",
+    "options": [
+      "Magnitude and unit",
+      "Colour only",
+      "Name only",
+      "Symbol only"
+    ],
+    "correctAnswer": "Magnitude and unit",
+    "explanation": "A measurement needs numerical value and unit.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 4: The standard used to measure a physical quantity is called:",
+    "options": [
+      "Unit",
+      "Error",
+      "Dimension",
+      "Formula"
+    ],
+    "correctAnswer": "Unit",
+    "explanation": "A unit is an agreed standard for measurement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 5: The SI unit of length is:",
+    "options": [
+      "metre",
+      "kilogram",
+      "second",
+      "ampere"
+    ],
+    "correctAnswer": "metre",
+    "explanation": "Metre is the SI base unit of length.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 6: The SI unit of mass is:",
+    "options": [
+      "kilogram",
+      "metre",
+      "second",
+      "kelvin"
+    ],
+    "correctAnswer": "kilogram",
+    "explanation": "Kilogram is the SI base unit of mass.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 7: The SI unit of time is:",
+    "options": [
+      "second",
+      "metre",
+      "candela",
+      "mole"
+    ],
+    "correctAnswer": "second",
+    "explanation": "Second is the SI base unit of time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 8: The SI unit of electric current is:",
+    "options": [
+      "ampere",
+      "volt",
+      "ohm",
+      "watt"
+    ],
+    "correctAnswer": "ampere",
+    "explanation": "Ampere is the SI base unit of electric current.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 9: The SI unit of temperature is:",
+    "options": [
+      "kelvin",
+      "celsius only",
+      "joule",
+      "tesla"
+    ],
+    "correctAnswer": "kelvin",
+    "explanation": "Kelvin is the SI base unit of thermodynamic temperature.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 10: The SI unit of amount of substance is:",
+    "options": [
+      "mole",
+      "candela",
+      "newton",
+      "pascal"
+    ],
+    "correctAnswer": "mole",
+    "explanation": "Mole is the SI base unit for amount of substance.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 11: The SI unit of luminous intensity is:",
+    "options": [
+      "candela",
+      "lumen only",
+      "watt",
+      "lux only"
+    ],
+    "correctAnswer": "candela",
+    "explanation": "Candela is the SI base unit of luminous intensity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 12: Which one is a base quantity?",
+    "options": [
+      "Length",
+      "Velocity",
+      "Force",
+      "Pressure"
+    ],
+    "correctAnswer": "Length",
+    "explanation": "Length is one of the seven SI base quantities.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "base quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 13: Which one is a derived quantity?",
+    "options": [
+      "Velocity",
+      "Length",
+      "Mass",
+      "Time"
+    ],
+    "correctAnswer": "Velocity",
+    "explanation": "Velocity is derived from length and time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 14: The SI unit of velocity is:",
+    "options": [
+      "m s⁻¹",
+      "m s",
+      "kg m⁻³",
+      "N m"
+    ],
+    "correctAnswer": "m s⁻¹",
+    "explanation": "Velocity is displacement per unit time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 15: The SI unit of acceleration is:",
+    "options": [
+      "m s⁻²",
+      "m s⁻¹",
+      "N m",
+      "kg m⁻¹"
+    ],
+    "correctAnswer": "m s⁻²",
+    "explanation": "Acceleration is change of velocity per unit time.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 16: The SI unit of force is:",
+    "options": [
+      "newton",
+      "joule",
+      "watt",
+      "pascal"
+    ],
+    "correctAnswer": "newton",
+    "explanation": "Force is measured in newton.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 17: One newton is equal to:",
+    "options": [
+      "kg m s⁻²",
+      "kg m² s⁻²",
+      "kg m⁻¹ s⁻²",
+      "m s⁻¹"
+    ],
+    "correctAnswer": "kg m s⁻²",
+    "explanation": "From F = ma, unit of force is kg m s⁻².",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 18: The SI unit of work is:",
+    "options": [
+      "joule",
+      "newton",
+      "watt",
+      "pascal"
+    ],
+    "correctAnswer": "joule",
+    "explanation": "Work is measured in joule.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 19: One joule is equal to:",
+    "options": [
+      "kg m² s⁻²",
+      "kg m s⁻²",
+      "kg m⁻³",
+      "N m⁻²"
+    ],
+    "correctAnswer": "kg m² s⁻²",
+    "explanation": "Work = force × distance = kg m² s⁻².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 20: The SI unit of power is:",
+    "options": [
+      "watt",
+      "joule",
+      "newton",
+      "tesla"
+    ],
+    "correctAnswer": "watt",
+    "explanation": "Power is work per unit time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 21: One watt is equal to:",
+    "options": [
+      "kg m² s⁻³",
+      "kg m² s⁻²",
+      "kg m s⁻²",
+      "N m²"
+    ],
+    "correctAnswer": "kg m² s⁻³",
+    "explanation": "Power = work/time = kg m² s⁻³.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 22: The SI unit of pressure is:",
+    "options": [
+      "pascal",
+      "joule",
+      "watt",
+      "coulomb"
+    ],
+    "correctAnswer": "pascal",
+    "explanation": "Pressure is force per unit area.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 23: One pascal is equal to:",
+    "options": [
+      "N m⁻²",
+      "N m",
+      "kg m s⁻¹",
+      "J s"
+    ],
+    "correctAnswer": "N m⁻²",
+    "explanation": "Pressure = force/area.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 24: The SI unit of frequency is:",
+    "options": [
+      "hertz",
+      "watt",
+      "tesla",
+      "newton"
+    ],
+    "correctAnswer": "hertz",
+    "explanation": "Frequency is number of cycles per second.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 25: One hertz is equal to:",
+    "options": [
+      "s⁻¹",
+      "s",
+      "m s⁻¹",
+      "kg s"
+    ],
+    "correctAnswer": "s⁻¹",
+    "explanation": "Frequency has dimension per second.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 26: The SI prefix kilo means:",
+    "options": [
+      "10³",
+      "10⁶",
+      "10⁻³",
+      "10⁻⁶"
+    ],
+    "correctAnswer": "10³",
+    "explanation": "Kilo represents one thousand.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 27: The SI prefix mega means:",
+    "options": [
+      "10⁶",
+      "10³",
+      "10⁻³",
+      "10⁻⁶"
+    ],
+    "correctAnswer": "10⁶",
+    "explanation": "Mega represents one million.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 28: The SI prefix milli means:",
+    "options": [
+      "10⁻³",
+      "10³",
+      "10⁶",
+      "10⁻⁹"
+    ],
+    "correctAnswer": "10⁻³",
+    "explanation": "Milli represents one thousandth.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 29: The SI prefix micro means:",
+    "options": [
+      "10⁻⁶",
+      "10⁻³",
+      "10⁶",
+      "10⁹"
+    ],
+    "correctAnswer": "10⁻⁶",
+    "explanation": "Micro represents one millionth.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 30: The SI prefix nano means:",
+    "options": [
+      "10⁻⁹",
+      "10⁹",
+      "10⁻³",
+      "10³"
+    ],
+    "correctAnswer": "10⁻⁹",
+    "explanation": "Nano represents one billionth.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 31: 1 kilometre is equal to:",
+    "options": [
+      "1000 m",
+      "100 m",
+      "10 m",
+      "0.001 m"
+    ],
+    "correctAnswer": "1000 m",
+    "explanation": "Kilo means 10³.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit conversion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 32: 1 millimetre is equal to:",
+    "options": [
+      "10⁻³ m",
+      "10³ m",
+      "10⁻⁶ m",
+      "10⁶ m"
+    ],
+    "correctAnswer": "10⁻³ m",
+    "explanation": "Milli means 10⁻³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit conversion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 33: 1 microsecond is equal to:",
+    "options": [
+      "10⁻⁶ s",
+      "10⁻³ s",
+      "10³ s",
+      "10⁶ s"
+    ],
+    "correctAnswer": "10⁻⁶ s",
+    "explanation": "Micro means 10⁻⁶.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit conversion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 34: Scientific notation expresses a number as:",
+    "options": [
+      "a × 10ⁿ",
+      "a + 10n",
+      "a/10 + n",
+      "10/a"
+    ],
+    "correctAnswer": "a × 10ⁿ",
+    "explanation": "Scientific notation uses a coefficient and a power of ten.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 35: The number 3000 in scientific notation is:",
+    "options": [
+      "3.0 × 10³",
+      "3.0 × 10⁻³",
+      "30 × 10³",
+      "0.3 × 10³"
+    ],
+    "correctAnswer": "3.0 × 10³",
+    "explanation": "3000 = 3.0 × 10³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 36: The number 0.0045 in scientific notation is:",
+    "options": [
+      "4.5 × 10⁻³",
+      "4.5 × 10³",
+      "45 × 10⁻³",
+      "0.45 × 10⁻³"
+    ],
+    "correctAnswer": "4.5 × 10⁻³",
+    "explanation": "Move decimal three places to get 4.5.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 37: The dimensions of velocity are:",
+    "options": [
+      "[LT⁻¹]",
+      "[LT⁻²]",
+      "[MLT⁻²]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[LT⁻¹]",
+    "explanation": "Velocity = displacement/time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 38: The dimensions of acceleration are:",
+    "options": [
+      "[LT⁻²]",
+      "[LT⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]"
+    ],
+    "correctAnswer": "[LT⁻²]",
+    "explanation": "Acceleration = velocity/time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 39: The dimensions of force are:",
+    "options": [
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[ML⁻¹T⁻²]",
+      "[LT⁻¹]"
+    ],
+    "correctAnswer": "[MLT⁻²]",
+    "explanation": "F = ma = M × LT⁻².",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 40: The dimensions of work are:",
+    "options": [
+      "[ML²T⁻²]",
+      "[MLT⁻²]",
+      "[ML²T⁻³]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[ML²T⁻²]",
+    "explanation": "Work = force × distance.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 41: The dimensions of power are:",
+    "options": [
+      "[ML²T⁻³]",
+      "[ML²T⁻²]",
+      "[MLT⁻²]",
+      "[LT⁻²]"
+    ],
+    "correctAnswer": "[ML²T⁻³]",
+    "explanation": "Power = work/time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 42: The dimensions of pressure are:",
+    "options": [
+      "[ML⁻¹T⁻²]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[ML⁻¹T⁻²]",
+    "explanation": "Pressure = force/area.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 43: A dimensionless quantity has dimensions:",
+    "options": [
+      "[M⁰L⁰T⁰]",
+      "[MLT]",
+      "[MLT⁻²]",
+      "[LT⁻¹]"
+    ],
+    "correctAnswer": "[M⁰L⁰T⁰]",
+    "explanation": "All powers of base dimensions are zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 44: Which one is dimensionless?",
+    "options": [
+      "Strain",
+      "Force",
+      "Velocity",
+      "Work"
+    ],
+    "correctAnswer": "Strain",
+    "explanation": "Strain is ratio of two lengths.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 45: Dimensional analysis is used to:",
+    "options": [
+      "Check correctness of equations",
+      "Find colour of object",
+      "Measure temperature directly",
+      "Change mass"
+    ],
+    "correctAnswer": "Check correctness of equations",
+    "explanation": "A correct physical equation must be dimensionally homogeneous.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 46: The principle of homogeneity states that:",
+    "options": [
+      "Dimensions on both sides of equation must be same",
+      "Units are never needed",
+      "Mass equals length",
+      "All quantities are dimensionless"
+    ],
+    "correctAnswer": "Dimensions on both sides of equation must be same",
+    "explanation": "Only quantities with same dimensions can be added or equated.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 47: Dimensional analysis cannot determine:",
+    "options": [
+      "Numerical constants",
+      "Dimensions of quantities",
+      "Unit conversion",
+      "Checking equations"
+    ],
+    "correctAnswer": "Numerical constants",
+    "explanation": "Dimensionless numerical constants cannot be found by dimensional analysis.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 48: Least count means:",
+    "options": [
+      "Smallest measurement an instrument can measure",
+      "Maximum measurement only",
+      "Weight of instrument",
+      "Error always equal zero"
+    ],
+    "correctAnswer": "Smallest measurement an instrument can measure",
+    "explanation": "Least count is the smallest readable value of an instrument.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 49: Smaller least count means measurement is:",
+    "options": [
+      "More precise",
+      "Less precise",
+      "Always wrong",
+      "Impossible"
+    ],
+    "correctAnswer": "More precise",
+    "explanation": "Smaller least count gives finer measurement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 50: The least count of a metre rule is usually:",
+    "options": [
+      "1 mm",
+      "1 cm",
+      "1 m",
+      "0.1 m"
+    ],
+    "correctAnswer": "1 mm",
+    "explanation": "A common metre rule has millimetre divisions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 51: A vernier caliper is used to measure:",
+    "options": [
+      "Internal and external diameters",
+      "Electric current",
+      "Temperature",
+      "Mass only"
+    ],
+    "correctAnswer": "Internal and external diameters",
+    "explanation": "Vernier caliper measures lengths, diameters and depths.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 52: The least count of common vernier caliper is:",
+    "options": [
+      "0.01 cm",
+      "1 cm",
+      "1 m",
+      "10 cm"
+    ],
+    "correctAnswer": "0.01 cm",
+    "explanation": "Common vernier caliper can read up to 0.01 cm.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 53: Vernier caliper can measure depth using:",
+    "options": [
+      "Depth rod",
+      "Main scale only",
+      "Screw only",
+      "Pointer only"
+    ],
+    "correctAnswer": "Depth rod",
+    "explanation": "The depth rod is used for depth measurement.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 54: The reading of vernier caliper is:",
+    "options": [
+      "Main scale reading + vernier scale reading",
+      "Main scale reading only",
+      "Vernier divisions only",
+      "Zero error only"
+    ],
+    "correctAnswer": "Main scale reading + vernier scale reading",
+    "explanation": "Total reading is MSR + VSR after correction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 55: A screw gauge is mainly used to measure:",
+    "options": [
+      "Very small thickness or diameter",
+      "Large distance only",
+      "Temperature",
+      "Time interval"
+    ],
+    "correctAnswer": "Very small thickness or diameter",
+    "explanation": "Screw gauge measures small lengths accurately.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 56: The least count of common screw gauge is:",
+    "options": [
+      "0.01 mm",
+      "1 cm",
+      "1 m",
+      "10 mm"
+    ],
+    "correctAnswer": "0.01 mm",
+    "explanation": "Common micrometer screw gauge often has least count 0.01 mm.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 57: Pitch of screw gauge is:",
+    "options": [
+      "Distance moved by screw in one complete rotation",
+      "Radius of wire",
+      "Mass of screw",
+      "Number of divisions only"
+    ],
+    "correctAnswer": "Distance moved by screw in one complete rotation",
+    "explanation": "Pitch is linear advance per complete turn.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 58: Least count of screw gauge is:",
+    "options": [
+      "Pitch / number of circular scale divisions",
+      "Pitch × divisions",
+      "Pitch + divisions",
+      "Pitch - divisions"
+    ],
+    "correctAnswer": "Pitch / number of circular scale divisions",
+    "explanation": "Least count is obtained by dividing pitch by circular divisions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 59: Zero error occurs when:",
+    "options": [
+      "Instrument does not read zero when it should",
+      "Instrument is perfect",
+      "Object has no length",
+      "Unit is not written"
+    ],
+    "correctAnswer": "Instrument does not read zero when it should",
+    "explanation": "Zero error is a systematic instrumental error.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 60: Positive zero error is corrected by:",
+    "options": [
+      "Subtracting zero correction",
+      "Adding random value",
+      "Ignoring it",
+      "Changing SI unit"
+    ],
+    "correctAnswer": "Subtracting zero correction",
+    "explanation": "For positive zero error, subtract the error from observed reading.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 61: Negative zero error is corrected by:",
+    "options": [
+      "Adding the correction",
+      "Always subtracting",
+      "Ignoring",
+      "Multiplying by zero"
+    ],
+    "correctAnswer": "Adding the correction",
+    "explanation": "Negative zero error requires addition of correction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 62: An error that repeats in the same direction is:",
+    "options": [
+      "Systematic error",
+      "Random error",
+      "Gross error",
+      "Zero dimension"
+    ],
+    "correctAnswer": "Systematic error",
+    "explanation": "Systematic errors have a consistent bias.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 63: An error due to unpredictable fluctuations is:",
+    "options": [
+      "Random error",
+      "Systematic error",
+      "Zero error only",
+      "Unit error only"
+    ],
+    "correctAnswer": "Random error",
+    "explanation": "Random errors vary irregularly from one measurement to another.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 64: Careless mistake in reading is called:",
+    "options": [
+      "Gross error",
+      "Random error",
+      "Systematic error",
+      "Percentage error"
+    ],
+    "correctAnswer": "Gross error",
+    "explanation": "Gross errors are human mistakes due to carelessness.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 65: Accuracy means closeness to:",
+    "options": [
+      "True value",
+      "Repeated values only",
+      "Largest value",
+      "Zero always"
+    ],
+    "correctAnswer": "True value",
+    "explanation": "Accuracy shows how close a measurement is to the accepted value.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "accuracy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 66: Precision means closeness among:",
+    "options": [
+      "Repeated measurements",
+      "Only true value",
+      "Units",
+      "Dimensions"
+    ],
+    "correctAnswer": "Repeated measurements",
+    "explanation": "Precision describes repeatability of measurements.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "precision"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 67: A measurement can be precise but not accurate if:",
+    "options": [
+      "Repeated values are close but far from true value",
+      "All values are zero",
+      "No unit is used",
+      "Instrument is absent"
+    ],
+    "correctAnswer": "Repeated values are close but far from true value",
+    "explanation": "Precision and accuracy are related but different ideas.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "accuracy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 68: Absolute error is:",
+    "options": [
+      "Measured value minus true value in magnitude",
+      "True value times unit",
+      "Percentage only",
+      "Dimensionless always"
+    ],
+    "correctAnswer": "Measured value minus true value in magnitude",
+    "explanation": "Absolute error is the magnitude of difference from true value.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 69: Relative error is:",
+    "options": [
+      "Absolute error / measured or true value",
+      "Absolute error × 100 only",
+      "True value + error",
+      "Unit only"
+    ],
+    "correctAnswer": "Absolute error / measured or true value",
+    "explanation": "Relative error compares error with actual measured value.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 70: Percentage error is:",
+    "options": [
+      "Relative error × 100",
+      "Absolute error / 100",
+      "True value × 100",
+      "Unit × 100"
+    ],
+    "correctAnswer": "Relative error × 100",
+    "explanation": "Percentage error expresses relative error in percent.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 71: Uncertainty in measurement is due to:",
+    "options": [
+      "Limit of instrument precision",
+      "No physical quantity",
+      "Only SI units",
+      "Only formula"
+    ],
+    "correctAnswer": "Limit of instrument precision",
+    "explanation": "Every instrument has finite precision and least count.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "uncertainty"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 72: Significant figures show:",
+    "options": [
+      "Reliability of measured value",
+      "Only colour",
+      "Only unit",
+      "Only dimension"
+    ],
+    "correctAnswer": "Reliability of measured value",
+    "explanation": "Significant figures indicate meaningful digits in measurement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 73: In 2.50, the number of significant figures is:",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "explanation": "Trailing zero after decimal is significant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 74: In 0.0045, the number of significant figures is:",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "1"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Leading zeros are not significant.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 75: In 300.0, the number of significant figures is:",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Zeros after decimal are significant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 76: Zeros between non-zero digits are:",
+    "options": [
+      "Significant",
+      "Never significant",
+      "Only units",
+      "Errors"
+    ],
+    "correctAnswer": "Significant",
+    "explanation": "Captive zeros count as significant figures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 77: Leading zeros are:",
+    "options": [
+      "Not significant",
+      "Always significant",
+      "Units",
+      "Dimensions"
+    ],
+    "correctAnswer": "Not significant",
+    "explanation": "Leading zeros only locate decimal point.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 78: When multiplying measured quantities, result should have significant figures equal to:",
+    "options": [
+      "Least number of significant figures among factors",
+      "Largest number of digits",
+      "Always one",
+      "Always four"
+    ],
+    "correctAnswer": "Least number of significant figures among factors",
+    "explanation": "For multiplication/division, use the least significant figures rule.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 79: When adding measured quantities, result should be rounded according to:",
+    "options": [
+      "Least decimal places",
+      "Most decimal places",
+      "Number of units",
+      "Largest value"
+    ],
+    "correctAnswer": "Least decimal places",
+    "explanation": "For addition/subtraction, decimal-place rule is used.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 80: The number 6.02 × 10²³ has significant figures:",
+    "options": [
+      "3",
+      "2",
+      "23",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "explanation": "6, 0, and 2 are significant in 6.02.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 81: A scalar quantity has:",
+    "options": [
+      "Magnitude only",
+      "Direction only",
+      "Magnitude and direction",
+      "No unit"
+    ],
+    "correctAnswer": "Magnitude only",
+    "explanation": "Scalar quantities have magnitude but no direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 82: A vector quantity has:",
+    "options": [
+      "Magnitude and direction",
+      "Magnitude only",
+      "Unit only",
+      "No dimension"
+    ],
+    "correctAnswer": "Magnitude and direction",
+    "explanation": "Vectors require magnitude and direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 83: Which quantity is scalar?",
+    "options": [
+      "Mass",
+      "Displacement",
+      "Velocity",
+      "Force"
+    ],
+    "correctAnswer": "Mass",
+    "explanation": "Mass has magnitude only.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 84: Which quantity is vector?",
+    "options": [
+      "Force",
+      "Time",
+      "Mass",
+      "Temperature"
+    ],
+    "correctAnswer": "Force",
+    "explanation": "Force has magnitude and direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 85: Dimensional formula of density is:",
+    "options": [
+      "[ML⁻³]",
+      "[ML³]",
+      "[M⁻¹L³]",
+      "[LT⁻¹]"
+    ],
+    "correctAnswer": "[ML⁻³]",
+    "explanation": "Density = mass/volume.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 86: Dimensional formula of momentum is:",
+    "options": [
+      "[MLT⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[LT⁻¹]"
+    ],
+    "correctAnswer": "[MLT⁻¹]",
+    "explanation": "Momentum = mass × velocity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 87: Dimensional formula of impulse is same as:",
+    "options": [
+      "Momentum",
+      "Power",
+      "Pressure",
+      "Density"
+    ],
+    "correctAnswer": "Momentum",
+    "explanation": "Impulse = force × time = change in momentum.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 88: Dimensional formula of energy is same as:",
+    "options": [
+      "Work",
+      "Power",
+      "Pressure",
+      "Velocity"
+    ],
+    "correctAnswer": "Work",
+    "explanation": "Energy and work have same dimensions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 89: The order of magnitude of 5600 is:",
+    "options": [
+      "10⁴",
+      "10³",
+      "10²",
+      "10⁵"
+    ],
+    "correctAnswer": "10⁴",
+    "explanation": "5600 = 5.6 × 10³, nearest power is 10⁴.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "order of magnitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 90: The order of magnitude of 0.0032 is:",
+    "options": [
+      "10⁻³",
+      "10⁻²",
+      "10³",
+      "10⁻⁴"
+    ],
+    "correctAnswer": "10⁻³",
+    "explanation": "0.0032 = 3.2 × 10⁻³.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "order of magnitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 91: A stopwatch is used to measure:",
+    "options": [
+      "Time interval",
+      "Length",
+      "Mass",
+      "Current"
+    ],
+    "correctAnswer": "Time interval",
+    "explanation": "A stopwatch measures time intervals.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "instrument"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 92: A measuring cylinder is used to measure:",
+    "options": [
+      "Volume of liquid",
+      "Mass of liquid",
+      "Length of wire",
+      "Current"
+    ],
+    "correctAnswer": "Volume of liquid",
+    "explanation": "Measuring cylinder measures liquid volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "instrument"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 93: A balance is used to measure:",
+    "options": [
+      "Mass",
+      "Length",
+      "Time",
+      "Temperature only"
+    ],
+    "correctAnswer": "Mass",
+    "explanation": "A balance compares or measures mass.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "instrument"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 94: Parallax error is reduced by keeping eye:",
+    "options": [
+      "Perpendicular to the scale",
+      "Far away at any angle",
+      "Closed",
+      "Above the ceiling"
+    ],
+    "correctAnswer": "Perpendicular to the scale",
+    "explanation": "Eye should be normal to scale to avoid parallax.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 95: Repeated measurements help to reduce:",
+    "options": [
+      "Random error",
+      "Systematic error only",
+      "Dimension",
+      "Unit"
+    ],
+    "correctAnswer": "Random error",
+    "explanation": "Averaging repeated readings reduces random error.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 96: An equation is dimensionally correct only if:",
+    "options": [
+      "Both sides have same dimensions",
+      "Both sides have same numbers only",
+      "Units are omitted",
+      "Constants are present"
+    ],
+    "correctAnswer": "Both sides have same dimensions",
+    "explanation": "Dimensional homogeneity is required.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 97: The dimensional formula of gravitational acceleration g is:",
+    "options": [
+      "[LT⁻²]",
+      "[LT⁻¹]",
+      "[MLT⁻²]",
+      "[M⁰L⁰T⁰]"
+    ],
+    "correctAnswer": "[LT⁻²]",
+    "explanation": "g is acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 98: The unit m s⁻² belongs to:",
+    "options": [
+      "Acceleration",
+      "Velocity",
+      "Force",
+      "Work"
+    ],
+    "correctAnswer": "Acceleration",
+    "explanation": "Acceleration is metre per second squared.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 99: The unit kg m s⁻¹ belongs to:",
+    "options": [
+      "Momentum",
+      "Force",
+      "Power",
+      "Pressure"
+    ],
+    "correctAnswer": "Momentum",
+    "explanation": "Momentum = mass × velocity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "derived unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "mcq",
+    "question": "MCQ 100: If a length is recorded as 5.00 cm, the zeros indicate:",
+    "options": [
+      "Precision of measurement",
+      "No meaning",
+      "Wrong value",
+      "No unit"
+    ],
+    "correctAnswer": "Precision of measurement",
+    "explanation": "Trailing decimal zeros are significant and show precision.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 1: Define measurement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 2: Define physical quantity with one example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 3: Differentiate between base and derived quantities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "base quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 4: Write the seven SI base quantities and their SI units.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 5: Define unit and give two examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 6: What are SI prefixes? Give two examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "prefix"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 7: Convert 5 km into metres.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit conversion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 8: Convert 3 mm into metres.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit conversion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 9: Define scientific notation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 10: Write 0.00072 in scientific notation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 11: Define dimensions of a physical quantity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 12: Write dimensional formula of velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 13: Write dimensional formula of acceleration.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 14: Write dimensional formula of force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 15: Write dimensional formula of work.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 16: Write dimensional formula of pressure.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 17: What is dimensional analysis?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 18: State the principle of homogeneity of dimensions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 19: Mention two uses of dimensional analysis.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 20: Mention two limitations of dimensional analysis.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 21: Define least count.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 22: Why is least count important in measurement?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 23: Write the least count of a common metre rule.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 24: What is a vernier caliper used for?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 25: Write the formula for reading of a vernier caliper.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 26: What is zero error?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 27: Differentiate between positive and negative zero error.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 28: What is a screw gauge used for?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 29: Define pitch of screw gauge.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 30: Write the formula for least count of screw gauge.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 31: Define significant figures.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 32: How many significant figures are present in 0.00560?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 33: State the rule for significant figures in multiplication.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 34: State the rule for significant figures in addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 35: Define accuracy.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "accuracy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 36: Define precision.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "precision"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 37: Differentiate between accuracy and precision.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "accuracy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 38: Define absolute error.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 39: Define relative error.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 40: Define percentage error.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 41: Differentiate between random and systematic errors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 42: What is gross error?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 43: How can parallax error be avoided?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 44: Why are repeated measurements taken?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 45: Define uncertainty in measurement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "uncertainty"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 46: Differentiate between scalar and vector quantities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 47: Give two examples of scalar quantities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 48: Give two examples of vector quantities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 49: Define order of magnitude.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "order of magnitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "short",
+    "question": "Short Question 50: Why are standard units necessary in physics?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 1: Explain physical quantities and classify them into base and derived quantities with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "physical quantity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 2: Write the seven SI base quantities, their symbols and units in tabular form.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "SI unit"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 3: Explain SI prefixes and scientific notation with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scientific notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 4: Explain dimensions and dimensional formula with examples of velocity, acceleration and force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensions"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 5: State and explain the principle of homogeneity of dimensions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 6: Discuss the uses and limitations of dimensional analysis.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "dimensional analysis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 7: Explain least count and its importance in accurate measurement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "least count"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 8: Describe the construction, use and reading method of vernier caliper.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "vernier caliper"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 9: Explain zero error in vernier caliper and its correction method.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "zero error"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 10: Describe screw gauge, pitch, least count and its use in small measurements.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "screw gauge"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 11: Explain significant figures and rules for rounding measured values.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 12: Discuss rules of significant figures in addition, subtraction, multiplication and division.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "significant figures"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 13: Explain accuracy and precision with suitable examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "accuracy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 14: Explain different types of errors in measurement: random, systematic and gross errors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 15: Define absolute, relative and percentage error and solve a related numerical.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "errors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 16: Explain uncertainty in measurement and how it is related to least count.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "uncertainty"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 17: Differentiate scalar and vector quantities with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 18: Explain order of magnitude and its importance in scientific measurements.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "order of magnitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 19: Describe common measuring instruments used in physics laboratory and their least counts.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "instrument"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Measurements",
+    "chapterId": "Measurements",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on the importance of measurements in physics and daily life.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Measurements",
+      "basic concept"
+    ]
+  }
+]

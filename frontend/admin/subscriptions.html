@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Subscriptions | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body data-page="subscriptions">
+    <div class="app-shell admin-shell">
+      <aside class="sidebar"></aside>
+      <main class="main">
+        <div class="topbar admin-topbar">
+          <div class="page-title"><h1>Subscriptions</h1><p>Track plan status, expiry, trial usage, and manual Jazzcash overrides.</p></div>
+          <div class="d-flex gap-2 flex-wrap">
+            <button class="btn btn-outline-secondary" id="expireSubscriptionsBtn"><i class="bi bi-clock-history"></i> Expire Check</button>
+            <button class="btn btn-outline-primary" id="exportSubscriptionsBtn"><i class="bi bi-download"></i> Export CSV</button>
+          </div>
+        </div>
+
+        <section class="metric-grid">
+          <div class="metric-card"><span>Total Records</span><strong id="subscriptionTotalCount">0</strong></div>
+          <div class="metric-card"><span>Active</span><strong id="subscriptionActiveCount">0</strong></div>
+          <div class="metric-card"><span>Expired</span><strong id="subscriptionExpiredCount">0</strong></div>
+          <div class="metric-card"><span>Cash Number</span><strong style="font-size:1.35rem">03047775129</strong></div>
+        </section>
+
+        <section class="panel">
+          <div class="toolbar-row">
+            <input class="form-control" id="subscriptionSearch" placeholder="Search user, email, plan">
+          </div>
+          <div class="table-responsive">
+            <table class="table align-middle compact-table">
+              <thead><tr><th>User</th><th>Email</th><th>Plan</th><th>Expiry</th><th>Status</th><th>Action</th></tr></thead>
+              <tbody id="subscriptionsBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js"></script>
+  </body>
+</html>

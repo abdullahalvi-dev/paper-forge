@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 1: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 1.",
+      "It skips the rule of domain and guesses the Integration answer 1.",
+      "It changes the given values before applying domain in Integration problem 2.",
+      "It uses a diagram only and avoids the needed domain calculation 3."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 1.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 2: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 2.",
+      "The correct method is to apply range and verify each step in Integration item 2.",
+      "It changes the given values before applying range in Integration problem 3.",
+      "It uses a diagram only and avoids the needed range calculation 4."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 2.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 3: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 3.",
+      "It changes the given values before applying limit in Integration problem 4.",
+      "limit is the rule needed to solve this Integration problem 3.",
+      "It uses a diagram only and avoids the needed limit calculation 5."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 3.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 4: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 4.",
+      "It changes the given values before applying derivative in Integration problem 5.",
+      "It uses a diagram only and avoids the needed derivative calculation 6.",
+      "This choice correctly uses derivative to complete the Integration calculation 4."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 4.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 5: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 5.",
+      "It skips the rule of integral and guesses the Integration answer 5.",
+      "It changes the given values before applying integral in Integration problem 6.",
+      "It uses a diagram only and avoids the needed integral calculation 7."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 5.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 6: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 6.",
+      "The correct method is to apply slope and verify each step in Integration item 6.",
+      "It changes the given values before applying slope in Integration problem 7.",
+      "It uses a diagram only and avoids the needed slope calculation 8."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 6.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 7: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 7.",
+      "It changes the given values before applying area under curve in Integration problem 8.",
+      "area under curve is the rule needed to solve this Integration problem 7.",
+      "It uses a diagram only and avoids the needed area under curve calculation 9."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 7.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 8: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 8.",
+      "It changes the given values before applying continuity in Integration problem 9.",
+      "It uses a diagram only and avoids the needed continuity calculation 10.",
+      "This choice correctly uses continuity to complete the Integration calculation 8."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 8.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 9: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 9.",
+      "It skips the rule of domain and guesses the Integration answer 9.",
+      "It changes the given values before applying domain in Integration problem 10.",
+      "It uses a diagram only and avoids the needed domain calculation 11."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 9.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 10: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 10.",
+      "The correct method is to apply range and verify each step in Integration item 10.",
+      "It changes the given values before applying range in Integration problem 11.",
+      "It uses a diagram only and avoids the needed range calculation 12."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 10.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 11: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 11.",
+      "It changes the given values before applying limit in Integration problem 12.",
+      "limit is the rule needed to solve this Integration problem 11.",
+      "It uses a diagram only and avoids the needed limit calculation 13."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 11.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 12: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 12.",
+      "It changes the given values before applying derivative in Integration problem 13.",
+      "It uses a diagram only and avoids the needed derivative calculation 14.",
+      "This choice correctly uses derivative to complete the Integration calculation 12."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 12.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 13: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 13.",
+      "It skips the rule of integral and guesses the Integration answer 13.",
+      "It changes the given values before applying integral in Integration problem 14.",
+      "It uses a diagram only and avoids the needed integral calculation 15."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 13.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 14: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 14.",
+      "The correct method is to apply slope and verify each step in Integration item 14.",
+      "It changes the given values before applying slope in Integration problem 15.",
+      "It uses a diagram only and avoids the needed slope calculation 16."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 14.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 15: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 15.",
+      "It changes the given values before applying area under curve in Integration problem 16.",
+      "area under curve is the rule needed to solve this Integration problem 15.",
+      "It uses a diagram only and avoids the needed area under curve calculation 17."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 15.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 16: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 16.",
+      "It changes the given values before applying continuity in Integration problem 17.",
+      "It uses a diagram only and avoids the needed continuity calculation 18.",
+      "This choice correctly uses continuity to complete the Integration calculation 16."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 16.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 17: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 17.",
+      "It skips the rule of domain and guesses the Integration answer 17.",
+      "It changes the given values before applying domain in Integration problem 18.",
+      "It uses a diagram only and avoids the needed domain calculation 19."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 17.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 18: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 18.",
+      "The correct method is to apply range and verify each step in Integration item 18.",
+      "It changes the given values before applying range in Integration problem 19.",
+      "It uses a diagram only and avoids the needed range calculation 20."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 18.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 19: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 19.",
+      "It changes the given values before applying limit in Integration problem 20.",
+      "limit is the rule needed to solve this Integration problem 19.",
+      "It uses a diagram only and avoids the needed limit calculation 21."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 19.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 20: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 20.",
+      "It changes the given values before applying derivative in Integration problem 21.",
+      "It uses a diagram only and avoids the needed derivative calculation 22.",
+      "This choice correctly uses derivative to complete the Integration calculation 20."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 20.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 21: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 21.",
+      "It skips the rule of integral and guesses the Integration answer 21.",
+      "It changes the given values before applying integral in Integration problem 22.",
+      "It uses a diagram only and avoids the needed integral calculation 23."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 21.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 22: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 22.",
+      "The correct method is to apply slope and verify each step in Integration item 22.",
+      "It changes the given values before applying slope in Integration problem 23.",
+      "It uses a diagram only and avoids the needed slope calculation 24."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 22.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 23: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 23.",
+      "It changes the given values before applying area under curve in Integration problem 24.",
+      "area under curve is the rule needed to solve this Integration problem 23.",
+      "It uses a diagram only and avoids the needed area under curve calculation 25."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 23.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 24.",
+      "It changes the given values before applying continuity in Integration problem 25.",
+      "It uses a diagram only and avoids the needed continuity calculation 26.",
+      "This choice correctly uses continuity to complete the Integration calculation 24."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 24.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 25: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 25.",
+      "It skips the rule of domain and guesses the Integration answer 25.",
+      "It changes the given values before applying domain in Integration problem 26.",
+      "It uses a diagram only and avoids the needed domain calculation 27."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 25.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 26: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 26.",
+      "The correct method is to apply range and verify each step in Integration item 26.",
+      "It changes the given values before applying range in Integration problem 27.",
+      "It uses a diagram only and avoids the needed range calculation 28."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 26.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 27: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 27.",
+      "It changes the given values before applying limit in Integration problem 28.",
+      "limit is the rule needed to solve this Integration problem 27.",
+      "It uses a diagram only and avoids the needed limit calculation 29."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 27.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 28: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 28.",
+      "It changes the given values before applying derivative in Integration problem 29.",
+      "It uses a diagram only and avoids the needed derivative calculation 30.",
+      "This choice correctly uses derivative to complete the Integration calculation 28."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 28.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 29: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 29.",
+      "It skips the rule of integral and guesses the Integration answer 29.",
+      "It changes the given values before applying integral in Integration problem 30.",
+      "It uses a diagram only and avoids the needed integral calculation 31."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 29.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 30: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 30.",
+      "The correct method is to apply slope and verify each step in Integration item 30.",
+      "It changes the given values before applying slope in Integration problem 31.",
+      "It uses a diagram only and avoids the needed slope calculation 32."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 30.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 31: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 31.",
+      "It changes the given values before applying area under curve in Integration problem 32.",
+      "area under curve is the rule needed to solve this Integration problem 31.",
+      "It uses a diagram only and avoids the needed area under curve calculation 33."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 31.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 32: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 32.",
+      "It changes the given values before applying continuity in Integration problem 33.",
+      "It uses a diagram only and avoids the needed continuity calculation 34.",
+      "This choice correctly uses continuity to complete the Integration calculation 32."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 32.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 33: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 33.",
+      "It skips the rule of domain and guesses the Integration answer 33.",
+      "It changes the given values before applying domain in Integration problem 34.",
+      "It uses a diagram only and avoids the needed domain calculation 35."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 33.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 34: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 34.",
+      "The correct method is to apply range and verify each step in Integration item 34.",
+      "It changes the given values before applying range in Integration problem 35.",
+      "It uses a diagram only and avoids the needed range calculation 36."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 34.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 35: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 35.",
+      "It changes the given values before applying limit in Integration problem 36.",
+      "limit is the rule needed to solve this Integration problem 35.",
+      "It uses a diagram only and avoids the needed limit calculation 37."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 35.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 36: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 36.",
+      "It changes the given values before applying derivative in Integration problem 37.",
+      "It uses a diagram only and avoids the needed derivative calculation 38.",
+      "This choice correctly uses derivative to complete the Integration calculation 36."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 36.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 37: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 37.",
+      "It skips the rule of integral and guesses the Integration answer 37.",
+      "It changes the given values before applying integral in Integration problem 38.",
+      "It uses a diagram only and avoids the needed integral calculation 39."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 37.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 38: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 38.",
+      "The correct method is to apply slope and verify each step in Integration item 38.",
+      "It changes the given values before applying slope in Integration problem 39.",
+      "It uses a diagram only and avoids the needed slope calculation 40."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 38.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 39: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 39.",
+      "It changes the given values before applying area under curve in Integration problem 40.",
+      "area under curve is the rule needed to solve this Integration problem 39.",
+      "It uses a diagram only and avoids the needed area under curve calculation 41."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 39.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 40: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 40.",
+      "It changes the given values before applying continuity in Integration problem 41.",
+      "It uses a diagram only and avoids the needed continuity calculation 42.",
+      "This choice correctly uses continuity to complete the Integration calculation 40."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 40.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 41: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 41.",
+      "It skips the rule of domain and guesses the Integration answer 41.",
+      "It changes the given values before applying domain in Integration problem 42.",
+      "It uses a diagram only and avoids the needed domain calculation 43."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 41.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 42: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 42.",
+      "The correct method is to apply range and verify each step in Integration item 42.",
+      "It changes the given values before applying range in Integration problem 43.",
+      "It uses a diagram only and avoids the needed range calculation 44."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 42.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 43: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 43.",
+      "It changes the given values before applying limit in Integration problem 44.",
+      "limit is the rule needed to solve this Integration problem 43.",
+      "It uses a diagram only and avoids the needed limit calculation 45."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 43.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 44: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 44.",
+      "It changes the given values before applying derivative in Integration problem 45.",
+      "It uses a diagram only and avoids the needed derivative calculation 46.",
+      "This choice correctly uses derivative to complete the Integration calculation 44."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 44.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 45: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 45.",
+      "It skips the rule of integral and guesses the Integration answer 45.",
+      "It changes the given values before applying integral in Integration problem 46.",
+      "It uses a diagram only and avoids the needed integral calculation 47."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 45.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 46: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 46.",
+      "The correct method is to apply slope and verify each step in Integration item 46.",
+      "It changes the given values before applying slope in Integration problem 47.",
+      "It uses a diagram only and avoids the needed slope calculation 48."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 46.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 47: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 47.",
+      "It changes the given values before applying area under curve in Integration problem 48.",
+      "area under curve is the rule needed to solve this Integration problem 47.",
+      "It uses a diagram only and avoids the needed area under curve calculation 49."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 47.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 48.",
+      "It changes the given values before applying continuity in Integration problem 49.",
+      "It uses a diagram only and avoids the needed continuity calculation 50.",
+      "This choice correctly uses continuity to complete the Integration calculation 48."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 48.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 49: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 49.",
+      "It skips the rule of domain and guesses the Integration answer 49.",
+      "It changes the given values before applying domain in Integration problem 50.",
+      "It uses a diagram only and avoids the needed domain calculation 51."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 49.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 50: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 50.",
+      "The correct method is to apply range and verify each step in Integration item 50.",
+      "It changes the given values before applying range in Integration problem 51.",
+      "It uses a diagram only and avoids the needed range calculation 52."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 50.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 51: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 51.",
+      "It changes the given values before applying limit in Integration problem 52.",
+      "limit is the rule needed to solve this Integration problem 51.",
+      "It uses a diagram only and avoids the needed limit calculation 53."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 51.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 52: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 52.",
+      "It changes the given values before applying derivative in Integration problem 53.",
+      "It uses a diagram only and avoids the needed derivative calculation 54.",
+      "This choice correctly uses derivative to complete the Integration calculation 52."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 52.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 53: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 53.",
+      "It skips the rule of integral and guesses the Integration answer 53.",
+      "It changes the given values before applying integral in Integration problem 54.",
+      "It uses a diagram only and avoids the needed integral calculation 55."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 53.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 54: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 54.",
+      "The correct method is to apply slope and verify each step in Integration item 54.",
+      "It changes the given values before applying slope in Integration problem 55.",
+      "It uses a diagram only and avoids the needed slope calculation 56."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 54.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 55: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 55.",
+      "It changes the given values before applying area under curve in Integration problem 56.",
+      "area under curve is the rule needed to solve this Integration problem 55.",
+      "It uses a diagram only and avoids the needed area under curve calculation 57."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 55.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 56: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 56.",
+      "It changes the given values before applying continuity in Integration problem 57.",
+      "It uses a diagram only and avoids the needed continuity calculation 58.",
+      "This choice correctly uses continuity to complete the Integration calculation 56."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 56.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 57: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 57.",
+      "It skips the rule of domain and guesses the Integration answer 57.",
+      "It changes the given values before applying domain in Integration problem 58.",
+      "It uses a diagram only and avoids the needed domain calculation 59."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 57.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 58: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 58.",
+      "The correct method is to apply range and verify each step in Integration item 58.",
+      "It changes the given values before applying range in Integration problem 59.",
+      "It uses a diagram only and avoids the needed range calculation 60."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 58.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 59: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 59.",
+      "It changes the given values before applying limit in Integration problem 60.",
+      "limit is the rule needed to solve this Integration problem 59.",
+      "It uses a diagram only and avoids the needed limit calculation 61."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 59.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 60.",
+      "It changes the given values before applying derivative in Integration problem 61.",
+      "It uses a diagram only and avoids the needed derivative calculation 62.",
+      "This choice correctly uses derivative to complete the Integration calculation 60."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 60.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 61: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 61.",
+      "It skips the rule of integral and guesses the Integration answer 61.",
+      "It changes the given values before applying integral in Integration problem 62.",
+      "It uses a diagram only and avoids the needed integral calculation 63."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 61.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 62: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 62.",
+      "The correct method is to apply slope and verify each step in Integration item 62.",
+      "It changes the given values before applying slope in Integration problem 63.",
+      "It uses a diagram only and avoids the needed slope calculation 64."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 62.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 63: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 63.",
+      "It changes the given values before applying area under curve in Integration problem 64.",
+      "area under curve is the rule needed to solve this Integration problem 63.",
+      "It uses a diagram only and avoids the needed area under curve calculation 65."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 63.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 64: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 64.",
+      "It changes the given values before applying continuity in Integration problem 65.",
+      "It uses a diagram only and avoids the needed continuity calculation 66.",
+      "This choice correctly uses continuity to complete the Integration calculation 64."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 64.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 65: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 65.",
+      "It skips the rule of domain and guesses the Integration answer 65.",
+      "It changes the given values before applying domain in Integration problem 66.",
+      "It uses a diagram only and avoids the needed domain calculation 67."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 65.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 66: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 66.",
+      "The correct method is to apply range and verify each step in Integration item 66.",
+      "It changes the given values before applying range in Integration problem 67.",
+      "It uses a diagram only and avoids the needed range calculation 68."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 66.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 67: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 67.",
+      "It changes the given values before applying limit in Integration problem 68.",
+      "limit is the rule needed to solve this Integration problem 67.",
+      "It uses a diagram only and avoids the needed limit calculation 69."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 67.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 68: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 68.",
+      "It changes the given values before applying derivative in Integration problem 69.",
+      "It uses a diagram only and avoids the needed derivative calculation 70.",
+      "This choice correctly uses derivative to complete the Integration calculation 68."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 68.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 69: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 69.",
+      "It skips the rule of integral and guesses the Integration answer 69.",
+      "It changes the given values before applying integral in Integration problem 70.",
+      "It uses a diagram only and avoids the needed integral calculation 71."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 69.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 70: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 70.",
+      "The correct method is to apply slope and verify each step in Integration item 70.",
+      "It changes the given values before applying slope in Integration problem 71.",
+      "It uses a diagram only and avoids the needed slope calculation 72."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 70.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 71: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 71.",
+      "It changes the given values before applying area under curve in Integration problem 72.",
+      "area under curve is the rule needed to solve this Integration problem 71.",
+      "It uses a diagram only and avoids the needed area under curve calculation 73."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 71.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 72.",
+      "It changes the given values before applying continuity in Integration problem 73.",
+      "It uses a diagram only and avoids the needed continuity calculation 74.",
+      "This choice correctly uses continuity to complete the Integration calculation 72."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 72.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 73: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 73.",
+      "It skips the rule of domain and guesses the Integration answer 73.",
+      "It changes the given values before applying domain in Integration problem 74.",
+      "It uses a diagram only and avoids the needed domain calculation 75."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 73.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 74: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 74.",
+      "The correct method is to apply range and verify each step in Integration item 74.",
+      "It changes the given values before applying range in Integration problem 75.",
+      "It uses a diagram only and avoids the needed range calculation 76."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 74.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 75: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 75.",
+      "It changes the given values before applying limit in Integration problem 76.",
+      "limit is the rule needed to solve this Integration problem 75.",
+      "It uses a diagram only and avoids the needed limit calculation 77."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 75.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 76.",
+      "It changes the given values before applying derivative in Integration problem 77.",
+      "It uses a diagram only and avoids the needed derivative calculation 78.",
+      "This choice correctly uses derivative to complete the Integration calculation 76."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 76.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 77: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 77.",
+      "It skips the rule of integral and guesses the Integration answer 77.",
+      "It changes the given values before applying integral in Integration problem 78.",
+      "It uses a diagram only and avoids the needed integral calculation 79."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 77.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 78: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 78.",
+      "The correct method is to apply slope and verify each step in Integration item 78.",
+      "It changes the given values before applying slope in Integration problem 79.",
+      "It uses a diagram only and avoids the needed slope calculation 80."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 78.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 79: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 79.",
+      "It changes the given values before applying area under curve in Integration problem 80.",
+      "area under curve is the rule needed to solve this Integration problem 79.",
+      "It uses a diagram only and avoids the needed area under curve calculation 81."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 79.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 80: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 80.",
+      "It changes the given values before applying continuity in Integration problem 81.",
+      "It uses a diagram only and avoids the needed continuity calculation 82.",
+      "This choice correctly uses continuity to complete the Integration calculation 80."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 80.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 81: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 81.",
+      "It skips the rule of domain and guesses the Integration answer 81.",
+      "It changes the given values before applying domain in Integration problem 82.",
+      "It uses a diagram only and avoids the needed domain calculation 83."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 81.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 82: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 82.",
+      "The correct method is to apply range and verify each step in Integration item 82.",
+      "It changes the given values before applying range in Integration problem 83.",
+      "It uses a diagram only and avoids the needed range calculation 84."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 82.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 83: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 83.",
+      "It changes the given values before applying limit in Integration problem 84.",
+      "limit is the rule needed to solve this Integration problem 83.",
+      "It uses a diagram only and avoids the needed limit calculation 85."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 83.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 84: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 84.",
+      "It changes the given values before applying derivative in Integration problem 85.",
+      "It uses a diagram only and avoids the needed derivative calculation 86.",
+      "This choice correctly uses derivative to complete the Integration calculation 84."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 84.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 85: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 85.",
+      "It skips the rule of integral and guesses the Integration answer 85.",
+      "It changes the given values before applying integral in Integration problem 86.",
+      "It uses a diagram only and avoids the needed integral calculation 87."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 85.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 86: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 86.",
+      "The correct method is to apply slope and verify each step in Integration item 86.",
+      "It changes the given values before applying slope in Integration problem 87.",
+      "It uses a diagram only and avoids the needed slope calculation 88."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 86.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 87: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 87.",
+      "It changes the given values before applying area under curve in Integration problem 88.",
+      "area under curve is the rule needed to solve this Integration problem 87.",
+      "It uses a diagram only and avoids the needed area under curve calculation 89."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 87.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 88: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 88.",
+      "It changes the given values before applying continuity in Integration problem 89.",
+      "It uses a diagram only and avoids the needed continuity calculation 90.",
+      "This choice correctly uses continuity to complete the Integration calculation 88."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 88.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 89: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 89.",
+      "It skips the rule of domain and guesses the Integration answer 89.",
+      "It changes the given values before applying domain in Integration problem 90.",
+      "It uses a diagram only and avoids the needed domain calculation 91."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 89.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 90: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 90.",
+      "The correct method is to apply range and verify each step in Integration item 90.",
+      "It changes the given values before applying range in Integration problem 91.",
+      "It uses a diagram only and avoids the needed range calculation 92."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 90.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 91: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 91.",
+      "It changes the given values before applying limit in Integration problem 92.",
+      "limit is the rule needed to solve this Integration problem 91.",
+      "It uses a diagram only and avoids the needed limit calculation 93."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 91.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 92: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 92.",
+      "It changes the given values before applying derivative in Integration problem 93.",
+      "It uses a diagram only and avoids the needed derivative calculation 94.",
+      "This choice correctly uses derivative to complete the Integration calculation 92."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 92.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 93: In 2nd Year Math chapter \"Integration\", what is the correct approach for integral?",
+    "options": [
+      "Use integral step by step to reach the correct result in Integration question 93.",
+      "It skips the rule of integral and guesses the Integration answer 93.",
+      "It changes the given values before applying integral in Integration problem 94.",
+      "It uses a diagram only and avoids the needed integral calculation 95."
+    ],
+    "correctAnswer": "Use integral step by step to reach the correct result in Integration question 93.",
+    "explanation": "The correct option connects integral with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 94: Which option is a valid step when using slope in \"Integration\"?",
+    "options": [
+      "It skips the rule of slope and guesses the Integration answer 94.",
+      "The correct method is to apply slope and verify each step in Integration item 94.",
+      "It changes the given values before applying slope in Integration problem 95.",
+      "It uses a diagram only and avoids the needed slope calculation 96."
+    ],
+    "correctAnswer": "The correct method is to apply slope and verify each step in Integration item 94.",
+    "explanation": "The correct option connects slope with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 95: For problems from \"Integration\", why is area under curve useful?",
+    "options": [
+      "It skips the rule of area under curve and guesses the Integration answer 95.",
+      "It changes the given values before applying area under curve in Integration problem 96.",
+      "area under curve is the rule needed to solve this Integration problem 95.",
+      "It uses a diagram only and avoids the needed area under curve calculation 97."
+    ],
+    "correctAnswer": "area under curve is the rule needed to solve this Integration problem 95.",
+    "explanation": "The correct option connects area under curve with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 96: Which statement is correct about continuity?",
+    "options": [
+      "It skips the rule of continuity and guesses the Integration answer 96.",
+      "It changes the given values before applying continuity in Integration problem 97.",
+      "It uses a diagram only and avoids the needed continuity calculation 98.",
+      "This choice correctly uses continuity to complete the Integration calculation 96."
+    ],
+    "correctAnswer": "This choice correctly uses continuity to complete the Integration calculation 96.",
+    "explanation": "The correct option connects continuity with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 97: In 2nd Year Math chapter \"Integration\", what is the correct approach for domain?",
+    "options": [
+      "Use domain step by step to reach the correct result in Integration question 97.",
+      "It skips the rule of domain and guesses the Integration answer 97.",
+      "It changes the given values before applying domain in Integration problem 98.",
+      "It uses a diagram only and avoids the needed domain calculation 99."
+    ],
+    "correctAnswer": "Use domain step by step to reach the correct result in Integration question 97.",
+    "explanation": "The correct option connects domain with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 98: Which option is a valid step when using range in \"Integration\"?",
+    "options": [
+      "It skips the rule of range and guesses the Integration answer 98.",
+      "The correct method is to apply range and verify each step in Integration item 98.",
+      "It changes the given values before applying range in Integration problem 99.",
+      "It uses a diagram only and avoids the needed range calculation 100."
+    ],
+    "correctAnswer": "The correct method is to apply range and verify each step in Integration item 98.",
+    "explanation": "The correct option connects range with the main learning point of Integration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 99: For problems from \"Integration\", why is limit useful?",
+    "options": [
+      "It skips the rule of limit and guesses the Integration answer 99.",
+      "It changes the given values before applying limit in Integration problem 100.",
+      "limit is the rule needed to solve this Integration problem 99.",
+      "It uses a diagram only and avoids the needed limit calculation 101."
+    ],
+    "correctAnswer": "limit is the rule needed to solve this Integration problem 99.",
+    "explanation": "The correct option connects limit with the main learning point of Integration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "mcq",
+    "question": "MCQ 100: Which statement is correct about derivative?",
+    "options": [
+      "It skips the rule of derivative and guesses the Integration answer 100.",
+      "It changes the given values before applying derivative in Integration problem 101.",
+      "It uses a diagram only and avoids the needed derivative calculation 102.",
+      "This choice correctly uses derivative to complete the Integration calculation 100."
+    ],
+    "correctAnswer": "This choice correctly uses derivative to complete the Integration calculation 100.",
+    "explanation": "The correct option connects derivative with the main learning point of Integration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 1: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 2: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 3: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 4: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 5: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 6: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 7: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 8: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 9: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 10: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 11: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 12: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 13: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 14: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 15: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 16: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 17: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 18: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 19: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 20: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 21: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 22: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 23: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 24: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 25: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 26: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 27: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 28: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 29: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 30: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 31: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 32: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 33: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 34: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 35: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 36: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 37: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 38: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 39: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 40: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 41: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 42: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 43: Mention two steps for solving a question involving limit.",
+    "options": [],
+    "correctAnswer": "limit is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about limit.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 44: Give one example where derivative is applied.",
+    "options": [],
+    "correctAnswer": "derivative is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about derivative.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 45: Define or state integral in \"Integration\".",
+    "options": [],
+    "correctAnswer": "integral is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about integral.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 46: Write the main rule used for slope.",
+    "options": [],
+    "correctAnswer": "slope is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about slope.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 47: Mention two steps for solving a question involving area under curve.",
+    "options": [],
+    "correctAnswer": "area under curve is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about area under curve.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 48: Give one example where continuity is applied.",
+    "options": [],
+    "correctAnswer": "continuity is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about continuity.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 49: Define or state domain in \"Integration\".",
+    "options": [],
+    "correctAnswer": "domain is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about domain.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "short",
+    "question": "Short Question 50: Write the main rule used for range.",
+    "options": [],
+    "correctAnswer": "range is a mathematical idea in Integration used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about range.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 1: Solve a detailed question involving domain from \"Integration\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for domain, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for domain.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 2: Explain the method of range with a worked example from \"Integration\".",
+    "options": [],
+    "correctAnswer": "State the rule for range, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for range.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 3: Prove or verify the main result related to limit.",
+    "options": [],
+    "correctAnswer": "State the rule for limit, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for limit.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 4: Write a detailed solution strategy for questions based on derivative.",
+    "options": [],
+    "correctAnswer": "State the rule for derivative, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for derivative.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 5: Solve a detailed question involving integral from \"Integration\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for integral, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for integral.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 6: Explain the method of slope with a worked example from \"Integration\".",
+    "options": [],
+    "correctAnswer": "State the rule for slope, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for slope.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 7: Prove or verify the main result related to area under curve.",
+    "options": [],
+    "correctAnswer": "State the rule for area under curve, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for area under curve.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 8: Write a detailed solution strategy for questions based on continuity.",
+    "options": [],
+    "correctAnswer": "State the rule for continuity, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for continuity.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 9: Solve a detailed question involving domain from \"Integration\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for domain, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for domain.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 10: Explain the method of range with a worked example from \"Integration\".",
+    "options": [],
+    "correctAnswer": "State the rule for range, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for range.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 11: Prove or verify the main result related to limit.",
+    "options": [],
+    "correctAnswer": "State the rule for limit, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for limit.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 12: Write a detailed solution strategy for questions based on derivative.",
+    "options": [],
+    "correctAnswer": "State the rule for derivative, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for derivative.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 13: Solve a detailed question involving integral from \"Integration\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for integral, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for integral.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "integral"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 14: Explain the method of slope with a worked example from \"Integration\".",
+    "options": [],
+    "correctAnswer": "State the rule for slope, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for slope.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "slope"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 15: Prove or verify the main result related to area under curve.",
+    "options": [],
+    "correctAnswer": "State the rule for area under curve, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for area under curve.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "area under curve"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 16: Write a detailed solution strategy for questions based on continuity.",
+    "options": [],
+    "correctAnswer": "State the rule for continuity, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for continuity.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 17: Solve a detailed question involving domain from \"Integration\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for domain, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for domain.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 18: Explain the method of range with a worked example from \"Integration\".",
+    "options": [],
+    "correctAnswer": "State the rule for range, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for range.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 19: Prove or verify the main result related to limit.",
+    "options": [],
+    "correctAnswer": "State the rule for limit, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for limit.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "limit"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Integration",
+    "chapterId": "Integration",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed solution strategy for questions based on derivative.",
+    "options": [],
+    "correctAnswer": "State the rule for derivative, write the step-by-step method, solve using the given relation, and verify the answer according to Integration.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for derivative.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Integration",
+      "derivative"
+    ]
+  }
+]

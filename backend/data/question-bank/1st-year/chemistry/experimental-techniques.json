@@ -1,0 +1,4411 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 1: Which technique is used to separate an insoluble solid from a liquid?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Filtration",
+      "Evaporation",
+      "Sublimation",
+      "Chromatography"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Filtration separates insoluble solid particles from a liquid through filter paper."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 2: The liquid that passes through the filter paper during filtration is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Residue",
+      "Filtrate",
+      "Solvent",
+      "Adsorbent"
+    ],
+    "correctAnswer": "Filtrate",
+    "explanation": "The clear liquid collected after passing through the filter paper is called filtrate."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 3: The solid left on the filter paper is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Filtrate",
+      "Residue",
+      "Distillate",
+      "Eluent"
+    ],
+    "correctAnswer": "Residue",
+    "explanation": "The insoluble solid retained on the filter paper is called residue."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 4: Which apparatus is mainly used to support filter paper during filtration?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration",
+      "apparatus"
+    ],
+    "options": [
+      "Funnel",
+      "Burette",
+      "Condenser",
+      "Crucible"
+    ],
+    "correctAnswer": "Funnel",
+    "explanation": "A funnel holds the folded filter paper and guides the filtrate into a container."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 5: Crystallization is mainly used to purify:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "A soluble solid",
+      "An insoluble solid",
+      "A gas",
+      "A volatile liquid"
+    ],
+    "correctAnswer": "A soluble solid",
+    "explanation": "Crystallization purifies soluble solids by forming crystals from a saturated solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 6: In crystallization, crystals start forming when a hot saturated solution is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "Cooled",
+      "Burned",
+      "Filtered dry",
+      "Compressed"
+    ],
+    "correctAnswer": "Cooled",
+    "explanation": "Cooling decreases solubility, causing crystals to separate from the solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 7: Which technique is best for separating common salt from salt solution?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "evaporation"
+    ],
+    "options": [
+      "Evaporation",
+      "Fractional distillation",
+      "Sublimation",
+      "Decantation"
+    ],
+    "correctAnswer": "Evaporation",
+    "explanation": "Evaporation removes water and leaves dissolved salt behind."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 8: Which technique is used to separate a volatile solvent from a solution?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Simple distillation",
+      "Filtration",
+      "Crystallization only",
+      "Sublimation"
+    ],
+    "correctAnswer": "Simple distillation",
+    "explanation": "Simple distillation vaporizes the solvent and condenses it back into liquid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 9: The liquid collected after condensation in distillation is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Residue",
+      "Distillate",
+      "Filtrate",
+      "Sublimate"
+    ],
+    "correctAnswer": "Distillate",
+    "explanation": "The condensed liquid collected in the receiver is called distillate."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 10: In simple distillation, the condenser is used to:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation",
+      "condenser"
+    ],
+    "options": [
+      "Cool vapours into liquid",
+      "Heat the solution",
+      "Hold filter paper",
+      "Separate colored spots"
+    ],
+    "correctAnswer": "Cool vapours into liquid",
+    "explanation": "The condenser cools vapours so they change back into liquid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 11: Simple distillation works best when the boiling points of liquids are:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Far apart",
+      "Exactly equal",
+      "Very close",
+      "Unknown"
+    ],
+    "correctAnswer": "Far apart",
+    "explanation": "Simple distillation is suitable when boiling points differ significantly."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 12: Fractional distillation is used to separate liquids with:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation"
+    ],
+    "options": [
+      "Close boiling points",
+      "No boiling points",
+      "Only high melting points",
+      "No volatility"
+    ],
+    "correctAnswer": "Close boiling points",
+    "explanation": "A fractionating column helps separate liquids whose boiling points are close."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 13: Which apparatus improves separation in fractional distillation?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation",
+      "apparatus"
+    ],
+    "options": [
+      "Fractionating column",
+      "Filter funnel",
+      "Watch glass",
+      "Mortar and pestle"
+    ],
+    "correctAnswer": "Fractionating column",
+    "explanation": "The fractionating column provides repeated vaporization and condensation."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 14: Which mixture can be separated by fractional distillation?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation"
+    ],
+    "options": [
+      "Ethanol and water",
+      "Sand and water",
+      "Salt and sand",
+      "Chalk and water"
+    ],
+    "correctAnswer": "Ethanol and water",
+    "explanation": "Ethanol and water are miscible liquids with different boiling points."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 15: Sublimation is used for substances that:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Change directly from solid to vapour",
+      "Do not dissolve in water",
+      "Only melt without vaporizing",
+      "Are always liquids"
+    ],
+    "correctAnswer": "Change directly from solid to vapour",
+    "explanation": "Sublimation is the direct conversion of a solid into vapour without becoming liquid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 16: Which substance can be separated by sublimation?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Ammonium chloride",
+      "Sodium chloride",
+      "Sand",
+      "Copper sulfate pentahydrate"
+    ],
+    "correctAnswer": "Ammonium chloride",
+    "explanation": "Ammonium chloride sublimes and can be separated from non-sublimable impurities."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 17: A mixture of ammonium chloride and sand can be separated by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Sublimation",
+      "Filtration only",
+      "Chromatography",
+      "Titration"
+    ],
+    "correctAnswer": "Sublimation",
+    "explanation": "Ammonium chloride sublimes while sand remains behind."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 18: Chromatography is mainly used to separate substances based on differences in:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Adsorption and solubility",
+      "Magnetism only",
+      "Melting point only",
+      "Mass only"
+    ],
+    "correctAnswer": "Adsorption and solubility",
+    "explanation": "Components move differently due to different adsorption on stationary phase and solubility in mobile phase."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 19: Paper chromatography uses paper as the:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Stationary phase",
+      "Mobile phase",
+      "Solute",
+      "Distillate"
+    ],
+    "correctAnswer": "Stationary phase",
+    "explanation": "In paper chromatography, the paper acts as the stationary phase."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 20: The solvent moving through chromatography paper is called the:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Mobile phase",
+      "Stationary phase",
+      "Residue",
+      "Sublimate"
+    ],
+    "correctAnswer": "Mobile phase",
+    "explanation": "The solvent travels and carries components along the stationary phase."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 21: A colored ink is best separated into dyes by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Paper chromatography",
+      "Filtration",
+      "Sublimation",
+      "Decantation"
+    ],
+    "correctAnswer": "Paper chromatography",
+    "explanation": "Chromatography separates the different dyes present in ink."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 22: The line on which the sample is placed in paper chromatography is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Baseline",
+      "Boiling line",
+      "Residue line",
+      "Condensation line"
+    ],
+    "correctAnswer": "Baseline",
+    "explanation": "The sample spot is placed on the baseline above the solvent level."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 23: In chromatography, the sample spot should be placed:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Above the solvent level",
+      "Below the solvent level",
+      "At the bottom inside solvent",
+      "On the condenser"
+    ],
+    "correctAnswer": "Above the solvent level",
+    "explanation": "If the spot is inside the solvent, it may dissolve directly and spoil separation."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 24: The Rf value is calculated as:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography",
+      "Rf value"
+    ],
+    "options": [
+      "Distance moved by solute / distance moved by solvent front",
+      "Distance moved by solvent / distance moved by solute",
+      "Mass of solute / mass of solvent",
+      "Volume of solute / volume of solution"
+    ],
+    "correctAnswer": "Distance moved by solute / distance moved by solvent front",
+    "explanation": "Rf is the ratio of the distance travelled by the component to the distance travelled by the solvent front."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 25: If a solute moves 4 cm and the solvent front moves 8 cm, its Rf value is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography",
+      "numerical"
+    ],
+    "options": [
+      "0.5",
+      "2.0",
+      "4.0",
+      "8.0"
+    ],
+    "correctAnswer": "0.5",
+    "explanation": "Rf = 4/8 = 0.5."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 26: Solvent extraction is based on difference in:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "solvent extraction"
+    ],
+    "options": [
+      "Solubility of a substance in two immiscible liquids",
+      "Density of gases only",
+      "Melting point of solids only",
+      "Colour of apparatus"
+    ],
+    "correctAnswer": "Solubility of a substance in two immiscible liquids",
+    "explanation": "A solute distributes between two immiscible solvents according to its solubility."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 27: Which apparatus is commonly used in solvent extraction?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "solvent extraction",
+      "apparatus"
+    ],
+    "options": [
+      "Separating funnel",
+      "Condenser",
+      "Filter funnel",
+      "Burette stand only"
+    ],
+    "correctAnswer": "Separating funnel",
+    "explanation": "A separating funnel separates immiscible liquid layers after extraction."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 28: Two immiscible liquids are separated by using a:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separating funnel"
+    ],
+    "options": [
+      "Separating funnel",
+      "Filter paper",
+      "Fractionating column only",
+      "Crucible"
+    ],
+    "correctAnswer": "Separating funnel",
+    "explanation": "A separating funnel allows the denser lower layer to be drained separately."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 29: Decantation is useful when:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "decantation"
+    ],
+    "options": [
+      "A heavy insoluble solid settles at the bottom",
+      "A solute is completely dissolved",
+      "Liquids have identical densities",
+      "A gas is dissolved"
+    ],
+    "correctAnswer": "A heavy insoluble solid settles at the bottom",
+    "explanation": "Decantation pours off the upper liquid after the solid settles."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 30: Centrifugation separates particles by using:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "centrifugation"
+    ],
+    "options": [
+      "Rapid spinning",
+      "Slow cooling",
+      "Direct heating",
+      "Condensation"
+    ],
+    "correctAnswer": "Rapid spinning",
+    "explanation": "Centrifugation uses spinning to separate suspended particles according to density."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 31: Which technique is commonly used to separate blood components?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "centrifugation"
+    ],
+    "options": [
+      "Centrifugation",
+      "Sublimation",
+      "Paper chromatography only",
+      "Evaporation"
+    ],
+    "correctAnswer": "Centrifugation",
+    "explanation": "Blood components can be separated by spinning due to density differences."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 32: Which method is most suitable for separating sand from water?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Filtration",
+      "Simple distillation",
+      "Chromatography",
+      "Sublimation"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Sand is insoluble in water and is retained by filter paper."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 33: Which method is most suitable for obtaining pure water from salt water?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Simple distillation",
+      "Filtration",
+      "Crystallization only",
+      "Sublimation"
+    ],
+    "correctAnswer": "Simple distillation",
+    "explanation": "Water evaporates and condenses as pure distillate, leaving salt behind."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 34: Which technique separates crude oil into fractions?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation"
+    ],
+    "options": [
+      "Fractional distillation",
+      "Filtration",
+      "Decantation",
+      "Crystallization"
+    ],
+    "correctAnswer": "Fractional distillation",
+    "explanation": "Crude oil components have different boiling ranges and are separated into fractions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 35: In distillation, boiling chips are added to:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation",
+      "lab safety"
+    ],
+    "options": [
+      "Prevent bumping",
+      "Increase color",
+      "Absorb solvent",
+      "Make crystals"
+    ],
+    "correctAnswer": "Prevent bumping",
+    "explanation": "Boiling chips provide nucleation sites and allow smooth boiling."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 36: Which safety item should be worn while heating chemicals?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "Safety goggles",
+      "Cotton scarf only",
+      "Open sandals",
+      "Wrist watch only"
+    ],
+    "correctAnswer": "Safety goggles",
+    "explanation": "Safety goggles protect eyes from splashes and fumes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 37: A chemical should never be tasted because:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "It may be toxic or corrosive",
+      "It always has no taste",
+      "It becomes pure",
+      "It becomes volatile"
+    ],
+    "correctAnswer": "It may be toxic or corrosive",
+    "explanation": "Tasting chemicals is unsafe because many chemicals are harmful."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 38: When smelling a chemical in the lab, the correct method is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "Waft vapours gently toward the nose",
+      "Smell directly from the bottle",
+      "Taste first",
+      "Heat strongly first"
+    ],
+    "correctAnswer": "Waft vapours gently toward the nose",
+    "explanation": "Wafting reduces exposure to harmful vapours."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 39: The meniscus should be read at:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "measurement"
+    ],
+    "options": [
+      "Eye level",
+      "Above eye level",
+      "Below eye level",
+      "Any angle"
+    ],
+    "correctAnswer": "Eye level",
+    "explanation": "Reading at eye level avoids parallax error."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 40: A burette is mainly used to measure:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "apparatus",
+      "titration"
+    ],
+    "options": [
+      "Variable volumes accurately during titration",
+      "Mass of solid",
+      "Temperature only",
+      "Atmospheric pressure"
+    ],
+    "correctAnswer": "Variable volumes accurately during titration",
+    "explanation": "A burette delivers accurate variable volumes, especially in titration."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 41: A pipette is mainly used to transfer:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "apparatus",
+      "pipette"
+    ],
+    "options": [
+      "A fixed accurate volume",
+      "A rough mass",
+      "A gas sample only",
+      "A solid powder"
+    ],
+    "correctAnswer": "A fixed accurate volume",
+    "explanation": "A pipette transfers a measured fixed volume accurately."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 42: A volumetric flask is used to prepare:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "apparatus",
+      "standard solution"
+    ],
+    "options": [
+      "A standard solution of known volume",
+      "A dry precipitate",
+      "A gas mixture",
+      "Filter paper"
+    ],
+    "correctAnswer": "A standard solution of known volume",
+    "explanation": "A volumetric flask is calibrated to contain an exact volume."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 43: The process of finding concentration using a standard solution is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "titration"
+    ],
+    "options": [
+      "Titration",
+      "Sublimation",
+      "Crystallization",
+      "Filtration"
+    ],
+    "correctAnswer": "Titration",
+    "explanation": "Titration determines concentration by reacting with a standard solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 44: In acid-base titration, the end point is usually detected by:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "titration"
+    ],
+    "options": [
+      "Indicator color change",
+      "Filter paper weight",
+      "Melting point",
+      "Sublimation"
+    ],
+    "correctAnswer": "Indicator color change",
+    "explanation": "An indicator changes color near the neutralization point."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 45: A standard solution has:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "standard solution"
+    ],
+    "options": [
+      "Accurately known concentration",
+      "Unknown concentration",
+      "No solute",
+      "Only insoluble solid"
+    ],
+    "correctAnswer": "Accurately known concentration",
+    "explanation": "A standard solution is prepared with an accurately known concentration."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 46: The purpose of washing crystals with cold solvent is to:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "Remove impurities without dissolving much product",
+      "Melt the crystals",
+      "Increase solvent temperature",
+      "Make vapours"
+    ],
+    "correctAnswer": "Remove impurities without dissolving much product",
+    "explanation": "Cold solvent removes surface impurities while minimizing loss of crystals."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 47: Crystals are dried by pressing between:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "Filter papers",
+      "Condenser tubes",
+      "Burettes",
+      "Separating funnels"
+    ],
+    "correctAnswer": "Filter papers",
+    "explanation": "Filter paper absorbs moisture from crystals."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 48: The purity of a solid can be checked by measuring its:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "purity",
+      "melting point"
+    ],
+    "options": [
+      "Melting point",
+      "Colour only",
+      "Shape only",
+      "Mass only"
+    ],
+    "correctAnswer": "Melting point",
+    "explanation": "Pure solids have sharp melting points, while impurities lower and broaden melting range."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 49: The purity of a liquid can be checked by measuring its:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "purity",
+      "boiling point"
+    ],
+    "options": [
+      "Boiling point",
+      "Mass only",
+      "Colour only",
+      "Filterability"
+    ],
+    "correctAnswer": "Boiling point",
+    "explanation": "Pure liquids have characteristic boiling points at given pressure."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 50: A desiccator is used to:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "apparatus",
+      "desiccator"
+    ],
+    "options": [
+      "Keep substances dry",
+      "Heat liquids",
+      "Measure volume",
+      "Separate immiscible liquids"
+    ],
+    "correctAnswer": "Keep substances dry",
+    "explanation": "A desiccator contains drying agents and protects substances from moisture."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 51: Which technique is used to separate a mixture of dyes in black ink?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Chromatography",
+      "Filtration",
+      "Evaporation only",
+      "Decantation"
+    ],
+    "correctAnswer": "Chromatography",
+    "explanation": "Different dyes travel different distances on chromatography paper."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 52: Which factor does NOT usually affect chromatography separation?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Length of measuring cylinder",
+      "Solvent used",
+      "Stationary phase",
+      "Solubility of components"
+    ],
+    "correctAnswer": "Length of measuring cylinder",
+    "explanation": "The solvent, stationary phase, adsorption and solubility affect separation, not the cylinder length."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 53: The solvent front in chromatography is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "The farthest point reached by solvent",
+      "The original sample spot",
+      "The residue on filter paper",
+      "The boiling liquid level"
+    ],
+    "correctAnswer": "The farthest point reached by solvent",
+    "explanation": "The solvent front marks how far the solvent has travelled."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 54: For filtration, filter paper is folded to:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Fit properly in the funnel",
+      "Increase boiling point",
+      "Make crystals colored",
+      "Reduce solubility"
+    ],
+    "correctAnswer": "Fit properly in the funnel",
+    "explanation": "Proper folding allows filter paper to fit and function effectively."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 55: Hot filtration is used when:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration",
+      "crystallization"
+    ],
+    "options": [
+      "Impurities are insoluble and solution must remain hot",
+      "Solvent is immiscible",
+      "Gas is collected",
+      "Rf is calculated"
+    ],
+    "correctAnswer": "Impurities are insoluble and solution must remain hot",
+    "explanation": "Hot filtration removes insoluble impurities before crystals form during cooling."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 56: Repeated crystallization to improve purity is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "recrystallization"
+    ],
+    "options": [
+      "Recrystallization",
+      "Sublimation",
+      "Centrifugation",
+      "Condensation"
+    ],
+    "correctAnswer": "Recrystallization",
+    "explanation": "Recrystallization is repeated crystallization for further purification."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 57: In crystallization, a saturated solution contains:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization",
+      "saturated solution"
+    ],
+    "options": [
+      "Maximum solute at a given temperature",
+      "No solute",
+      "Only insoluble solid",
+      "Only solvent vapour"
+    ],
+    "correctAnswer": "Maximum solute at a given temperature",
+    "explanation": "A saturated solution holds the maximum amount of solute at that temperature."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 58: Which separation technique is based on boiling point difference?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Distillation",
+      "Filtration",
+      "Decantation",
+      "Sedimentation"
+    ],
+    "correctAnswer": "Distillation",
+    "explanation": "Distillation separates substances using differences in volatility and boiling point."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 59: Which technique is based on particle size?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Filtration",
+      "Simple distillation",
+      "Chromatography",
+      "Sublimation"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Filter paper allows smaller liquid particles through but retains larger solid particles."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 60: Which technique is based on direct solid-to-vapour change?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Sublimation",
+      "Crystallization",
+      "Centrifugation",
+      "Titration"
+    ],
+    "correctAnswer": "Sublimation",
+    "explanation": "Sublimation separates substances that vaporize directly from solid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 61: Which technique is based on distribution between two phases?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Chromatography",
+      "Filtration",
+      "Evaporation",
+      "Melting"
+    ],
+    "correctAnswer": "Chromatography",
+    "explanation": "Chromatography separates components between mobile and stationary phases."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 62: A separating funnel should be opened carefully because:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "solvent extraction",
+      "lab safety"
+    ],
+    "options": [
+      "Pressure may build up inside",
+      "It contains filter paper",
+      "It has no stopper",
+      "It always freezes liquids"
+    ],
+    "correctAnswer": "Pressure may build up inside",
+    "explanation": "Shaking volatile solvents can create pressure that must be released safely."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 63: The lower layer in a separating funnel is usually:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separating funnel"
+    ],
+    "options": [
+      "The denser liquid",
+      "The lighter liquid",
+      "Always water",
+      "Always organic solvent"
+    ],
+    "correctAnswer": "The denser liquid",
+    "explanation": "The denser immiscible liquid settles at the bottom."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 64: Which method is unsuitable for separating dissolved salt from water if salt is required dry?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration",
+      "solutions"
+    ],
+    "options": [
+      "Filtration",
+      "Evaporation",
+      "Crystallization",
+      "Heating to dryness"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Filtration cannot separate dissolved salt because ions pass through filter paper."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 65: Which impurity type can be removed by filtration during crystallization?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization",
+      "filtration"
+    ],
+    "options": [
+      "Insoluble impurity",
+      "Soluble impurity only",
+      "Volatile solvent only",
+      "Gaseous impurity only"
+    ],
+    "correctAnswer": "Insoluble impurity",
+    "explanation": "Filtration removes insoluble impurities from the solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 66: The mother liquor is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "Solution left after crystals separate",
+      "Pure dry crystals",
+      "Vapour in condenser",
+      "Solid on filter paper only"
+    ],
+    "correctAnswer": "Solution left after crystals separate",
+    "explanation": "Mother liquor is the remaining solution after crystallization."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 67: Which apparatus measures mass accurately?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "measurement",
+      "apparatus"
+    ],
+    "options": [
+      "Analytical balance",
+      "Pipette",
+      "Burette",
+      "Condenser"
+    ],
+    "correctAnswer": "Analytical balance",
+    "explanation": "An analytical balance is used for accurate mass measurement."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 68: Which apparatus measures temperature?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "measurement"
+    ],
+    "options": [
+      "Thermometer",
+      "Burette",
+      "Pipette",
+      "Desiccator"
+    ],
+    "correctAnswer": "Thermometer",
+    "explanation": "A thermometer measures temperature."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 69: Which error is caused by reading a scale from the wrong angle?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "measurement",
+      "error"
+    ],
+    "options": [
+      "Parallax error",
+      "Random boiling",
+      "Sublimation error",
+      "Condensation error"
+    ],
+    "correctAnswer": "Parallax error",
+    "explanation": "Parallax error occurs when readings are not taken at eye level."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 70: Which technique separates chalk powder from water?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "filtration"
+    ],
+    "options": [
+      "Filtration",
+      "Distillation",
+      "Chromatography",
+      "Sublimation"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Chalk powder is insoluble and can be filtered from water."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 71: Which technique separates iodine from sand?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Sublimation",
+      "Filtration",
+      "Titration",
+      "Decantation only"
+    ],
+    "correctAnswer": "Sublimation",
+    "explanation": "Iodine sublimes on heating and can be separated from sand."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 72: Which technique can identify components of plant pigments?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Chromatography",
+      "Evaporation",
+      "Decantation",
+      "Simple distillation"
+    ],
+    "correctAnswer": "Chromatography",
+    "explanation": "Chromatography separates plant pigments based on movement through a stationary phase."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 73: The principle of distillation depends on difference in:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Boiling points",
+      "Particle size only",
+      "Colour only",
+      "Mass of filter paper"
+    ],
+    "correctAnswer": "Boiling points",
+    "explanation": "Distillation separates volatile components according to boiling point differences."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 74: If a liquid has a lower boiling point, it will distil:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "First",
+      "Last",
+      "Never",
+      "Only after freezing"
+    ],
+    "correctAnswer": "First",
+    "explanation": "The more volatile liquid with lower boiling point vaporizes first."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 75: During fractional distillation, vapour becomes richer in:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation"
+    ],
+    "options": [
+      "More volatile component",
+      "Less volatile component only",
+      "Insoluble solid",
+      "Filter paper"
+    ],
+    "correctAnswer": "More volatile component",
+    "explanation": "Repeated condensation and vaporization enrich vapour in the more volatile component."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 76: In paper chromatography, a component with greater solubility in solvent moves:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Farther up the paper",
+      "Less distance only",
+      "Back to baseline",
+      "Into the filter funnel"
+    ],
+    "correctAnswer": "Farther up the paper",
+    "explanation": "Greater solubility in the mobile phase usually causes greater movement."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 77: In paper chromatography, a component strongly adsorbed on paper moves:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Less distance",
+      "More distance",
+      "Exactly with solvent front",
+      "Into condenser"
+    ],
+    "correctAnswer": "Less distance",
+    "explanation": "Stronger attraction to stationary phase slows movement."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 78: Which technique separates a mixture of salt and ammonium chloride?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Sublimation followed by collection of NH4Cl",
+      "Filtration only",
+      "Titration only",
+      "Decantation only"
+    ],
+    "correctAnswer": "Sublimation followed by collection of NH4Cl",
+    "explanation": "Ammonium chloride sublimes while salt remains behind."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 79: Which technique can obtain sugar crystals from sugar solution?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "Crystallization",
+      "Filtration only",
+      "Sublimation",
+      "Centrifugation only"
+    ],
+    "correctAnswer": "Crystallization",
+    "explanation": "Crystallization separates solid sugar from a concentrated solution."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 80: Why is direct heating avoided for flammable solvents?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "They may catch fire",
+      "They become nonvolatile",
+      "They form filter paper",
+      "They crystallize instantly"
+    ],
+    "correctAnswer": "They may catch fire",
+    "explanation": "Flammable solvents can ignite, so safer heating methods are needed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 81: A water bath is used to heat flammable solvents because it:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety",
+      "heating"
+    ],
+    "options": [
+      "Provides gentle heating without direct flame",
+      "Increases fire risk",
+      "Acts as a filter",
+      "Measures exact mass"
+    ],
+    "correctAnswer": "Provides gentle heating without direct flame",
+    "explanation": "A water bath reduces the danger of ignition from direct flames."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 82: Which container is commonly used to evaporate a solution?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "evaporation",
+      "apparatus"
+    ],
+    "options": [
+      "Evaporating dish",
+      "Burette",
+      "Pipette",
+      "Separating funnel"
+    ],
+    "correctAnswer": "Evaporating dish",
+    "explanation": "An evaporating dish provides a broad surface for evaporation."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 83: Which glassware should not be heated directly unless designed for it?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety",
+      "apparatus"
+    ],
+    "options": [
+      "Volumetric flask",
+      "Evaporating dish",
+      "Test tube",
+      "Crucible"
+    ],
+    "correctAnswer": "Volumetric flask",
+    "explanation": "Volumetric flasks are calibrated and should not be heated as heat may affect accuracy."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 84: The best method to separate water and kerosene is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separating funnel"
+    ],
+    "options": [
+      "Separating funnel",
+      "Filtration",
+      "Sublimation",
+      "Paper chromatography"
+    ],
+    "correctAnswer": "Separating funnel",
+    "explanation": "Water and kerosene are immiscible and form two layers."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 85: Which method separates cream from milk industrially?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "centrifugation"
+    ],
+    "options": [
+      "Centrifugation",
+      "Sublimation",
+      "Simple distillation",
+      "Paper chromatography"
+    ],
+    "correctAnswer": "Centrifugation",
+    "explanation": "Centrifugation separates components of different densities."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 86: Which term describes settling of suspended particles under gravity?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sedimentation"
+    ],
+    "options": [
+      "Sedimentation",
+      "Sublimation",
+      "Condensation",
+      "Elution"
+    ],
+    "correctAnswer": "Sedimentation",
+    "explanation": "Sedimentation occurs when suspended particles settle due to gravity."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 87: The liquid above a settled solid is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "decantation",
+      "sedimentation"
+    ],
+    "options": [
+      "Supernatant liquid",
+      "Residue",
+      "Distillate",
+      "Sublimate"
+    ],
+    "correctAnswer": "Supernatant liquid",
+    "explanation": "The clear liquid above the settled solid is called supernatant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 88: Which technique follows sedimentation to pour off the liquid?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "decantation"
+    ],
+    "options": [
+      "Decantation",
+      "Chromatography",
+      "Sublimation",
+      "Titration"
+    ],
+    "correctAnswer": "Decantation",
+    "explanation": "Decantation removes the supernatant liquid from settled solid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 89: A good solvent for crystallization should dissolve more solute:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization"
+    ],
+    "options": [
+      "At high temperature than at low temperature",
+      "At low temperature only",
+      "Never",
+      "Only in vapour form"
+    ],
+    "correctAnswer": "At high temperature than at low temperature",
+    "explanation": "This allows crystals to form on cooling."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 90: Impure crystals usually have:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "purity",
+      "melting point"
+    ],
+    "options": [
+      "Lower and less sharp melting point",
+      "Higher and perfectly sharp melting point",
+      "No melting point",
+      "Boiling point only"
+    ],
+    "correctAnswer": "Lower and less sharp melting point",
+    "explanation": "Impurities disturb crystal lattice and broaden/lower melting range."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 91: The technique used to separate a solid that sublimes from one that does not is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "sublimation"
+    ],
+    "options": [
+      "Sublimation",
+      "Filtration",
+      "Decantation",
+      "Titration"
+    ],
+    "correctAnswer": "Sublimation",
+    "explanation": "Sublimable solid vaporizes and deposits separately, leaving non-sublimable material."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 92: Which method is most suitable for separating oxygen and nitrogen from liquid air?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "fractional distillation"
+    ],
+    "options": [
+      "Fractional distillation",
+      "Simple filtration",
+      "Sublimation",
+      "Crystallization"
+    ],
+    "correctAnswer": "Fractional distillation",
+    "explanation": "Liquid air components have different boiling points and are separated by fractional distillation."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 93: Which technique is most useful for checking purity of a colored compound?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography",
+      "purity"
+    ],
+    "options": [
+      "Chromatography",
+      "Filtration",
+      "Decantation",
+      "Heating strongly"
+    ],
+    "correctAnswer": "Chromatography",
+    "explanation": "A pure colored compound gives one spot under suitable chromatography conditions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 94: A pure substance in chromatography usually gives:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography",
+      "purity"
+    ],
+    "options": [
+      "One spot",
+      "Many spots always",
+      "No spot always",
+      "Only a baseline"
+    ],
+    "correctAnswer": "One spot",
+    "explanation": "A pure substance generally gives a single chromatographic spot."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 95: What is the main purpose of using a fume cupboard?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "To avoid inhaling harmful vapours",
+      "To increase boiling point",
+      "To dry filter paper",
+      "To measure mass"
+    ],
+    "correctAnswer": "To avoid inhaling harmful vapours",
+    "explanation": "A fume cupboard removes harmful fumes from the working area."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 96: Which is the correct action after spilling acid on skin?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "lab safety"
+    ],
+    "options": [
+      "Wash immediately with plenty of water",
+      "Wipe with dry cloth only",
+      "Heat the area",
+      "Smell the acid"
+    ],
+    "correctAnswer": "Wash immediately with plenty of water",
+    "explanation": "Immediate washing dilutes and removes acid from the skin."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 97: In titration, the conical flask usually contains:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "titration"
+    ],
+    "options": [
+      "Analyte with indicator",
+      "Only dry crystals",
+      "Filter paper",
+      "Condenser water"
+    ],
+    "correctAnswer": "Analyte with indicator",
+    "explanation": "The analyte is placed in the flask and indicator shows the end point."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 98: The burette in titration usually contains:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "titration"
+    ],
+    "options": [
+      "Titrant of known concentration",
+      "Filter paper",
+      "Ice crystals",
+      "Insoluble sand"
+    ],
+    "correctAnswer": "Titrant of known concentration",
+    "explanation": "The burette delivers measured volumes of the titrant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 99: The endpoint in titration is reached when:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "titration"
+    ],
+    "options": [
+      "Indicator shows a permanent color change",
+      "Solution starts filtering",
+      "Crystals melt",
+      "Solvent front reaches top"
+    ],
+    "correctAnswer": "Indicator shows a permanent color change",
+    "explanation": "The endpoint is indicated by a persistent color change."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 100: Which technique is used for purification of benzoic acid from impurities?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "recrystallization"
+    ],
+    "options": [
+      "Recrystallization",
+      "Fractional distillation",
+      "Centrifugation only",
+      "Decantation only"
+    ],
+    "correctAnswer": "Recrystallization",
+    "explanation": "Benzoic acid can be purified by dissolving hot and crystallizing on cooling."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 101: In solvent extraction, repeated extraction with small portions is often:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "solvent extraction"
+    ],
+    "options": [
+      "More efficient",
+      "Always impossible",
+      "Less efficient always",
+      "Same as no extraction"
+    ],
+    "correctAnswer": "More efficient",
+    "explanation": "Multiple small extractions often remove more solute than one large extraction."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 102: What does a drying agent remove from an organic liquid?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "drying agent"
+    ],
+    "options": [
+      "Water",
+      "Colored dye only",
+      "Sand",
+      "Glass pieces"
+    ],
+    "correctAnswer": "Water",
+    "explanation": "Drying agents remove traces of water from liquids."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 103: Anhydrous calcium chloride is commonly used as:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "drying agent"
+    ],
+    "options": [
+      "Drying agent",
+      "Indicator",
+      "Filter paper",
+      "Condenser"
+    ],
+    "correctAnswer": "Drying agent",
+    "explanation": "Anhydrous calcium chloride absorbs moisture."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 104: Which technique is used to separate a solid from a liquid when solid particles are very fine and do not settle quickly?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "centrifugation"
+    ],
+    "options": [
+      "Centrifugation",
+      "Simple decantation only",
+      "Sublimation",
+      "Fractional distillation"
+    ],
+    "correctAnswer": "Centrifugation",
+    "explanation": "Centrifugation speeds up settling of fine suspended particles."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 105: The best technique to separate a mixture of miscible liquids is often:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Distillation",
+      "Filtration",
+      "Separating funnel",
+      "Sedimentation"
+    ],
+    "correctAnswer": "Distillation",
+    "explanation": "Miscible liquids are commonly separated by distillation based on boiling points."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 106: The best technique to separate a mixture of immiscible liquids is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separating funnel"
+    ],
+    "options": [
+      "Separating funnel",
+      "Simple distillation only",
+      "Crystallization",
+      "Sublimation"
+    ],
+    "correctAnswer": "Separating funnel",
+    "explanation": "Immiscible liquids form layers and can be drained separately."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 107: Which step comes before crystallization when solution contains insoluble impurities?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "crystallization",
+      "filtration"
+    ],
+    "options": [
+      "Filtration of hot solution",
+      "Strong freezing",
+      "Chromatography of crystals",
+      "Titration with indicator"
+    ],
+    "correctAnswer": "Filtration of hot solution",
+    "explanation": "Hot filtration removes insoluble impurities before crystals form."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 108: Why should the solvent level be below the baseline in paper chromatography?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "To prevent sample from dissolving directly into solvent",
+      "To increase paper mass",
+      "To stop solvent movement",
+      "To heat the paper"
+    ],
+    "correctAnswer": "To prevent sample from dissolving directly into solvent",
+    "explanation": "If the sample is submerged, it dissolves into the solvent reservoir instead of separating on paper."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 109: A mixture gives three spots on a chromatogram. It likely contains:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "chromatography"
+    ],
+    "options": [
+      "Three components",
+      "Only one pure compound",
+      "No component",
+      "Only solvent"
+    ],
+    "correctAnswer": "Three components",
+    "explanation": "Different spots generally indicate different components in the mixture."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 110: The final stage in simple distillation is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Condensation of vapour",
+      "Folding filter paper",
+      "Spotting the baseline",
+      "Drying in desiccator only"
+    ],
+    "correctAnswer": "Condensation of vapour",
+    "explanation": "The vapour is cooled and condensed to form distillate."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 111: Which technique would you use to recover both salt and water from salt solution?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "distillation"
+    ],
+    "options": [
+      "Simple distillation",
+      "Evaporation only",
+      "Filtration only",
+      "Decantation only"
+    ],
+    "correctAnswer": "Simple distillation",
+    "explanation": "Distillation gives water as distillate and salt remains in the flask."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 112: Which one is a physical separation technique?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separation techniques"
+    ],
+    "options": [
+      "Filtration",
+      "Combustion",
+      "Neutralization",
+      "Oxidation"
+    ],
+    "correctAnswer": "Filtration",
+    "explanation": "Filtration separates substances physically without chemical change."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "mcq",
+    "question": "MCQ 113: Which one is NOT a separation technique?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "separation techniques"
+    ],
+    "options": [
+      "Neutralization",
+      "Crystallization",
+      "Sublimation",
+      "Chromatography"
+    ],
+    "correctAnswer": "Neutralization",
+    "explanation": "Neutralization is a chemical reaction, not a separation technique."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 1: Define filtration and write one example of its use.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 2: What is the difference between residue and filtrate?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 3: Why is filter paper folded before filtration?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 4: Define crystallization.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 5: What is meant by saturated solution?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 6: Why is a hot saturated solution cooled during crystallization?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 7: Write two uses of crystallization.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 8: Differentiate between crystallization and evaporation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 9: What is recrystallization?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 10: Why are crystals washed with cold solvent?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 11: Define simple distillation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 12: What is the function of a condenser in distillation?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 13: Why are boiling chips used during distillation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 14: What is distillate?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 15: Write one example of a mixture separated by simple distillation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 16: Define fractional distillation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 17: Why is a fractionating column used?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 18: Write one industrial use of fractional distillation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 19: What is sublimation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 20: Name two substances that can be purified by sublimation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 21: How can ammonium chloride be separated from sand?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 22: Define chromatography.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 23: What is the stationary phase in paper chromatography?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 24: What is the mobile phase in paper chromatography?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 25: What is a chromatogram?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 26: Define Rf value.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 27: Why should the sample spot remain above the solvent level?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 28: What is the solvent front?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 29: How can chromatography check the purity of a substance?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 30: Define solvent extraction.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 31: What is a separating funnel used for?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 32: How are immiscible liquids separated?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 33: Define decantation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 34: What is sedimentation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 35: What is centrifugation?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 36: Write one use of centrifugation in daily life or laboratory.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 37: Differentiate between sedimentation and centrifugation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 38: What is the purpose of a desiccator?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 39: Write the function of a drying agent.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 40: Name two common drying agents.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 41: What is a standard solution?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 42: What is titration?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 43: What is the role of an indicator in titration?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 44: Differentiate between pipette and burette.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 45: What is parallax error?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 46: Why is the meniscus read at eye level?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 47: Write two laboratory safety rules.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 48: Why should chemicals not be tasted in the laboratory?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 49: What is the proper method of smelling a chemical?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "short",
+    "question": "Short Question 50: Why is a water bath used for heating flammable solvents?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 1: Explain filtration in detail with apparatus, procedure, principle, and one example.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 2: Describe crystallization as a purification technique with complete steps and precautions.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 3: Explain simple distillation with labelled apparatus description and applications.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 4: Differentiate between simple distillation and fractional distillation with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 5: Describe fractional distillation and explain the role of the fractionating column.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 6: Explain sublimation with principle, procedure, examples, and limitations.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 7: Describe paper chromatography with principle, method, solvent front, baseline, and Rf value.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 8: Explain how chromatography is used to identify and check purity of colored substances.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 9: Describe solvent extraction with principle, separating funnel procedure, and applications.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 10: Explain sedimentation, decantation, and centrifugation with differences and examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 11: Write a detailed note on common laboratory apparatus used in experimental chemistry.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 12: Explain titration, standard solution, endpoint, indicator, burette, and pipette use.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 13: Describe how to prepare and use a standard solution accurately.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 14: Explain sources of error in laboratory measurements and methods to reduce them.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 15: Write a detailed note on laboratory safety rules and safe handling of chemicals.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 16: Compare filtration, evaporation, crystallization, and distillation as separation techniques.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 17: Explain how a mixture of sand, salt, and ammonium chloride can be separated step by step.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 18: Describe the purification of an impure solid by recrystallization.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 19: Explain how boiling point and melting point are used to test purity.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Experimental Techniques",
+    "chapterId": "Experimental Techniques",
+    "type": "long",
+    "question": "Long Question 20: Write a comprehensive note on experimental techniques used for separation and purification of substances.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Experimental Techniques",
+      "long question"
+    ]
+  }
+]

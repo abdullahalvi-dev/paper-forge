@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 1: A quantity having magnitude only is called:",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Tensor",
+      "Resultant"
+    ],
+    "correctAnswer": "Scalar",
+    "explanation": "A scalar quantity has magnitude only and no direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "scalar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 2: A quantity having magnitude and direction is called:",
+    "options": [
+      "Vector",
+      "Scalar",
+      "Base unit",
+      "Dimension"
+    ],
+    "correctAnswer": "Vector",
+    "explanation": "A vector quantity has both magnitude and direction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 3: Which one is a scalar quantity?",
+    "options": [
+      "Mass",
+      "Force",
+      "Velocity",
+      "Displacement"
+    ],
+    "correctAnswer": "Mass",
+    "explanation": "Mass has magnitude only.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "scalar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 4: Which one is a vector quantity?",
+    "options": [
+      "Force",
+      "Time",
+      "Temperature",
+      "Speed"
+    ],
+    "correctAnswer": "Force",
+    "explanation": "Force has magnitude and direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 5: Distance is a:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Derived unit",
+      "Base vector"
+    ],
+    "correctAnswer": "Scalar quantity",
+    "explanation": "Distance has magnitude only.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "distance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 6: Displacement is a:",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Unitless quantity",
+      "Base unit"
+    ],
+    "correctAnswer": "Vector quantity",
+    "explanation": "Displacement has magnitude and direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "displacement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 7: Speed is a:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Negative quantity always",
+      "Torque"
+    ],
+    "correctAnswer": "Scalar quantity",
+    "explanation": "Speed has magnitude only.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 8: Velocity is a:",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Dimensionless quantity",
+      "Moment arm"
+    ],
+    "correctAnswer": "Vector quantity",
+    "explanation": "Velocity has magnitude and direction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 9: The magnitude of a vector is always:",
+    "options": [
+      "Positive or zero",
+      "Negative only",
+      "Complex only",
+      "Undefined"
+    ],
+    "correctAnswer": "Positive or zero",
+    "explanation": "Magnitude represents size of vector.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 10: A vector is represented graphically by:",
+    "options": [
+      "Directed line segment",
+      "Circle only",
+      "Dashed square",
+      "Number without direction"
+    ],
+    "correctAnswer": "Directed line segment",
+    "explanation": "Length gives magnitude and arrow shows direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector representation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 11: The length of an arrow in vector diagram represents:",
+    "options": [
+      "Magnitude",
+      "Direction only",
+      "Unit only",
+      "Origin only"
+    ],
+    "correctAnswer": "Magnitude",
+    "explanation": "Vector magnitude is shown by arrow length according to scale.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector representation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 12: The arrowhead of a vector represents:",
+    "options": [
+      "Direction",
+      "Magnitude only",
+      "Unit",
+      "Dimension"
+    ],
+    "correctAnswer": "Direction",
+    "explanation": "Arrowhead shows the direction of vector.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector representation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 13: Two vectors are equal if they have:",
+    "options": [
+      "Same magnitude and same direction",
+      "Same magnitude only",
+      "Same direction only",
+      "Different directions"
+    ],
+    "correctAnswer": "Same magnitude and same direction",
+    "explanation": "Equal vectors must match both magnitude and direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equal vectors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 14: A vector whose magnitude is one is called:",
+    "options": [
+      "Unit vector",
+      "Null vector",
+      "Position vector",
+      "Negative vector"
+    ],
+    "correctAnswer": "Unit vector",
+    "explanation": "A unit vector has magnitude 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "unit vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 15: A vector with zero magnitude is called:",
+    "options": [
+      "Null vector",
+      "Unit vector",
+      "Position vector",
+      "Free vector"
+    ],
+    "correctAnswer": "Null vector",
+    "explanation": "Null vector has magnitude zero.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "null vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 16: A vector opposite in direction but equal in magnitude is called:",
+    "options": [
+      "Negative vector",
+      "Unit vector",
+      "Null vector",
+      "Resultant vector"
+    ],
+    "correctAnswer": "Negative vector",
+    "explanation": "Negative vector has same magnitude but opposite direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "negative vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 17: The vector that locates a point with respect to origin is:",
+    "options": [
+      "Position vector",
+      "Null vector",
+      "Unit vector",
+      "Torque"
+    ],
+    "correctAnswer": "Position vector",
+    "explanation": "Position vector gives location from origin.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "position vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 18: Addition of vectors follows:",
+    "options": [
+      "Commutative law",
+      "Only subtraction law",
+      "No law",
+      "Ohm’s law"
+    ],
+    "correctAnswer": "Commutative law",
+    "explanation": "Vector addition obeys A + B = B + A.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector addition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 19: Vector addition also follows:",
+    "options": [
+      "Associative law",
+      "Boyle’s law",
+      "Faraday’s law",
+      "Hooke’s law only"
+    ],
+    "correctAnswer": "Associative law",
+    "explanation": "A + (B + C) = (A + B) + C.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector addition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 20: The single vector having same effect as two or more vectors is:",
+    "options": [
+      "Resultant vector",
+      "Null vector",
+      "Unit vector",
+      "Component only"
+    ],
+    "correctAnswer": "Resultant vector",
+    "explanation": "Resultant represents combined effect of vectors.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 21: The process of splitting a vector into parts is called:",
+    "options": [
+      "Resolution of vector",
+      "Vector cancellation",
+      "Scalar product",
+      "Moment of force"
+    ],
+    "correctAnswer": "Resolution of vector",
+    "explanation": "Resolution means finding components of a vector.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resolution"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 22: Rectangular components of a vector are:",
+    "options": [
+      "Mutually perpendicular",
+      "Always parallel",
+      "Always equal",
+      "Always zero"
+    ],
+    "correctAnswer": "Mutually perpendicular",
+    "explanation": "Rectangular components are along perpendicular axes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 23: The horizontal component of vector A making angle θ with x-axis is:",
+    "options": [
+      "A cosθ",
+      "A sinθ",
+      "A tanθ",
+      "A/θ"
+    ],
+    "correctAnswer": "A cosθ",
+    "explanation": "x-component equals A cosθ.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 24: The vertical component of vector A making angle θ with x-axis is:",
+    "options": [
+      "A sinθ",
+      "A cosθ",
+      "A tanθ",
+      "A/θ"
+    ],
+    "correctAnswer": "A sinθ",
+    "explanation": "y-component equals A sinθ.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 25: If Ax and Ay are rectangular components, magnitude of A is:",
+    "options": [
+      "√(Ax² + Ay²)",
+      "Ax + Ay",
+      "Ax - Ay",
+      "Ax/Ay"
+    ],
+    "correctAnswer": "√(Ax² + Ay²)",
+    "explanation": "Magnitude is found using Pythagoras theorem.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 26: Direction of vector from components is given by:",
+    "options": [
+      "tanθ = Ay/Ax",
+      "tanθ = Ax/Ay",
+      "sinθ = AxAy",
+      "cosθ = Ay/Ax"
+    ],
+    "correctAnswer": "tanθ = Ay/Ax",
+    "explanation": "Angle with x-axis is found from tangent ratio.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 27: The resultant of two parallel vectors in same direction is:",
+    "options": [
+      "Sum of magnitudes",
+      "Difference of magnitudes",
+      "Always zero",
+      "Product of magnitudes"
+    ],
+    "correctAnswer": "Sum of magnitudes",
+    "explanation": "Same-direction parallel vectors add directly.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 28: The resultant of two equal opposite vectors is:",
+    "options": [
+      "Zero",
+      "Double",
+      "Half",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Equal and opposite vectors cancel each other.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 29: The head-to-tail rule is used for:",
+    "options": [
+      "Vector addition",
+      "Scalar multiplication only",
+      "Finding mass",
+      "Measuring time"
+    ],
+    "correctAnswer": "Vector addition",
+    "explanation": "Vectors are added by placing tail of next at head of previous.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector addition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 30: Triangle law of vector addition applies when:",
+    "options": [
+      "Two vectors are represented by two sides of a triangle in order",
+      "Three scalars are multiplied",
+      "Only one force acts",
+      "Vectors are always zero"
+    ],
+    "correctAnswer": "Two vectors are represented by two sides of a triangle in order",
+    "explanation": "The third side gives the resultant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "triangle law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 31: Parallelogram law is used to find:",
+    "options": [
+      "Resultant of two vectors",
+      "Mass of body",
+      "Temperature",
+      "Spring constant"
+    ],
+    "correctAnswer": "Resultant of two vectors",
+    "explanation": "Diagonal of parallelogram gives resultant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "parallelogram law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 32: The resultant of two vectors A and B with angle θ is:",
+    "options": [
+      "√(A² + B² + 2AB cosθ)",
+      "A + B + θ",
+      "AB sinθ",
+      "A/B"
+    ],
+    "correctAnswer": "√(A² + B² + 2AB cosθ)",
+    "explanation": "This follows from parallelogram law.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 33: If two vectors are perpendicular, their resultant magnitude is:",
+    "options": [
+      "√(A² + B²)",
+      "A + B",
+      "A - B",
+      "AB"
+    ],
+    "correctAnswer": "√(A² + B²)",
+    "explanation": "For θ = 90°, cosθ = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 34: The scalar product of A and B is:",
+    "options": [
+      "AB cosθ",
+      "AB sinθ",
+      "A/B",
+      "A + B"
+    ],
+    "correctAnswer": "AB cosθ",
+    "explanation": "Dot product equals product of magnitudes and cosine of angle.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 35: The vector product of A and B is:",
+    "options": [
+      "AB sinθ n̂",
+      "AB cosθ",
+      "A + B",
+      "A - B"
+    ],
+    "correctAnswer": "AB sinθ n̂",
+    "explanation": "Cross product magnitude is AB sinθ and direction is perpendicular.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 36: Dot product gives a:",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Null vector always",
+      "Unit vector only"
+    ],
+    "correctAnswer": "Scalar",
+    "explanation": "Scalar product has no direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 37: Cross product gives a:",
+    "options": [
+      "Vector",
+      "Scalar",
+      "Number only",
+      "Mass"
+    ],
+    "correctAnswer": "Vector",
+    "explanation": "Vector product has direction perpendicular to plane of vectors.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 38: Dot product of perpendicular vectors is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "AB",
+      "A/B"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "For θ = 90°, cosθ = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 39: Cross product of parallel vectors is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "AB",
+      "A + B"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "For θ = 0°, sinθ = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 40: Work is an example of:",
+    "options": [
+      "Scalar product",
+      "Vector product",
+      "Unit vector",
+      "Null vector"
+    ],
+    "correctAnswer": "Scalar product",
+    "explanation": "Work = F · s.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 41: Torque is an example of:",
+    "options": [
+      "Vector product",
+      "Scalar product only",
+      "Null vector",
+      "Base vector"
+    ],
+    "correctAnswer": "Vector product",
+    "explanation": "Torque τ = r × F.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 42: The turning effect of force is called:",
+    "options": [
+      "Torque",
+      "Momentum",
+      "Power",
+      "Pressure"
+    ],
+    "correctAnswer": "Torque",
+    "explanation": "Torque measures rotational effect of a force.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 43: Torque is also called:",
+    "options": [
+      "Moment of force",
+      "Linear force",
+      "Mass",
+      "Speed"
+    ],
+    "correctAnswer": "Moment of force",
+    "explanation": "Moment of force describes turning effect.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 44: The formula of torque is:",
+    "options": [
+      "τ = rF sinθ",
+      "τ = rF cosθ",
+      "τ = F/r",
+      "τ = r/F"
+    ],
+    "correctAnswer": "τ = rF sinθ",
+    "explanation": "Torque magnitude is rF sinθ.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 45: SI unit of torque is:",
+    "options": [
+      "N m",
+      "N s",
+      "kg m s⁻¹",
+      "J s"
+    ],
+    "correctAnswer": "N m",
+    "explanation": "Torque equals force times perpendicular distance.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 46: The moment arm is:",
+    "options": [
+      "Perpendicular distance from axis to line of action of force",
+      "Mass of object",
+      "Length of path only",
+      "Time of rotation"
+    ],
+    "correctAnswer": "Perpendicular distance from axis to line of action of force",
+    "explanation": "Moment arm determines torque.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 47: Torque is maximum when angle between r and F is:",
+    "options": [
+      "90°",
+      "0°",
+      "180°",
+      "360°"
+    ],
+    "correctAnswer": "90°",
+    "explanation": "sin90° = 1, so torque is maximum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 48: Torque is zero when force passes through:",
+    "options": [
+      "Axis of rotation",
+      "Centre of Earth only",
+      "Surface only",
+      "Air only"
+    ],
+    "correctAnswer": "Axis of rotation",
+    "explanation": "Moment arm becomes zero.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 49: A body is in equilibrium when:",
+    "options": [
+      "Net force and net torque are zero",
+      "Only speed is maximum",
+      "Only mass is zero",
+      "Only displacement exists"
+    ],
+    "correctAnswer": "Net force and net torque are zero",
+    "explanation": "Complete equilibrium requires translational and rotational equilibrium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 50: First condition of equilibrium is:",
+    "options": [
+      "ΣF = 0",
+      "Στ = 0 only",
+      "v = u + at",
+      "F = kx"
+    ],
+    "correctAnswer": "ΣF = 0",
+    "explanation": "First condition ensures no translational acceleration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 51: Second condition of equilibrium is:",
+    "options": [
+      "Στ = 0",
+      "ΣF = ma only",
+      "p = mv",
+      "W = mg"
+    ],
+    "correctAnswer": "Στ = 0",
+    "explanation": "Second condition ensures no angular acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 52: First condition of equilibrium is related to:",
+    "options": [
+      "Translational equilibrium",
+      "Rotational equilibrium only",
+      "Thermal equilibrium only",
+      "Chemical equilibrium only"
+    ],
+    "correctAnswer": "Translational equilibrium",
+    "explanation": "Zero net force gives translational equilibrium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 53: Second condition of equilibrium is related to:",
+    "options": [
+      "Rotational equilibrium",
+      "Translational equilibrium only",
+      "Thermal expansion",
+      "Linear speed only"
+    ],
+    "correctAnswer": "Rotational equilibrium",
+    "explanation": "Zero net torque gives rotational equilibrium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 54: A body at rest under balanced forces is in:",
+    "options": [
+      "Static equilibrium",
+      "Dynamic equilibrium",
+      "Unstable motion",
+      "Projectile motion"
+    ],
+    "correctAnswer": "Static equilibrium",
+    "explanation": "Static equilibrium means rest with zero resultant force/torque.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "static equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 55: A body moving with uniform velocity under balanced forces is in:",
+    "options": [
+      "Dynamic equilibrium",
+      "Static equilibrium",
+      "No equilibrium",
+      "Rotational imbalance"
+    ],
+    "correctAnswer": "Dynamic equilibrium",
+    "explanation": "Dynamic equilibrium means constant velocity with zero net force.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dynamic equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 56: If ΣF = 0 but Στ ≠ 0, the body may:",
+    "options": [
+      "Rotate",
+      "Remain completely at rest always",
+      "Have no angular effect",
+      "Lose mass"
+    ],
+    "correctAnswer": "Rotate",
+    "explanation": "Non-zero torque produces rotational effect.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 57: If Στ = 0 but ΣF ≠ 0, the body may:",
+    "options": [
+      "Accelerate linearly",
+      "Never move",
+      "Have zero force",
+      "Stop time"
+    ],
+    "correctAnswer": "Accelerate linearly",
+    "explanation": "Non-zero net force causes translational acceleration.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 58: For a body in complete equilibrium:",
+    "options": [
+      "ΣF = 0 and Στ = 0",
+      "ΣF ≠ 0 only",
+      "Στ ≠ 0 only",
+      "Speed must be zero always"
+    ],
+    "correctAnswer": "ΣF = 0 and Στ = 0",
+    "explanation": "Both equilibrium conditions must be satisfied.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 59: A couple consists of:",
+    "options": [
+      "Two equal, opposite and parallel forces with different lines of action",
+      "Two same direction forces only",
+      "One force only",
+      "Zero forces"
+    ],
+    "correctAnswer": "Two equal, opposite and parallel forces with different lines of action",
+    "explanation": "A couple produces rotation without net force.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 60: The net force of a couple is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Equal to one force",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Equal and opposite forces cancel translationally.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 61: A couple produces:",
+    "options": [
+      "Pure rotation",
+      "Pure translation only",
+      "No motion ever",
+      "Only heat"
+    ],
+    "correctAnswer": "Pure rotation",
+    "explanation": "A couple has zero resultant force but non-zero torque.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 62: The torque of a couple is:",
+    "options": [
+      "Force × perpendicular distance between forces",
+      "Force ÷ distance",
+      "Mass × velocity",
+      "Force × time"
+    ],
+    "correctAnswer": "Force × perpendicular distance between forces",
+    "explanation": "Moment of couple equals one force times couple arm.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 63: Centre of gravity is the point where:",
+    "options": [
+      "Whole weight of body appears to act",
+      "Whole mass disappears",
+      "Velocity is maximum",
+      "Force is always zero"
+    ],
+    "correctAnswer": "Whole weight of body appears to act",
+    "explanation": "Weight may be considered concentrated at centre of gravity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 64: For a uniform rod, centre of gravity lies at:",
+    "options": [
+      "Midpoint",
+      "One end",
+      "Outside rod always",
+      "Any random point"
+    ],
+    "correctAnswer": "Midpoint",
+    "explanation": "Uniform rod has symmetric mass distribution.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 65: Stability of a body increases when centre of gravity is:",
+    "options": [
+      "Lower",
+      "Higher",
+      "Outside base always",
+      "At infinite height"
+    ],
+    "correctAnswer": "Lower",
+    "explanation": "Lower centre of gravity improves stability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 66: Stability also increases when base area is:",
+    "options": [
+      "Larger",
+      "Smaller",
+      "Zero",
+      "Point-like only"
+    ],
+    "correctAnswer": "Larger",
+    "explanation": "A wider base makes tipping harder.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 67: A body topples when line of action of weight falls:",
+    "options": [
+      "Outside its base",
+      "Inside its base",
+      "At centre only",
+      "Along horizontal direction only"
+    ],
+    "correctAnswer": "Outside its base",
+    "explanation": "Toppling occurs when weight line passes outside support base.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 68: Stable equilibrium means after slight tilt, body:",
+    "options": [
+      "Returns to original position",
+      "Moves farther away",
+      "Stays in new position always",
+      "Explodes"
+    ],
+    "correctAnswer": "Returns to original position",
+    "explanation": "Stable equilibrium restores original state.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 69: Unstable equilibrium means after slight tilt, body:",
+    "options": [
+      "Moves farther away from original position",
+      "Returns immediately",
+      "Remains unchanged",
+      "Has no centre of gravity"
+    ],
+    "correctAnswer": "Moves farther away from original position",
+    "explanation": "Unstable equilibrium loses original position after disturbance.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 70: Neutral equilibrium means after displacement, body:",
+    "options": [
+      "Stays in new position",
+      "Returns back",
+      "Moves farther away only",
+      "Accelerates upward"
+    ],
+    "correctAnswer": "Stays in new position",
+    "explanation": "Neutral equilibrium has no tendency to return or move farther.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 71: A cone standing on its base is usually in:",
+    "options": [
+      "Stable equilibrium",
+      "Unstable equilibrium",
+      "Neutral equilibrium",
+      "No equilibrium"
+    ],
+    "correctAnswer": "Stable equilibrium",
+    "explanation": "It returns if slightly displaced within limits.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 72: A cone standing on its tip is in:",
+    "options": [
+      "Unstable equilibrium",
+      "Stable equilibrium",
+      "Neutral equilibrium",
+      "Dynamic equilibrium"
+    ],
+    "correctAnswer": "Unstable equilibrium",
+    "explanation": "A small disturbance makes it fall.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 73: A sphere on a horizontal plane is in:",
+    "options": [
+      "Neutral equilibrium",
+      "Stable equilibrium only",
+      "Unstable equilibrium only",
+      "No equilibrium"
+    ],
+    "correctAnswer": "Neutral equilibrium",
+    "explanation": "Its centre of gravity height remains same when displaced.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 74: Lami’s theorem applies to:",
+    "options": [
+      "Three concurrent coplanar forces in equilibrium",
+      "Four non-coplanar forces always",
+      "One force only",
+      "Only scalar quantities"
+    ],
+    "correctAnswer": "Three concurrent coplanar forces in equilibrium",
+    "explanation": "Lami's theorem is for three concurrent forces in equilibrium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "Lami theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 75: According to Lami’s theorem:",
+    "options": [
+      "F1/sinα = F2/sinβ = F3/sinγ",
+      "F = ma",
+      "τ = rF",
+      "A · B = AB"
+    ],
+    "correctAnswer": "F1/sinα = F2/sinβ = F3/sinγ",
+    "explanation": "Each force is proportional to sine of angle between other two forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "Lami theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 76: Forces whose lines of action meet at one point are called:",
+    "options": [
+      "Concurrent forces",
+      "Parallel forces",
+      "Like vectors only",
+      "Null forces"
+    ],
+    "correctAnswer": "Concurrent forces",
+    "explanation": "Concurrent forces pass through a common point.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "concurrent forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 77: Forces lying in same plane are called:",
+    "options": [
+      "Coplanar forces",
+      "Non-coplanar forces",
+      "Scalar forces",
+      "Random forces"
+    ],
+    "correctAnswer": "Coplanar forces",
+    "explanation": "Coplanar forces act in one plane.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "coplanar forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 78: A force table is commonly used to verify:",
+    "options": [
+      "Equilibrium of forces",
+      "Ohm’s law",
+      "Boyle’s law",
+      "Nuclear decay"
+    ],
+    "correctAnswer": "Equilibrium of forces",
+    "explanation": "Force table demonstrates vector addition and equilibrium.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "force table"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 79: If three forces are in equilibrium, their vector sum is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Equal to mass",
+      "Equal to torque"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Equilibrium requires resultant force to be zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 80: The equilibrant is:",
+    "options": [
+      "Vector equal and opposite to resultant",
+      "Same as resultant",
+      "Always zero",
+      "Always perpendicular to resultant"
+    ],
+    "correctAnswer": "Vector equal and opposite to resultant",
+    "explanation": "Equilibrant balances the resultant.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 81: The resultant and equilibrant have:",
+    "options": [
+      "Same magnitude and opposite direction",
+      "Same direction only",
+      "Different magnitudes always",
+      "No relation"
+    ],
+    "correctAnswer": "Same magnitude and opposite direction",
+    "explanation": "Equilibrant cancels resultant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 82: If vector A = 3i + 4j, its magnitude is:",
+    "options": [
+      "5",
+      "7",
+      "1",
+      "12"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Magnitude = √(3² + 4²) = 5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 83: If Ax = 6 and Ay = 8, magnitude of A is:",
+    "options": [
+      "10",
+      "14",
+      "2",
+      "48"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Magnitude = √(36 + 64) = 10.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 84: If A = 10 N at 0°, x-component is:",
+    "options": [
+      "10 N",
+      "0 N",
+      "5 N",
+      "20 N"
+    ],
+    "correctAnswer": "10 N",
+    "explanation": "Ax = A cos0° = 10 N.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 85: If A = 10 N at 90°, x-component is:",
+    "options": [
+      "0 N",
+      "10 N",
+      "5 N",
+      "20 N"
+    ],
+    "correctAnswer": "0 N",
+    "explanation": "Ax = A cos90° = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 86: If A = 10 N at 90°, y-component is:",
+    "options": [
+      "10 N",
+      "0 N",
+      "5 N",
+      "20 N"
+    ],
+    "correctAnswer": "10 N",
+    "explanation": "Ay = A sin90° = 10 N.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 87: If two equal forces act at 60°, resultant is:",
+    "options": [
+      "F√3",
+      "2F",
+      "F",
+      "0"
+    ],
+    "correctAnswer": "F√3",
+    "explanation": "R = √(F² + F² + 2F²cos60°) = F√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 88: If two equal forces act opposite to each other, resultant is:",
+    "options": [
+      "0",
+      "2F",
+      "F√2",
+      "F/2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Equal opposite forces cancel.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 89: Torque produced by 10 N force at 2 m perpendicular distance is:",
+    "options": [
+      "20 N m",
+      "5 N m",
+      "12 N m",
+      "0 N m"
+    ],
+    "correctAnswer": "20 N m",
+    "explanation": "τ = Fd = 10 × 2 = 20 N m.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 90: If force is parallel to position vector, torque is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Minimum non-zero",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "θ = 0°, so sinθ = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 91: A door opens easily when force is applied:",
+    "options": [
+      "Far from hinges",
+      "At hinges",
+      "Along hinge line",
+      "At centre of mass only"
+    ],
+    "correctAnswer": "Far from hinges",
+    "explanation": "Larger moment arm gives greater torque.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 92: A spanner works on the principle of:",
+    "options": [
+      "Torque",
+      "Linear momentum",
+      "Density",
+      "Pressure only"
+    ],
+    "correctAnswer": "Torque",
+    "explanation": "Spanner produces turning effect around nut.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 93: For equilibrium under two forces, the forces must be:",
+    "options": [
+      "Equal, opposite and collinear",
+      "Equal and perpendicular",
+      "Unequal and parallel",
+      "Random"
+    ],
+    "correctAnswer": "Equal, opposite and collinear",
+    "explanation": "Two-force equilibrium requires equal opposite forces along same line.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 94: For equilibrium under three non-parallel forces, forces must be:",
+    "options": [
+      "Concurrent and coplanar",
+      "Always parallel",
+      "Always equal",
+      "Non-coplanar"
+    ],
+    "correctAnswer": "Concurrent and coplanar",
+    "explanation": "Three-force body in equilibrium has concurrent coplanar forces.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 95: A hanging signboard at rest is an example of:",
+    "options": [
+      "Static equilibrium",
+      "Dynamic equilibrium",
+      "Unstable motion",
+      "Projectile motion"
+    ],
+    "correctAnswer": "Static equilibrium",
+    "explanation": "It remains at rest with balanced forces and torques.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "static equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 96: A car moving with constant velocity on straight road is in:",
+    "options": [
+      "Dynamic equilibrium",
+      "Static equilibrium only",
+      "Rotational imbalance",
+      "No force balance"
+    ],
+    "correctAnswer": "Dynamic equilibrium",
+    "explanation": "Constant velocity means zero net force.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dynamic equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 97: The line of action of weight passes through:",
+    "options": [
+      "Centre of gravity",
+      "Any edge only",
+      "Axis of rotation only",
+      "Point of contact only"
+    ],
+    "correctAnswer": "Centre of gravity",
+    "explanation": "Weight acts vertically downward through centre of gravity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 98: A loaded truck is less stable if its centre of gravity is:",
+    "options": [
+      "High",
+      "Low",
+      "At road level",
+      "Inside base"
+    ],
+    "correctAnswer": "High",
+    "explanation": "Higher centre of gravity increases chance of toppling.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 99: A racing car is designed with low centre of gravity to:",
+    "options": [
+      "Increase stability",
+      "Increase height",
+      "Decrease base",
+      "Remove friction"
+    ],
+    "correctAnswer": "Increase stability",
+    "explanation": "Lower centre of gravity makes toppling less likely.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 100: The unit vector along x-axis is:",
+    "options": [
+      "î",
+      "ĵ",
+      "k̂",
+      "r̂"
+    ],
+    "correctAnswer": "î",
+    "explanation": "î represents unit vector in x-direction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "unit vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 1: Define scalar quantity with two examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "scalar"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 2: Define vector quantity with two examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 3: Differentiate between scalar and vector quantities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 4: What is a unit vector?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "unit vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 5: What is a null vector?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "null vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 6: What is a negative vector?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "negative vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 7: What is a position vector?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "position vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 8: What are equal vectors?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equal vectors"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 9: State the head-to-tail rule of vector addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector addition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 10: State triangle law of vector addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "triangle law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 11: State parallelogram law of vector addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "parallelogram law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 12: Define resultant vector.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 13: Define equilibrant vector.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 14: What is resolution of a vector?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resolution"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 15: Define rectangular components of a vector.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 16: Write formulas for x and y components of a vector.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 17: How is magnitude of a vector found from components?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 18: How is direction of a vector found from components?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 19: Define scalar product of two vectors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 20: Write two properties of scalar product.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 21: Define vector product of two vectors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 22: Write two properties of vector product.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 23: When is dot product zero?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 24: When is cross product zero?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 25: Differentiate between dot product and cross product.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 26: Define torque.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 27: Write the formula and SI unit of torque.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 28: What is moment arm?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 29: When is torque maximum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 30: When is torque zero?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 31: Define equilibrium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 32: State first condition of equilibrium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 33: State second condition of equilibrium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 34: Differentiate between translational and rotational equilibrium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 35: What is static equilibrium?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "static equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 36: What is dynamic equilibrium?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dynamic equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 37: What is a couple?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 38: Write the formula for torque of a couple.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 39: Define centre of gravity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 40: Where is centre of gravity of a uniform rod?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 41: What is stable equilibrium?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 42: What is unstable equilibrium?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 43: What is neutral equilibrium?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 44: Write two factors affecting stability of a body.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 45: Why is a racing car made low and wide?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 46: State Lami’s theorem.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "Lami theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 47: What are concurrent forces?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "concurrent forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 48: What are coplanar forces?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "coplanar forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 49: What is the role of force table?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "force table"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "short",
+    "question": "Short Question 50: Why does a door open more easily when pushed far from hinges?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 1: Explain scalar and vector quantities with examples and differences.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "scalar vector"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 2: Describe graphical representation of vectors and equal/negative/unit/null vectors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector representation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 3: Explain vector addition by head-to-tail rule and triangle law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "vector addition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 4: State and explain parallelogram law of vector addition.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "parallelogram law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 5: Derive or explain the formula for resultant of two vectors.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "resultant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 6: Explain resolution of a vector into rectangular components.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 7: Explain how magnitude and direction of a vector are found using components.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "components"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 8: Define scalar product and explain its physical significance with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 9: Define vector product and explain its physical significance with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 10: Differentiate between scalar product and vector product in detail.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "dot cross product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 11: Explain torque, moment arm and factors affecting torque.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 12: Derive or explain torque formula τ = rF sinθ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "torque"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 13: State and explain the first and second conditions of equilibrium.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 14: Differentiate between static equilibrium and dynamic equilibrium with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 15: Explain couple and moment of couple with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "couple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 16: Explain centre of gravity and its importance in stability.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "centre of gravity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 17: Describe stable, unstable and neutral equilibrium with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 18: Explain factors that increase the stability of a body.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 19: State and explain Lami’s theorem with its condition of application.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "Lami theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Vectors and Equilibrium",
+    "chapterId": "Vectors and Equilibrium",
+    "type": "long",
+    "question": "Long Question 20: Explain applications of vectors and equilibrium in daily life and engineering.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Vectors and Equilibrium",
+      "applications"
+    ]
+  }
+]

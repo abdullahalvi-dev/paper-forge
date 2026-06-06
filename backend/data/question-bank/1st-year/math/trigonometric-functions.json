@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 1: The value of sin 0° is:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "1/2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "From the unit circle, sin 0° = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 2: The value of cos 0° is:",
+    "options": [
+      "1",
+      "0",
+      "−1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "explanation": "From the unit circle, cos 0° = 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 3: The value of tan 45° is:",
+    "options": [
+      "1",
+      "0",
+      "√3",
+      "1/√3"
+    ],
+    "correctAnswer": "1",
+    "explanation": "tan 45° = sin45°/cos45° = 1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 4: The value of sin 30° is:",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Standard trigonometric value: sin 30° = 1/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 5: The value of cos 30° is:",
+    "options": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "√3/2",
+    "explanation": "Standard trigonometric value: cos 30° = √3/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 6: The value of tan 30° is:",
+    "options": [
+      "1/√3",
+      "√3",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/√3",
+    "explanation": "tan 30° = 1/√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 7: The value of sin 60° is:",
+    "options": [
+      "√3/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "√3/2",
+    "explanation": "Standard trigonometric value: sin 60° = √3/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 8: The value of cos 60° is:",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Standard trigonometric value: cos 60° = 1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 9: The value of tan 60° is:",
+    "options": [
+      "√3",
+      "1/√3",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "√3",
+    "explanation": "tan 60° = √3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 10: The value of sin 90° is:",
+    "options": [
+      "1",
+      "0",
+      "−1",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "explanation": "From the unit circle, sin 90° = 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 11: The value of cos 90° is:",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "1/2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "From the unit circle, cos 90° = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 12: tan θ is equal to:",
+    "options": [
+      "sin θ / cos θ",
+      "cos θ / sin θ",
+      "1 / sin θ",
+      "1 / cos θ"
+    ],
+    "correctAnswer": "sin θ / cos θ",
+    "explanation": "By quotient identity, tan θ = sin θ/cos θ.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 13: cot θ is equal to:",
+    "options": [
+      "cos θ / sin θ",
+      "sin θ / cos θ",
+      "1 / cos θ",
+      "1 / tan²θ"
+    ],
+    "correctAnswer": "cos θ / sin θ",
+    "explanation": "cot θ is reciprocal of tan θ, so cot θ=cos θ/sin θ.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 14: sec θ is equal to:",
+    "options": [
+      "1/cos θ",
+      "1/sin θ",
+      "1/tan θ",
+      "sin θ/cos θ"
+    ],
+    "correctAnswer": "1/cos θ",
+    "explanation": "sec θ is reciprocal of cos θ.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reciprocal identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 15: cosec θ is equal to:",
+    "options": [
+      "1/sin θ",
+      "1/cos θ",
+      "1/tan θ",
+      "cos θ/sin θ"
+    ],
+    "correctAnswer": "1/sin θ",
+    "explanation": "cosec θ is reciprocal of sin θ.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reciprocal identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 16: The identity sin²θ + cos²θ equals:",
+    "options": [
+      "1",
+      "0",
+      "tan²θ",
+      "sec²θ"
+    ],
+    "correctAnswer": "1",
+    "explanation": "The fundamental Pythagorean identity is sin²θ + cos²θ = 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 17: The identity 1 + tan²θ equals:",
+    "options": [
+      "sec²θ",
+      "cosec²θ",
+      "cot²θ",
+      "sin²θ"
+    ],
+    "correctAnswer": "sec²θ",
+    "explanation": "Dividing sin²θ+cos²θ=1 by cos²θ gives 1+tan²θ=sec²θ.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 18: The identity 1 + cot²θ equals:",
+    "options": [
+      "cosec²θ",
+      "sec²θ",
+      "tan²θ",
+      "cos²θ"
+    ],
+    "correctAnswer": "cosec²θ",
+    "explanation": "Dividing sin²θ+cos²θ=1 by sin²θ gives 1+cot²θ=cosec²θ.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 19: sin(−θ) is equal to:",
+    "options": [
+      "−sin θ",
+      "sin θ",
+      "cos θ",
+      "−cos θ"
+    ],
+    "correctAnswer": "−sin θ",
+    "explanation": "Sine is an odd function.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 20: cos(−θ) is equal to:",
+    "options": [
+      "cos θ",
+      "−cos θ",
+      "sin θ",
+      "−sin θ"
+    ],
+    "correctAnswer": "cos θ",
+    "explanation": "Cosine is an even function.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 21: tan(−θ) is equal to:",
+    "options": [
+      "−tan θ",
+      "tan θ",
+      "cot θ",
+      "−cot θ"
+    ],
+    "correctAnswer": "−tan θ",
+    "explanation": "Tangent is an odd function.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 22: sin(90°−θ) is equal to:",
+    "options": [
+      "cos θ",
+      "sin θ",
+      "tan θ",
+      "cot θ"
+    ],
+    "correctAnswer": "cos θ",
+    "explanation": "This is a cofunction identity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 23: cos(90°−θ) is equal to:",
+    "options": [
+      "sin θ",
+      "cos θ",
+      "sec θ",
+      "cosec θ"
+    ],
+    "correctAnswer": "sin θ",
+    "explanation": "This is a cofunction identity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 24: tan(90°−θ) is equal to:",
+    "options": [
+      "cot θ",
+      "tan θ",
+      "sec θ",
+      "cosec θ"
+    ],
+    "correctAnswer": "cot θ",
+    "explanation": "Tangent and cotangent are cofunctions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 25: sin(180°−θ) is equal to:",
+    "options": [
+      "sin θ",
+      "−sin θ",
+      "cos θ",
+      "−cos θ"
+    ],
+    "correctAnswer": "sin θ",
+    "explanation": "Sine is positive in quadrant II.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 26: cos(180°−θ) is equal to:",
+    "options": [
+      "−cos θ",
+      "cos θ",
+      "sin θ",
+      "−sin θ"
+    ],
+    "correctAnswer": "−cos θ",
+    "explanation": "Cosine is negative in quadrant II.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 27: tan(180°−θ) is equal to:",
+    "options": [
+      "−tan θ",
+      "tan θ",
+      "cot θ",
+      "−cot θ"
+    ],
+    "correctAnswer": "−tan θ",
+    "explanation": "Tangent is negative in quadrant II.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 28: sin(180°+θ) is equal to:",
+    "options": [
+      "−sin θ",
+      "sin θ",
+      "cos θ",
+      "−cos θ"
+    ],
+    "correctAnswer": "−sin θ",
+    "explanation": "Sine is negative in quadrant III.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 29: cos(180°+θ) is equal to:",
+    "options": [
+      "−cos θ",
+      "cos θ",
+      "sin θ",
+      "−sin θ"
+    ],
+    "correctAnswer": "−cos θ",
+    "explanation": "Cosine is negative in quadrant III.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 30: tan(180°+θ) is equal to:",
+    "options": [
+      "tan θ",
+      "−tan θ",
+      "cot θ",
+      "−cot θ"
+    ],
+    "correctAnswer": "tan θ",
+    "explanation": "Tangent is positive in quadrant III.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 31: sin(360°−θ) is equal to:",
+    "options": [
+      "−sin θ",
+      "sin θ",
+      "cos θ",
+      "−cos θ"
+    ],
+    "correctAnswer": "−sin θ",
+    "explanation": "Sine is negative in quadrant IV.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 32: cos(360°−θ) is equal to:",
+    "options": [
+      "cos θ",
+      "−cos θ",
+      "sin θ",
+      "−sin θ"
+    ],
+    "correctAnswer": "cos θ",
+    "explanation": "Cosine is positive in quadrant IV.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 33: tan(360°−θ) is equal to:",
+    "options": [
+      "−tan θ",
+      "tan θ",
+      "cot θ",
+      "−cot θ"
+    ],
+    "correctAnswer": "−tan θ",
+    "explanation": "Tangent is negative in quadrant IV.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 34: The period of sin x is:",
+    "options": [
+      "2π",
+      "π",
+      "π/2",
+      "4π"
+    ],
+    "correctAnswer": "2π",
+    "explanation": "Sine repeats after 2π radians.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "periodicity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 35: The period of cos x is:",
+    "options": [
+      "2π",
+      "π",
+      "π/2",
+      "4π"
+    ],
+    "correctAnswer": "2π",
+    "explanation": "Cosine repeats after 2π radians.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "periodicity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 36: The period of tan x is:",
+    "options": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "correctAnswer": "π",
+    "explanation": "Tangent repeats after π radians.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "periodicity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 37: The range of sin x is:",
+    "options": [
+      "[−1, 1]",
+      "[0, 1]",
+      "All real numbers",
+      "[1, ∞)"
+    ],
+    "correctAnswer": "[−1, 1]",
+    "explanation": "Sine values lie between −1 and 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 38: The range of cos x is:",
+    "options": [
+      "[−1, 1]",
+      "[0, 1]",
+      "All real numbers",
+      "[1, ∞)"
+    ],
+    "correctAnswer": "[−1, 1]",
+    "explanation": "Cosine values lie between −1 and 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 39: The range of tan x is:",
+    "options": [
+      "All real numbers",
+      "[−1, 1]",
+      "[0, ∞)",
+      "[1, ∞)"
+    ],
+    "correctAnswer": "All real numbers",
+    "explanation": "Tangent can take any real value where defined.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 40: The domain of tan x excludes:",
+    "options": [
+      "x = π/2 + nπ",
+      "x = nπ",
+      "x = 2nπ",
+      "All real numbers"
+    ],
+    "correctAnswer": "x = π/2 + nπ",
+    "explanation": "tan x is undefined where cos x = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 41: The domain of sec x excludes:",
+    "options": [
+      "x = π/2 + nπ",
+      "x = nπ",
+      "x = 2nπ",
+      "No value"
+    ],
+    "correctAnswer": "x = π/2 + nπ",
+    "explanation": "sec x is undefined where cos x = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 42: The domain of cosec x excludes:",
+    "options": [
+      "x = nπ",
+      "x = π/2 + nπ",
+      "x = π/4 + nπ",
+      "No value"
+    ],
+    "correctAnswer": "x = nπ",
+    "explanation": "cosec x is undefined where sin x = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 43: The domain of cot x excludes:",
+    "options": [
+      "x = nπ",
+      "x = π/2 + nπ",
+      "x = π/4 + nπ",
+      "No value"
+    ],
+    "correctAnswer": "x = nπ",
+    "explanation": "cot x is undefined where sin x = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 44: If sin θ = 3/5 and θ is acute, then cos θ is:",
+    "options": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "5/3"
+    ],
+    "correctAnswer": "4/5",
+    "explanation": "Using sin²θ+cos²θ=1 gives cos θ=4/5 for acute θ.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 45: If cos θ = 12/13 and θ is acute, then sin θ is:",
+    "options": [
+      "5/13",
+      "12/13",
+      "13/5",
+      "13/12"
+    ],
+    "correctAnswer": "5/13",
+    "explanation": "Using sin²θ+cos²θ=1 gives sin θ=5/13.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 46: If tan θ = 3/4 and θ is acute, then sin θ is:",
+    "options": [
+      "3/5",
+      "4/5",
+      "5/3",
+      "5/4"
+    ],
+    "correctAnswer": "3/5",
+    "explanation": "For tan θ=opposite/adjacent=3/4, hypotenuse=5, so sin θ=3/5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 47: If tan θ = 3/4 and θ is acute, then cos θ is:",
+    "options": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "5/3"
+    ],
+    "correctAnswer": "4/5",
+    "explanation": "In a 3-4-5 triangle, cos θ=adjacent/hypotenuse=4/5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 48: If sec θ = 5/4 and θ is acute, then cos θ is:",
+    "options": [
+      "4/5",
+      "5/4",
+      "3/5",
+      "5/3"
+    ],
+    "correctAnswer": "4/5",
+    "explanation": "sec θ is reciprocal of cos θ.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reciprocal identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 49: If cosec θ = 5/3 and θ is acute, then sin θ is:",
+    "options": [
+      "3/5",
+      "5/3",
+      "4/5",
+      "5/4"
+    ],
+    "correctAnswer": "3/5",
+    "explanation": "cosec θ is reciprocal of sin θ.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reciprocal identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 50: sin(A+B) equals:",
+    "options": [
+      "sin A cos B + cos A sin B",
+      "sin A cos B − cos A sin B",
+      "cos A cos B − sin A sin B",
+      "tan A + tan B"
+    ],
+    "correctAnswer": "sin A cos B + cos A sin B",
+    "explanation": "This is the sine addition formula.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 51: sin(A−B) equals:",
+    "options": [
+      "sin A cos B − cos A sin B",
+      "sin A cos B + cos A sin B",
+      "cos A cos B − sin A sin B",
+      "tan A − tan B"
+    ],
+    "correctAnswer": "sin A cos B − cos A sin B",
+    "explanation": "This is the sine subtraction formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 52: cos(A+B) equals:",
+    "options": [
+      "cos A cos B − sin A sin B",
+      "cos A cos B + sin A sin B",
+      "sin A cos B + cos A sin B",
+      "tan A + tan B"
+    ],
+    "correctAnswer": "cos A cos B − sin A sin B",
+    "explanation": "This is the cosine addition formula.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 53: cos(A−B) equals:",
+    "options": [
+      "cos A cos B + sin A sin B",
+      "cos A cos B − sin A sin B",
+      "sin A cos B − cos A sin B",
+      "tan A − tan B"
+    ],
+    "correctAnswer": "cos A cos B + sin A sin B",
+    "explanation": "This is the cosine subtraction formula.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 54: tan(A+B) equals:",
+    "options": [
+      "(tan A + tan B)/(1 − tan A tan B)",
+      "(tan A − tan B)/(1 + tan A tan B)",
+      "tan A + tan B",
+      "tan A tan B"
+    ],
+    "correctAnswer": "(tan A + tan B)/(1 − tan A tan B)",
+    "explanation": "This is the tangent addition formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 55: tan(A−B) equals:",
+    "options": [
+      "(tan A − tan B)/(1 + tan A tan B)",
+      "(tan A + tan B)/(1 − tan A tan B)",
+      "tan A − tan B",
+      "tan A tan B"
+    ],
+    "correctAnswer": "(tan A − tan B)/(1 + tan A tan B)",
+    "explanation": "This is the tangent subtraction formula.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 56: sin 2A equals:",
+    "options": [
+      "2 sin A cos A",
+      "sin²A − cos²A",
+      "2 tan A",
+      "1 − 2sin²A"
+    ],
+    "correctAnswer": "2 sin A cos A",
+    "explanation": "This is the double-angle identity for sine.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 57: cos 2A equals:",
+    "options": [
+      "cos²A − sin²A",
+      "2 sin A cos A",
+      "sin²A + cos²A",
+      "2cos A"
+    ],
+    "correctAnswer": "cos²A − sin²A",
+    "explanation": "One standard form of cos 2A is cos²A − sin²A.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 58: tan 2A equals:",
+    "options": [
+      "2tan A/(1−tan²A)",
+      "2tan A/(1+tan²A)",
+      "tan²A−1",
+      "1−tan²A"
+    ],
+    "correctAnswer": "2tan A/(1−tan²A)",
+    "explanation": "This is the double-angle identity for tangent.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 59: 1 − cos 2A equals:",
+    "options": [
+      "2sin²A",
+      "2cos²A",
+      "sin 2A",
+      "cos²A−sin²A"
+    ],
+    "correctAnswer": "2sin²A",
+    "explanation": "From cos 2A = 1 − 2sin²A.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 60: 1 + cos 2A equals:",
+    "options": [
+      "2cos²A",
+      "2sin²A",
+      "sin 2A",
+      "tan²A"
+    ],
+    "correctAnswer": "2cos²A",
+    "explanation": "From cos 2A = 2cos²A − 1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 61: sin²A equals:",
+    "options": [
+      "(1−cos 2A)/2",
+      "(1+cos 2A)/2",
+      "1+cos 2A",
+      "cos 2A/2"
+    ],
+    "correctAnswer": "(1−cos 2A)/2",
+    "explanation": "This is the half-angle identity for sin²A.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "half angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 62: cos²A equals:",
+    "options": [
+      "(1+cos 2A)/2",
+      "(1−cos 2A)/2",
+      "1−cos 2A",
+      "sin 2A/2"
+    ],
+    "correctAnswer": "(1+cos 2A)/2",
+    "explanation": "This is the half-angle identity for cos²A.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "half angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 63: sin A cos B equals:",
+    "options": [
+      "1/2[sin(A+B)+sin(A−B)]",
+      "1/2[cos(A+B)+cos(A−B)]",
+      "1/2[sin(A+B)−sin(A−B)]",
+      "sin(A+B)"
+    ],
+    "correctAnswer": "1/2[sin(A+B)+sin(A−B)]",
+    "explanation": "This is a product-to-sum formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 64: cos A cos B equals:",
+    "options": [
+      "1/2[cos(A+B)+cos(A−B)]",
+      "1/2[sin(A+B)+sin(A−B)]",
+      "1/2[cos(A+B)−cos(A−B)]",
+      "cos(A+B)"
+    ],
+    "correctAnswer": "1/2[cos(A+B)+cos(A−B)]",
+    "explanation": "This is a product-to-sum formula.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 65: sin A sin B equals:",
+    "options": [
+      "1/2[cos(A−B)−cos(A+B)]",
+      "1/2[cos(A−B)+cos(A+B)]",
+      "1/2[sin(A+B)+sin(A−B)]",
+      "sin(A+B)"
+    ],
+    "correctAnswer": "1/2[cos(A−B)−cos(A+B)]",
+    "explanation": "This is a product-to-sum formula.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 66: sin C + sin D equals:",
+    "options": [
+      "2 sin((C+D)/2) cos((C−D)/2)",
+      "2 cos((C+D)/2) sin((C−D)/2)",
+      "2 sin((C−D)/2)",
+      "sin(C+D)"
+    ],
+    "correctAnswer": "2 sin((C+D)/2) cos((C−D)/2)",
+    "explanation": "This is a sum-to-product formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 67: sin C − sin D equals:",
+    "options": [
+      "2 cos((C+D)/2) sin((C−D)/2)",
+      "2 sin((C+D)/2) cos((C−D)/2)",
+      "2 cos((C−D)/2)",
+      "sin(C−D)"
+    ],
+    "correctAnswer": "2 cos((C+D)/2) sin((C−D)/2)",
+    "explanation": "This is a sum-to-product formula.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 68: cos C + cos D equals:",
+    "options": [
+      "2 cos((C+D)/2) cos((C−D)/2)",
+      "2 sin((C+D)/2) sin((C−D)/2)",
+      "2 cos(C+D)",
+      "cos(C−D)"
+    ],
+    "correctAnswer": "2 cos((C+D)/2) cos((C−D)/2)",
+    "explanation": "This is a sum-to-product formula.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 69: cos C − cos D equals:",
+    "options": [
+      "−2 sin((C+D)/2) sin((C−D)/2)",
+      "2 cos((C+D)/2) cos((C−D)/2)",
+      "2 sin(C+D)",
+      "cos(C+D)"
+    ],
+    "correctAnswer": "−2 sin((C+D)/2) sin((C−D)/2)",
+    "explanation": "This is a sum-to-product formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 70: The value of sin 120° is:",
+    "options": [
+      "√3/2",
+      "−√3/2",
+      "1/2",
+      "−1/2"
+    ],
+    "correctAnswer": "√3/2",
+    "explanation": "sin 120°=sin(180°−60°)=√3/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 71: The value of cos 120° is:",
+    "options": [
+      "−1/2",
+      "1/2",
+      "√3/2",
+      "−√3/2"
+    ],
+    "correctAnswer": "−1/2",
+    "explanation": "cos 120°=−cos 60°=−1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 72: The value of tan 120° is:",
+    "options": [
+      "−√3",
+      "√3",
+      "1/√3",
+      "−1/√3"
+    ],
+    "correctAnswer": "−√3",
+    "explanation": "tan 120°=−tan 60°=−√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 73: The value of sin 150° is:",
+    "options": [
+      "1/2",
+      "−1/2",
+      "√3/2",
+      "−√3/2"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "sin 150°=sin 30°=1/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 74: The value of cos 150° is:",
+    "options": [
+      "−√3/2",
+      "√3/2",
+      "1/2",
+      "−1/2"
+    ],
+    "correctAnswer": "−√3/2",
+    "explanation": "cos 150°=−cos 30°=−√3/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 75: The value of tan 150° is:",
+    "options": [
+      "−1/√3",
+      "1/√3",
+      "√3",
+      "−√3"
+    ],
+    "correctAnswer": "−1/√3",
+    "explanation": "tan 150°=−tan 30°=−1/√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 76: The value of sin 210° is:",
+    "options": [
+      "−1/2",
+      "1/2",
+      "√3/2",
+      "−√3/2"
+    ],
+    "correctAnswer": "−1/2",
+    "explanation": "sin 210°=−sin 30°=−1/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 77: The value of cos 210° is:",
+    "options": [
+      "−√3/2",
+      "√3/2",
+      "1/2",
+      "−1/2"
+    ],
+    "correctAnswer": "−√3/2",
+    "explanation": "cos 210°=−cos 30°=−√3/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 78: The value of tan 210° is:",
+    "options": [
+      "1/√3",
+      "−1/√3",
+      "√3",
+      "−√3"
+    ],
+    "correctAnswer": "1/√3",
+    "explanation": "tan is positive in quadrant III, so tan 210°=1/√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 79: The value of sin 300° is:",
+    "options": [
+      "−√3/2",
+      "√3/2",
+      "1/2",
+      "−1/2"
+    ],
+    "correctAnswer": "−√3/2",
+    "explanation": "sin 300°=−sin60°=−√3/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 80: The value of cos 300° is:",
+    "options": [
+      "1/2",
+      "−1/2",
+      "√3/2",
+      "−√3/2"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "cos 300°=cos60°=1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 81: The value of tan 300° is:",
+    "options": [
+      "−√3",
+      "√3",
+      "1/√3",
+      "−1/√3"
+    ],
+    "correctAnswer": "−√3",
+    "explanation": "tan is negative in quadrant IV, so tan300°=−√3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "standard angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 82: 1 radian is equal to:",
+    "options": [
+      "180/π degrees",
+      "π/180 degrees",
+      "90 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": "180/π degrees",
+    "explanation": "Since π radians = 180°, 1 radian = 180/π degrees.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 83: 180° is equal to:",
+    "options": [
+      "π radians",
+      "2π radians",
+      "π/2 radians",
+      "1 radian"
+    ],
+    "correctAnswer": "π radians",
+    "explanation": "180 degrees equals π radians.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 84: 90° is equal to:",
+    "options": [
+      "π/2 radians",
+      "π radians",
+      "2π radians",
+      "π/3 radians"
+    ],
+    "correctAnswer": "π/2 radians",
+    "explanation": "90° = π/2 radians.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 85: 60° is equal to:",
+    "options": [
+      "π/3 radians",
+      "π/6 radians",
+      "π/4 radians",
+      "π/2 radians"
+    ],
+    "correctAnswer": "π/3 radians",
+    "explanation": "60° = π/3 radians.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 86: 45° is equal to:",
+    "options": [
+      "π/4 radians",
+      "π/3 radians",
+      "π/6 radians",
+      "π/2 radians"
+    ],
+    "correctAnswer": "π/4 radians",
+    "explanation": "45° = π/4 radians.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 87: 30° is equal to:",
+    "options": [
+      "π/6 radians",
+      "π/3 radians",
+      "π/4 radians",
+      "π/2 radians"
+    ],
+    "correctAnswer": "π/6 radians",
+    "explanation": "30° = π/6 radians.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 88: The value of sin π/6 is:",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "π/6 radians equals 30°.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 89: The value of cos π/3 is:",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "π/3 radians equals 60°.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 90: The value of tan π/4 is:",
+    "options": [
+      "1",
+      "0",
+      "√3",
+      "1/√3"
+    ],
+    "correctAnswer": "1",
+    "explanation": "π/4 radians equals 45°.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 91: The general solution of sin x = 0 is:",
+    "options": [
+      "x = nπ",
+      "x = π/2 + nπ",
+      "x = 2nπ only",
+      "x = π/4 + nπ"
+    ],
+    "correctAnswer": "x = nπ",
+    "explanation": "Sine is zero at integral multiples of π.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 92: The general solution of cos x = 0 is:",
+    "options": [
+      "x = π/2 + nπ",
+      "x = nπ",
+      "x = 2nπ",
+      "x = π/4 + nπ"
+    ],
+    "correctAnswer": "x = π/2 + nπ",
+    "explanation": "Cosine is zero at odd multiples of π/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 93: The general solution of tan x = 0 is:",
+    "options": [
+      "x = nπ",
+      "x = π/2 + nπ",
+      "x = π/4 + nπ",
+      "x = 2π only"
+    ],
+    "correctAnswer": "x = nπ",
+    "explanation": "Tangent is zero where sine is zero and cosine is nonzero.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 94: If sin x = 1, then x equals:",
+    "options": [
+      "π/2 + 2nπ",
+      "nπ",
+      "π + 2nπ",
+      "3π/2 + 2nπ"
+    ],
+    "correctAnswer": "π/2 + 2nπ",
+    "explanation": "Sine reaches 1 at π/2 plus full rotations.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 95: If cos x = 1, then x equals:",
+    "options": [
+      "2nπ",
+      "π/2 + 2nπ",
+      "π + 2nπ",
+      "π/4 + nπ"
+    ],
+    "correctAnswer": "2nπ",
+    "explanation": "Cosine equals 1 at integral multiples of 2π.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 96: If tan x = 1, then x equals:",
+    "options": [
+      "π/4 + nπ",
+      "π/2 + nπ",
+      "nπ",
+      "π/6 + nπ"
+    ],
+    "correctAnswer": "π/4 + nπ",
+    "explanation": "Tangent has period π and tan π/4 = 1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 97: Which quadrant has sin positive and cos negative?",
+    "options": [
+      "Quadrant II",
+      "Quadrant I",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "correctAnswer": "Quadrant II",
+    "explanation": "In quadrant II, sine is positive and cosine is negative.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 98: Which quadrant has both sin and cos negative?",
+    "options": [
+      "Quadrant III",
+      "Quadrant II",
+      "Quadrant I",
+      "Quadrant IV"
+    ],
+    "correctAnswer": "Quadrant III",
+    "explanation": "In quadrant III, sine and cosine are both negative.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 99: Which quadrant has cos positive and sin negative?",
+    "options": [
+      "Quadrant IV",
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III"
+    ],
+    "correctAnswer": "Quadrant IV",
+    "explanation": "In quadrant IV, cosine is positive and sine is negative.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "mcq",
+    "question": "MCQ 100: Which trigonometric ratio is positive in quadrant III?",
+    "options": [
+      "tan",
+      "sin only",
+      "cos only",
+      "sec only"
+    ],
+    "correctAnswer": "tan",
+    "explanation": "In quadrant III, sine and cosine are negative, so tangent is positive.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 1: Define trigonometric functions using a right-angled triangle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 2: Write the six basic trigonometric ratios.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 3: State the reciprocal identities of trigonometric functions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reciprocal identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 4: State the quotient identities for tan θ and cot θ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 5: Prove or state sin²θ + cos²θ = 1.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 6: State the identities 1 + tan²θ and 1 + cot²θ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 7: Write the standard values of sin 30°, cos 30°, and tan 30°.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 8: Write the standard values of sin 45°, cos 45°, and tan 45°.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 9: Write the standard values of sin 60°, cos 60°, and tan 60°.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 10: Define radian measure.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 11: Convert 180° into radians.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 12: Convert 90° into radians.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 13: Convert π/6 radians into degrees.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 14: What is the domain of tan x?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 15: What is the range of sin x?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "range"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 16: What is the period of sin x and cos x?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "periodicity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 17: What is the period of tan x?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "periodicity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 18: State sin(90°−θ) and cos(90°−θ).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 19: State tan(90°−θ).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 20: State sin(180°−θ), cos(180°−θ), and tan(180°−θ).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 21: State sin(180°+θ), cos(180°+θ), and tan(180°+θ).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 22: State sin(360°−θ), cos(360°−θ), and tan(360°−θ).",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 23: Define even and odd trigonometric functions.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 24: Which trigonometric functions are odd?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 25: Which trigonometric function among sine and cosine is even?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "even odd identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 26: State the sine addition formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 27: State the sine subtraction formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 28: State the cosine addition formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 29: State the cosine subtraction formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 30: State the tangent addition formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 31: State the tangent subtraction formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 32: State the double-angle formula for sin 2A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 33: State two forms of cos 2A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 34: State the double-angle formula for tan 2A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 35: Write the half-angle formula for sin²A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "half angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 36: Write the half-angle formula for cos²A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "half angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 37: State the product-to-sum formula for sin A cos B.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 38: State the product-to-sum formula for cos A cos B.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 39: State the product-to-sum formula for sin A sin B.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 40: State the sum-to-product formula for sin C + sin D.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 41: State the sum-to-product formula for cos C + cos D.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 42: Find the quadrant in which sine is positive and cosine is negative.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 43: Find the quadrant in which tangent is positive but sine is negative.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 44: What is the general solution of sin x = 0?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 45: What is the general solution of cos x = 0?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 46: What is the general solution of tan x = 0?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 47: Define amplitude of y = a sin x.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 48: Define period of y = sin bx.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 49: Find the amplitude of y = 4 cos x.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "short",
+    "question": "Short Question 50: Find the period of y = sin 2x.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 1: Explain the six trigonometric ratios with the help of a right-angled triangle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 2: Derive the fundamental identity sin²θ + cos²θ = 1 and obtain related identities.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "Pythagorean identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 3: Prepare a table of standard trigonometric values for 0°, 30°, 45°, 60°, and 90°.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "basic values"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 4: Explain radian measure and convert common degree values into radians.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "radians"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 5: Explain the signs of trigonometric functions in all four quadrants.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "quadrants"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 6: Prove the cofunction identities involving 90°−θ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "cofunction identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 7: Derive and explain reduction formulas for 180°−θ, 180°+θ, and 360°−θ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "reduction formulas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 8: Prove the sine addition and subtraction formulas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 9: Prove the cosine addition and subtraction formulas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 10: Derive the tangent addition and subtraction formulas.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "compound angles"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 11: Derive the double-angle formulas for sin 2A, cos 2A, and tan 2A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "double angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 12: Derive the half-angle formulas for sin²A and cos²A.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "half angle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 13: Prove product-to-sum formulas for sin A cos B, cos A cos B, and sin A sin B.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "product to sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 14: Prove sum-to-product formulas for sine and cosine.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "sum to product"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 15: Solve basic trigonometric equations such as sin x=0, cos x=0 and tan x=1.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric equations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 16: Discuss domain, range and period of sin x, cos x and tan x.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "domain range period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 17: Explain amplitude and period of y=a sin bx and y=a cos bx with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 18: Find all trigonometric ratios when one ratio is given and the angle is acute.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "trigonometric ratios"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 19: Use identities to simplify expressions involving sin, cos, tan, sec, cosec and cot.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "identities"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Trigonometric Functions",
+    "chapterId": "Trigonometric Functions",
+    "type": "long",
+    "question": "Long Question 20: Explain how trigonometric identities are used to verify equations.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Trigonometric Functions",
+      "identities"
+    ]
+  }
+]

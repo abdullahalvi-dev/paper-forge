@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 1: What is the first step in mathematical induction?",
+    "options": [
+      "Verify the base case",
+      "Assume final answer",
+      "Draw graph",
+      "Differentiate"
+    ],
+    "correctAnswer": "Verify the base case",
+    "explanation": "The base case starts the induction chain.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 2: The assumed statement P(k) is called:",
+    "options": [
+      "Base case",
+      "Induction hypothesis",
+      "Conclusion",
+      "Counterexample"
+    ],
+    "correctAnswer": "Induction hypothesis",
+    "explanation": "P(k) is temporarily assumed true.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "hypothesis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 3: After assuming P(k), we prove:",
+    "options": [
+      "P(k+1)",
+      "P(k-1)",
+      "P(0)",
+      "Only P(1)"
+    ],
+    "correctAnswer": "P(k+1)",
+    "explanation": "The induction step proves the next case.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "induction step"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 4: If P(1) is true and P(k)⇒P(k+1), then P(n) is true for:",
+    "options": [
+      "n=1 only",
+      "all n∈N",
+      "only even n",
+      "only prime n"
+    ],
+    "correctAnswer": "all n∈N",
+    "explanation": "This is the principle of mathematical induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 5: Which statement is best suited for induction?",
+    "options": [
+      "1+2+...+n=n(n+1)/2",
+      "The sky is blue",
+      "x=5",
+      "A triangle has three sides"
+    ],
+    "correctAnswer": "1+2+...+n=n(n+1)/2",
+    "explanation": "It depends on natural number n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 6: The base case for a statement beginning at n=5 is:",
+    "options": [
+      "n=1",
+      "n=0",
+      "n=5",
+      "n=k"
+    ],
+    "correctAnswer": "n=5",
+    "explanation": "Start from the first allowed value.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 7: If no base case is proved, the induction proof is:",
+    "options": [
+      "complete",
+      "incomplete",
+      "always false",
+      "a graph"
+    ],
+    "correctAnswer": "incomplete",
+    "explanation": "Induction needs a starting point.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "validity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 8: If no induction step is proved, then:",
+    "options": [
+      "all cases are proved",
+      "only checked cases are known",
+      "P(n) is always true",
+      "base case is unnecessary"
+    ],
+    "correctAnswer": "only checked cases are known",
+    "explanation": "Finite checking is not enough for all n.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "validity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 9: The induction step proves the implication:",
+    "options": [
+      "P(k)⇒P(k+1)",
+      "P(k+1)⇒P(k)",
+      "P(0)⇒P(1) only",
+      "P(k) false"
+    ],
+    "correctAnswer": "P(k)⇒P(k+1)",
+    "explanation": "This links one case to the next.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "implication"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 10: The final line of a valid induction proof is:",
+    "options": [
+      "Therefore P(n) holds for all required n",
+      "Therefore P(k) is guessed",
+      "Therefore base case is false",
+      "Therefore no proof needed"
+    ],
+    "correctAnswer": "Therefore P(n) holds for all required n",
+    "explanation": "After both steps, the conclusion applies to all n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "conclusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 11: The sum 1+2+...+n equals:",
+    "options": [
+      "n²",
+      "n(n+1)/2",
+      "n(n-1)/2",
+      "2n"
+    ],
+    "correctAnswer": "n(n+1)/2",
+    "explanation": "This is the standard sum of natural numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 12: For n=1, 1+2+...+n=n(n+1)/2 gives:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "1",
+    "explanation": "1(2)/2=1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 13: If 1+...+k=k(k+1)/2, then adding the next term gives:",
+    "options": [
+      "k(k+1)/2+k",
+      "k(k+1)/2+(k+1)",
+      "k²+1",
+      "2k+1"
+    ],
+    "correctAnswer": "k(k+1)/2+(k+1)",
+    "explanation": "The next term after k is k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 14: k(k+1)/2+(k+1) simplifies to:",
+    "options": [
+      "(k+1)(k+2)/2",
+      "k(k+2)/2",
+      "(k+1)²",
+      "k²"
+    ],
+    "correctAnswer": "(k+1)(k+2)/2",
+    "explanation": "Factor (k+1) and simplify.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 15: The sum 1²+2²+...+n² equals:",
+    "options": [
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6",
+      "[n(n+1)/2]²",
+      "2n+1"
+    ],
+    "correctAnswer": "n(n+1)(2n+1)/6",
+    "explanation": "This is the standard sum of squares formula.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum of squares"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 16: For the sum of squares, P(k+1) right side is:",
+    "options": [
+      "k(k+1)(2k+1)/6",
+      "(k+1)(k+2)(2k+3)/6",
+      "(k+1)²",
+      "k²+k"
+    ],
+    "correctAnswer": "(k+1)(k+2)(2k+3)/6",
+    "explanation": "Replace n by k+1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum of squares"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 17: The sum 1³+2³+...+n³ equals:",
+    "options": [
+      "n(n+1)(2n+1)/6",
+      "[n(n+1)/2]²",
+      "n²+n",
+      "2n³"
+    ],
+    "correctAnswer": "[n(n+1)/2]²",
+    "explanation": "Sum of cubes equals the square of the triangular number.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum of cubes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 18: For sum of cubes, P(k+1) right side is:",
+    "options": [
+      "[k(k+1)/2]²",
+      "[(k+1)(k+2)/2]²",
+      "(k+1)³",
+      "k³+1"
+    ],
+    "correctAnswer": "[(k+1)(k+2)/2]²",
+    "explanation": "Replace n by k+1 in the formula.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum of cubes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 19: The sum 1+3+5+...+(2n-1) equals:",
+    "options": [
+      "n",
+      "2n",
+      "n²",
+      "n(n+1)"
+    ],
+    "correctAnswer": "n²",
+    "explanation": "The sum of first n odd numbers is n².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "odd sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 20: The next odd term after 2k-1 is:",
+    "options": [
+      "2k",
+      "2k+1",
+      "2k+2",
+      "k+1"
+    ],
+    "correctAnswer": "2k+1",
+    "explanation": "Odd terms increase by 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "odd sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 21: If P(k): 1+3+...+(2k-1)=k², then P(k+1) is:",
+    "options": [
+      "1+3+...+(2k+1)=(k+1)²",
+      "1+3+...+(2k-1)=(k+1)²",
+      "1+...+2k=k²",
+      "2k+1=k²"
+    ],
+    "correctAnswer": "1+3+...+(2k+1)=(k+1)²",
+    "explanation": "Replace k by k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "P(k+1)"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 22: k²+(2k+1) simplifies to:",
+    "options": [
+      "k²+2k",
+      "(k+1)²",
+      "k(k+1)",
+      "2k²+1"
+    ],
+    "correctAnswer": "(k+1)²",
+    "explanation": "k²+2k+1=(k+1)².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 23: The sum 2+4+6+...+2n equals:",
+    "options": [
+      "n²",
+      "n(n+1)",
+      "2n²+1",
+      "n(n-1)"
+    ],
+    "correctAnswer": "n(n+1)",
+    "explanation": "It is 2(1+2+...+n)=n(n+1).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 24: The next even term after 2k is:",
+    "options": [
+      "2k+1",
+      "2k+2",
+      "k+1",
+      "k²"
+    ],
+    "correctAnswer": "2k+2",
+    "explanation": "The next even term is 2(k+1).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 25: If 2+4+...+2k=k(k+1), then add:",
+    "options": [
+      "k+1",
+      "2(k+1)",
+      "2k-1",
+      "k²"
+    ],
+    "correctAnswer": "2(k+1)",
+    "explanation": "The next even term is 2(k+1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 26: k(k+1)+2(k+1) equals:",
+    "options": [
+      "(k+1)(k+2)",
+      "k(k+2)",
+      "k²+1",
+      "(k+1)²"
+    ],
+    "correctAnswer": "(k+1)(k+2)",
+    "explanation": "Factor out k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 27: To prove 2ⁿ>n for n≥1, the base case is:",
+    "options": [
+      "n=0",
+      "n=1",
+      "n=2 only",
+      "n=10"
+    ],
+    "correctAnswer": "n=1",
+    "explanation": "The statement starts at n=1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 28: For n=1, 2ⁿ>n becomes:",
+    "options": [
+      "1>2",
+      "2>1",
+      "2=1",
+      "0>1"
+    ],
+    "correctAnswer": "2>1",
+    "explanation": "2¹=2 and 2>1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 29: If 2ᵏ>k, then 2ᵏ⁺¹ equals:",
+    "options": [
+      "2ᵏ+1",
+      "2·2ᵏ",
+      "k+1",
+      "2k+1"
+    ],
+    "correctAnswer": "2·2ᵏ",
+    "explanation": "By exponent rule.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "exponents"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 30: The target after assuming 2ᵏ>k is:",
+    "options": [
+      "2ᵏ>k",
+      "2ᵏ⁺¹>k+1",
+      "2ᵏ<k",
+      "k=2ᵏ"
+    ],
+    "correctAnswer": "2ᵏ⁺¹>k+1",
+    "explanation": "Replace n by k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "P(k+1)"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 31: To show a number is divisible by 3, write it as:",
+    "options": [
+      "3m",
+      "m/3",
+      "m+3",
+      "3/m"
+    ],
+    "correctAnswer": "3m",
+    "explanation": "Divisible by 3 means equal to 3 times an integer.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 32: The base case for proving 3 divides 4ⁿ-1 is n=1, giving:",
+    "options": [
+      "0",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "explanation": "4¹-1=3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 33: If 4ᵏ-1=3m, then 4ᵏ equals:",
+    "options": [
+      "3m-1",
+      "3m+1",
+      "4m",
+      "m+4"
+    ],
+    "correctAnswer": "3m+1",
+    "explanation": "Add 1 to both sides.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 34: 4ᵏ⁺¹-1 can be written as:",
+    "options": [
+      "4·4ᵏ-1",
+      "4ᵏ+1",
+      "4k-1",
+      "4ᵏ-4"
+    ],
+    "correctAnswer": "4·4ᵏ-1",
+    "explanation": "4^(k+1)=4·4^k.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "exponents"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 35: The base case for 6 divides 7ⁿ-1 is:",
+    "options": [
+      "7¹-1=6",
+      "7¹-1=7",
+      "7¹-1=8",
+      "7¹-1=0"
+    ],
+    "correctAnswer": "7¹-1=6",
+    "explanation": "6 is divisible by 6.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 36: If 7ᵏ-1=6m, then 7ᵏ equals:",
+    "options": [
+      "6m+1",
+      "6m-1",
+      "7m",
+      "m+6"
+    ],
+    "correctAnswer": "6m+1",
+    "explanation": "Add 1 to both sides.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 37: 7ᵏ⁺¹-1 equals:",
+    "options": [
+      "7·7ᵏ-1",
+      "7ᵏ+1",
+      "7k+1",
+      "7ᵏ-7"
+    ],
+    "correctAnswer": "7·7ᵏ-1",
+    "explanation": "Use exponent laws.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "exponents"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 38: The expression n³-n factors as:",
+    "options": [
+      "n(n-1)(n+1)",
+      "n(n+1)",
+      "n²(n-1)",
+      "n³+n"
+    ],
+    "correctAnswer": "n(n-1)(n+1)",
+    "explanation": "n³-n=n(n²-1)=n(n-1)(n+1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 39: n³-n is divisible by 3 because:",
+    "options": [
+      "it is product of three consecutive integers",
+      "it is always prime",
+      "it is always 1",
+      "it is never zero"
+    ],
+    "correctAnswer": "it is product of three consecutive integers",
+    "explanation": "One of any three consecutive integers is divisible by 3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 40: For n=1, n³-n equals:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "0",
+    "explanation": "1³-1=0, divisible by every nonzero integer.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 41: If k³-k=3m, then k³-k is:",
+    "options": [
+      "divisible by 3",
+      "not divisible by 3",
+      "always odd",
+      "always prime"
+    ],
+    "correctAnswer": "divisible by 3",
+    "explanation": "It is written as a multiple of 3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 42: The difference [(k+1)³-(k+1)]-(k³-k) is:",
+    "options": [
+      "3k(k+1)",
+      "k+1",
+      "3k+1",
+      "k²"
+    ],
+    "correctAnswer": "3k(k+1)",
+    "explanation": "Expanding and subtracting gives 3k²+3k.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 43: If A and B are both divisible by 3, then A+B is:",
+    "options": [
+      "divisible by 3",
+      "never divisible by 3",
+      "always prime",
+      "always 1"
+    ],
+    "correctAnswer": "divisible by 3",
+    "explanation": "The sum of multiples of 3 is a multiple of 3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 44: An even integer can be written as:",
+    "options": [
+      "2m",
+      "2m+1",
+      "m/2",
+      "m²+1"
+    ],
+    "correctAnswer": "2m",
+    "explanation": "Even numbers are multiples of 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 45: An odd integer can be written as:",
+    "options": [
+      "2m",
+      "2m+1",
+      "4m",
+      "m-m"
+    ],
+    "correctAnswer": "2m+1",
+    "explanation": "Odd integers have the form 2m+1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "odd"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 46: For proving n²+n is even, P(k) is:",
+    "options": [
+      "k²+k is even",
+      "k²+k is odd",
+      "k is prime",
+      "k²-k=0"
+    ],
+    "correctAnswer": "k²+k is even",
+    "explanation": "Replace n by k.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even proof"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 47: (k+1)²+(k+1) simplifies to:",
+    "options": [
+      "k²+3k+2",
+      "k²+k+1",
+      "k²-k",
+      "k+2"
+    ],
+    "correctAnswer": "k²+3k+2",
+    "explanation": "Expand and combine like terms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 48: k²+3k+2 can be written as:",
+    "options": [
+      "k²+k+2(k+1)",
+      "k²-k",
+      "k+2 only",
+      "3k+2 only"
+    ],
+    "correctAnswer": "k²+k+2(k+1)",
+    "explanation": "This uses the induction hypothesis k²+k is even.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even proof"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 49: Strong induction assumes:",
+    "options": [
+      "only P(k)",
+      "P(1),P(2),...,P(k)",
+      "only P(k+1)",
+      "no previous case"
+    ],
+    "correctAnswer": "P(1),P(2),...,P(k)",
+    "explanation": "Strong induction may use all previous cases.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "strong induction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 50: Simple induction usually assumes:",
+    "options": [
+      "P(k) only",
+      "all future cases",
+      "P(k+1) only",
+      "nothing"
+    ],
+    "correctAnswer": "P(k) only",
+    "explanation": "Ordinary induction uses one previous case.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "ordinary induction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 51: Checking P(1), P(2), P(3) without an induction step proves:",
+    "options": [
+      "only checked cases",
+      "all cases",
+      "no case at all",
+      "only false cases"
+    ],
+    "correctAnswer": "only checked cases",
+    "explanation": "Examples do not prove infinitely many cases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "validity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 52: The domino analogy's first push represents:",
+    "options": [
+      "base case",
+      "conclusion",
+      "counterexample",
+      "graph"
+    ],
+    "correctAnswer": "base case",
+    "explanation": "The base case starts the chain.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "analogy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 53: One domino causing the next to fall represents:",
+    "options": [
+      "P(k)⇒P(k+1)",
+      "P(k) false",
+      "P(1) only",
+      "no proof"
+    ],
+    "correctAnswer": "P(k)⇒P(k+1)",
+    "explanation": "This is the induction step.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "analogy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 54: If P(1) is true and P(k)⇒P(k+1), P(100) is:",
+    "options": [
+      "true",
+      "false",
+      "unknown always",
+      "not part of induction"
+    ],
+    "correctAnswer": "true",
+    "explanation": "The induction chain reaches every natural number.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "consequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 55: In P(k+1), n is replaced by:",
+    "options": [
+      "k",
+      "k+1",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "k+1",
+    "explanation": "P(k+1) means substituting k+1 for n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "substitution"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 56: The variable k in induction is:",
+    "options": [
+      "an arbitrary natural number",
+      "always 1",
+      "always negative",
+      "a decimal"
+    ],
+    "correctAnswer": "an arbitrary natural number",
+    "explanation": "The implication is proved for arbitrary k.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "variable"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 57: A circular mistake is:",
+    "options": [
+      "assuming the final result for all n",
+      "checking base case",
+      "using P(k)",
+      "proving P(k+1)"
+    ],
+    "correctAnswer": "assuming the final result for all n",
+    "explanation": "That assumes what must be proved.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "mistake"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 58: Which is not part of a simple induction proof?",
+    "options": [
+      "Base case",
+      "Induction hypothesis",
+      "Induction step",
+      "Finding derivative"
+    ],
+    "correctAnswer": "Finding derivative",
+    "explanation": "Differentiation is unrelated to induction structure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "proof structure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 59: The induction proof is invalid if:",
+    "options": [
+      "P(k+1) is not proved",
+      "base case is proved",
+      "P(k) is stated",
+      "conclusion is written"
+    ],
+    "correctAnswer": "P(k+1) is not proved",
+    "explanation": "The main implication must be established.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "validity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 60: A proposition P(n) is:",
+    "options": [
+      "a statement depending on n",
+      "a graph only",
+      "a single decimal",
+      "a unit of angle"
+    ],
+    "correctAnswer": "a statement depending on n",
+    "explanation": "P(n) is the statement to prove for each n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 61: The principle of induction is mostly used for:",
+    "options": [
+      "natural numbers",
+      "only real numbers",
+      "only complex numbers",
+      "only fractions"
+    ],
+    "correctAnswer": "natural numbers",
+    "explanation": "It proves statements indexed by natural numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 62: If a statement starts at n=0, its base case is:",
+    "options": [
+      "n=0",
+      "n=1",
+      "n=2",
+      "n=k"
+    ],
+    "correctAnswer": "n=0",
+    "explanation": "The base case is the first allowed value.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 63: If a statement starts at n≥2, its base case is:",
+    "options": [
+      "n=1",
+      "n=2",
+      "n=0",
+      "n=k"
+    ],
+    "correctAnswer": "n=2",
+    "explanation": "The first required value is 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base case"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 64: The correct proof order is:",
+    "options": [
+      "base case, hypothesis, induction step, conclusion",
+      "conclusion, base, graph",
+      "hypothesis only",
+      "base case only"
+    ],
+    "correctAnswer": "base case, hypothesis, induction step, conclusion",
+    "explanation": "This is the standard order.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "proof order"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 65: The induction hypothesis must be used to:",
+    "options": [
+      "derive P(k+1)",
+      "prove only P(1)",
+      "avoid algebra",
+      "draw graph"
+    ],
+    "correctAnswer": "derive P(k+1)",
+    "explanation": "It connects the kth case to the next.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "hypothesis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 66: A valid conclusion says:",
+    "options": [
+      "By induction, P(n) is true for all specified n",
+      "P(k) was guessed",
+      "Only P(1) is true",
+      "No case is proved"
+    ],
+    "correctAnswer": "By induction, P(n) is true for all specified n",
+    "explanation": "This follows after base and induction steps.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "conclusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 67: For proving 5 divides 6ⁿ-1, n=1 gives:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "1"
+    ],
+    "correctAnswer": "5",
+    "explanation": "6¹-1=5, divisible by 5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 68: If 6ᵏ-1=5m, then 6ᵏ equals:",
+    "options": [
+      "5m+1",
+      "5m-1",
+      "6m",
+      "m+6"
+    ],
+    "correctAnswer": "5m+1",
+    "explanation": "Add 1 to both sides.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "algebra"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 69: 6ᵏ⁺¹-1 is:",
+    "options": [
+      "6·6ᵏ-1",
+      "6ᵏ+1",
+      "6k-1",
+      "6ᵏ-6"
+    ],
+    "correctAnswer": "6·6ᵏ-1",
+    "explanation": "Use exponent law.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "exponents"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 70: The statement 2ⁿ≥n+1 for n≥1 has base case:",
+    "options": [
+      "2≥2",
+      "1≥2",
+      "2≥1",
+      "0≥1"
+    ],
+    "correctAnswer": "2≥2",
+    "explanation": "For n=1, 2¹≥2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 71: If 2ᵏ≥k+1, then 2ᵏ⁺¹=2·2ᵏ is at least:",
+    "options": [
+      "2(k+1)",
+      "k+1",
+      "k",
+      "2ᵏ+1"
+    ],
+    "correctAnswer": "2(k+1)",
+    "explanation": "Multiply both sides by 2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 72: For k≥1, 2(k+1)≥k+2 because:",
+    "options": [
+      "k≥0",
+      "k<0",
+      "2=0",
+      "k is decimal"
+    ],
+    "correctAnswer": "k≥0",
+    "explanation": "2k+2−(k+2)=k≥0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 73: Which is a valid induction target for 2ⁿ≥n+1?",
+    "options": [
+      "2ᵏ⁺¹≥k+2",
+      "2ᵏ≥k+1",
+      "2ᵏ<k",
+      "2ᵏ=0"
+    ],
+    "correctAnswer": "2ᵏ⁺¹≥k+2",
+    "explanation": "Replace n by k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "P(k+1)"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 74: The method of induction avoids proving:",
+    "options": [
+      "each case one by one infinitely",
+      "base case",
+      "induction step",
+      "the conclusion"
+    ],
+    "correctAnswer": "each case one by one infinitely",
+    "explanation": "It proves infinitely many cases with finite reasoning.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "purpose"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 75: If P(k) is true and implication P(k)⇒P(k+1) holds, then P(k+1) follows by:",
+    "options": [
+      "modus ponens",
+      "contradiction only",
+      "graphing",
+      "estimation"
+    ],
+    "correctAnswer": "modus ponens",
+    "explanation": "A true statement and true implication give the next statement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "logic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement is a correct induction hypothesis for odd sum?",
+    "options": [
+      "Assume 1+3+...+(2k-1)=k²",
+      "Assume 1+3+...+(2k+1)=k²",
+      "Assume 2k+1=k²",
+      "Assume n=1 only"
+    ],
+    "correctAnswer": "Assume 1+3+...+(2k-1)=k²",
+    "explanation": "Replace n by k.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "hypothesis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 77: Which is correct for P(k+1) in even sum formula?",
+    "options": [
+      "2+4+...+2(k+1)=(k+1)(k+2)",
+      "2+4+...+2k=k(k+1)",
+      "2+4+...+2k=(k+1)²",
+      "2(k+1)=k"
+    ],
+    "correctAnswer": "2+4+...+2(k+1)=(k+1)(k+2)",
+    "explanation": "Replace n by k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "P(k+1)"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 78: The proof of 1+2+...+n formula uses adding:",
+    "options": [
+      "k+1",
+      "k-1",
+      "2k+1",
+      "0"
+    ],
+    "correctAnswer": "k+1",
+    "explanation": "To go from k terms to k+1 terms, add k+1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 79: The proof of odd sum formula uses adding:",
+    "options": [
+      "2k+1",
+      "k+1",
+      "2k",
+      "1"
+    ],
+    "correctAnswer": "2k+1",
+    "explanation": "The next odd term is 2k+1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "odd sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 80: The proof of even sum formula uses adding:",
+    "options": [
+      "2k+2",
+      "2k+1",
+      "k",
+      "1"
+    ],
+    "correctAnswer": "2k+2",
+    "explanation": "The next even term is 2(k+1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "even sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 81: For divisibility proofs, the induction hypothesis usually states:",
+    "options": [
+      "the expression for k is a multiple of the divisor",
+      "the expression is negative",
+      "k is zero",
+      "the divisor is one"
+    ],
+    "correctAnswer": "the expression for k is a multiple of the divisor",
+    "explanation": "This lets us rewrite it as divisor times an integer.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "divisibility"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 82: Which line correctly states a multiple of 5?",
+    "options": [
+      "5m",
+      "m+5",
+      "m/5",
+      "5/m"
+    ],
+    "correctAnswer": "5m",
+    "explanation": "A multiple of 5 has the form 5m.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "multiple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 83: Which line correctly states a multiple of 6?",
+    "options": [
+      "6m",
+      "m+6",
+      "m/6",
+      "6/m"
+    ],
+    "correctAnswer": "6m",
+    "explanation": "A multiple of 6 has the form 6m.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "multiple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 84: Which line correctly states a multiple of 2?",
+    "options": [
+      "2m",
+      "m+2",
+      "m/2",
+      "2/m"
+    ],
+    "correctAnswer": "2m",
+    "explanation": "A multiple of 2 is even.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "multiple"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 85: Induction can prove inequalities because:",
+    "options": [
+      "inequalities can be indexed by n",
+      "inequalities are always false",
+      "graphs are enough",
+      "base case is never used"
+    ],
+    "correctAnswer": "inequalities can be indexed by n",
+    "explanation": "Many inequalities are statements over natural numbers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "inequality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 86: A statement proved by induction must be clear for:",
+    "options": [
+      "each natural number in its domain",
+      "only one random value",
+      "only decimals",
+      "only shapes"
+    ],
+    "correctAnswer": "each natural number in its domain",
+    "explanation": "Induction proves P(n) for every allowed n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "domain"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 87: Which is the best definition of mathematical induction?",
+    "options": [
+      "A proof technique for natural-number statements",
+      "A formula for differentiation",
+      "A laboratory method",
+      "A drawing technique"
+    ],
+    "correctAnswer": "A proof technique for natural-number statements",
+    "explanation": "It proves P(n) over natural numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "definition"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 88: Why is the induction hypothesis temporary?",
+    "options": [
+      "It is assumed only to prove the next case",
+      "It is always false",
+      "It replaces the base case",
+      "It proves no case"
+    ],
+    "correctAnswer": "It is assumed only to prove the next case",
+    "explanation": "After implication is proved, induction gives the result.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "hypothesis"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 89: Which option shows an invalid proof style?",
+    "options": [
+      "Checking many examples and claiming all cases",
+      "Checking base case and proving P(k+1)",
+      "Using P(k) correctly",
+      "Writing a conclusion"
+    ],
+    "correctAnswer": "Checking many examples and claiming all cases",
+    "explanation": "Examples alone do not prove all natural numbers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "mistake"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 90: The induction step should work for:",
+    "options": [
+      "every arbitrary k in the required domain",
+      "only k=1",
+      "only k=2",
+      "only k=100"
+    ],
+    "correctAnswer": "every arbitrary k in the required domain",
+    "explanation": "The implication must be general.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "generality"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 91: If the induction step works only for one k, the proof is:",
+    "options": [
+      "not sufficient",
+      "complete",
+      "stronger",
+      "automatic"
+    ],
+    "correctAnswer": "not sufficient",
+    "explanation": "It must hold for arbitrary k.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "validity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 92: The expression P(k+1) is also called:",
+    "options": [
+      "the next case",
+      "the base case",
+      "a counterexample",
+      "a constant"
+    ],
+    "correctAnswer": "the next case",
+    "explanation": "It is the case immediately after k.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "terminology"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 93: The statement P(1) starts the chain when domain is:",
+    "options": [
+      "n≥1",
+      "n≥5",
+      "n≤0",
+      "real numbers only"
+    ],
+    "correctAnswer": "n≥1",
+    "explanation": "For natural numbers starting at 1, P(1) is the base.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 94: Which condition is enough with base case to complete simple induction?",
+    "options": [
+      "P(k)⇒P(k+1) for all required k",
+      "P(k) false",
+      "P(k+1) only guessed",
+      "P(2) checked only"
+    ],
+    "correctAnswer": "P(k)⇒P(k+1) for all required k",
+    "explanation": "Base plus implication completes induction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 95: The formula n(n+1)/2 is used for:",
+    "options": [
+      "sum of first n natural numbers",
+      "sum of first n squares",
+      "sum of first n cubes",
+      "sum of first n odd numbers"
+    ],
+    "correctAnswer": "sum of first n natural numbers",
+    "explanation": "It represents 1+2+...+n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 96: The formula n(n+1)(2n+1)/6 is used for:",
+    "options": [
+      "sum of squares",
+      "sum of natural numbers",
+      "sum of odd numbers",
+      "sum of even numbers"
+    ],
+    "correctAnswer": "sum of squares",
+    "explanation": "It represents 1²+2²+...+n².",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 97: The formula [n(n+1)/2]² is used for:",
+    "options": [
+      "sum of cubes",
+      "sum of squares",
+      "sum of evens",
+      "sum of odds"
+    ],
+    "correctAnswer": "sum of cubes",
+    "explanation": "It represents 1³+2³+...+n³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 98: The formula n² is used for:",
+    "options": [
+      "sum of first n odd natural numbers",
+      "sum of first n natural numbers",
+      "sum of first n squares",
+      "sum of first n cubes"
+    ],
+    "correctAnswer": "sum of first n odd natural numbers",
+    "explanation": "1+3+...+(2n-1)=n².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 99: The formula n(n+1) is used for:",
+    "options": [
+      "sum of first n even natural numbers",
+      "sum of first n odd numbers",
+      "sum of cubes",
+      "sum of squares"
+    ],
+    "correctAnswer": "sum of first n even natural numbers",
+    "explanation": "2+4+...+2n=n(n+1).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "mcq",
+    "question": "MCQ 100: A proof by induction is like a chain because:",
+    "options": [
+      "each true case leads to the next",
+      "only last case matters",
+      "no first case is needed",
+      "cases are unrelated"
+    ],
+    "correctAnswer": "each true case leads to the next",
+    "explanation": "Base case and induction step create the chain.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "analogy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Define mathematical induction.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "State the principle of mathematical induction.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is meant by the base case in induction?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is an induction hypothesis?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the induction step?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Why is the base case necessary in mathematical induction?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What does P(n) represent in an induction proof?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Differentiate between P(k) and P(k+1).",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the formula for 1+2+3+...+n.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Verify the formula 1+2+...+n=n(n+1)/2 for n=1.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the formula for 1²+2²+...+n².",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the formula for 1³+2³+...+n³.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the sum of first n odd natural numbers.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the sum of first n even natural numbers.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the next odd term after 2k−1?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the next even term after 2k?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is meant by a statement being divisible by 3?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write a number divisible by m in general form.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the base case for proving 4ⁿ−1 is divisible by 3?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "How do you express 4ᵏ−1 divisible by 3 using an integer?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "State one common mistake in mathematical induction.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Why is checking examples not enough for proof by induction?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is strong mathematical induction?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "How is strong induction different from ordinary induction?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the domino analogy of induction?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Which part of induction is represented by the first domino push?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Which part of induction is represented by one domino knocking the next?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What does it mean to prove P(k)⇒P(k+1)?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What should be written in the conclusion of an induction proof?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Find the base case for a statement true for all n≥2.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Find the base case for a statement true for all n≥5.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write P(k) for the statement 1+3+...+(2n−1)=n².",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write P(k+1) for the statement 1+3+...+(2n−1)=n².",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write P(k) for 2+4+...+2n=n(n+1).",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write P(k+1) for 2+4+...+2n=n(n+1).",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Why is k taken as an arbitrary natural number?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "State the induction hypothesis for proving n²+n is even.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "How can an even integer be represented algebraically?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "How can an odd integer be represented algebraically?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Factorize n³−n.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Why is n³−n divisible by 3?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the induction hypothesis for proving 7ⁿ−1 is divisible by 6.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What is the base case for proving 6ⁿ−1 is divisible by 5?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Why must the induction step work for every k?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What happens if the base case is false?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "What happens if the induction step is missing?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the target P(k+1) for proving 2ⁿ≥n+1.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Write the target P(k+1) for proving n<2ⁿ.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Name two types of results commonly proved by induction.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "short",
+    "question": "Give one example of a formula proved by mathematical induction.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 1+2+3+...+n = n(n+1)/2 for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 1²+2²+...+n² = n(n+1)(2n+1)/6 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 1³+2³+...+n³ = [n(n+1)/2]² for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 1+3+5+...+(2n−1)=n² for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 2+4+6+...+2n=n(n+1) for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 4ⁿ−1 is divisible by 3 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 7ⁿ−1 is divisible by 6 for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 6ⁿ−1 is divisible by 5 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that n²+n is even for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that n³−n is divisible by 3 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that 2ⁿ≥n+1 for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by mathematical induction that n<2ⁿ for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Explain the principle of mathematical induction with the help of the domino analogy.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Write the complete structure of a mathematical induction proof and explain each step.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Compare ordinary induction and strong induction with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Use induction to prove that 3+6+9+...+3n = 3n(n+1)/2 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Use induction to prove that 5+10+15+...+5n = 5n(n+1)/2 for all n∈N.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by induction that 1·2 + 2·3 + 3·4 + ... + n(n+1) = n(n+1)(n+2)/3.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by induction that 1/(1·2)+1/(2·3)+...+1/[n(n+1)] = n/(n+1).",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Mathematical Induction",
+    "chapterId": "Mathematical Induction",
+    "type": "long",
+    "question": "Prove by induction that 2+2²+2³+...+2ⁿ = 2ⁿ⁺¹−2 for all n∈N.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Mathematical Induction",
+      "long question"
+    ]
+  }
+]

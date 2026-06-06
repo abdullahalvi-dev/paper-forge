@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 1: What is thermochemistry mainly concerned with?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "definition"
+    ],
+    "options": [
+      "Study of colour changes only",
+      "Study of atomic masses only",
+      "Study of heat changes during chemical reactions",
+      "Study of nuclear particles only"
+    ],
+    "correctAnswer": "Study of heat changes during chemical reactions",
+    "explanation": "Thermochemistry deals with heat energy absorbed or released in chemical and physical changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 2: The SI unit of heat is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat"
+    ],
+    "options": [
+      "joule",
+      "atm",
+      "mole",
+      "calorie"
+    ],
+    "correctAnswer": "joule",
+    "explanation": "Heat is a form of energy, and the SI unit of energy is joule."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 3: A reaction that releases heat to the surroundings is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "exothermic"
+    ],
+    "options": [
+      "exothermic reaction",
+      "endothermic reaction",
+      "photochemical reaction",
+      "neutral reaction"
+    ],
+    "correctAnswer": "exothermic reaction",
+    "explanation": "Exothermic reactions release heat energy to the surroundings."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 4: A reaction that absorbs heat from the surroundings is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "endothermic"
+    ],
+    "options": [
+      "precipitation reaction",
+      "combustion reaction",
+      "exothermic reaction",
+      "endothermic reaction"
+    ],
+    "correctAnswer": "endothermic reaction",
+    "explanation": "Endothermic reactions absorb heat energy from the surroundings."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 5: In an exothermic reaction, the enthalpy change ΔH is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "zero",
+      "positive",
+      "negative",
+      "infinite"
+    ],
+    "correctAnswer": "negative",
+    "explanation": "Heat is released, so the products have lower enthalpy than reactants and ΔH is negative."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 6: In an endothermic reaction, the enthalpy change ΔH is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "always zero",
+      "not measurable",
+      "negative",
+      "positive"
+    ],
+    "correctAnswer": "positive",
+    "explanation": "Heat is absorbed, so products have higher enthalpy than reactants and ΔH is positive."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 7: The heat content of a system at constant pressure is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "enthalpy",
+      "free energy",
+      "activation energy",
+      "entropy"
+    ],
+    "correctAnswer": "enthalpy",
+    "explanation": "Enthalpy represents heat content at constant pressure."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 8: Which symbol is commonly used for enthalpy change?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "E°",
+      "K",
+      "pH",
+      "ΔH"
+    ],
+    "correctAnswer": "ΔH",
+    "explanation": "The symbol ΔH represents change in enthalpy."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 9: The heat absorbed or released when one mole of a compound is formed from its elements is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "formation"
+    ],
+    "options": [
+      "heat of neutralization",
+      "heat of formation",
+      "heat of combustion",
+      "heat of solution"
+    ],
+    "correctAnswer": "heat of formation",
+    "explanation": "Standard enthalpy of formation is for formation of one mole of compound from elements."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 10: The heat evolved when one mole of a substance is completely burnt in excess oxygen is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "combustion"
+    ],
+    "options": [
+      "heat of combustion",
+      "latent heat",
+      "heat capacity",
+      "heat of formation"
+    ],
+    "correctAnswer": "heat of combustion",
+    "explanation": "Heat of combustion refers to complete burning of one mole of substance in oxygen."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 11: Hess’s law is based on the fact that enthalpy is a:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "Hess law"
+    ],
+    "options": [
+      "surface property",
+      "path function",
+      "state function",
+      "random function"
+    ],
+    "correctAnswer": "state function",
+    "explanation": "Enthalpy depends only on initial and final states, so it is a state function."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 12: According to Hess’s law, the enthalpy change of a reaction depends on:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "Hess law"
+    ],
+    "options": [
+      "the shape of container",
+      "only initial and final states",
+      "the colour of reactants",
+      "the route followed"
+    ],
+    "correctAnswer": "only initial and final states",
+    "explanation": "Hess’s law states ΔH is independent of pathway."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 13: Which device is commonly used to measure heat changes in reactions?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "manometer",
+      "voltmeter",
+      "barometer",
+      "calorimeter"
+    ],
+    "correctAnswer": "calorimeter",
+    "explanation": "A calorimeter is used to measure heat changes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 14: The amount of heat required to raise the temperature of one gram of a substance by 1°C is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "specific heat"
+    ],
+    "options": [
+      "molar mass",
+      "heat of reaction",
+      "specific heat capacity",
+      "bond energy"
+    ],
+    "correctAnswer": "specific heat capacity",
+    "explanation": "Specific heat capacity is heat required per gram per degree Celsius."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 15: The formula q = mcΔT is used to calculate:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "heat change",
+      "atomic number",
+      "volume change",
+      "pressure"
+    ],
+    "correctAnswer": "heat change",
+    "explanation": "q = mcΔT calculates heat absorbed or released."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 16: In q = mcΔT, c represents:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "specific heat"
+    ],
+    "options": [
+      "concentration",
+      "specific heat capacity",
+      "speed of light only",
+      "catalyst"
+    ],
+    "correctAnswer": "specific heat capacity",
+    "explanation": "c denotes specific heat capacity."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 17: If temperature of water increases in a calorimeter, the reaction is usually:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "endothermic",
+      "photochemical only",
+      "exothermic",
+      "neither"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Temperature rise means heat is released by the reaction to water."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 18: If temperature of surroundings decreases during a reaction, the reaction is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "endothermic"
+    ],
+    "options": [
+      "combustion only",
+      "exothermic",
+      "endothermic",
+      "neutralization only"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Cooling of surroundings means heat is absorbed by the reaction."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 19: Heat of neutralization for strong acid and strong base is nearly constant because:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "neutralization"
+    ],
+    "options": [
+      "water is not formed",
+      "both are weak electrolytes",
+      "salt is always insoluble",
+      "the same reaction H⁺ + OH⁻ → H₂O occurs"
+    ],
+    "correctAnswer": "the same reaction H⁺ + OH⁻ → H₂O occurs",
+    "explanation": "Strong acid-base neutralization always involves formation of water from H⁺ and OH⁻."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 20: The standard enthalpy of formation of an element in its standard state is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "formation"
+    ],
+    "options": [
+      "-1 kJ mol⁻¹",
+      "0 kJ mol⁻¹",
+      "100 kJ mol⁻¹",
+      "1 kJ mol⁻¹"
+    ],
+    "correctAnswer": "0 kJ mol⁻¹",
+    "explanation": "Elements in their standard states have zero standard enthalpy of formation."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 21: Which is an example of an exothermic process?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "exothermic"
+    ],
+    "options": [
+      "melting of ice",
+      "evaporation of water",
+      "combustion of methane",
+      "thermal decomposition"
+    ],
+    "correctAnswer": "combustion of methane",
+    "explanation": "Combustion releases heat, so it is exothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 22: Which is usually an endothermic process?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "endothermic"
+    ],
+    "options": [
+      "freezing",
+      "combustion",
+      "neutralization of strong acid/base",
+      "melting"
+    ],
+    "correctAnswer": "melting",
+    "explanation": "Melting requires heat absorption to overcome intermolecular forces."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 23: Breaking chemical bonds is generally:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "bond energy"
+    ],
+    "options": [
+      "always impossible",
+      "endothermic",
+      "always spontaneous",
+      "exothermic"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Energy is required to break bonds, so it is endothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 24: Formation of chemical bonds is generally:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "bond energy"
+    ],
+    "options": [
+      "neither",
+      "endothermic",
+      "always zero energy",
+      "exothermic"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Bond formation releases energy, so it is exothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 25: Bond energy is usually expressed in:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "bond energy"
+    ],
+    "options": [
+      "mol L⁻¹",
+      "kJ mol⁻¹",
+      "g cm⁻³",
+      "atm mol⁻¹"
+    ],
+    "correctAnswer": "kJ mol⁻¹",
+    "explanation": "Bond energy is energy per mole of bonds."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 26: For a reaction, ΔH = energy used to break bonds minus:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "bond energy"
+    ],
+    "options": [
+      "temperature change",
+      "mass of products",
+      "volume of gas",
+      "energy released in forming bonds"
+    ],
+    "correctAnswer": "energy released in forming bonds",
+    "explanation": "Reaction enthalpy from bond energies equals bonds broken minus bonds formed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 27: If bonds formed release more energy than bonds broken require, the reaction is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "bond energy"
+    ],
+    "options": [
+      "endothermic",
+      "exothermic",
+      "isothermal only",
+      "impossible"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Net energy release means reaction is exothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 28: A thermochemical equation must include:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "thermochemical equation"
+    ],
+    "options": [
+      "only colours",
+      "heat change with balanced equation",
+      "only atomic numbers",
+      "only symbols of states ignored"
+    ],
+    "correctAnswer": "heat change with balanced equation",
+    "explanation": "A thermochemical equation shows balanced reaction with enthalpy change."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 29: When a thermochemical equation is reversed, the sign of ΔH:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "thermochemical equation"
+    ],
+    "options": [
+      "becomes zero",
+      "changes",
+      "becomes squared",
+      "remains same"
+    ],
+    "correctAnswer": "changes",
+    "explanation": "Reversing a reaction reverses heat flow, so ΔH changes sign."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 30: If a thermochemical equation is multiplied by 2, ΔH is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "thermochemical equation"
+    ],
+    "options": [
+      "also multiplied by 2",
+      "unchanged",
+      "divided by 2",
+      "changed to zero"
+    ],
+    "correctAnswer": "also multiplied by 2",
+    "explanation": "Enthalpy is extensive and changes with amount of substance."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 31: The surroundings in thermochemistry mean:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "system"
+    ],
+    "options": [
+      "only container walls",
+      "everything outside the system",
+      "only products",
+      "only reactants"
+    ],
+    "correctAnswer": "everything outside the system",
+    "explanation": "Surroundings include everything outside the system."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 32: The part of universe under study is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "system"
+    ],
+    "options": [
+      "surroundings",
+      "calorimeter only",
+      "system",
+      "environment only"
+    ],
+    "correctAnswer": "system",
+    "explanation": "System is the part selected for thermochemical study."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 33: An isolated system exchanges:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "system"
+    ],
+    "options": [
+      "both matter and energy",
+      "energy only",
+      "matter only",
+      "neither matter nor energy"
+    ],
+    "correctAnswer": "neither matter nor energy",
+    "explanation": "An isolated system exchanges neither matter nor energy with surroundings."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 34: An open system can exchange:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "system"
+    ],
+    "options": [
+      "matter and energy",
+      "only pressure",
+      "neither matter nor energy",
+      "only light"
+    ],
+    "correctAnswer": "matter and energy",
+    "explanation": "Open systems exchange both matter and energy."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 35: A closed system can exchange:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "system"
+    ],
+    "options": [
+      "energy but not matter",
+      "neither energy nor matter",
+      "matter only",
+      "only atoms"
+    ],
+    "correctAnswer": "energy but not matter",
+    "explanation": "Closed systems exchange energy but not matter."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 36: Heat transfer at constant pressure equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "ΔH",
+      "density",
+      "ΔU",
+      "mass only"
+    ],
+    "correctAnswer": "ΔH",
+    "explanation": "At constant pressure, heat change equals enthalpy change."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 37: The internal energy of a system is represented by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "internal energy"
+    ],
+    "options": [
+      "U",
+      "S",
+      "H",
+      "Kc"
+    ],
+    "correctAnswer": "U",
+    "explanation": "Internal energy is usually denoted by U."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 38: The first law of thermodynamics is based on conservation of:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "first law"
+    ],
+    "options": [
+      "charge only",
+      "energy",
+      "volume",
+      "mass only"
+    ],
+    "correctAnswer": "energy",
+    "explanation": "The first law states energy cannot be created or destroyed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 39: Mathematically, the first law is often written as:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "first law"
+    ],
+    "options": [
+      "ΔU = q + w",
+      "PV = nRT only",
+      "E = mc only",
+      "q = m/V"
+    ],
+    "correctAnswer": "ΔU = q + w",
+    "explanation": "Change in internal energy equals heat supplied plus work done on system under common convention."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 40: In chemistry, pressure-volume work is commonly expressed as:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "work"
+    ],
+    "options": [
+      "w = -PΔV",
+      "w = PV/nRT",
+      "w = pH + pOH",
+      "w = mcΔT"
+    ],
+    "correctAnswer": "w = -PΔV",
+    "explanation": "Expansion/compression work at constant pressure is w = -PΔV."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 41: During expansion against external pressure, work done by the system is:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "work"
+    ],
+    "options": [
+      "positive in chemistry sign convention",
+      "zero always",
+      "negative in chemistry sign convention",
+      "equal to mass"
+    ],
+    "correctAnswer": "negative in chemistry sign convention",
+    "explanation": "For expansion, ΔV is positive, so w = -PΔV is negative."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 42: A bomb calorimeter works at constant:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "mass only",
+      "temperature only",
+      "pressure",
+      "volume"
+    ],
+    "correctAnswer": "volume",
+    "explanation": "A bomb calorimeter is rigid, so volume remains constant."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 43: A coffee-cup calorimeter usually measures heat at constant:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "density",
+      "mass only",
+      "volume",
+      "pressure"
+    ],
+    "correctAnswer": "pressure",
+    "explanation": "Coffee-cup calorimeters are open to atmosphere and operate at constant pressure."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 44: Which quantity is measured directly in a bomb calorimeter?",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "pH directly",
+      "molarity directly",
+      "ΔH directly",
+      "ΔU directly"
+    ],
+    "correctAnswer": "ΔU directly",
+    "explanation": "At constant volume, heat corresponds to change in internal energy."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 45: Heat capacity of a body is the heat required to raise its temperature by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat capacity"
+    ],
+    "options": [
+      "1 degree",
+      "100 degrees",
+      "one mole",
+      "10 degrees"
+    ],
+    "correctAnswer": "1 degree",
+    "explanation": "Heat capacity is heat required for a 1 degree temperature rise of the body."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 46: Molar heat capacity refers to heat capacity per:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat capacity"
+    ],
+    "options": [
+      "litre",
+      "mole",
+      "atom only",
+      "gram"
+    ],
+    "correctAnswer": "mole",
+    "explanation": "Molar heat capacity is heat required per mole per degree."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 47: If ΔH is written on product side, the reaction is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "thermochemical equation"
+    ],
+    "options": [
+      "endothermic",
+      "exothermic",
+      "not possible",
+      "neutral only"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Heat as product means heat is released, so reaction is exothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 48: If heat is written on reactant side, the reaction is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "thermochemical equation"
+    ],
+    "options": [
+      "neutralization always",
+      "exothermic",
+      "combustion always",
+      "endothermic"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Heat as reactant means heat is absorbed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 49: For exothermic reactions, products have:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy diagram"
+    ],
+    "options": [
+      "higher enthalpy than reactants",
+      "lower enthalpy than reactants",
+      "same enthalpy always",
+      "no enthalpy"
+    ],
+    "correctAnswer": "lower enthalpy than reactants",
+    "explanation": "Exothermic products are lower in enthalpy because energy is released."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 50: For endothermic reactions, products have:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy diagram"
+    ],
+    "options": [
+      "lower enthalpy than reactants",
+      "zero enthalpy",
+      "higher enthalpy than reactants",
+      "negative mass"
+    ],
+    "correctAnswer": "higher enthalpy than reactants",
+    "explanation": "Endothermic products have higher enthalpy after absorbing heat."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 51: The enthalpy diagram of an exothermic reaction shows products at:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy diagram"
+    ],
+    "options": [
+      "random level",
+      "same level always",
+      "lower level",
+      "higher level"
+    ],
+    "correctAnswer": "lower level",
+    "explanation": "Products are at lower energy level in exothermic reactions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 52: The enthalpy diagram of an endothermic reaction shows products at:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy diagram"
+    ],
+    "options": [
+      "lower level",
+      "no level",
+      "same as catalyst",
+      "higher level"
+    ],
+    "correctAnswer": "higher level",
+    "explanation": "Products are at a higher enthalpy level in endothermic reactions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 53: Which of the following has zero standard enthalpy of formation?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "formation"
+    ],
+    "options": [
+      "O₂(g)",
+      "CO₂(g)",
+      "CH₄(g)",
+      "H₂O(l)"
+    ],
+    "correctAnswer": "O₂(g)",
+    "explanation": "O₂ gas is an element in its standard state, so ΔHf° is zero."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 54: The standard state of a substance is usually taken at:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "standard state"
+    ],
+    "options": [
+      "1000 K only",
+      "absolute zero only",
+      "0 atm only",
+      "1 atm and specified temperature, commonly 298 K"
+    ],
+    "correctAnswer": "1 atm and specified temperature, commonly 298 K",
+    "explanation": "Standard thermochemical data is commonly given at 1 atm and 298 K."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 55: The heat change when one mole of ionic compound dissolves in water is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "solution"
+    ],
+    "options": [
+      "heat of combustion",
+      "heat of sublimation",
+      "heat of atomization",
+      "heat of solution"
+    ],
+    "correctAnswer": "heat of solution",
+    "explanation": "Heat of solution is enthalpy change when one mole dissolves in solvent."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 56: Lattice energy is related to formation of:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "lattice energy"
+    ],
+    "options": [
+      "gas from liquid",
+      "neutral atoms only",
+      "liquid water from steam",
+      "gaseous ions into solid ionic crystal"
+    ],
+    "correctAnswer": "gaseous ions into solid ionic crystal",
+    "explanation": "Lattice energy involves bringing gaseous ions together to form ionic solid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 57: Hydration energy is released when:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "hydration"
+    ],
+    "options": [
+      "fuel burns",
+      "water freezes only",
+      "bonds always break",
+      "ions combine with water molecules"
+    ],
+    "correctAnswer": "ions combine with water molecules",
+    "explanation": "Hydration energy is released when ions are surrounded by water molecules."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 58: For ionic solids dissolving in water, solution may be exothermic if:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "solution"
+    ],
+    "options": [
+      "hydration energy exceeds lattice energy",
+      "ions do not hydrate",
+      "both are zero",
+      "lattice energy exceeds hydration energy"
+    ],
+    "correctAnswer": "hydration energy exceeds lattice energy",
+    "explanation": "If hydration releases more energy than lattice breaking requires, dissolution is exothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 59: The enthalpy change for converting one mole of solid directly into gas is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "phase change"
+    ],
+    "options": [
+      "heat of fusion",
+      "heat of vaporization",
+      "heat of neutralization",
+      "heat of sublimation"
+    ],
+    "correctAnswer": "heat of sublimation",
+    "explanation": "Sublimation is direct change from solid to gas."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 60: The enthalpy change for converting liquid to vapour is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "phase change"
+    ],
+    "options": [
+      "heat of fusion",
+      "heat of formation",
+      "heat of vaporization",
+      "heat of neutralization"
+    ],
+    "correctAnswer": "heat of vaporization",
+    "explanation": "Vaporization is liquid to vapour."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 61: The enthalpy change for melting one mole of solid is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "phase change"
+    ],
+    "options": [
+      "heat of vaporization",
+      "heat of combustion",
+      "heat of fusion",
+      "heat of solution"
+    ],
+    "correctAnswer": "heat of fusion",
+    "explanation": "Fusion means melting."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 62: Which process releases heat?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "phase change"
+    ],
+    "options": [
+      "melting",
+      "condensation",
+      "evaporation",
+      "sublimation"
+    ],
+    "correctAnswer": "condensation",
+    "explanation": "Condensation releases heat as gas changes to liquid."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 63: Which process absorbs heat?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "phase change"
+    ],
+    "options": [
+      "deposition",
+      "evaporation",
+      "freezing",
+      "condensation"
+    ],
+    "correctAnswer": "evaporation",
+    "explanation": "Evaporation requires heat absorption."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 64: Calorimetry calculations often assume heat lost by reaction equals:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "calorimetry"
+    ],
+    "options": [
+      "pressure only",
+      "heat gained by water/calorimeter",
+      "mass of reactants",
+      "volume of products"
+    ],
+    "correctAnswer": "heat gained by water/calorimeter",
+    "explanation": "Energy conservation is used: heat lost equals heat gained."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 65: If 100 g water is heated by 10°C and c = 4.18 J g⁻¹ °C⁻¹, heat absorbed is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "numerical"
+    ],
+    "options": [
+      "41.8 J",
+      "4180 J",
+      "4.18 J",
+      "418 J"
+    ],
+    "correctAnswer": "4180 J",
+    "explanation": "q = mcΔT = 100 × 4.18 × 10 = 4180 J."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 66: If q = 500 J, m = 50 g, and ΔT = 5°C, specific heat capacity is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "numerical"
+    ],
+    "options": [
+      "50 J g⁻¹ °C⁻¹",
+      "2 J g⁻¹ °C⁻¹",
+      "10 J g⁻¹ °C⁻¹",
+      "5 J g⁻¹ °C⁻¹"
+    ],
+    "correctAnswer": "2 J g⁻¹ °C⁻¹",
+    "explanation": "c = q/(mΔT) = 500/(50×5)=2 J g⁻¹ °C⁻¹."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 67: If ΔH for A → B is +40 kJ, ΔH for B → A is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "numerical"
+    ],
+    "options": [
+      "-40 kJ",
+      "+40 kJ",
+      "+80 kJ",
+      "0 kJ"
+    ],
+    "correctAnswer": "-40 kJ",
+    "explanation": "Reversing a reaction changes sign of ΔH."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 68: If ΔH for 2H₂ + O₂ → 2H₂O is -572 kJ, ΔH for formation of 1 mol H₂O is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "numerical"
+    ],
+    "options": [
+      "-572 kJ",
+      "-286 kJ",
+      "+572 kJ",
+      "+286 kJ"
+    ],
+    "correctAnswer": "-286 kJ",
+    "explanation": "The equation forms 2 moles of water, so per mole is -572/2 = -286 kJ."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 69: If ΔH of combustion of CH₄ is -890 kJ mol⁻¹, burning 2 mol CH₄ releases:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "numerical"
+    ],
+    "options": [
+      "1780 kJ",
+      "445 kJ",
+      "-445 kJ only",
+      "890 kJ"
+    ],
+    "correctAnswer": "1780 kJ",
+    "explanation": "2 moles release 2 × 890 = 1780 kJ of heat."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 70: The sign of heat q is positive when system:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat"
+    ],
+    "options": [
+      "gains heat",
+      "loses heat",
+      "expands only",
+      "does work only"
+    ],
+    "correctAnswer": "gains heat",
+    "explanation": "Heat absorbed by the system is positive."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 71: The sign of heat q is negative when system:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat"
+    ],
+    "options": [
+      "is isolated only",
+      "has no boundary",
+      "absorbs heat",
+      "releases heat"
+    ],
+    "correctAnswer": "releases heat",
+    "explanation": "Heat released by the system is negative."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement is correct for a state function?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "state function"
+    ],
+    "options": [
+      "It cannot be measured",
+      "It is always zero",
+      "It depends on path",
+      "It depends only on initial and final states"
+    ],
+    "correctAnswer": "It depends only on initial and final states",
+    "explanation": "State functions depend only on state, not path."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 73: Which is a state function?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "state function"
+    ],
+    "options": [
+      "heat",
+      "work",
+      "path length",
+      "enthalpy"
+    ],
+    "correctAnswer": "enthalpy",
+    "explanation": "Enthalpy is a state function; heat and work are path functions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 74: Which is not a state function?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "state function"
+    ],
+    "options": [
+      "pressure",
+      "heat",
+      "internal energy",
+      "enthalpy"
+    ],
+    "correctAnswer": "heat",
+    "explanation": "Heat depends on pathway, so it is not a state function."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 75: The enthalpy change of a reaction is also called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "heat of reaction"
+    ],
+    "options": [
+      "ionization energy only",
+      "molarity",
+      "heat of reaction",
+      "density"
+    ],
+    "correctAnswer": "heat of reaction",
+    "explanation": "Heat of reaction is the enthalpy change for a chemical reaction."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 76: Standard enthalpy change is denoted by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "standard state"
+    ],
+    "options": [
+      "ΔH°",
+      "pH",
+      "Ksp",
+      "R"
+    ],
+    "correctAnswer": "ΔH°",
+    "explanation": "The degree sign shows standard conditions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 77: Which law allows calculation of ΔH from several steps?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "Hess law"
+    ],
+    "options": [
+      "Hess’s law",
+      "Raoult’s law",
+      "Boyle’s law",
+      "Avogadro’s law"
+    ],
+    "correctAnswer": "Hess’s law",
+    "explanation": "Hess’s law permits adding thermochemical equations."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 78: When thermochemical equations are added, their enthalpy changes are:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "Hess law"
+    ],
+    "options": [
+      "multiplied by pressure only",
+      "ignored",
+      "always zero",
+      "also added"
+    ],
+    "correctAnswer": "also added",
+    "explanation": "Enthalpy changes add when equations add."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 79: Heat of atomization is the enthalpy change when:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "atomization"
+    ],
+    "options": [
+      "acid neutralizes base",
+      "one mole gaseous atoms forms from element",
+      "gas dissolves in water",
+      "one mole water forms"
+    ],
+    "correctAnswer": "one mole gaseous atoms forms from element",
+    "explanation": "Atomization produces one mole of gaseous atoms."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 80: Ionization energy is generally:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "ionization"
+    ],
+    "options": [
+      "endothermic",
+      "exothermic",
+      "always zero",
+      "heat of solution"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Removing an electron requires energy input, so it is endothermic."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 81: Electron affinity is often:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "electron affinity"
+    ],
+    "options": [
+      "energy released when electron is added",
+      "mass of electron only",
+      "heat of fusion",
+      "boiling point"
+    ],
+    "correctAnswer": "energy released when electron is added",
+    "explanation": "Electron affinity commonly involves energy change when an atom gains an electron."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 82: Born-Haber cycle is an application of:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "Born Haber"
+    ],
+    "options": [
+      "Boyle’s law",
+      "Faraday’s law",
+      "Charles’s law",
+      "Hess’s law"
+    ],
+    "correctAnswer": "Hess’s law",
+    "explanation": "Born-Haber cycle uses Hess’s law for ionic compounds."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 83: The enthalpy change during neutralization is usually measured by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "neutralization"
+    ],
+    "options": [
+      "chromatography",
+      "calorimetry",
+      "distillation",
+      "filtration"
+    ],
+    "correctAnswer": "calorimetry",
+    "explanation": "Calorimetry measures heat changes in neutralization."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 84: For strong acid-strong base neutralization, ΔH is approximately:",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "neutralization"
+    ],
+    "options": [
+      "0 kJ mol⁻¹",
+      "-57 kJ mol⁻¹",
+      "+57 kJ mol⁻¹",
+      "+1000 kJ mol⁻¹"
+    ],
+    "correctAnswer": "-57 kJ mol⁻¹",
+    "explanation": "Strong acid-base neutralization is about -57 kJ per mole of water formed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 85: Combustion reactions are generally:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "combustion"
+    ],
+    "options": [
+      "always reversible",
+      "exothermic",
+      "endothermic",
+      "neither"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Combustion releases heat."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 86: Photosynthesis is overall:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "endothermic"
+    ],
+    "options": [
+      "neutralization",
+      "exothermic",
+      "endothermic",
+      "combustion"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Photosynthesis absorbs energy from sunlight."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 87: Respiration is overall:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "exothermic"
+    ],
+    "options": [
+      "sublimation",
+      "fusion",
+      "endothermic",
+      "exothermic"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Respiration releases energy from oxidation of glucose."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 88: The energy required to start a reaction is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "activation energy"
+    ],
+    "options": [
+      "bond length",
+      "lattice energy",
+      "specific heat",
+      "activation energy"
+    ],
+    "correctAnswer": "activation energy",
+    "explanation": "Activation energy is the minimum energy needed for reaction to begin."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 89: A catalyst affects activation energy by:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "catalyst"
+    ],
+    "options": [
+      "increasing ΔH always",
+      "making ΔH zero always",
+      "changing mass of products",
+      "lowering activation energy"
+    ],
+    "correctAnswer": "lowering activation energy",
+    "explanation": "Catalysts provide a lower-energy pathway but do not change ΔH."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 90: A catalyst changes the enthalpy change of a reaction:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "catalyst"
+    ],
+    "options": [
+      "always decreases it",
+      "changes sign only",
+      "always increases it",
+      "does not change it"
+    ],
+    "correctAnswer": "does not change it",
+    "explanation": "ΔH depends on initial and final states, not catalyst pathway."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 91: In an energy profile diagram, activation energy is the energy difference between:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "activation energy"
+    ],
+    "options": [
+      "products and surroundings",
+      "water and salt",
+      "solid and liquid only",
+      "reactants and activated complex"
+    ],
+    "correctAnswer": "reactants and activated complex",
+    "explanation": "Activation energy is from reactants to transition state/activated complex."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 92: The highest point on an energy profile diagram represents:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "activation energy"
+    ],
+    "options": [
+      "solvent",
+      "activated complex",
+      "calorimeter",
+      "final product only"
+    ],
+    "correctAnswer": "activated complex",
+    "explanation": "The peak represents activated complex or transition state."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 93: If ΔH = -120 kJ, the reaction is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "no heat change",
+      "impossible",
+      "endothermic",
+      "exothermic"
+    ],
+    "correctAnswer": "exothermic",
+    "explanation": "Negative ΔH indicates heat release."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 94: If ΔH = +75 kJ, the reaction is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "neutral",
+      "exothermic",
+      "combustion always",
+      "endothermic"
+    ],
+    "correctAnswer": "endothermic",
+    "explanation": "Positive ΔH indicates heat absorption."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 95: Which has greater enthalpy in an exothermic reaction?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "reactants",
+      "catalyst",
+      "products",
+      "both equal always"
+    ],
+    "correctAnswer": "reactants",
+    "explanation": "Reactants are higher in enthalpy and release energy to form products."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 96: Which has greater enthalpy in an endothermic reaction?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "enthalpy"
+    ],
+    "options": [
+      "catalyst",
+      "container",
+      "reactants",
+      "products"
+    ],
+    "correctAnswer": "products",
+    "explanation": "Products have greater enthalpy after heat is absorbed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 97: The enthalpy of combustion of a fuel is useful for comparing:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "combustion"
+    ],
+    "options": [
+      "fuel energy values",
+      "atomic numbers",
+      "salt solubility only",
+      "pH values only"
+    ],
+    "correctAnswer": "fuel energy values",
+    "explanation": "Combustion enthalpy shows energy released by fuels."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 98: Which fuel releases energy by combustion?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "combustion"
+    ],
+    "options": [
+      "helium",
+      "methane",
+      "argon",
+      "nitrogen"
+    ],
+    "correctAnswer": "methane",
+    "explanation": "Methane burns in oxygen and releases heat."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 99: The heat change when one mole of water is formed from H⁺ and OH⁻ is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "neutralization"
+    ],
+    "options": [
+      "lattice energy",
+      "heat of vaporization",
+      "heat of formation of oxygen",
+      "heat of neutralization"
+    ],
+    "correctAnswer": "heat of neutralization",
+    "explanation": "Neutralization heat is for formation of water from acid and base ions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "mcq",
+    "question": "MCQ 100: Heat is a path function because it:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "state function"
+    ],
+    "options": [
+      "depends only on final state",
+      "is always zero",
+      "is a substance",
+      "depends on the process followed"
+    ],
+    "correctAnswer": "depends on the process followed",
+    "explanation": "Heat transfer varies with path/process."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 1: Define thermochemistry.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 2: Differentiate between system and surroundings.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 3: What is an exothermic reaction?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 4: What is an endothermic reaction?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 5: Define enthalpy.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 6: What is enthalpy change?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 7: Write the sign of ΔH for exothermic and endothermic reactions.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 8: Define heat of reaction.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 9: What is a thermochemical equation?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 10: Why are physical states important in thermochemical equations?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 11: State Hess’s law of constant heat summation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 12: Why is Hess’s law important in thermochemistry?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 13: Define heat of formation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 14: What is standard enthalpy of formation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 15: What is the standard enthalpy of formation of an element in its standard state?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 16: Define heat of combustion.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 17: Why is heat of combustion important for fuels?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 18: Define heat of neutralization.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 19: Why is heat of neutralization of strong acid and strong base nearly constant?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 20: Define heat of solution.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 21: What is lattice energy?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 22: What is hydration energy?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 23: Define heat of fusion.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 24: Define heat of vaporization.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 25: Define heat of sublimation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 26: What is specific heat capacity?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 27: Write the formula q = mcΔT and define each term.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 28: What is heat capacity?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 29: What is molar heat capacity?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 30: Define calorimetry.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 31: What is a calorimeter?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 32: Differentiate between bomb calorimeter and simple calorimeter.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 33: What is the first law of thermodynamics?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 34: Write the mathematical form of the first law of thermodynamics.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 35: What is internal energy?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 36: What is pressure-volume work?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 37: Write the formula for pressure-volume work.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 38: Differentiate between state function and path function.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 39: Give two examples of state functions.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 40: Give two examples of path functions.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 41: Why is enthalpy considered a state function?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 42: Why are heat and work considered path functions?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 43: What is activation energy?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 44: What is an activated complex?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 45: How does a catalyst affect activation energy?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 46: Does a catalyst change the enthalpy change of a reaction?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 47: What is bond energy?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 48: Why is bond breaking endothermic?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 49: Why is bond formation exothermic?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "short",
+    "question": "Short Question 50: How can bond energies be used to estimate enthalpy change?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 1: Explain thermochemistry in detail and describe its importance in chemical reactions.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 2: Differentiate between exothermic and endothermic reactions with suitable examples and energy diagrams.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 3: State and explain Hess’s law. How is it used to calculate enthalpy changes of reactions?",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 4: Explain standard enthalpy of formation and standard enthalpy of combustion with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 5: Describe calorimetry. Explain how heat changes are measured by using a calorimeter.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 6: Explain the formula q = mcΔT and solve a general calorimetry problem using it.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 7: Discuss heat of neutralization and explain why strong acid-strong base neutralization has nearly constant heat change.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 8: Explain heat of solution, lattice energy, and hydration energy. How do they affect dissolving of ionic compounds?",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 9: Describe the first law of thermodynamics and explain its mathematical expression.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 10: Explain internal energy, heat, and work. Differentiate between heat and work as path functions.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 11: Describe pressure-volume work and explain the sign convention for expansion and compression.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 12: Explain state functions and path functions with examples from thermochemistry.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 13: Explain bond energy and describe how bond energies are used to estimate enthalpy changes.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 14: Discuss phase-change enthalpies: heat of fusion, vaporization, and sublimation with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 15: Explain thermochemical equations and discuss how ΔH changes when equations are reversed or multiplied.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 16: Describe Born-Haber cycle and its relation with Hess’s law.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 17: Explain the role of activation energy and catalyst in chemical reactions using an energy profile diagram.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 18: Discuss the importance of heat of combustion in comparing fuels.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 19: Explain the relationship between enthalpy, internal energy, and pressure-volume work.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Thermochemistry",
+    "chapterId": "Thermochemistry",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on applications of thermochemistry in industry, daily life, and environmental studies.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Thermochemistry",
+      "long question"
+    ]
+  }
+]

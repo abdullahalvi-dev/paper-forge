@@ -1,0 +1,4035 @@
+[
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 1: If y = x^5, then dy/dx is:",
+    "options": [
+      "5x^4",
+      "x^5/5",
+      "4x^5",
+      "5x^5"
+    ],
+    "correctAnswer": "5x^4",
+    "explanation": "Using the power rule, d/dx(x^n)=nx^(n-1).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 2: The derivative of a constant c with respect to x is:",
+    "options": [
+      "0",
+      "1",
+      "c",
+      "x"
+    ],
+    "correctAnswer": "0",
+    "explanation": "A constant does not change with x, so its derivative is zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "constant rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 3: If y = 7x, then dy/dx is:",
+    "options": [
+      "7",
+      "x",
+      "7x",
+      "0"
+    ],
+    "correctAnswer": "7",
+    "explanation": "The derivative of ax is a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "basic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 4: The derivative of sin x is:",
+    "options": [
+      "cos x",
+      "-cos x",
+      "tan x",
+      "-sin x"
+    ],
+    "correctAnswer": "cos x",
+    "explanation": "The standard derivative of sin x is cos x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 5: The derivative of cos x is:",
+    "options": [
+      "-sin x",
+      "sin x",
+      "cos x",
+      "-cos x"
+    ],
+    "correctAnswer": "-sin x",
+    "explanation": "The standard derivative of cos x is -sin x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 6: The derivative of tan x is:",
+    "options": [
+      "sec^2 x",
+      "cosec^2 x",
+      "-sec^2 x",
+      "cot x"
+    ],
+    "correctAnswer": "sec^2 x",
+    "explanation": "The standard derivative of tan x is sec^2 x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 7: The derivative of e^x is:",
+    "options": [
+      "e^x",
+      "xe^(x-1)",
+      "1/e^x",
+      "ln x"
+    ],
+    "correctAnswer": "e^x",
+    "explanation": "The exponential function e^x is its own derivative.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "exponential derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 8: The derivative of ln x is:",
+    "options": [
+      "1/x",
+      "x",
+      "ln x",
+      "e^x"
+    ],
+    "correctAnswer": "1/x",
+    "explanation": "For x>0, d/dx(ln x)=1/x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 9: If y = x^2 + 3x + 5, then dy/dx is:",
+    "options": [
+      "2x + 3",
+      "x^2 + 3",
+      "2x + 5",
+      "3x^2 + 5"
+    ],
+    "correctAnswer": "2x + 3",
+    "explanation": "Differentiate each term separately: 2x + 3 + 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "polynomial"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 10: If y = 4x^3 - 2x + 1, then dy/dx is:",
+    "options": [
+      "12x^2 - 2",
+      "12x^2 + 1",
+      "4x^2 - 2",
+      "3x^2 - 2"
+    ],
+    "correctAnswer": "12x^2 - 2",
+    "explanation": "Using power rule, derivative of 4x^3 is 12x^2 and derivative of -2x is -2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "polynomial"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 11: The derivative of x^-2 is:",
+    "options": [
+      "-2x^-3",
+      "2x^-1",
+      "-x^-3",
+      "x^-2"
+    ],
+    "correctAnswer": "-2x^-3",
+    "explanation": "Apply the power rule with n=-2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 12: The derivative of sqrt(x) is:",
+    "options": [
+      "1/(2sqrt(x))",
+      "2sqrt(x)",
+      "sqrt(x)/2",
+      "1/sqrt(x)"
+    ],
+    "correctAnswer": "1/(2sqrt(x))",
+    "explanation": "sqrt(x)=x^(1/2), so derivative is (1/2)x^(-1/2).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 13: If y = 1/x, then dy/dx is:",
+    "options": [
+      "-1/x^2",
+      "1/x^2",
+      "ln x",
+      "x^-1"
+    ],
+    "correctAnswer": "-1/x^2",
+    "explanation": "Since 1/x=x^-1, derivative is -x^-2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 14: If y = 3x^4 + 2x^2 - 9, then dy/dx is:",
+    "options": [
+      "12x^3 + 4x",
+      "12x^4 + 4x",
+      "7x^3 - 9",
+      "3x^3 + 2x"
+    ],
+    "correctAnswer": "12x^3 + 4x",
+    "explanation": "Differentiate term by term.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "polynomial"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 15: If y = (x + 1)(x - 1), then dy/dx is:",
+    "options": [
+      "2x",
+      "x^2 - 1",
+      "2",
+      "x"
+    ],
+    "correctAnswer": "2x",
+    "explanation": "First simplify y=x^2-1, then differentiate.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "simplification"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 16: The derivative of sec x is:",
+    "options": [
+      "sec x tan x",
+      "sec^2 x",
+      "cosec x cot x",
+      "-sec x tan x"
+    ],
+    "correctAnswer": "sec x tan x",
+    "explanation": "The standard derivative of sec x is sec x tan x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 17: The derivative of cosec x is:",
+    "options": [
+      "-cosec x cot x",
+      "cosec x cot x",
+      "sec x tan x",
+      "-cot x"
+    ],
+    "correctAnswer": "-cosec x cot x",
+    "explanation": "The standard derivative of cosec x is -cosec x cot x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 18: The derivative of cot x is:",
+    "options": [
+      "-cosec^2 x",
+      "cosec^2 x",
+      "sec^2 x",
+      "-sec^2 x"
+    ],
+    "correctAnswer": "-cosec^2 x",
+    "explanation": "The standard derivative of cot x is -cosec^2 x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 19: If y = sin(3x), then dy/dx is:",
+    "options": [
+      "3cos(3x)",
+      "cos(3x)",
+      "-3cos(3x)",
+      "3sin(3x)"
+    ],
+    "correctAnswer": "3cos(3x)",
+    "explanation": "Use chain rule: derivative of sin u is cos u multiplied by u'=3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 20: If y = cos(5x), then dy/dx is:",
+    "options": [
+      "-5sin(5x)",
+      "5sin(5x)",
+      "-sin(5x)",
+      "5cos(5x)"
+    ],
+    "correctAnswer": "-5sin(5x)",
+    "explanation": "Use chain rule: derivative of cos u is -sin u multiplied by u'=5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 21: If y = e^(2x), then dy/dx is:",
+    "options": [
+      "2e^(2x)",
+      "e^(2x)",
+      "e^x",
+      "2xe^(2x)"
+    ],
+    "correctAnswer": "2e^(2x)",
+    "explanation": "Use chain rule: derivative of e^u is e^u u'.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 22: If y = ln(4x), then dy/dx is:",
+    "options": [
+      "1/x",
+      "4/x",
+      "1/(4x)",
+      "ln 4"
+    ],
+    "correctAnswer": "1/x",
+    "explanation": "d/dx ln(4x) = (1/(4x))*4 = 1/x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 23: If y = (2x + 1)^3, then dy/dx is:",
+    "options": [
+      "6(2x + 1)^2",
+      "3(2x + 1)^2",
+      "2(2x + 1)^3",
+      "(2x + 1)^2"
+    ],
+    "correctAnswer": "6(2x + 1)^2",
+    "explanation": "Use chain rule: 3(2x+1)^2 times derivative of 2x+1, which is 2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 24: If y = sqrt(3x + 2), then dy/dx is:",
+    "options": [
+      "3/(2sqrt(3x + 2))",
+      "1/(2sqrt(3x + 2))",
+      "3sqrt(3x + 2)",
+      "sqrt(3x + 2)/2"
+    ],
+    "correctAnswer": "3/(2sqrt(3x + 2))",
+    "explanation": "Write as (3x+2)^(1/2) and apply chain rule.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 25: The product rule for y = uv is:",
+    "options": [
+      "dy/dx = u dv/dx + v du/dx",
+      "dy/dx = du/dx dv/dx",
+      "dy/dx = u/v",
+      "dy/dx = u dv/dx - v du/dx"
+    ],
+    "correctAnswer": "dy/dx = u dv/dx + v du/dx",
+    "explanation": "Product rule differentiates both factors one at a time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 26: If y = x^2 sin x, then dy/dx is:",
+    "options": [
+      "2x sin x + x^2 cos x",
+      "x^2 cos x",
+      "2x cos x",
+      "2x sin x - x^2 cos x"
+    ],
+    "correctAnswer": "2x sin x + x^2 cos x",
+    "explanation": "Apply product rule with u=x^2 and v=sin x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 27: If y = x e^x, then dy/dx is:",
+    "options": [
+      "e^x(x + 1)",
+      "xe^x",
+      "e^x",
+      "x + e^x"
+    ],
+    "correctAnswer": "e^x(x + 1)",
+    "explanation": "Product rule gives x e^x + e^x = e^x(x+1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 28: The quotient rule for y = u/v is:",
+    "options": [
+      "dy/dx = (v du/dx - u dv/dx)/v^2",
+      "dy/dx = (u dv/dx - v du/dx)/v^2",
+      "dy/dx = (du/dx)/(dv/dx)",
+      "dy/dx = v/u"
+    ],
+    "correctAnswer": "dy/dx = (v du/dx - u dv/dx)/v^2",
+    "explanation": "Quotient rule has denominator v squared and numerator v u' - u v'.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 29: If y = x/(x + 1), then dy/dx is:",
+    "options": [
+      "1/(x + 1)^2",
+      "x/(x + 1)^2",
+      "(2x + 1)/(x + 1)^2",
+      "-1/(x + 1)^2"
+    ],
+    "correctAnswer": "1/(x + 1)^2",
+    "explanation": "Using quotient rule: ((x+1)(1)-x(1))/(x+1)^2 = 1/(x+1)^2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 30: If y = sin x / x, then dy/dx is:",
+    "options": [
+      "(x cos x - sin x)/x^2",
+      "(x sin x - cos x)/x^2",
+      "(sin x - x cos x)/x^2",
+      "cos x / x"
+    ],
+    "correctAnswer": "(x cos x - sin x)/x^2",
+    "explanation": "Apply quotient rule with u=sin x and v=x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 31: The derivative of sin^-1 x is:",
+    "options": [
+      "1/sqrt(1 - x^2)",
+      "-1/sqrt(1 - x^2)",
+      "1/(1 + x^2)",
+      "-1/(1 + x^2)"
+    ],
+    "correctAnswer": "1/sqrt(1 - x^2)",
+    "explanation": "This is the standard derivative of inverse sine.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "inverse trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 32: The derivative of cos^-1 x is:",
+    "options": [
+      "-1/sqrt(1 - x^2)",
+      "1/sqrt(1 - x^2)",
+      "1/(1 + x^2)",
+      "-1/(1 + x^2)"
+    ],
+    "correctAnswer": "-1/sqrt(1 - x^2)",
+    "explanation": "This is the standard derivative of inverse cosine.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "inverse trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 33: The derivative of tan^-1 x is:",
+    "options": [
+      "1/(1 + x^2)",
+      "-1/(1 + x^2)",
+      "1/sqrt(1 - x^2)",
+      "1/(1 - x^2)"
+    ],
+    "correctAnswer": "1/(1 + x^2)",
+    "explanation": "This is the standard derivative of inverse tangent.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "inverse trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 34: If y = tan^-1(2x), then dy/dx is:",
+    "options": [
+      "2/(1 + 4x^2)",
+      "1/(1 + 4x^2)",
+      "2/(1 + x^2)",
+      "-2/(1 + 4x^2)"
+    ],
+    "correctAnswer": "2/(1 + 4x^2)",
+    "explanation": "Use chain rule: derivative of tan^-1 u is u'/(1+u^2).",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule",
+      "inverse trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 35: If y = ln(x^2 + 1), then dy/dx is:",
+    "options": [
+      "2x/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "ln(2x)",
+      "x/(x^2 + 1)"
+    ],
+    "correctAnswer": "2x/(x^2 + 1)",
+    "explanation": "Use chain rule for ln u: u'/u.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 36: If y = log_a x, then dy/dx is:",
+    "options": [
+      "1/(x ln a)",
+      "1/x",
+      "ln a / x",
+      "a^x"
+    ],
+    "correctAnswer": "1/(x ln a)",
+    "explanation": "Derivative of log base a of x is 1/(x ln a).",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 37: If y = a^x, then dy/dx is:",
+    "options": [
+      "a^x ln a",
+      "x a^(x-1)",
+      "a^x",
+      "ln x"
+    ],
+    "correctAnswer": "a^x ln a",
+    "explanation": "The derivative of a^x is a^x ln a for a>0, a≠1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "exponential derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 38: If y = 2^x, then dy/dx is:",
+    "options": [
+      "2^x ln 2",
+      "x2^(x-1)",
+      "2^x",
+      "ln 2"
+    ],
+    "correctAnswer": "2^x ln 2",
+    "explanation": "Use d/dx(a^x)=a^x ln a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "exponential derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 39: If y = x^x, then dy/dx is:",
+    "options": [
+      "x^x(ln x + 1)",
+      "x x^(x-1)",
+      "x^x ln x",
+      "x^x"
+    ],
+    "correctAnswer": "x^x(ln x + 1)",
+    "explanation": "Take logarithms: ln y = x ln x, then differentiate.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 40: If y = (sin x)^x, then the best method is:",
+    "options": [
+      "logarithmic differentiation",
+      "direct power rule only",
+      "constant rule",
+      "implicit differentiation only"
+    ],
+    "correctAnswer": "logarithmic differentiation",
+    "explanation": "Both base and exponent involve x, so logarithmic differentiation is suitable.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 41: For implicit function x^2 + y^2 = 25, dy/dx is:",
+    "options": [
+      "-x/y",
+      "x/y",
+      "-y/x",
+      "2x + 2y"
+    ],
+    "correctAnswer": "-x/y",
+    "explanation": "Differentiate: 2x + 2y(dy/dx)=0, so dy/dx=-x/y.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "implicit differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 42: For xy = 1, dy/dx is:",
+    "options": [
+      "-y/x",
+      "y/x",
+      "-x/y",
+      "1"
+    ],
+    "correctAnswer": "-y/x",
+    "explanation": "Differentiate xy using product rule: x y' + y = 0, so y'=-y/x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "implicit differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 43: If x^2y + y^2 = 3, then the derivative of x^2y is:",
+    "options": [
+      "2xy + x^2 dy/dx",
+      "2xy",
+      "x^2 dy/dx",
+      "2x dy/dx"
+    ],
+    "correctAnswer": "2xy + x^2 dy/dx",
+    "explanation": "Use product rule because x^2 and y both depend on x.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "implicit differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 44: If x = t^2 and y = t^3, then dy/dx is:",
+    "options": [
+      "3t/2",
+      "2t/3",
+      "3t^2/2t",
+      "t"
+    ],
+    "correctAnswer": "3t/2",
+    "explanation": "dy/dx = (dy/dt)/(dx/dt) = 3t^2/(2t)=3t/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "parametric differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 45: If x = sin t and y = cos t, then dy/dx is:",
+    "options": [
+      "-tan t",
+      "tan t",
+      "-cot t",
+      "cot t"
+    ],
+    "correctAnswer": "-tan t",
+    "explanation": "dy/dx = (dy/dt)/(dx/dt) = (-sin t)/(cos t) = -tan t.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "parametric differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 46: If x = t and y = t^2, then dy/dx is:",
+    "options": [
+      "2t",
+      "t^2",
+      "1/(2t)",
+      "t"
+    ],
+    "correctAnswer": "2t",
+    "explanation": "dy/dx=(2t)/1=2t.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "parametric differentiation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 47: The slope of the tangent to y = f(x) at x = a is:",
+    "options": [
+      "f'(a)",
+      "f(a)",
+      "f''(a)",
+      "a/f(a)"
+    ],
+    "correctAnswer": "f'(a)",
+    "explanation": "The derivative at a point gives the tangent slope.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 48: The slope of the normal to a curve at a point is:",
+    "options": [
+      "negative reciprocal of tangent slope",
+      "same as tangent slope",
+      "always zero",
+      "always one"
+    ],
+    "correctAnswer": "negative reciprocal of tangent slope",
+    "explanation": "Normal is perpendicular to tangent, so slopes multiply to -1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "normal"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 49: For y = x^2, the slope of tangent at x = 3 is:",
+    "options": [
+      "6",
+      "3",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "explanation": "dy/dx=2x, so at x=3 the slope is 6.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 50: Equation of tangent to y = x^2 at x = 1 is:",
+    "options": [
+      "y = 2x - 1",
+      "y = x + 1",
+      "y = 2x + 1",
+      "y = x - 1"
+    ],
+    "correctAnswer": "y = 2x - 1",
+    "explanation": "At x=1, y=1 and slope=2; y-1=2(x-1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 51: Equation of normal to y = x^2 at x = 1 is:",
+    "options": [
+      "y = -x/2 + 3/2",
+      "y = 2x - 1",
+      "y = -2x + 3",
+      "y = x/2 + 1/2"
+    ],
+    "correctAnswer": "y = -x/2 + 3/2",
+    "explanation": "Tangent slope at x=1 is 2, so normal slope is -1/2; use point (1,1).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "normal"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 52: If f'(x) > 0 on an interval, then f(x) is:",
+    "options": [
+      "increasing",
+      "decreasing",
+      "constant",
+      "not continuous"
+    ],
+    "correctAnswer": "increasing",
+    "explanation": "A positive derivative means the function increases on that interval.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "increasing function"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 53: If f'(x) < 0 on an interval, then f(x) is:",
+    "options": [
+      "decreasing",
+      "increasing",
+      "constant",
+      "undefined"
+    ],
+    "correctAnswer": "decreasing",
+    "explanation": "A negative derivative means the function decreases on that interval.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "decreasing function"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 54: At a local maximum, the first derivative usually changes from:",
+    "options": [
+      "positive to negative",
+      "negative to positive",
+      "zero to positive",
+      "negative to zero only"
+    ],
+    "correctAnswer": "positive to negative",
+    "explanation": "For a local maximum, the function increases first and then decreases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "maxima minima"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 55: At a local minimum, the first derivative usually changes from:",
+    "options": [
+      "negative to positive",
+      "positive to negative",
+      "positive to zero",
+      "zero to negative"
+    ],
+    "correctAnswer": "negative to positive",
+    "explanation": "For a local minimum, the function decreases first and then increases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "maxima minima"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 56: If f'(a)=0 and f''(a)<0, then f(a) is:",
+    "options": [
+      "local maximum",
+      "local minimum",
+      "point of inflection always",
+      "not differentiable"
+    ],
+    "correctAnswer": "local maximum",
+    "explanation": "Second derivative test: negative second derivative indicates local maximum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative test"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 57: If f'(a)=0 and f''(a)>0, then f(a) is:",
+    "options": [
+      "local minimum",
+      "local maximum",
+      "no stationary point",
+      "vertical tangent"
+    ],
+    "correctAnswer": "local minimum",
+    "explanation": "Second derivative test: positive second derivative indicates local minimum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative test"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 58: If f''(x)=0 may indicate:",
+    "options": [
+      "point of inflection",
+      "always maximum",
+      "always minimum",
+      "function is constant"
+    ],
+    "correctAnswer": "point of inflection",
+    "explanation": "A possible inflection point occurs where concavity can change.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 59: Second derivative of x^3 is:",
+    "options": [
+      "6x",
+      "3x^2",
+      "6",
+      "x^2"
+    ],
+    "correctAnswer": "6x",
+    "explanation": "First derivative is 3x^2; second derivative is 6x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 60: If y = x^4, then d2y/dx2 is:",
+    "options": [
+      "12x^2",
+      "4x^3",
+      "24x",
+      "16x^2"
+    ],
+    "correctAnswer": "12x^2",
+    "explanation": "First derivative is 4x^3; second derivative is 12x^2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 61: The derivative from first principles is based on:",
+    "options": [
+      "lim h->0 [f(x+h)-f(x)]/h",
+      "lim h->0 [f(x)-f(h)]/x",
+      "f(x+h)+f(x)",
+      "f(x)/h"
+    ],
+    "correctAnswer": "lim h->0 [f(x+h)-f(x)]/h",
+    "explanation": "This limit defines the derivative of f at x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "first principles"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 62: Using first principles, derivative of x^2 is:",
+    "options": [
+      "2x",
+      "x",
+      "x^2",
+      "2"
+    ],
+    "correctAnswer": "2x",
+    "explanation": "The limit of ((x+h)^2-x^2)/h as h approaches 0 equals 2x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "first principles"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 63: If a function is differentiable at x=a, then it is also:",
+    "options": [
+      "continuous at x=a",
+      "discontinuous at x=a",
+      "not defined at x=a",
+      "constant near x=a"
+    ],
+    "correctAnswer": "continuous at x=a",
+    "explanation": "Differentiability implies continuity, but continuity does not always imply differentiability.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "continuity"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 64: Which function is not differentiable at x=0?",
+    "options": [
+      "|x|",
+      "x^2",
+      "sin x",
+      "e^x"
+    ],
+    "correctAnswer": "|x|",
+    "explanation": "The graph of |x| has a sharp corner at x=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "differentiability"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 65: If y = |x|, left derivative at x=0 is:",
+    "options": [
+      "-1",
+      "1",
+      "0",
+      "does not exist"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "For x<0, |x|=-x, so derivative is -1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "left derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 66: If y = |x|, right derivative at x=0 is:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "does not exist"
+    ],
+    "correctAnswer": "1",
+    "explanation": "For x>0, |x|=x, so derivative is 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "right derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 67: If left and right derivatives at a point are unequal, derivative at that point:",
+    "options": [
+      "does not exist",
+      "is their sum",
+      "is their product",
+      "is always zero"
+    ],
+    "correctAnswer": "does not exist",
+    "explanation": "Derivative exists only when left and right derivatives are equal.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "differentiability"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 68: The derivative of a sum f(x)+g(x) is:",
+    "options": [
+      "f'(x)+g'(x)",
+      "f'(x)g'(x)",
+      "f(x)g'(x)",
+      "f'(x)-g'(x)"
+    ],
+    "correctAnswer": "f'(x)+g'(x)",
+    "explanation": "Differentiation is linear over addition.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "sum rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 69: The derivative of kf(x), where k is constant, is:",
+    "options": [
+      "k f'(x)",
+      "f'(x)/k",
+      "k + f'(x)",
+      "f(x)"
+    ],
+    "correctAnswer": "k f'(x)",
+    "explanation": "A constant multiple remains as a factor during differentiation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "constant multiple rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 70: If y = 5sin x - 3cos x, then dy/dx is:",
+    "options": [
+      "5cos x + 3sin x",
+      "5cos x - 3sin x",
+      "5sin x + 3cos x",
+      "-5cos x - 3sin x"
+    ],
+    "correctAnswer": "5cos x + 3sin x",
+    "explanation": "Derivative of 5sin x is 5cos x and derivative of -3cos x is +3sin x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 71: If y = sec(2x), then dy/dx is:",
+    "options": [
+      "2sec(2x)tan(2x)",
+      "sec(2x)tan(2x)",
+      "-2sec(2x)tan(2x)",
+      "2sec^2(2x)"
+    ],
+    "correctAnswer": "2sec(2x)tan(2x)",
+    "explanation": "Use chain rule with derivative of sec u = sec u tan u.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 72: If y = cot(3x), then dy/dx is:",
+    "options": [
+      "-3cosec^2(3x)",
+      "3cosec^2(3x)",
+      "-cosec^2(3x)",
+      "3sec^2(3x)"
+    ],
+    "correctAnswer": "-3cosec^2(3x)",
+    "explanation": "Use chain rule with derivative of cot u = -cosec^2 u.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 73: If y = x^2 e^x, then dy/dx is:",
+    "options": [
+      "e^x(x^2 + 2x)",
+      "2xe^x",
+      "x^2e^x",
+      "e^x(x^2 - 2x)"
+    ],
+    "correctAnswer": "e^x(x^2 + 2x)",
+    "explanation": "Product rule gives 2xe^x + x^2e^x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 74: If y = x^2 ln x, then dy/dx is:",
+    "options": [
+      "2x ln x + x",
+      "2x ln x",
+      "x^2/x",
+      "x ln x + 2x"
+    ],
+    "correctAnswer": "2x ln x + x",
+    "explanation": "Product rule: derivative of x^2 is 2x and derivative of ln x is 1/x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 75: If y = e^x sin x, then dy/dx is:",
+    "options": [
+      "e^x(sin x + cos x)",
+      "e^x(sin x - cos x)",
+      "e^x cos x",
+      "e^x sin x"
+    ],
+    "correctAnswer": "e^x(sin x + cos x)",
+    "explanation": "Use product rule: e^x sin x + e^x cos x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 76: If y = (x^2 + 1)/(x - 1), then dy/dx is:",
+    "options": [
+      "(x^2 - 2x - 1)/(x - 1)^2",
+      "(x^2 + 2x - 1)/(x - 1)^2",
+      "(2x)/(x - 1)^2",
+      "(x^2 + 1)/(x - 1)^2"
+    ],
+    "correctAnswer": "(x^2 - 2x - 1)/(x - 1)^2",
+    "explanation": "Quotient rule: ((x-1)2x-(x^2+1))/(x-1)^2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 77: If y = (sin x)/(cos x), then dy/dx is:",
+    "options": [
+      "sec^2 x",
+      "cosec^2 x",
+      "-sec^2 x",
+      "tan x"
+    ],
+    "correctAnswer": "sec^2 x",
+    "explanation": "sin x/cos x = tan x, and derivative of tan x is sec^2 x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "trigonometric simplification"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 78: If y = ln(sin x), then dy/dx is:",
+    "options": [
+      "cot x",
+      "tan x",
+      "cosec x",
+      "sec x"
+    ],
+    "correctAnswer": "cot x",
+    "explanation": "Using chain rule, derivative is cos x/sin x = cot x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 79: If y = ln(cos x), then dy/dx is:",
+    "options": [
+      "-tan x",
+      "tan x",
+      "cot x",
+      "-cot x"
+    ],
+    "correctAnswer": "-tan x",
+    "explanation": "Using chain rule, derivative is -sin x/cos x = -tan x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 80: If y = ln(tan x), then dy/dx is:",
+    "options": [
+      "sec^2 x/tan x",
+      "tan x/sec^2 x",
+      "cot x",
+      "sec x"
+    ],
+    "correctAnswer": "sec^2 x/tan x",
+    "explanation": "Derivative of ln u is u'/u; here u=tan x.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "logarithmic derivative"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 81: If y = sin^2 x, then dy/dx is:",
+    "options": [
+      "2sin x cos x",
+      "2sin x",
+      "2cos x",
+      "sin x cos x"
+    ],
+    "correctAnswer": "2sin x cos x",
+    "explanation": "Use chain rule: derivative of (sin x)^2 is 2sin x cos x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 82: If y = cos^2 x, then dy/dx is:",
+    "options": [
+      "-2sin x cos x",
+      "2sin x cos x",
+      "-2cos x",
+      "2cos x"
+    ],
+    "correctAnswer": "-2sin x cos x",
+    "explanation": "Use chain rule: 2cos x(-sin x).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 83: If y = tan^2 x, then dy/dx is:",
+    "options": [
+      "2tan x sec^2 x",
+      "2tan x",
+      "sec^2 x",
+      "2sec x tan x"
+    ],
+    "correctAnswer": "2tan x sec^2 x",
+    "explanation": "Use chain rule on (tan x)^2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 84: If y = (x^2 + 3)^5, then dy/dx is:",
+    "options": [
+      "10x(x^2 + 3)^4",
+      "5(x^2 + 3)^4",
+      "2x(x^2 + 3)^5",
+      "5x(x^2 + 3)^4"
+    ],
+    "correctAnswer": "10x(x^2 + 3)^4",
+    "explanation": "Chain rule: 5(x^2+3)^4 multiplied by 2x.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 85: If y = 1/(x^2 + 1), then dy/dx is:",
+    "options": [
+      "-2x/(x^2 + 1)^2",
+      "2x/(x^2 + 1)^2",
+      "1/(2x)",
+      "-1/(x^2 + 1)"
+    ],
+    "correctAnswer": "-2x/(x^2 + 1)^2",
+    "explanation": "Write as (x^2+1)^-1 and apply chain rule.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "chain rule"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 86: If y = x^3 - 3x, critical points satisfy:",
+    "options": [
+      "3x^2 - 3 = 0",
+      "x^3 - 3x = 0",
+      "6x = 0",
+      "3x^2 + 3 = 0"
+    ],
+    "correctAnswer": "3x^2 - 3 = 0",
+    "explanation": "Critical points occur where f'(x)=0; here f'(x)=3x^2-3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "critical points"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 87: For f(x)=x^2-4x+1, the stationary point occurs at x =",
+    "options": [
+      "2",
+      "-2",
+      "4",
+      "1"
+    ],
+    "correctAnswer": "2",
+    "explanation": "f'(x)=2x-4; setting it zero gives x=2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "stationary point"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 88: For f(x)=x^2-4x+1, the stationary point is:",
+    "options": [
+      "minimum",
+      "maximum",
+      "neither maximum nor minimum",
+      "not defined"
+    ],
+    "correctAnswer": "minimum",
+    "explanation": "f''(x)=2>0, so it is a minimum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "second derivative test"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 89: For f(x)= -x^2 + 6x, the maximum occurs at x =",
+    "options": [
+      "3",
+      "-3",
+      "6",
+      "0"
+    ],
+    "correctAnswer": "3",
+    "explanation": "f'(x)=-2x+6; setting it zero gives x=3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "maxima minima"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 90: For f(x)=x^3, at x=0 the function has:",
+    "options": [
+      "point of inflection",
+      "local maximum",
+      "local minimum",
+      "vertical asymptote"
+    ],
+    "correctAnswer": "point of inflection",
+    "explanation": "f''(x)=6x changes sign at x=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "inflection point"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 91: The derivative represents instantaneous:",
+    "options": [
+      "rate of change",
+      "area under curve",
+      "average value only",
+      "total distance only"
+    ],
+    "correctAnswer": "rate of change",
+    "explanation": "Derivative measures instantaneous rate of change.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "concept"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 92: If s(t) is displacement, then ds/dt represents:",
+    "options": [
+      "velocity",
+      "acceleration",
+      "force",
+      "work"
+    ],
+    "correctAnswer": "velocity",
+    "explanation": "Rate of change of displacement with respect to time is velocity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 93: If v(t) is velocity, then dv/dt represents:",
+    "options": [
+      "acceleration",
+      "displacement",
+      "distance",
+      "momentum"
+    ],
+    "correctAnswer": "acceleration",
+    "explanation": "Rate of change of velocity with respect to time is acceleration.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 94: If s = t^3, velocity at t=2 is:",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "12",
+    "explanation": "v=ds/dt=3t^2; at t=2, v=12.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 95: If v = 4t^2, acceleration at t=3 is:",
+    "options": [
+      "24",
+      "12",
+      "36",
+      "8"
+    ],
+    "correctAnswer": "24",
+    "explanation": "a=dv/dt=8t; at t=3, a=24.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 96: The derivative of y with respect to x is commonly written as:",
+    "options": [
+      "dy/dx",
+      "dx/dy",
+      "dxy",
+      "y/dx"
+    ],
+    "correctAnswer": "dy/dx",
+    "explanation": "Leibniz notation for derivative is dy/dx.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "notation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 97: If f(x)=x^2, then f'(a) is:",
+    "options": [
+      "2a",
+      "a^2",
+      "2x",
+      "a"
+    ],
+    "correctAnswer": "2a",
+    "explanation": "Since f'(x)=2x, substitute x=a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "notation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 98: If f(x)=sin x, then f'(pi/2) is:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "pi/2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "f'(x)=cos x and cos(pi/2)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "evaluation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 99: If f(x)=cos x, then f'(0) is:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
+    ],
+    "correctAnswer": "0",
+    "explanation": "f'(x)=-sin x and -sin 0=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "evaluation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "mcq",
+    "question": "MCQ 100: If f(x)=e^x, then f'(0) is:",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "-1"
+    ],
+    "correctAnswer": "1",
+    "explanation": "f'(x)=e^x and e^0=1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "evaluation"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 1: What is meant by derivative of a function?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 2: Define differentiation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 3: State the power rule of differentiation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 4: Write the derivative of a constant function.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 5: Write the derivative of x^n with respect to x.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 6: Differentiate y = x^3.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 7: Differentiate y = 5x^2 - 7x + 4.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 8: Write the derivative of sin x.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 9: Write the derivative of cos x.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 10: Write the derivative of tan x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 11: Write the derivative of cot x.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 12: Write the derivative of sec x.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 13: Write the derivative of cosec x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 14: Write the derivative of e^x.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 15: Write the derivative of a^x.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 16: Write the derivative of ln x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 17: Write the derivative of log_a x.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 18: What is the chain rule?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 19: Differentiate y = sin(2x).",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 20: Differentiate y = cos(3x).",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 21: Differentiate y = e^(5x).",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 22: Differentiate y = ln(2x + 1).",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 23: State the product rule.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 24: Differentiate y = x sin x.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 25: Differentiate y = x e^x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 26: State the quotient rule.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 27: Differentiate y = x/(x + 2).",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 28: Differentiate y = sin x / x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 29: What is logarithmic differentiation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 30: When is logarithmic differentiation useful?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 31: Find dy/dx if y = x^x.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 32: What is implicit differentiation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 33: Find dy/dx for x^2 + y^2 = 16.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 34: Find dy/dx for xy = 5.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 35: What is parametric differentiation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 36: If x = t^2 and y = t^4, find dy/dx.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 37: What is the slope of tangent to a curve?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 38: What is the slope of normal to a curve?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 39: Find the slope of tangent to y = x^2 at x = 2.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 40: Write the condition for a stationary point.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 41: What is a critical point?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 42: State the first derivative test for maxima and minima.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 43: State the second derivative test for maxima and minima.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 44: What is meant by increasing function?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 45: What is meant by decreasing function?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 46: If f'(x) > 0 on an interval, what can be said about f(x)?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 47: If f'(x) < 0 on an interval, what can be said about f(x)?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 48: What is the physical meaning of derivative in motion?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 49: If s = t^2 + 3t, find velocity.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "short",
+    "question": "Short Question 50: Differentiate y = sqrt(x).",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 1: Explain the concept of derivative from first principles and use it to differentiate y = x^2.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 2: State and prove the power rule of differentiation for y = x^n, and solve three examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 3: Explain the sum rule, difference rule, and constant multiple rule of differentiation with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 4: Derive the product rule and use it to differentiate y = x^2 sin x and y = x e^x.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 5: Derive the quotient rule and use it to differentiate y = x/(x+1) and y = sin x/x.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 6: Explain the chain rule in detail and solve examples involving trigonometric, logarithmic, and exponential functions.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 7: Differentiate the basic trigonometric functions sin x, cos x, tan x, cot x, sec x, and cosec x.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 8: Explain logarithmic differentiation and use it to find the derivative of y = x^x and y = (sin x)^x.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 9: Explain implicit differentiation and find dy/dx from x^2 + y^2 = a^2 and xy + y^2 = 5.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 10: Explain parametric differentiation and find dy/dx when x = t^2 + 1 and y = t^3 - t.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 11: Describe how derivatives are used to find tangent and normal to a curve. Find tangent and normal to y = x^2 at x = 1.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 12: Explain increasing and decreasing functions using the first derivative test with examples.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 13: Explain local maximum and local minimum using the first derivative test.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 14: Explain the second derivative test for maxima and minima with solved examples.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 15: Find and classify the stationary points of f(x) = x^3 - 3x^2 - 9x + 5.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 16: Discuss the relation between differentiability and continuity with suitable examples.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 17: Explain left-hand derivative and right-hand derivative. Show why |x| is not differentiable at x = 0.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 18: Explain applications of differentiation in velocity and acceleration with examples.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 19: Find the equations of tangent and normal to y = x^3 at x = 1.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "2nd Year",
+    "classId": "2nd Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Differentiation",
+    "chapterId": "Differentiation",
+    "type": "long",
+    "question": "Long Question 20: Give a complete summary of all standard differentiation formulas used in 2nd Year Mathematics.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "2nd Year",
+      "Math",
+      "Differentiation",
+      "long question"
+    ]
+  }
+]

@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 1: A motion that repeats itself after equal intervals of time is called:",
+    "options": [
+      "Periodic motion",
+      "Linear motion",
+      "Random motion",
+      "Projectile motion"
+    ],
+    "correctAnswer": "Periodic motion",
+    "explanation": "Periodic motion repeats after equal time intervals.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "periodic motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 2: Oscillatory motion is a type of:",
+    "options": [
+      "Periodic motion",
+      "Translatory motion only",
+      "Projectile motion only",
+      "Circular force only"
+    ],
+    "correctAnswer": "Periodic motion",
+    "explanation": "Oscillatory motion repeats about a mean position.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "oscillatory motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 3: Simple harmonic motion occurs when restoring force is:",
+    "options": [
+      "Directly proportional to displacement and opposite in direction",
+      "Equal to mass only",
+      "Always zero",
+      "Independent of displacement"
+    ],
+    "correctAnswer": "Directly proportional to displacement and opposite in direction",
+    "explanation": "SHM condition is F ∝ -x.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 4: The mean position in SHM is the position where:",
+    "options": [
+      "Net restoring force is zero",
+      "Speed is always zero",
+      "Acceleration is maximum",
+      "Displacement is maximum"
+    ],
+    "correctAnswer": "Net restoring force is zero",
+    "explanation": "At mean position displacement is zero, so restoring force is zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 5: Maximum displacement from mean position is called:",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Time period",
+      "Angular velocity"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanation": "Amplitude is maximum displacement from equilibrium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 6: The SI unit of amplitude is:",
+    "options": [
+      "metre",
+      "second",
+      "hertz",
+      "newton"
+    ],
+    "correctAnswer": "metre",
+    "explanation": "Amplitude is a displacement, so its SI unit is metre.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 7: The number of oscillations per second is called:",
+    "options": [
+      "Frequency",
+      "Time period",
+      "Amplitude",
+      "Phase"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Frequency is oscillations per unit time.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 8: The SI unit of frequency is:",
+    "options": [
+      "hertz",
+      "second",
+      "metre",
+      "radian"
+    ],
+    "correctAnswer": "hertz",
+    "explanation": "Frequency is measured in hertz.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 9: Time taken to complete one oscillation is called:",
+    "options": [
+      "Time period",
+      "Frequency",
+      "Amplitude",
+      "Damping"
+    ],
+    "correctAnswer": "Time period",
+    "explanation": "Time period is time for one complete oscillation.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 10: The SI unit of time period is:",
+    "options": [
+      "second",
+      "hertz",
+      "metre",
+      "newton"
+    ],
+    "correctAnswer": "second",
+    "explanation": "Time period is measured in seconds.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 11: The relation between frequency and time period is:",
+    "options": [
+      "f = 1/T",
+      "f = T",
+      "f = T²",
+      "f = 2T"
+    ],
+    "correctAnswer": "f = 1/T",
+    "explanation": "Frequency is reciprocal of time period.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 12: Angular frequency is given by:",
+    "options": [
+      "ω = 2πf",
+      "ω = f/2π",
+      "ω = 2π/T²",
+      "ω = T/2π"
+    ],
+    "correctAnswer": "ω = 2πf",
+    "explanation": "Angular frequency relates to frequency by 2πf.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "angular frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 13: Angular frequency can also be written as:",
+    "options": [
+      "ω = 2π/T",
+      "ω = T/2π",
+      "ω = fT",
+      "ω = 1/2πT"
+    ],
+    "correctAnswer": "ω = 2π/T",
+    "explanation": "Since f = 1/T, ω = 2π/T.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "angular frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 14: The SI unit of angular frequency is:",
+    "options": [
+      "rad s⁻¹",
+      "m s⁻¹",
+      "Hz m",
+      "N s"
+    ],
+    "correctAnswer": "rad s⁻¹",
+    "explanation": "Angular frequency is angle per unit time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "angular frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 15: The displacement equation of SHM is commonly written as:",
+    "options": [
+      "x = A sin(ωt + φ)",
+      "F = ma only",
+      "p = mv",
+      "v = u + at"
+    ],
+    "correctAnswer": "x = A sin(ωt + φ)",
+    "explanation": "SHM displacement varies sinusoidally with time.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 16: In SHM, velocity is maximum at:",
+    "options": [
+      "Mean position",
+      "Extreme position",
+      "Half amplitude only",
+      "Rest point only"
+    ],
+    "correctAnswer": "Mean position",
+    "explanation": "At mean position potential energy is minimum and kinetic energy is maximum.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 17: In SHM, velocity is zero at:",
+    "options": [
+      "Extreme position",
+      "Mean position",
+      "Every point",
+      "Quarter amplitude only"
+    ],
+    "correctAnswer": "Extreme position",
+    "explanation": "At extreme position the oscillator momentarily stops before reversing.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 18: In SHM, acceleration is maximum at:",
+    "options": [
+      "Extreme position",
+      "Mean position",
+      "Zero displacement",
+      "All points equally"
+    ],
+    "correctAnswer": "Extreme position",
+    "explanation": "Acceleration magnitude is proportional to displacement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 19: In SHM, acceleration is zero at:",
+    "options": [
+      "Mean position",
+      "Extreme position",
+      "Maximum displacement",
+      "All positions"
+    ],
+    "correctAnswer": "Mean position",
+    "explanation": "At mean position displacement is zero, so acceleration is zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 20: In SHM, acceleration is directed:",
+    "options": [
+      "Towards the mean position",
+      "Away from mean position",
+      "Always upward",
+      "Always along velocity"
+    ],
+    "correctAnswer": "Towards the mean position",
+    "explanation": "Restoring acceleration always points toward equilibrium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 21: The acceleration in SHM is given by:",
+    "options": [
+      "a = -ω²x",
+      "a = ωx",
+      "a = v/t only",
+      "a = F/m²"
+    ],
+    "correctAnswer": "a = -ω²x",
+    "explanation": "SHM acceleration is proportional to displacement and opposite in direction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 22: The restoring force in SHM is:",
+    "options": [
+      "F = -kx",
+      "F = k/x",
+      "F = kx²",
+      "F = mg only"
+    ],
+    "correctAnswer": "F = -kx",
+    "explanation": "Hooke’s law gives restoring force opposite to displacement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 23: The negative sign in F = -kx shows:",
+    "options": [
+      "Force is opposite to displacement",
+      "Force is zero",
+      "Mass is negative",
+      "Spring constant is negative"
+    ],
+    "correctAnswer": "Force is opposite to displacement",
+    "explanation": "Restoring force always acts toward mean position.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 24: The constant k in spring force is called:",
+    "options": [
+      "Spring constant",
+      "Frequency",
+      "Amplitude",
+      "Phase angle"
+    ],
+    "correctAnswer": "Spring constant",
+    "explanation": "k measures stiffness of the spring.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 25: The SI unit of spring constant is:",
+    "options": [
+      "N m⁻¹",
+      "N m",
+      "kg m s⁻¹",
+      "Hz"
+    ],
+    "correctAnswer": "N m⁻¹",
+    "explanation": "From F = kx, k = F/x.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 26: The time period of mass-spring system is:",
+    "options": [
+      "T = 2π√(m/k)",
+      "T = 2π√(k/m)",
+      "T = 2πmk",
+      "T = k/m"
+    ],
+    "correctAnswer": "T = 2π√(m/k)",
+    "explanation": "For horizontal spring-mass oscillator, T depends on mass and spring constant.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 27: For a mass-spring system, increasing mass causes time period to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Become zero",
+      "Remain always same"
+    ],
+    "correctAnswer": "Increase",
+    "explanation": "T is proportional to √m.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 28: For a mass-spring system, increasing spring constant causes time period to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Become infinite",
+      "Become equal to mass"
+    ],
+    "correctAnswer": "Decrease",
+    "explanation": "T is inversely proportional to √k.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 29: A simple pendulum consists of:",
+    "options": [
+      "Small bob suspended by a light inextensible string",
+      "A spring only",
+      "A wheel only",
+      "A battery and resistor"
+    ],
+    "correctAnswer": "Small bob suspended by a light inextensible string",
+    "explanation": "A simple pendulum is an idealized bob-string system.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 30: The time period of simple pendulum is:",
+    "options": [
+      "T = 2π√(l/g)",
+      "T = 2π√(g/l)",
+      "T = 2πlg",
+      "T = g/l"
+    ],
+    "correctAnswer": "T = 2π√(l/g)",
+    "explanation": "For small oscillations, pendulum period depends on length and g.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 31: Time period of simple pendulum depends on:",
+    "options": [
+      "Length and gravitational acceleration",
+      "Mass of bob only",
+      "Amplitude only for small angles",
+      "Colour of bob"
+    ],
+    "correctAnswer": "Length and gravitational acceleration",
+    "explanation": "For small amplitude, T = 2π√(l/g).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 32: For small oscillations, time period of simple pendulum is independent of:",
+    "options": [
+      "Mass of bob",
+      "Length",
+      "g",
+      "Gravitational field"
+    ],
+    "correctAnswer": "Mass of bob",
+    "explanation": "Mass does not appear in T = 2π√(l/g).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 33: If length of pendulum increases, its time period:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Does not change"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "T is proportional to √l.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 34: If value of g increases, time period of pendulum:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes infinite",
+      "Remains fixed"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "T is inversely proportional to √g.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 35: A seconds pendulum has time period:",
+    "options": [
+      "2 s",
+      "1 s",
+      "0.5 s",
+      "4 s"
+    ],
+    "correctAnswer": "2 s",
+    "explanation": "A seconds pendulum takes 1 second for each swing, so full period is 2 s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 36: Total mechanical energy in ideal SHM is:",
+    "options": [
+      "Constant",
+      "Always increasing",
+      "Always decreasing",
+      "Zero at extremes"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Without damping, energy is conserved.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 37: In SHM, kinetic energy is maximum at:",
+    "options": [
+      "Mean position",
+      "Extreme position",
+      "Quarter position only",
+      "No point"
+    ],
+    "correctAnswer": "Mean position",
+    "explanation": "Speed is maximum at mean position.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 38: In SHM, potential energy is maximum at:",
+    "options": [
+      "Extreme position",
+      "Mean position",
+      "Zero displacement",
+      "All points equally"
+    ],
+    "correctAnswer": "Extreme position",
+    "explanation": "Potential energy is greatest at maximum displacement.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 39: At extreme position of SHM, kinetic energy is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Equal to total energy always",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Velocity is zero at extreme position.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 40: At mean position of SHM, potential energy is:",
+    "options": [
+      "Minimum",
+      "Maximum",
+      "Infinite",
+      "Equal to kinetic energy always"
+    ],
+    "correctAnswer": "Minimum",
+    "explanation": "For spring SHM, PE is minimum at x = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 41: The graph of displacement-time for SHM is:",
+    "options": [
+      "Sinusoidal",
+      "Straight horizontal only",
+      "Parabolic only",
+      "Random"
+    ],
+    "correctAnswer": "Sinusoidal",
+    "explanation": "SHM displacement varies as sine or cosine with time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 42: Phase describes:",
+    "options": [
+      "State of oscillation at a given time",
+      "Mass only",
+      "Spring length only",
+      "Energy loss only"
+    ],
+    "correctAnswer": "State of oscillation at a given time",
+    "explanation": "Phase indicates position and direction in oscillatory cycle.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 43: Two oscillations are in phase when their phase difference is:",
+    "options": [
+      "0 or 2π",
+      "π/2 only",
+      "π only",
+      "3π/2 only"
+    ],
+    "correctAnswer": "0 or 2π",
+    "explanation": "In-phase oscillations have same state of motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 44: Two oscillations are opposite in phase when phase difference is:",
+    "options": [
+      "π",
+      "0",
+      "2π",
+      "π/4"
+    ],
+    "correctAnswer": "π",
+    "explanation": "Opposite phase means half-cycle difference.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 45: Damped oscillations are oscillations whose amplitude:",
+    "options": [
+      "Gradually decreases",
+      "Gradually increases always",
+      "Remains constant forever",
+      "Becomes infinite"
+    ],
+    "correctAnswer": "Gradually decreases",
+    "explanation": "Damping removes energy from oscillator.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 46: Damping occurs due to:",
+    "options": [
+      "Energy loss through resistive forces",
+      "No force at all",
+      "Increase in mass only",
+      "Increase in amplitude only"
+    ],
+    "correctAnswer": "Energy loss through resistive forces",
+    "explanation": "Friction or air resistance causes damping.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 47: Example of damping is:",
+    "options": [
+      "Shock absorbers in vehicles",
+      "Ideal pendulum in vacuum",
+      "Frictionless spring",
+      "Perfect energy conservation"
+    ],
+    "correctAnswer": "Shock absorbers in vehicles",
+    "explanation": "Shock absorbers reduce unwanted oscillations.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 48: Free oscillations occur when a system oscillates with:",
+    "options": [
+      "Its natural frequency",
+      "External forced frequency only",
+      "Zero frequency",
+      "Infinite amplitude"
+    ],
+    "correctAnswer": "Its natural frequency",
+    "explanation": "Free oscillations happen without continuous external driving force.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "free oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 49: Natural frequency is:",
+    "options": [
+      "Frequency at which a system oscillates freely",
+      "Frequency of light only",
+      "Frequency of external noise only",
+      "Zero frequency"
+    ],
+    "correctAnswer": "Frequency at which a system oscillates freely",
+    "explanation": "Every oscillator has its own natural frequency.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "natural frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 50: Forced oscillations occur due to:",
+    "options": [
+      "Periodic external force",
+      "Zero force",
+      "Only gravity removed",
+      "No energy input"
+    ],
+    "correctAnswer": "Periodic external force",
+    "explanation": "Forced oscillations are maintained by external periodic driving force.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "forced oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 51: In forced oscillations, the oscillator eventually vibrates with:",
+    "options": [
+      "Driving frequency",
+      "Zero frequency",
+      "Only natural frequency always",
+      "Infinite frequency"
+    ],
+    "correctAnswer": "Driving frequency",
+    "explanation": "A forced oscillator follows external driving frequency in steady state.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "forced oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 52: Resonance occurs when driving frequency is equal to:",
+    "options": [
+      "Natural frequency",
+      "Zero frequency",
+      "Twice mass",
+      "Spring constant only"
+    ],
+    "correctAnswer": "Natural frequency",
+    "explanation": "Resonance happens when frequencies match.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 53: At resonance, amplitude becomes:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum only",
+      "Unchanged always"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Energy transfer is maximum at resonance.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 54: Resonance is useful in:",
+    "options": [
+      "Tuning radio receivers",
+      "Breaking all bridges only",
+      "Stopping all sounds",
+      "Reducing all amplitudes"
+    ],
+    "correctAnswer": "Tuning radio receivers",
+    "explanation": "Radio circuits use resonance to select desired frequency.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 55: A harmful effect of resonance can occur in:",
+    "options": [
+      "Bridges under periodic force",
+      "Measuring mass only",
+      "Static objects only",
+      "Chemical reaction only"
+    ],
+    "correctAnswer": "Bridges under periodic force",
+    "explanation": "Large resonant oscillations can damage structures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 56: The motion of a simple pendulum is approximately SHM when:",
+    "options": [
+      "Amplitude is small",
+      "Amplitude is very large",
+      "String is elastic",
+      "Bob is massless"
+    ],
+    "correctAnswer": "Amplitude is small",
+    "explanation": "Small-angle approximation makes pendulum motion SHM.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 57: The restoring force of simple pendulum is due to:",
+    "options": [
+      "Component of weight",
+      "Tension only along string",
+      "Air pressure only",
+      "Magnetic force always"
+    ],
+    "correctAnswer": "Component of weight",
+    "explanation": "Tangential component of weight pulls bob toward mean position.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 58: At mean position of pendulum, speed is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum",
+      "Infinite"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Potential energy converts into kinetic energy at mean position.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 59: At extreme position of pendulum, speed is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Constant maximum",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Bob stops momentarily at extremes before returning.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 60: At extreme position of pendulum, potential energy is:",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero always",
+      "Equal to zero only"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Height is greatest at extreme position.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 61: At mean position of pendulum, kinetic energy is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum only",
+      "Infinite"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Speed is greatest at mean position.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 62: If frequency is 5 Hz, time period is:",
+    "options": [
+      "0.2 s",
+      "5 s",
+      "10 s",
+      "2 s"
+    ],
+    "correctAnswer": "0.2 s",
+    "explanation": "T = 1/f = 1/5 = 0.2 s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 63: If time period is 0.5 s, frequency is:",
+    "options": [
+      "2 Hz",
+      "0.5 Hz",
+      "5 Hz",
+      "1 Hz"
+    ],
+    "correctAnswer": "2 Hz",
+    "explanation": "f = 1/T = 1/0.5 = 2 Hz.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 64: If an oscillator completes 20 oscillations in 10 s, frequency is:",
+    "options": [
+      "2 Hz",
+      "20 Hz",
+      "10 Hz",
+      "0.5 Hz"
+    ],
+    "correctAnswer": "2 Hz",
+    "explanation": "f = number of oscillations/time = 20/10 = 2 Hz.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 65: If an oscillator completes 10 oscillations in 20 s, time period is:",
+    "options": [
+      "2 s",
+      "0.5 s",
+      "10 s",
+      "20 s"
+    ],
+    "correctAnswer": "2 s",
+    "explanation": "T = total time/oscillations = 20/10 = 2 s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 66: The formula v = fλ is related to:",
+    "options": [
+      "Wave speed",
+      "Spring force",
+      "Pendulum time",
+      "Damping force"
+    ],
+    "correctAnswer": "Wave speed",
+    "explanation": "Wave speed equals frequency times wavelength.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 67: In v = fλ, λ represents:",
+    "options": [
+      "Wavelength",
+      "Frequency",
+      "Time period",
+      "Amplitude"
+    ],
+    "correctAnswer": "Wavelength",
+    "explanation": "Lambda λ denotes wavelength.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 68: The SI unit of wavelength is:",
+    "options": [
+      "metre",
+      "hertz",
+      "second",
+      "newton"
+    ],
+    "correctAnswer": "metre",
+    "explanation": "Wavelength is distance between two consecutive similar points.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 69: The distance between two consecutive crests is:",
+    "options": [
+      "Wavelength",
+      "Amplitude",
+      "Time period",
+      "Frequency"
+    ],
+    "correctAnswer": "Wavelength",
+    "explanation": "Wavelength is distance between adjacent points in same phase.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 70: Maximum displacement of particles of medium in a wave is:",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wave speed",
+      "Phase difference"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanation": "Amplitude is maximum displacement from mean position.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 71: Wave speed depends on:",
+    "options": [
+      "Properties of medium",
+      "Only amplitude",
+      "Only colour",
+      "Only phase"
+    ],
+    "correctAnswer": "Properties of medium",
+    "explanation": "Wave speed is determined by the medium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 72: A transverse wave has particle vibration:",
+    "options": [
+      "Perpendicular to direction of wave travel",
+      "Parallel to direction of wave travel",
+      "Only circular",
+      "No vibration"
+    ],
+    "correctAnswer": "Perpendicular to direction of wave travel",
+    "explanation": "Transverse waves vibrate perpendicular to propagation.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 73: A longitudinal wave has particle vibration:",
+    "options": [
+      "Parallel to direction of wave travel",
+      "Perpendicular to direction of wave travel",
+      "Only upward",
+      "Only sideways"
+    ],
+    "correctAnswer": "Parallel to direction of wave travel",
+    "explanation": "Longitudinal waves vibrate parallel to propagation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 74: Sound waves in air are:",
+    "options": [
+      "Longitudinal waves",
+      "Transverse waves",
+      "Electromagnetic waves",
+      "Stationary only"
+    ],
+    "correctAnswer": "Longitudinal waves",
+    "explanation": "Sound in air travels by compressions and rarefactions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 75: Sound cannot travel through:",
+    "options": [
+      "Vacuum",
+      "Air",
+      "Water",
+      "Steel"
+    ],
+    "correctAnswer": "Vacuum",
+    "explanation": "Sound needs a material medium.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 76: Pitch of sound depends mainly on:",
+    "options": [
+      "Frequency",
+      "Amplitude",
+      "Speed only",
+      "Echo only"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Higher frequency produces higher pitch.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 77: Loudness of sound depends mainly on:",
+    "options": [
+      "Amplitude",
+      "Time period only",
+      "Wavelength only",
+      "Frequency only"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanation": "Greater amplitude usually gives louder sound.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 78: Sound intensity is proportional to:",
+    "options": [
+      "Square of amplitude",
+      "Amplitude only",
+      "Frequency inverse only",
+      "Time period only"
+    ],
+    "correctAnswer": "Square of amplitude",
+    "explanation": "Intensity ∝ A² for waves.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound intensity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 79: The unit decibel is used for:",
+    "options": [
+      "Sound level",
+      "Time period",
+      "Wavelength",
+      "Spring constant"
+    ],
+    "correctAnswer": "Sound level",
+    "explanation": "Decibel is a logarithmic unit for sound intensity level.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 80: Echo is caused by:",
+    "options": [
+      "Reflection of sound",
+      "Refraction of light",
+      "Absorption only",
+      "Damping only"
+    ],
+    "correctAnswer": "Reflection of sound",
+    "explanation": "Echo is reflected sound heard separately.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 81: For a distinct echo, reflected sound should reach after at least:",
+    "options": [
+      "0.1 s",
+      "1 s",
+      "0.001 s",
+      "10 s"
+    ],
+    "correctAnswer": "0.1 s",
+    "explanation": "Human ear needs about 0.1 s gap to distinguish echo.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 82: Echo can be used to measure:",
+    "options": [
+      "Distance",
+      "Mass",
+      "Temperature only",
+      "Electric current"
+    ],
+    "correctAnswer": "Distance",
+    "explanation": "Echo timing can determine distance to reflecting surface.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 83: Ultrasound means sound with frequency greater than:",
+    "options": [
+      "20,000 Hz",
+      "20 Hz",
+      "2,000 Hz",
+      "200 Hz"
+    ],
+    "correctAnswer": "20,000 Hz",
+    "explanation": "Ultrasound is above human hearing range.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 84: Infrasonic sound has frequency below:",
+    "options": [
+      "20 Hz",
+      "20,000 Hz",
+      "200 Hz",
+      "2,000 Hz"
+    ],
+    "correctAnswer": "20 Hz",
+    "explanation": "Infrasound is below human hearing range.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 85: The audible frequency range for humans is approximately:",
+    "options": [
+      "20 Hz to 20,000 Hz",
+      "0 Hz to 2 Hz",
+      "20,000 Hz to 40,000 Hz",
+      "1 MHz to 2 MHz"
+    ],
+    "correctAnswer": "20 Hz to 20,000 Hz",
+    "explanation": "Humans generally hear from about 20 Hz to 20 kHz.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 86: SONAR uses:",
+    "options": [
+      "Reflection of ultrasound",
+      "Reflection of radio waves only",
+      "Damping of pendulum",
+      "Spring oscillation only"
+    ],
+    "correctAnswer": "Reflection of ultrasound",
+    "explanation": "SONAR uses sound reflection for distance/depth measurement.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 87: The energy of SHM alternates between:",
+    "options": [
+      "Kinetic and potential energy",
+      "Heat and light only",
+      "Chemical and nuclear only",
+      "Mass and charge"
+    ],
+    "correctAnswer": "Kinetic and potential energy",
+    "explanation": "During SHM, energy transforms between KE and PE.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 88: In ideal SHM, when displacement is maximum, acceleration is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum zero",
+      "Infinite"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Acceleration magnitude is proportional to displacement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 89: In ideal SHM, when displacement is zero, velocity is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum always",
+      "Infinite"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "At mean position speed is maximum.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 90: Damped oscillations finally stop because:",
+    "options": [
+      "Energy is lost to surroundings",
+      "Mass becomes zero",
+      "Frequency becomes infinite",
+      "Gravity disappears"
+    ],
+    "correctAnswer": "Energy is lost to surroundings",
+    "explanation": "Resistive forces dissipate mechanical energy.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 91: Resonance requires matching between:",
+    "options": [
+      "Driving frequency and natural frequency",
+      "Mass and colour",
+      "Amplitude and length only",
+      "Speed and density only"
+    ],
+    "correctAnswer": "Driving frequency and natural frequency",
+    "explanation": "Maximum response occurs when driving frequency equals natural frequency.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 92: The restoring force always acts:",
+    "options": [
+      "Toward equilibrium position",
+      "Away from equilibrium",
+      "In direction of velocity only",
+      "Perpendicular to displacement always"
+    ],
+    "correctAnswer": "Toward equilibrium position",
+    "explanation": "Restoring force tries to bring oscillator back to mean position.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 93: The period of a pendulum on Moon compared with Earth is:",
+    "options": [
+      "Larger",
+      "Smaller",
+      "Same",
+      "Zero"
+    ],
+    "correctAnswer": "Larger",
+    "explanation": "Moon has smaller g, so T = 2π√(l/g) increases.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 94: If amplitude is doubled in ideal spring SHM, total energy becomes:",
+    "options": [
+      "Four times",
+      "Two times",
+      "Half",
+      "Same always"
+    ],
+    "correctAnswer": "Four times",
+    "explanation": "Total energy in spring SHM is proportional to A².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 95: The maximum speed in SHM is:",
+    "options": [
+      "Aω",
+      "A/ω",
+      "ω/A",
+      "Aω²"
+    ],
+    "correctAnswer": "Aω",
+    "explanation": "Maximum speed occurs at mean position and equals Aω.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 96: The maximum acceleration in SHM is:",
+    "options": [
+      "Aω²",
+      "Aω",
+      "A/ω²",
+      "ω/A"
+    ],
+    "correctAnswer": "Aω²",
+    "explanation": "Maximum acceleration occurs at extremes.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 97: The frequency of a spring-mass oscillator is:",
+    "options": [
+      "f = 1/(2π)√(k/m)",
+      "f = 2π√(m/k)",
+      "f = k/m",
+      "f = m/k"
+    ],
+    "correctAnswer": "f = 1/(2π)√(k/m)",
+    "explanation": "Frequency is reciprocal of T = 2π√(m/k).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 98: The frequency of simple pendulum is:",
+    "options": [
+      "f = 1/(2π)√(g/l)",
+      "f = 2π√(l/g)",
+      "f = gl",
+      "f = l/g"
+    ],
+    "correctAnswer": "f = 1/(2π)√(g/l)",
+    "explanation": "Frequency is reciprocal of T = 2π√(l/g).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 99: If damping is very large, oscillations:",
+    "options": [
+      "Die out quickly",
+      "Increase forever",
+      "Remain unchanged",
+      "Become resonance always"
+    ],
+    "correctAnswer": "Die out quickly",
+    "explanation": "Strong damping removes energy rapidly.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "mcq",
+    "question": "MCQ 100: In resonance, energy transfer is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Minimum always",
+      "Independent of frequency"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "At resonance, system absorbs energy most effectively.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 1: Define periodic motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "periodic motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 2: Define oscillatory motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "oscillatory motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 3: Define simple harmonic motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 4: Write the condition for SHM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 5: Define amplitude and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "amplitude"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 6: Define frequency and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 7: Define time period and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "time period"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 8: Write the relation between frequency and time period.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 9: Define angular frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "angular frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 10: Write the relation between angular frequency and frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "angular frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 11: What is meant by restoring force?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 12: Write Hooke’s law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 13: What does the negative sign in F = -kx show?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "restoring force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 14: Define spring constant and its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 15: Write the formula for time period of mass-spring system.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 16: How does mass affect the time period of spring-mass system?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 17: How does spring constant affect the time period of spring-mass system?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 18: What is a simple pendulum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 19: Write the formula for time period of simple pendulum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 20: On which factors does the time period of simple pendulum depend?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 21: What is a seconds pendulum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 22: Where is velocity maximum in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 23: Where is velocity zero in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 24: Where is acceleration maximum in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 25: Where is acceleration zero in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 26: Write the formula for acceleration in SHM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "acceleration in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 27: How does energy transform in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 28: Where is kinetic energy maximum in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 29: Where is potential energy maximum in SHM?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 30: Define phase of oscillation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 31: What is meant by phase difference?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 32: Define damping.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 33: Give one example of damping.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 34: What are free oscillations?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "free oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 35: Define natural frequency.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "natural frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 36: What are forced oscillations?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "forced oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 37: Define resonance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 38: Write one useful application of resonance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 39: Write one harmful effect of resonance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 40: Define wave motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 41: Write the relation v = fλ and define its terms.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 42: Define wavelength.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wavelength"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 43: Differentiate between transverse and longitudinal waves.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 44: What type of wave is sound in air?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 45: Why sound cannot travel through vacuum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 46: Define pitch of sound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 47: Define loudness of sound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 48: Define echo.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 49: What is the minimum time for a distinct echo?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "short",
+    "question": "Short Question 50: What is ultrasound?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 1: Explain periodic motion and oscillatory motion with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "periodic motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 2: Define SHM and explain its necessary condition using restoring force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 3: Explain amplitude, time period, frequency and angular frequency in SHM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 4: Derive or explain the relation a = -ω²x for SHM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "SHM equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 5: Explain velocity and acceleration at mean and extreme positions in SHM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "velocity acceleration SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 6: Explain energy transformation in simple harmonic motion.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "energy in SHM"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 7: Describe mass-spring oscillator and derive/explain its time period formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "spring mass system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 8: Explain simple pendulum and its time period formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 9: Discuss the factors affecting the time period of a simple pendulum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "simple pendulum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 10: Differentiate between free, damped and forced oscillations.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "oscillations"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 11: Explain damping and its practical applications.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "damping"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 12: Explain resonance with useful and harmful examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 13: Explain wave motion and the relation v = fλ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 14: Differentiate between transverse and longitudinal waves with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "wave motion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 15: Explain sound waves, audible range, ultrasound and infrasound.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "sound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 16: Explain echo and how it can be used to measure distance.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "echo"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 17: Describe SONAR and its use in depth measurement.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "ultrasound"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 18: Write a detailed note on phase and phase difference in oscillations.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "phase"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 19: Solve a numerical-based long question using frequency, time period and angular frequency relations.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "frequency"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Oscillations",
+    "chapterId": "Oscillations",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on applications of oscillations in daily life and technology.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Oscillations",
+      "oscillations"
+    ]
+  }
+]

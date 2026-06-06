@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 1: Which of the following is the SI base unit of amount of substance?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole"
+    ],
+    "options": [
+      "Mole",
+      "Gram",
+      "Kilogram",
+      "Molecule"
+    ],
+    "correctAnswer": "Mole",
+    "explanation": "The mole is the SI base unit used to measure amount of substance."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 2: The number of particles present in one mole of a substance is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "Avogadro constant"
+    ],
+    "options": [
+      "Avogadro constant",
+      "Faraday constant",
+      "Planck constant",
+      "Gas constant"
+    ],
+    "correctAnswer": "Avogadro constant",
+    "explanation": "Avogadro constant is 6.022 × 10^23 particles per mole."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 3: The value of Avogadro constant is approximately:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "Avogadro constant"
+    ],
+    "options": [
+      "6.022 × 10^23 mol^-1",
+      "3.00 × 10^8 mol^-1",
+      "9.11 × 10^-31 mol^-1",
+      "1.66 × 10^-27 mol^-1"
+    ],
+    "correctAnswer": "6.022 × 10^23 mol^-1",
+    "explanation": "One mole contains 6.022 × 10^23 entities."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 4: The relative atomic mass of an element is measured relative to:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "atomic mass"
+    ],
+    "options": [
+      "1/12 mass of carbon-12 atom",
+      "mass of hydrogen atom only",
+      "mass of oxygen molecule",
+      "mass of one electron"
+    ],
+    "correctAnswer": "1/12 mass of carbon-12 atom",
+    "explanation": "Carbon-12 is the standard for atomic mass scale."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 5: The empirical formula of a compound shows:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "empirical formula"
+    ],
+    "options": [
+      "simplest whole-number ratio of atoms",
+      "actual number of atoms in a molecule",
+      "arrangement of atoms in space",
+      "ionic charge only"
+    ],
+    "correctAnswer": "simplest whole-number ratio of atoms",
+    "explanation": "Empirical formula represents the simplest atomic ratio."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 6: The molecular formula of glucose is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular formula"
+    ],
+    "options": [
+      "C6H12O6",
+      "CH2O",
+      "C2H6O",
+      "C12H22O11"
+    ],
+    "correctAnswer": "C6H12O6",
+    "explanation": "Glucose has six carbon, twelve hydrogen and six oxygen atoms."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 7: The empirical formula of glucose C6H12O6 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "empirical formula"
+    ],
+    "options": [
+      "CH2O",
+      "C6H12O6",
+      "C3H6O3",
+      "C2H4O2"
+    ],
+    "correctAnswer": "CH2O",
+    "explanation": "Dividing the subscripts by 6 gives CH2O."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 8: Molar mass is usually expressed in:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "g mol^-1",
+      "mol L^-1",
+      "g cm^-3",
+      "kg m^-3 only"
+    ],
+    "correctAnswer": "g mol^-1",
+    "explanation": "Molar mass is mass per mole, commonly in grams per mole."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 9: The molar mass of water is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "18 g mol^-1",
+      "16 g mol^-1",
+      "20 g mol^-1",
+      "10 g mol^-1"
+    ],
+    "correctAnswer": "18 g mol^-1",
+    "explanation": "H2O has molar mass 2(1)+16 = 18 g mol^-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 10: The molar mass of carbon dioxide is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "44 g mol^-1",
+      "28 g mol^-1",
+      "32 g mol^-1",
+      "12 g mol^-1"
+    ],
+    "correctAnswer": "44 g mol^-1",
+    "explanation": "CO2 has molar mass 12 + 2(16) = 44 g mol^-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 11: One mole of oxygen gas O2 contains how many molecules?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole"
+    ],
+    "options": [
+      "6.022 × 10^23 molecules",
+      "3.011 × 10^23 molecules",
+      "12.044 × 10^23 molecules",
+      "1.00 × 10^23 molecules"
+    ],
+    "correctAnswer": "6.022 × 10^23 molecules",
+    "explanation": "One mole of any molecular substance contains Avogadro number of molecules."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 12: One mole of oxygen gas O2 contains how many oxygen atoms?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecules atoms"
+    ],
+    "options": [
+      "1.2044 × 10^24 atoms",
+      "6.022 × 10^23 atoms",
+      "3.011 × 10^23 atoms",
+      "2 atoms"
+    ],
+    "correctAnswer": "1.2044 × 10^24 atoms",
+    "explanation": "Each O2 molecule has two oxygen atoms, so atoms = 2NA."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 13: The mass of one mole of carbon atoms is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole"
+    ],
+    "options": [
+      "12 g",
+      "6 g",
+      "24 g",
+      "1 g"
+    ],
+    "correctAnswer": "12 g",
+    "explanation": "Carbon has atomic mass about 12 u, so one mole has mass 12 g."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 14: A compound contains only one type of:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "compound"
+    ],
+    "options": [
+      "molecule made from chemically combined atoms",
+      "atom with same proton number only",
+      "mixture of gases",
+      "isotope"
+    ],
+    "correctAnswer": "molecule made from chemically combined atoms",
+    "explanation": "A compound consists of elements chemically combined in a fixed ratio."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 15: A homogeneous mixture has:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mixture"
+    ],
+    "options": [
+      "uniform composition throughout",
+      "different layers",
+      "only one element",
+      "fixed chemical formula"
+    ],
+    "correctAnswer": "uniform composition throughout",
+    "explanation": "Homogeneous mixtures are uniform in composition and properties."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 16: Which of the following is a pure substance?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "pure substance"
+    ],
+    "options": [
+      "Distilled water",
+      "Air",
+      "Milk",
+      "Soil"
+    ],
+    "correctAnswer": "Distilled water",
+    "explanation": "Distilled water is a pure compound, while air, milk and soil are mixtures."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 17: Which of the following is a mixture?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mixture"
+    ],
+    "options": [
+      "Air",
+      "Sodium chloride",
+      "Carbon dioxide",
+      "Water"
+    ],
+    "correctAnswer": "Air",
+    "explanation": "Air is a mixture mainly of nitrogen, oxygen and other gases."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 18: The formula mass of NaCl is approximately:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula mass"
+    ],
+    "options": [
+      "58.5 u",
+      "23 u",
+      "35.5 u",
+      "18 u"
+    ],
+    "correctAnswer": "58.5 u",
+    "explanation": "NaCl formula mass = 23 + 35.5 = 58.5 u."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 19: The molecular mass of H2SO4 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular mass"
+    ],
+    "options": [
+      "98 u",
+      "96 u",
+      "100 u",
+      "49 u"
+    ],
+    "correctAnswer": "98 u",
+    "explanation": "H2SO4 = 2(1)+32+4(16)=98 u."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 20: The percentage of oxygen by mass in water is approximately:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage composition"
+    ],
+    "options": [
+      "88.9%",
+      "11.1%",
+      "50%",
+      "16%"
+    ],
+    "correctAnswer": "88.9%",
+    "explanation": "Oxygen mass in H2O is 16 out of 18, so percentage = 88.9%."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 21: The percentage of hydrogen by mass in water is approximately:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage composition"
+    ],
+    "options": [
+      "11.1%",
+      "88.9%",
+      "5.6%",
+      "2%"
+    ],
+    "correctAnswer": "11.1%",
+    "explanation": "Hydrogen mass in H2O is 2 out of 18, so percentage = 11.1%."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 22: A limiting reactant is the reactant which:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "limiting reactant"
+    ],
+    "options": [
+      "is completely consumed first",
+      "is present in excess",
+      "has greatest molar mass",
+      "does not take part in reaction"
+    ],
+    "correctAnswer": "is completely consumed first",
+    "explanation": "The limiting reactant controls the maximum amount of product formed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 23: The reactant left after completion of a reaction is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "excess reactant"
+    ],
+    "options": [
+      "excess reactant",
+      "limiting reactant",
+      "product",
+      "catalyst"
+    ],
+    "correctAnswer": "excess reactant",
+    "explanation": "Excess reactant remains after the limiting reactant is consumed."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 24: Stoichiometry deals with:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "stoichiometry"
+    ],
+    "options": [
+      "quantitative relationships in chemical reactions",
+      "colour changes only",
+      "laboratory safety only",
+      "naming elements only"
+    ],
+    "correctAnswer": "quantitative relationships in chemical reactions",
+    "explanation": "Stoichiometry uses balanced equations to calculate amounts of reactants and products."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 25: A balanced chemical equation obeys the law of:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "balanced equation"
+    ],
+    "options": [
+      "conservation of mass",
+      "definite proportions only",
+      "multiple proportions only",
+      "Avogadro only"
+    ],
+    "correctAnswer": "conservation of mass",
+    "explanation": "In a balanced equation, atoms and mass are conserved."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 26: In the equation 2H2 + O2 → 2H2O, the mole ratio of H2 to O2 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole ratio"
+    ],
+    "options": [
+      "2:1",
+      "1:2",
+      "1:1",
+      "2:2"
+    ],
+    "correctAnswer": "2:1",
+    "explanation": "The coefficients show 2 moles H2 react with 1 mole O2."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 27: In 2H2 + O2 → 2H2O, 1 mole of O2 produces:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "stoichiometry"
+    ],
+    "options": [
+      "2 moles of H2O",
+      "1 mole of H2O",
+      "3 moles of H2O",
+      "4 moles of H2O"
+    ],
+    "correctAnswer": "2 moles of H2O",
+    "explanation": "The coefficient of water is 2 for every 1 mole O2."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 28: The actual yield is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "yield"
+    ],
+    "options": [
+      "amount of product obtained experimentally",
+      "maximum calculated product",
+      "percentage of product",
+      "mass of limiting reactant"
+    ],
+    "correctAnswer": "amount of product obtained experimentally",
+    "explanation": "Actual yield is measured in the lab after the reaction."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 29: The theoretical yield is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "yield"
+    ],
+    "options": [
+      "maximum amount of product calculated from equation",
+      "amount obtained practically",
+      "impure product only",
+      "leftover reactant"
+    ],
+    "correctAnswer": "maximum amount of product calculated from equation",
+    "explanation": "Theoretical yield is predicted from stoichiometric calculations."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 30: Percentage yield is calculated by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage yield"
+    ],
+    "options": [
+      "actual yield/theoretical yield × 100",
+      "theoretical yield/actual yield × 100",
+      "actual yield + theoretical yield",
+      "actual yield × theoretical yield"
+    ],
+    "correctAnswer": "actual yield/theoretical yield × 100",
+    "explanation": "Percent yield compares actual product with theoretical product."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 31: If theoretical yield is 20 g and actual yield is 15 g, percentage yield is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage yield"
+    ],
+    "options": [
+      "75%",
+      "80%",
+      "60%",
+      "35%"
+    ],
+    "correctAnswer": "75%",
+    "explanation": "Percent yield = 15/20 × 100 = 75%."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 32: The mass of 0.5 mole of CO2 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "22 g",
+      "44 g",
+      "11 g",
+      "88 g"
+    ],
+    "correctAnswer": "22 g",
+    "explanation": "Mass = moles × molar mass = 0.5 × 44 = 22 g."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 33: The number of moles in 9 g of water is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "0.5 mol",
+      "1 mol",
+      "2 mol",
+      "9 mol"
+    ],
+    "correctAnswer": "0.5 mol",
+    "explanation": "Moles = mass/molar mass = 9/18 = 0.5 mol."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 34: The number of moles in 22 g of CO2 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "0.5 mol",
+      "1 mol",
+      "2 mol",
+      "0.25 mol"
+    ],
+    "correctAnswer": "0.5 mol",
+    "explanation": "Moles = 22/44 = 0.5 mol."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 35: The mass of 2 moles of NaCl is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "117 g",
+      "58.5 g",
+      "23 g",
+      "35.5 g"
+    ],
+    "correctAnswer": "117 g",
+    "explanation": "Mass = 2 × 58.5 = 117 g."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 36: At STP, one mole of an ideal gas occupies approximately:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar volume"
+    ],
+    "options": [
+      "22.4 dm3",
+      "24 dm3",
+      "1 dm3",
+      "11.2 dm3"
+    ],
+    "correctAnswer": "22.4 dm3",
+    "explanation": "At STP, molar volume of an ideal gas is 22.4 dm3."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 37: At STP, 0.5 mole of a gas occupies:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar volume"
+    ],
+    "options": [
+      "11.2 dm3",
+      "22.4 dm3",
+      "44.8 dm3",
+      "5.6 dm3"
+    ],
+    "correctAnswer": "11.2 dm3",
+    "explanation": "Volume = 0.5 × 22.4 = 11.2 dm3."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 38: At STP, 44.8 dm3 of a gas contains:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar volume"
+    ],
+    "options": [
+      "2 moles",
+      "1 mole",
+      "0.5 mole",
+      "4 moles"
+    ],
+    "correctAnswer": "2 moles",
+    "explanation": "Moles = 44.8/22.4 = 2."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 39: The term isotope refers to atoms of same element having:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "isotopes"
+    ],
+    "options": [
+      "same atomic number but different mass numbers",
+      "different atomic numbers and same mass number",
+      "same mass number only",
+      "same number of neutrons only"
+    ],
+    "correctAnswer": "same atomic number but different mass numbers",
+    "explanation": "Isotopes have same protons but different neutrons."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 40: The atomic number of an element is equal to the number of:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "atomic number"
+    ],
+    "options": [
+      "protons",
+      "neutrons",
+      "protons plus neutrons",
+      "moles"
+    ],
+    "correctAnswer": "protons",
+    "explanation": "Atomic number is the number of protons in the nucleus."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 41: The mass number of an atom is equal to:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mass number"
+    ],
+    "options": [
+      "protons + neutrons",
+      "protons only",
+      "neutrons only",
+      "electrons only"
+    ],
+    "correctAnswer": "protons + neutrons",
+    "explanation": "Mass number is total nucleons in the nucleus."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 42: The number of neutrons in 23Na is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "neutrons"
+    ],
+    "options": [
+      "12",
+      "11",
+      "23",
+      "34"
+    ],
+    "correctAnswer": "12",
+    "explanation": "Sodium has atomic number 11, so neutrons = 23 - 11 = 12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 43: The number of neutrons in 35Cl is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "neutrons"
+    ],
+    "options": [
+      "18",
+      "17",
+      "35",
+      "52"
+    ],
+    "correctAnswer": "18",
+    "explanation": "Chlorine has atomic number 17, so neutrons = 35 - 17 = 18."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 44: The relative abundance of isotopes is used to calculate:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "isotopes"
+    ],
+    "options": [
+      "average atomic mass",
+      "molecular formula",
+      "empirical formula",
+      "percentage yield"
+    ],
+    "correctAnswer": "average atomic mass",
+    "explanation": "Average atomic mass depends on isotopic masses and their abundances."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 45: If chlorine has isotopes 35Cl and 37Cl, its average atomic mass is close to 35.5 because:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "isotopes"
+    ],
+    "options": [
+      "35Cl is more abundant",
+      "37Cl is more abundant",
+      "both are equally abundant",
+      "chlorine has no isotopes"
+    ],
+    "correctAnswer": "35Cl is more abundant",
+    "explanation": "The average is closer to the mass of the more abundant isotope."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 46: The mass of one atom of an element compared with 1/12 mass of C-12 is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "relative atomic mass"
+    ],
+    "options": [
+      "relative atomic mass",
+      "molar volume",
+      "molecular formula",
+      "percentage yield"
+    ],
+    "correctAnswer": "relative atomic mass",
+    "explanation": "Relative atomic mass compares atomic mass with the carbon-12 standard."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 47: The sum of atomic masses of all atoms in a molecule is called:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular mass"
+    ],
+    "options": [
+      "molecular mass",
+      "atomic number",
+      "empirical mass",
+      "Avogadro constant"
+    ],
+    "correctAnswer": "molecular mass",
+    "explanation": "Molecular mass is the total of atomic masses in one molecule."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 48: The sum of atomic masses in one formula unit of an ionic compound is called:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula mass"
+    ],
+    "options": [
+      "formula mass",
+      "molecular mass only",
+      "atomic number",
+      "mass number"
+    ],
+    "correctAnswer": "formula mass",
+    "explanation": "Ionic compounds are represented by formula units, so formula mass is used."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 49: The unit atomic mass unit is abbreviated as:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "atomic mass unit"
+    ],
+    "options": [
+      "u",
+      "mol",
+      "g",
+      "dm3"
+    ],
+    "correctAnswer": "u",
+    "explanation": "Atomic and molecular masses are commonly expressed in unified atomic mass units, u."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 50: One atomic mass unit is defined as:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "atomic mass unit"
+    ],
+    "options": [
+      "1/12 mass of one carbon-12 atom",
+      "mass of one hydrogen molecule",
+      "mass of one electron",
+      "one gram exactly"
+    ],
+    "correctAnswer": "1/12 mass of one carbon-12 atom",
+    "explanation": "The atomic mass unit is based on carbon-12."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 51: The empirical formula of benzene C6H6 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "empirical formula"
+    ],
+    "options": [
+      "CH",
+      "C6H6",
+      "C2H2",
+      "C3H3"
+    ],
+    "correctAnswer": "CH",
+    "explanation": "Dividing C6H6 by 6 gives CH."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 52: The empirical formula of hydrogen peroxide H2O2 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "empirical formula"
+    ],
+    "options": [
+      "HO",
+      "H2O2",
+      "H2O",
+      "OH2"
+    ],
+    "correctAnswer": "HO",
+    "explanation": "The simplest ratio in H2O2 is 1:1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 53: The molecular formula is always:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular formula"
+    ],
+    "options": [
+      "a whole-number multiple of empirical formula",
+      "smaller than empirical formula",
+      "unrelated to empirical formula",
+      "only for ionic compounds"
+    ],
+    "correctAnswer": "a whole-number multiple of empirical formula",
+    "explanation": "Molecular formula equals n times empirical formula."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 54: If empirical formula mass is 30 and molecular mass is 180, n is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular formula"
+    ],
+    "options": [
+      "6",
+      "3",
+      "30",
+      "180"
+    ],
+    "correctAnswer": "6",
+    "explanation": "n = molecular mass/empirical formula mass = 180/30 = 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 55: If empirical formula is CH2O and n = 6, molecular formula is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular formula"
+    ],
+    "options": [
+      "C6H12O6",
+      "CH2O",
+      "C3H6O3",
+      "C6H6O6"
+    ],
+    "correctAnswer": "C6H12O6",
+    "explanation": "Multiply each subscript in CH2O by 6."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 56: The law of definite proportions states that a compound always contains:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "law of definite proportions"
+    ],
+    "options": [
+      "same elements in fixed proportion by mass",
+      "different elements in variable amounts",
+      "same isotopes only",
+      "equal numbers of atoms always"
+    ],
+    "correctAnswer": "same elements in fixed proportion by mass",
+    "explanation": "A pure compound has a constant composition by mass."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 57: The law of multiple proportions applies when two elements form:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "law of multiple proportions"
+    ],
+    "options": [
+      "more than one compound",
+      "only one compound",
+      "only mixtures",
+      "only isotopes"
+    ],
+    "correctAnswer": "more than one compound",
+    "explanation": "The law compares mass ratios in different compounds of same elements."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 58: Which pair illustrates the law of multiple proportions?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "law of multiple proportions"
+    ],
+    "options": [
+      "CO and CO2",
+      "NaCl and KCl",
+      "H2O and NaOH",
+      "O2 and O3 only"
+    ],
+    "correctAnswer": "CO and CO2",
+    "explanation": "CO and CO2 are different compounds of carbon and oxygen with simple mass ratios."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 59: The branch of chemistry dealing with energy changes is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "thermochemistry",
+      "stoichiometry",
+      "analytical chemistry",
+      "nuclear chemistry"
+    ],
+    "correctAnswer": "thermochemistry",
+    "explanation": "Thermochemistry studies heat changes in chemical reactions."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 60: The branch of chemistry that deals with carbon compounds is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "organic chemistry",
+      "inorganic chemistry",
+      "physical chemistry",
+      "biochemistry"
+    ],
+    "correctAnswer": "organic chemistry",
+    "explanation": "Organic chemistry mainly studies carbon compounds."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 61: The branch of chemistry that deals with composition of substances is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "analytical chemistry",
+      "organic chemistry",
+      "industrial chemistry",
+      "nuclear chemistry"
+    ],
+    "correctAnswer": "analytical chemistry",
+    "explanation": "Analytical chemistry identifies and measures components of substances."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 62: The branch of chemistry related to chemical processes in living organisms is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "biochemistry",
+      "physical chemistry",
+      "inorganic chemistry",
+      "industrial chemistry"
+    ],
+    "correctAnswer": "biochemistry",
+    "explanation": "Biochemistry studies chemical substances and reactions in living systems."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 63: The branch of chemistry that deals with properties and reactions of elements and inorganic compounds is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "inorganic chemistry",
+      "organic chemistry",
+      "biochemistry",
+      "environmental chemistry"
+    ],
+    "correctAnswer": "inorganic chemistry",
+    "explanation": "Inorganic chemistry studies elements and compounds other than most carbon compounds."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 64: The study of chemical processes on industrial scale is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "branches of chemistry"
+    ],
+    "options": [
+      "industrial chemistry",
+      "analytical chemistry",
+      "nuclear chemistry",
+      "biochemistry"
+    ],
+    "correctAnswer": "industrial chemistry",
+    "explanation": "Industrial chemistry focuses on commercial production and processes."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 65: Which is the correct relation between mass, moles and molar mass?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "moles = mass/molar mass",
+      "moles = molar mass/mass",
+      "mass = moles/molar mass",
+      "molar mass = moles/mass"
+    ],
+    "correctAnswer": "moles = mass/molar mass",
+    "explanation": "Amount in moles is obtained by dividing mass by molar mass."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 66: Number of particles is calculated by:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "particles"
+    ],
+    "options": [
+      "moles × Avogadro constant",
+      "mass × volume",
+      "molar mass/moles",
+      "volume/mass"
+    ],
+    "correctAnswer": "moles × Avogadro constant",
+    "explanation": "Particles = n × NA."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 67: The number of molecules in 2 moles of CO2 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "particles"
+    ],
+    "options": [
+      "1.2044 × 10^24",
+      "6.022 × 10^23",
+      "3.011 × 10^23",
+      "2.00 × 10^23"
+    ],
+    "correctAnswer": "1.2044 × 10^24",
+    "explanation": "2 moles contain 2 × 6.022 × 10^23 molecules."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 68: The number of atoms in 1 mole of helium is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "particles"
+    ],
+    "options": [
+      "6.022 × 10^23",
+      "1.2044 × 10^24",
+      "3.011 × 10^23",
+      "4"
+    ],
+    "correctAnswer": "6.022 × 10^23",
+    "explanation": "Helium is monoatomic, so 1 mole contains Avogadro number of atoms."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 69: One mole of nitrogen gas N2 contains:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecules atoms"
+    ],
+    "options": [
+      "6.022 × 10^23 molecules and 1.2044 × 10^24 atoms",
+      "6.022 × 10^23 atoms only",
+      "1 molecule only",
+      "2 molecules only"
+    ],
+    "correctAnswer": "6.022 × 10^23 molecules and 1.2044 × 10^24 atoms",
+    "explanation": "Each N2 molecule has 2 atoms."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 70: Which formula is used to calculate percentage composition of an element in a compound?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage composition"
+    ],
+    "options": [
+      "mass of element in compound/formula mass × 100",
+      "formula mass/mass of element × 100",
+      "moles × volume × 100",
+      "actual yield/theoretical yield"
+    ],
+    "correctAnswer": "mass of element in compound/formula mass × 100",
+    "explanation": "Percentage composition is the mass fraction of an element multiplied by 100."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 71: The percentage of carbon in CO2 is approximately:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage composition"
+    ],
+    "options": [
+      "27.3%",
+      "72.7%",
+      "12%",
+      "44%"
+    ],
+    "correctAnswer": "27.3%",
+    "explanation": "Carbon percentage = 12/44 × 100 = 27.3%."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 72: The percentage of oxygen in CO2 is approximately:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "percentage composition"
+    ],
+    "options": [
+      "72.7%",
+      "27.3%",
+      "32%",
+      "44%"
+    ],
+    "correctAnswer": "72.7%",
+    "explanation": "Oxygen percentage = 32/44 × 100 = 72.7%."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 73: The molar mass of CaCO3 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "100 g mol^-1",
+      "50 g mol^-1",
+      "120 g mol^-1",
+      "80 g mol^-1"
+    ],
+    "correctAnswer": "100 g mol^-1",
+    "explanation": "CaCO3 = 40 + 12 + 3(16) = 100 g mol^-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 74: The mass of 0.25 mole of CaCO3 is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "25 g",
+      "50 g",
+      "100 g",
+      "12.5 g"
+    ],
+    "correctAnswer": "25 g",
+    "explanation": "Mass = 0.25 × 100 = 25 g."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 75: The molar mass of CH4 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "16 g mol^-1",
+      "12 g mol^-1",
+      "18 g mol^-1",
+      "14 g mol^-1"
+    ],
+    "correctAnswer": "16 g mol^-1",
+    "explanation": "CH4 = 12 + 4(1) = 16 g mol^-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 76: The mass of 3 moles of CH4 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "48 g",
+      "16 g",
+      "32 g",
+      "64 g"
+    ],
+    "correctAnswer": "48 g",
+    "explanation": "Mass = 3 × 16 = 48 g."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 77: The molar mass of NH3 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molar mass"
+    ],
+    "options": [
+      "17 g mol^-1",
+      "14 g mol^-1",
+      "18 g mol^-1",
+      "20 g mol^-1"
+    ],
+    "correctAnswer": "17 g mol^-1",
+    "explanation": "NH3 = 14 + 3(1) = 17 g mol^-1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 78: The formula mass of KCl is approximately:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula mass"
+    ],
+    "options": [
+      "74.5 u",
+      "39 u",
+      "35.5 u",
+      "58.5 u"
+    ],
+    "correctAnswer": "74.5 u",
+    "explanation": "KCl = 39 + 35.5 = 74.5 u."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 79: The amount of substance containing 3.011 × 10^23 particles is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "particles"
+    ],
+    "options": [
+      "0.5 mole",
+      "1 mole",
+      "2 moles",
+      "3 moles"
+    ],
+    "correctAnswer": "0.5 mole",
+    "explanation": "3.011 × 10^23 is half of Avogadro number."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 80: The amount of substance containing 1.2044 × 10^24 particles is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "particles"
+    ],
+    "options": [
+      "2 moles",
+      "1 mole",
+      "0.5 mole",
+      "4 moles"
+    ],
+    "correctAnswer": "2 moles",
+    "explanation": "1.2044 × 10^24 = 2 × 6.022 × 10^23."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 81: Which of the following represents 1 mole?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole"
+    ],
+    "options": [
+      "6.022 × 10^23 atoms of carbon",
+      "12 atoms of carbon",
+      "1 atom of hydrogen",
+      "22.4 g of every gas"
+    ],
+    "correctAnswer": "6.022 × 10^23 atoms of carbon",
+    "explanation": "A mole is Avogadro number of particles."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 82: Which substance has the greatest number of molecules?",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole"
+    ],
+    "options": [
+      "2 moles of H2",
+      "1 mole of CO2",
+      "0.5 mole of O2",
+      "1 mole of H2O"
+    ],
+    "correctAnswer": "2 moles of H2",
+    "explanation": "More moles mean more molecules; 2 moles has the most."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 83: The correct balanced equation for burning methane is:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "balanced equation"
+    ],
+    "options": [
+      "CH4 + 2O2 → CO2 + 2H2O",
+      "CH4 + O2 → CO2 + H2O",
+      "CH4 + 4O2 → CO2 + H2O",
+      "2CH4 + O2 → 2CO2 + H2O"
+    ],
+    "correctAnswer": "CH4 + 2O2 → CO2 + 2H2O",
+    "explanation": "Atoms are balanced: C1, H4, O4 on both sides."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 84: For CH4 + 2O2 → CO2 + 2H2O, the mole ratio CH4:O2 is:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole ratio"
+    ],
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "2:2"
+    ],
+    "correctAnswer": "1:2",
+    "explanation": "One mole methane reacts with two moles oxygen."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 85: For CH4 + 2O2 → CO2 + 2H2O, 1 mole CH4 produces:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "stoichiometry"
+    ],
+    "options": [
+      "1 mole CO2",
+      "2 moles CO2",
+      "0.5 mole CO2",
+      "4 moles CO2"
+    ],
+    "correctAnswer": "1 mole CO2",
+    "explanation": "The coefficient ratio CH4:CO2 is 1:1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 86: The limiting reactant is identified by comparing:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "limiting reactant"
+    ],
+    "options": [
+      "available moles with balanced equation ratios",
+      "atomic numbers only",
+      "colour of reactants",
+      "density of products"
+    ],
+    "correctAnswer": "available moles with balanced equation ratios",
+    "explanation": "Limiting reagent is found using stoichiometric mole ratios."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 87: Which statement about a balanced equation is correct?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "balanced equation"
+    ],
+    "options": [
+      "Coefficients give mole ratios",
+      "Subscripts can be changed freely",
+      "It does not conserve atoms",
+      "It shows only physical state"
+    ],
+    "correctAnswer": "Coefficients give mole ratios",
+    "explanation": "Coefficients in balanced equations represent mole relationships."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 88: Changing a subscript in a chemical formula changes:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula"
+    ],
+    "options": [
+      "the substance itself",
+      "only the amount of substance",
+      "only physical state",
+      "only the yield"
+    ],
+    "correctAnswer": "the substance itself",
+    "explanation": "Subscripts are part of a formula; changing them changes the compound."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 89: Coefficients in a chemical equation are used to:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "coefficients"
+    ],
+    "options": [
+      "balance atoms and show mole ratios",
+      "change chemical identities",
+      "write atomic numbers",
+      "calculate isotope abundance only"
+    ],
+    "correctAnswer": "balance atoms and show mole ratios",
+    "explanation": "Coefficients balance equations and represent relative amounts."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 90: The term molecule is best defined as:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecule"
+    ],
+    "options": [
+      "smallest particle of a substance that can exist independently",
+      "charged atom only",
+      "mixture of elements",
+      "one mole of atoms"
+    ],
+    "correctAnswer": "smallest particle of a substance that can exist independently",
+    "explanation": "A molecule is an independent particle made of bonded atoms."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 91: A formula unit is used commonly for:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula unit"
+    ],
+    "options": [
+      "ionic compounds",
+      "monoatomic gases only",
+      "isotopes only",
+      "empirical gases only"
+    ],
+    "correctAnswer": "ionic compounds",
+    "explanation": "Ionic compounds do not have discrete molecules; formula unit represents simplest ratio."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 92: NaCl is best described as having:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "formula unit"
+    ],
+    "options": [
+      "formula units",
+      "individual NaCl molecules only",
+      "atoms of one element",
+      "isotopes only"
+    ],
+    "correctAnswer": "formula units",
+    "explanation": "Sodium chloride is ionic, so it is represented by formula units."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 93: Which one is a molecular substance?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "molecular substance"
+    ],
+    "options": [
+      "CO2",
+      "NaCl",
+      "KBr",
+      "CaO"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "CO2 consists of discrete covalent molecules."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 94: Which one is an ionic compound?",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "ionic compound"
+    ],
+    "options": [
+      "NaCl",
+      "CO2",
+      "CH4",
+      "O2"
+    ],
+    "correctAnswer": "NaCl",
+    "explanation": "NaCl consists of ions in a crystal lattice."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 95: A qualitative analysis tells:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "analytical chemistry"
+    ],
+    "options": [
+      "what substances are present",
+      "how much substance is present",
+      "molar mass only",
+      "volume only"
+    ],
+    "correctAnswer": "what substances are present",
+    "explanation": "Qualitative analysis identifies components."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 96: A quantitative analysis tells:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "analytical chemistry"
+    ],
+    "options": [
+      "how much of a substance is present",
+      "only color of a sample",
+      "only type of mixture",
+      "only name of compound"
+    ],
+    "correctAnswer": "how much of a substance is present",
+    "explanation": "Quantitative analysis measures amounts."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 97: The correct sequence in solving mole problems is often:",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "given mass → moles → required quantity",
+      "required quantity → guess → answer",
+      "atomic number → colour → mass",
+      "volume → colour → isotope"
+    ],
+    "correctAnswer": "given mass → moles → required quantity",
+    "explanation": "Most stoichiometric problems start by converting given data to moles."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 98: If 4 g H2 reacts with excess O2, moles of H2 are:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "mole calculation"
+    ],
+    "options": [
+      "2 mol",
+      "4 mol",
+      "1 mol",
+      "0.5 mol"
+    ],
+    "correctAnswer": "2 mol",
+    "explanation": "Molar mass H2 = 2 g mol^-1; moles = 4/2 = 2."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 99: In 2H2 + O2 → 2H2O, 2 moles of H2 require:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "stoichiometry"
+    ],
+    "options": [
+      "1 mole O2",
+      "2 moles O2",
+      "0.5 mole O2",
+      "4 moles O2"
+    ],
+    "correctAnswer": "1 mole O2",
+    "explanation": "The mole ratio H2:O2 is 2:1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "mcq",
+    "question": "MCQ 100: In 2H2 + O2 → 2H2O, 4 moles H2 will produce:",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "stoichiometry"
+    ],
+    "options": [
+      "4 moles H2O",
+      "2 moles H2O",
+      "1 mole H2O",
+      "8 moles H2O"
+    ],
+    "correctAnswer": "4 moles H2O",
+    "explanation": "H2:H2O ratio is 2:2 or 1:1."
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 1: Define chemistry.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 2: Write the names of any five branches of chemistry.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 3: Define matter and give two examples.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 4: Differentiate between element and compound.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 5: What is a mixture? Give two examples.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 6: Define atom and molecule.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 7: What is an ion?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 8: Define atomic number.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 9: Define mass number.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 10: How can the number of neutrons in an atom be calculated?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 11: What are isotopes?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 12: Define relative atomic mass.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 13: Why is carbon-12 used as the standard for atomic masses?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 14: Define atomic mass unit.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 15: What is Avogadro constant?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 16: Define mole.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 17: What is molar mass?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 18: Calculate the molar mass of H2O.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 19: Calculate the molar mass of CO2.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 20: What is formula mass?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 21: Differentiate between molecular mass and formula mass.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 22: Define empirical formula.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 23: Define molecular formula.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 24: Write the empirical formula of C6H12O6.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 25: Write the empirical formula of H2O2.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 26: How is molecular formula related to empirical formula?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 27: Define percentage composition.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 28: Write the formula for percentage composition of an element.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 29: Calculate the percentage of hydrogen in water.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 30: What is stoichiometry?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 31: Why must a chemical equation be balanced?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 32: What information is obtained from coefficients in a balanced equation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 33: Define limiting reactant.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 34: Define excess reactant.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 35: What is theoretical yield?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 36: What is actual yield?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 37: Write the formula for percentage yield.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 38: Why is actual yield often less than theoretical yield?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 39: What volume is occupied by one mole of ideal gas at STP?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 40: How many molecules are present in one mole of a substance?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 41: How many atoms are present in one mole of helium?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 42: What is the mass of 0.5 mole of CO2?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 43: What is the number of moles in 9 g of water?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 44: Differentiate between qualitative and quantitative analysis.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 45: What is the law of conservation of mass?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 46: State the law of definite proportions.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 47: State the law of multiple proportions.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 48: Give one example of law of multiple proportions.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 49: What is a formula unit?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "short",
+    "question": "SHORT 50: Why is NaCl represented by formula units instead of molecules?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 1: Explain the importance and main branches of chemistry with suitable examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 2: Discuss the concepts of atom, molecule, ion, element, compound and mixture with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 3: Explain isotopes, atomic number and mass number. Also describe how average atomic mass is calculated from isotopic abundance.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 4: Define mole and Avogadro constant. Explain the relationship between mole, mass and number of particles with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 5: Describe molar mass, molecular mass and formula mass. Calculate the molar masses of H2O, CO2, H2SO4 and CaCO3.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 6: Explain empirical formula and molecular formula. Describe the steps used to calculate empirical and molecular formulas.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 7: Describe percentage composition and explain its calculation with examples of H2O and CO2.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 8: State and explain the law of conservation of mass with an example.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 9: State and explain the law of definite proportions with suitable examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 10: Explain the law of multiple proportions with the example of CO and CO2.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 11: Describe stoichiometry and explain how balanced equations are used in mole-mole and mass-mass calculations.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 12: Explain limiting reactant and excess reactant with a solved-type example.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 13: Discuss theoretical yield, actual yield and percentage yield. Explain why percentage yield may be less than 100%.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 14: Explain the concept of molar volume of gases at STP and solve examples involving gas volume and moles.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 15: Describe the steps for balancing chemical equations and explain why subscripts should not be changed while balancing.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 16: Explain qualitative and quantitative analysis and their importance in chemistry.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 17: Discuss the classification of matter into pure substances and mixtures with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 18: Explain the relationship among mass, moles, particles and volume of gases using suitable formulas.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 19: Solve a stoichiometric problem using the reaction 2H2 + O2 → 2H2O and explain each step.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Basic Concepts",
+    "chapterId": "Basic Concepts",
+    "type": "long",
+    "question": "LONG 20: Write a detailed note on basic chemical calculations used in 1st Year Chemistry.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Basic Concepts",
+      "long question"
+    ]
+  }
+]

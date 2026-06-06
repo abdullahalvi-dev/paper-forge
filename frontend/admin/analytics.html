@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analytics | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body data-page="analytics">
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand"><img class="brand-logo" src="../assets/images/Logo.svg" alt="Paper Forge"><span class="brand-role">Admin</span></div>
+        <a href="/dashboard/admin-dashboard.html"><i class="bi bi-speedometer2"></i> Dashboard</a>
+        <a href="/admin/users.html"><i class="bi bi-people"></i> Users</a>
+        <a class="active" href="/admin/analytics.html"><i class="bi bi-bar-chart"></i> Analytics</a>
+        <a href="/admin/subscriptions.html"><i class="bi bi-credit-card"></i> Subscriptions</a>
+        <button class="js-logout"><i class="bi bi-box-arrow-left"></i> Logout</button>
+      </aside>
+      <main class="main">
+        <div class="topbar">
+          <div class="page-title">
+            <h1>Analytics</h1>
+            <p>Paper generation stats, student usage, and role distribution.</p>
+          </div>
+        </div>
+        <div class="row g-3">
+          <div class="col-lg-7">
+            <section class="panel">
+              <div class="panel-title"><h2>Paper generation by subject</h2></div>
+              <canvas id="paperChart" height="140"></canvas>
+            </section>
+          </div>
+          <div class="col-lg-5">
+            <section class="panel">
+              <div class="panel-title"><h2>User roles</h2></div>
+              <canvas id="roleChart" height="180"></canvas>
+            </section>
+          </div>
+        </div>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../assets/js/app.js"></script>
+  </body>
+</html>

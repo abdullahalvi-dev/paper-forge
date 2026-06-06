@@ -1,0 +1,281 @@
+@media (max-width: 992px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    div#navbarSupportedContent {
+        width: 100%;
+        background-color: #ffffff;
+        padding: 15px;
+        position: absolute;
+        top: 73px;
+        left: 0;
+        border: solid 1px #EBEBEB;
+        border-top: none;
+        border-radius: 0 0 10px 10px;
+    }
+    ul.navbar-nav {
+        gap: 10px;
+    }
+    .loginBtn{
+        width: 100%;
+    }
+    .registerBtn{
+        width: 100%;
+    }
+    .navbar-toggler{
+        border-radius: 0 !important;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+        border: solid 2px #FF6B00;
+    }
+    .aboutSectionCard{
+        min-height: auto;
+        margin: 10px 0;
+    }
+    .pricingPlanSection{
+        flex-direction: column;
+    }
+    .footerSecondSection{
+        width: 100%;
+        margin: 20px 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .header{
+        height: auto;
+    }
+    .headerLogo {
+        width: 120px;
+    }
+    .Section{
+        padding: 20px 0;
+    }
+    .firstCol>h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .firstCol{
+        gap: 0;
+    }
+    .firstCol>p {
+        font-size: 14px;
+    }
+    .firstCol>a{
+        width: 100%;
+        height: 40px;
+        margin: 0 0 15px;
+        font-size: 16px;
+    }
+    .Section>h2{
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .Section>p{
+        padding: 0 15px;
+        font-size: 14px;
+        margin: 0;
+    }
+    .aboutSectionCard{
+        padding: 10px;
+    }
+    .aboutSectionCard>p{
+        font-size: 14px;
+    }
+    .aboutSectionCard>p{
+        font-size: 14px;
+    }
+    .numberSectionDigit{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .numberSectionCol>p{
+        font-size: 14px;
+        line-height: normal;
+    }
+    .keyPoints li {
+        font-size: 14px;
+        padding: 0 0 0 22px;
+        background-size: 17px;
+    }
+    .keyPoints {
+        margin: 15px ;
+        gap: 10px;
+    }
+    .noLimitsSection{
+        margin: 10px 0;
+        min-height: auto;
+    }
+    .noLimitsSectionContent>h3{
+        font-size: 20px;
+    }
+    .noLimitsSectionContent>h3>span{
+        font-weight: 600;
+    }
+    .noLimitsSectionContent>p{
+        margin: 10px 0;
+        font-size: 16px;
+    }
+    .noLimitsSectionContent>a{
+        width: 100%;
+        height: 40px;
+    }
+    .Section>h4{
+        font-size: 20px;
+    }
+    .pricingPlan{
+        padding: 10px 15px;
+        margin: 10px 0;
+        gap: 5px;
+        border-radius: 15px;
+    }
+    .packageTitle{
+        font-size: 14px;
+    }
+    .packagePrice{
+        font-size: 24px;
+    }
+    .packagePrice>span{
+        font-size: 14px;
+    }
+    .pricingPlan>p{
+        font-size: 14px;
+        margin: 0;
+    }
+    .pricingPlan>a{
+        height: 40px;
+        font-size: 16px;
+    }
+    .sepDash{
+        margin: 15px 0 0;
+    }
+    .pricingPlan li {
+        font-size: 14px;
+        padding: 0 0 0 28px;
+        margin: 6px 0;
+        min-height: auto;
+        background-size: 20px;
+    }
+    .pricingPlanSection{
+        gap: 0;
+    }
+    .stepNumber {
+        width: 90px;
+        height: 90px;
+        border: solid 5px #ffffff;
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .stepText {
+        font-size: 16px;
+        font-weight: 500;
+        margin: 0 0 15px;
+    }
+    .Section>h5{
+        font-size: 20px;
+    }
+    .faqSection{
+        margin: 15px 0 0;
+    }
+    .accordion-button:not(.collapsed){
+        font-size: 16px;
+    }
+    .accordion-body{
+        font-size: 14px;
+        padding: 10px;
+    }
+    footer{
+        padding: 20px 0;
+    }
+    .footerFirstSection>img{
+        width: 120px;
+    }
+    .footerFirstSection>p{
+        font-size: 14px;
+        line-height: normal;
+        margin: 15px 0 10px;
+    }
+    .footerFirstSection>a{
+        font-size: 14px;
+    }
+    .footerTitle {
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0;
+    }
+    .footerSecondSection ul li{
+        margin: 10px 0 0;
+    }
+    .subscribeSection>p{
+        font-size: 14px;
+    }
+    .footerBottom {
+        margin: 10px 0 0;
+        padding: 10px 0 0;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .subscribeForm>input{
+        height: 40px;
+    }
+    .subscribeForm>button{
+        height: 40px;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .socialLinkSection>a img{
+        width: 20px;
+    }
+    .footerBottom ul li a{
+        font-size: 14px;
+    }
+    .footerBottom>p{
+        font-size: 14px;
+    }
+    .aboutContent{
+        font-size: 14px;
+    }
+    .formSection>h1 {
+        font-size: 20px;
+    }
+    .formSection>p {
+        font-size: 14px;
+    }
+    .formSection {
+        margin: 0 0 15px;
+    }
+    .textField{
+        height: 40px;
+        font-size: 14px;
+    }
+    .form-label {
+        font-size: 14px;
+    }
+    .linkStyle {
+        font-size: 14px;
+    }
+    .Btn {
+        height: 40px;
+        font-size: 16px;
+        margin: 10px 0 0;
+    }
+    .mt-4 {
+        margin-top: 0.5rem !important;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .footerBottom>ul {
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+    }
+    .footerBottom ul li::after{
+        content: "";
+    }
+}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chatbot Logs | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body data-page="admin-chatbot-logs">
+    <div class="app-shell admin-shell">
+      <aside class="sidebar"></aside>
+      <main class="main">
+        <div class="topbar admin-topbar">
+          <div class="page-title"><h1>Chatbot Logs</h1><p>Review AI commands, confirmations, generations, and errors.</p></div>
+          <button class="btn btn-outline-primary" id="exportChatbotLogsBtn"><i class="bi bi-download"></i> Export JSON</button>
+        </div>
+
+        <section class="metric-grid">
+          <div class="metric-card"><span>Total Logs</span><strong id="chatbotLogsTotalCount">0</strong></div>
+          <div class="metric-card"><span>Confirmations</span><strong id="chatbotLogsConfirmCount">0</strong></div>
+          <div class="metric-card"><span>Generated</span><strong id="chatbotLogsGeneratedCount">0</strong></div>
+          <div class="metric-card"><span>Errors</span><strong id="chatbotLogsErrorCount">0</strong></div>
+        </section>
+
+        <section class="panel">
+          <div class="table-responsive">
+            <table class="table align-middle compact-table">
+              <thead><tr><th>User</th><th>Role</th><th>Intent</th><th>Action</th><th>Message</th><th>Response</th><th>Date</th></tr></thead>
+              <tbody id="chatbotLogsBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js"></script>
+  </body>
+</html>

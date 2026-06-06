@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 1: What is the value of 5!?",
+    "options": [
+      "120",
+      "60",
+      "24",
+      "720"
+    ],
+    "correctAnswer": "120",
+    "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "factorial"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 2: What is the value of 0!?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "Undefined"
+    ],
+    "correctAnswer": "1",
+    "explanation": "By definition, 0! is equal to 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "factorial"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 3: Which formula gives the number of permutations of n objects taken r at a time?",
+    "options": [
+      "n!/(n-r)!",
+      "n!/[r!(n-r)!]",
+      "r!/(n-r)!",
+      "n!/r!"
+    ],
+    "correctAnswer": "n!/(n-r)!",
+    "explanation": "Permutation counts arrangements, so nPr = n!/(n-r)!.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 4: Which formula gives the number of combinations of n objects taken r at a time?",
+    "options": [
+      "n!/(n-r)!",
+      "n!/[r!(n-r)!]",
+      "r!/(n-r)!",
+      "n!/r!"
+    ],
+    "correctAnswer": "n!/[r!(n-r)!]",
+    "explanation": "Combination counts selections, so nCr = n!/[r!(n-r)!].",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 5: What is the value of 6P2?",
+    "options": [
+      "30",
+      "15",
+      "12",
+      "36"
+    ],
+    "correctAnswer": "30",
+    "explanation": "6P2 = 6!/(6-2)! = 6 × 5 = 30.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 6: What is the value of 6C2?",
+    "options": [
+      "30",
+      "15",
+      "12",
+      "36"
+    ],
+    "correctAnswer": "15",
+    "explanation": "6C2 = 6!/(2!4!) = 15.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 7: In permutations, order is:",
+    "options": [
+      "Important",
+      "Not important",
+      "Always ignored",
+      "Impossible"
+    ],
+    "correctAnswer": "Important",
+    "explanation": "Permutation means arrangement, so order matters.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 8: In combinations, order is:",
+    "options": [
+      "Important",
+      "Not important",
+      "Always counted twice",
+      "Required"
+    ],
+    "correctAnswer": "Not important",
+    "explanation": "Combination means selection, so order does not matter.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 9: How many arrangements can be made from the letters A, B, C?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "explanation": "There are 3! = 6 arrangements.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 10: How many ways can 2 students be selected from 5 students?",
+    "options": [
+      "10",
+      "20",
+      "5",
+      "15"
+    ],
+    "correctAnswer": "10",
+    "explanation": "5C2 = 5!/(2!3!) = 10.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 11: The total outcomes of throwing one die are:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "A die has outcomes 1, 2, 3, 4, 5, and 6.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 12: The probability of getting an even number on one die is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Even outcomes are 2, 4, 6, so probability = 3/6 = 1/2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 13: The probability of a sure event is:",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "1",
+    "explanation": "A sure event always occurs, so its probability is 1.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 14: The probability of an impossible event is:",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "An impossible event never occurs, so its probability is 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 15: If P(A)=0.3, then P(A') is:",
+    "options": [
+      "0.3",
+      "0.7",
+      "1.3",
+      "0"
+    ],
+    "correctAnswer": "0.7",
+    "explanation": "P(A') = 1 - P(A) = 1 - 0.3 = 0.7.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 16: For any event A, P(A) lies between:",
+    "options": [
+      "0 and 1",
+      "1 and 2",
+      "-1 and 1",
+      "0 and 100 only"
+    ],
+    "correctAnswer": "0 and 1",
+    "explanation": "Probability is always from 0 to 1 inclusive.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 17: What is 7C0?",
+    "options": [
+      "0",
+      "1",
+      "7",
+      "49"
+    ],
+    "correctAnswer": "1",
+    "explanation": "nC0 = 1 for all non-negative integers n.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 18: What is 7C7?",
+    "options": [
+      "0",
+      "1",
+      "7",
+      "49"
+    ],
+    "correctAnswer": "1",
+    "explanation": "nCn = 1 because all objects are selected.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 19: What is 7P1?",
+    "options": [
+      "1",
+      "7",
+      "14",
+      "49"
+    ],
+    "correctAnswer": "7",
+    "explanation": "nP1 = n, so 7P1 = 7.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 20: What is 4!?",
+    "options": [
+      "16",
+      "24",
+      "12",
+      "8"
+    ],
+    "correctAnswer": "24",
+    "explanation": "4! = 4 × 3 × 2 × 1 = 24.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "factorial"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 21: How many two-letter arrangements can be made from A, B, C without repetition?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "explanation": "3P2 = 3 × 2 = 6.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 22: How many two-letter selections can be made from A, B, C?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "3",
+    "explanation": "3C2 = 3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 23: The sample space of tossing one coin is:",
+    "options": [
+      "{H,T}",
+      "{HH,TT}",
+      "{1,2,3}",
+      "{H,H}"
+    ],
+    "correctAnswer": "{H,T}",
+    "explanation": "One coin has two possible outcomes: head and tail.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 24: The probability of getting head in one coin toss is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "There is 1 favorable outcome out of 2 possible outcomes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 25: The number of outcomes when two coins are tossed is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "explanation": "The sample space is {HH, HT, TH, TT}, so total outcomes are 4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 26: The probability of getting two heads when two coins are tossed is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "1/4",
+    "explanation": "Only HH is favorable out of 4 outcomes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 27: The probability of getting at least one head in two coin tosses is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "3/4",
+    "explanation": "Favorable outcomes are HH, HT, TH, so probability = 3/4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 28: The number of ways to arrange 5 different books on a shelf is:",
+    "options": [
+      "5",
+      "10",
+      "60",
+      "120"
+    ],
+    "correctAnswer": "120",
+    "explanation": "5 different books can be arranged in 5! = 120 ways.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 29: How many ways can a committee of 3 be selected from 8 persons?",
+    "options": [
+      "24",
+      "56",
+      "336",
+      "512"
+    ],
+    "correctAnswer": "56",
+    "explanation": "8C3 = 8!/(3!5!) = 56.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 30: How many 3-digit numbers can be formed from digits 1,2,3,4 without repetition?",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "64"
+    ],
+    "correctAnswer": "24",
+    "explanation": "4P3 = 4 × 3 × 2 = 24.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 31: How many 3-digit numbers can be formed from digits 1,2,3,4 if repetition is allowed?",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "64"
+    ],
+    "correctAnswer": "64",
+    "explanation": "Each place has 4 choices, so 4³ = 64.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 32: The value of 8P2 is:",
+    "options": [
+      "16",
+      "28",
+      "56",
+      "64"
+    ],
+    "correctAnswer": "56",
+    "explanation": "8P2 = 8 × 7 = 56.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 33: The value of 8C2 is:",
+    "options": [
+      "16",
+      "28",
+      "56",
+      "64"
+    ],
+    "correctAnswer": "28",
+    "explanation": "8C2 = 8×7/2 = 28.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 34: If nC1 = 9, then n is:",
+    "options": [
+      "1",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "9",
+    "explanation": "nC1 = n, therefore n = 9.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 35: If nP1 = 12, then n is:",
+    "options": [
+      "1",
+      "11",
+      "12",
+      "24"
+    ],
+    "correctAnswer": "12",
+    "explanation": "nP1 = n, therefore n = 12.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 36: Which relation is correct?",
+    "options": [
+      "nCr = nC(n-r)",
+      "nPr = nC(n-r)",
+      "nCr = rCn",
+      "nPr = rPn"
+    ],
+    "correctAnswer": "nCr = nC(n-r)",
+    "explanation": "Combinations satisfy the identity nCr = nC(n-r).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 37: What is 10C8?",
+    "options": [
+      "10",
+      "45",
+      "80",
+      "90"
+    ],
+    "correctAnswer": "45",
+    "explanation": "10C8 = 10C2 = 45.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 38: What is 10P2?",
+    "options": [
+      "20",
+      "45",
+      "90",
+      "100"
+    ],
+    "correctAnswer": "90",
+    "explanation": "10P2 = 10 × 9 = 90.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 39: A bag contains 3 red and 2 blue balls. Probability of drawing a red ball is:",
+    "options": [
+      "2/5",
+      "3/5",
+      "1/2",
+      "1/5"
+    ],
+    "correctAnswer": "3/5",
+    "explanation": "There are 3 red balls out of 5 total balls.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 40: A bag contains 3 red and 2 blue balls. Probability of drawing a blue ball is:",
+    "options": [
+      "2/5",
+      "3/5",
+      "1/2",
+      "1/5"
+    ],
+    "correctAnswer": "2/5",
+    "explanation": "There are 2 blue balls out of 5 total balls.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 41: If P(A)=1/4 and A and B are mutually exclusive with P(B)=1/2, then P(A∪B) is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctAnswer": "3/4",
+    "explanation": "For mutually exclusive events, P(A∪B)=P(A)+P(B)=1/4+1/2=3/4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 42: Two events A and B are mutually exclusive if:",
+    "options": [
+      "They can occur together",
+      "They cannot occur together",
+      "They are always equal",
+      "Their probabilities are zero"
+    ],
+    "correctAnswer": "They cannot occur together",
+    "explanation": "Mutually exclusive events have no common outcome.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "events"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 43: If A and B are independent, then P(A∩B) equals:",
+    "options": [
+      "P(A)+P(B)",
+      "P(A)P(B)",
+      "P(A)-P(B)",
+      "P(A)/P(B)"
+    ],
+    "correctAnswer": "P(A)P(B)",
+    "explanation": "For independent events, P(A∩B)=P(A)P(B).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 44: The value of 5C3 is:",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "60"
+    ],
+    "correctAnswer": "10",
+    "explanation": "5C3 = 5C2 = 10.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 45: The value of 5P3 is:",
+    "options": [
+      "10",
+      "20",
+      "60",
+      "120"
+    ],
+    "correctAnswer": "60",
+    "explanation": "5P3 = 5 × 4 × 3 = 60.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 46: How many diagonals can be drawn in a hexagon?",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "9",
+    "explanation": "Number of diagonals = n(n-3)/2 = 6×3/2 = 9.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 47: How many handshakes occur if 6 people shake hands once with each other?",
+    "options": [
+      "12",
+      "15",
+      "30",
+      "36"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Each handshake is a pair: 6C2 = 15.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 48: How many ways can 4 people sit in a row?",
+    "options": [
+      "4",
+      "16",
+      "24",
+      "120"
+    ],
+    "correctAnswer": "24",
+    "explanation": "4 people can sit in 4! = 24 ways.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 49: How many ways can 4 people sit around a circular table?",
+    "options": [
+      "4",
+      "6",
+      "12",
+      "24"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Circular arrangements of n people are (n-1)! = 3! = 6.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "circular permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 50: The number of arrangements of the word ALL is:",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "1"
+    ],
+    "correctAnswer": "3",
+    "explanation": "ALL has 3 letters with L repeated twice, so arrangements = 3!/2! = 3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 51: The number of arrangements of the word MATH is:",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "correctAnswer": "24",
+    "explanation": "All 4 letters are different, so arrangements = 4! = 24.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 52: The probability of getting a number greater than 4 on a die is:",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswer": "1/3",
+    "explanation": "Favorable outcomes are 5 and 6, so probability = 2/6 = 1/3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 53: The probability of getting a prime number on a die is:",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Prime outcomes are 2, 3, and 5, so probability = 3/6 = 1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 54: The probability of getting an odd number on a die is:",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Odd outcomes are 1, 3, 5, so probability = 3/6 = 1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 55: The complement of 'getting an even number on a die' is:",
+    "options": [
+      "Getting an odd number",
+      "Getting a prime number",
+      "Getting 2",
+      "Getting 6"
+    ],
+    "correctAnswer": "Getting an odd number",
+    "explanation": "The complement contains all outcomes not even, which are odd numbers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 56: If a coin is tossed three times, total outcomes are:",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "explanation": "For 3 coin tosses, total outcomes = 2³ = 8.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 57: The probability of getting exactly 3 heads in 3 coin tosses is:",
+    "options": [
+      "1/8",
+      "3/8",
+      "1/2",
+      "7/8"
+    ],
+    "correctAnswer": "1/8",
+    "explanation": "Only HHH is favorable out of 8 outcomes.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 58: The probability of getting exactly 2 heads in 3 coin tosses is:",
+    "options": [
+      "1/8",
+      "3/8",
+      "1/2",
+      "7/8"
+    ],
+    "correctAnswer": "3/8",
+    "explanation": "There are 3 favorable outcomes: HHT, HTH, THH.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 59: How many ways can 2 boys and 2 girls be selected from 5 boys and 4 girls?",
+    "options": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "correctAnswer": "60",
+    "explanation": "Select 2 boys from 5 and 2 girls from 4: 5C2 × 4C2 = 10 × 6 = 60.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 60: How many arrangements of the letters of SUCCESS are possible?",
+    "options": [
+      "420",
+      "720",
+      "840",
+      "5040"
+    ],
+    "correctAnswer": "420",
+    "explanation": "SUCCESS has 7 letters with S repeated 3 and C repeated 2, so 7!/(3!2!) = 420.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 61: How many ways can 5 people sit in a row if two particular persons must sit together?",
+    "options": [
+      "24",
+      "48",
+      "120",
+      "240"
+    ],
+    "correctAnswer": "48",
+    "explanation": "Treat the two persons as one block: 4! × 2! = 48.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 62: How many ways can 5 people sit in a row if two particular persons must not sit together?",
+    "options": [
+      "48",
+      "72",
+      "96",
+      "120"
+    ],
+    "correctAnswer": "72",
+    "explanation": "Total arrangements 5! = 120; together = 48; not together = 72.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 63: How many 4-digit numbers can be formed from digits 1,2,3,4,5 without repetition?",
+    "options": [
+      "20",
+      "60",
+      "120",
+      "625"
+    ],
+    "correctAnswer": "120",
+    "explanation": "5P4 = 5×4×3×2 = 120.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 64: How many 4-digit numbers can be formed from digits 0,1,2,3,4 without repetition?",
+    "options": [
+      "60",
+      "96",
+      "120",
+      "625"
+    ],
+    "correctAnswer": "96",
+    "explanation": "First digit has 4 choices (not 0), then 4,3,2 choices: 4×4×3×2 = 96.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 65: How many ways can a captain and vice-captain be selected from 10 players?",
+    "options": [
+      "45",
+      "90",
+      "100",
+      "20"
+    ],
+    "correctAnswer": "90",
+    "explanation": "Order matters: 10P2 = 10×9 = 90.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 66: How many ways can 3 books be chosen from 7 books?",
+    "options": [
+      "21",
+      "35",
+      "105",
+      "210"
+    ],
+    "correctAnswer": "35",
+    "explanation": "7C3 = 35.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 67: How many ways can 3 books be arranged from 7 books?",
+    "options": [
+      "21",
+      "35",
+      "105",
+      "210"
+    ],
+    "correctAnswer": "210",
+    "explanation": "7P3 = 7×6×5 = 210.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 68: If nP2 = 20, then n is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "explanation": "nP2 = n(n-1) = 20, so n = 5.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 69: If nC2 = 15, then n is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "nC2 = n(n-1)/2 = 15, so n(n-1)=30 and n=6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 70: If nC2 = 21, then n is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "7",
+    "explanation": "n(n-1)/2 = 21 gives n(n-1)=42, so n=7.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 71: If 4 cards are drawn from 10 cards, number of selections is:",
+    "options": [
+      "40",
+      "210",
+      "5040",
+      "10000"
+    ],
+    "correctAnswer": "210",
+    "explanation": "Selections are counted by 10C4 = 210.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 72: Probability of drawing an ace from a standard deck of 52 cards is:",
+    "options": [
+      "1/13",
+      "1/4",
+      "4/13",
+      "1/52"
+    ],
+    "correctAnswer": "1/13",
+    "explanation": "There are 4 aces in 52 cards, so probability = 4/52 = 1/13.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 73: Probability of drawing a heart from a standard deck is:",
+    "options": [
+      "1/13",
+      "1/4",
+      "4/13",
+      "1/52"
+    ],
+    "correctAnswer": "1/4",
+    "explanation": "There are 13 hearts in 52 cards, so probability = 13/52 = 1/4.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 74: Probability of drawing a king from a standard deck is:",
+    "options": [
+      "1/13",
+      "1/4",
+      "4/13",
+      "1/52"
+    ],
+    "correctAnswer": "1/13",
+    "explanation": "There are 4 kings in 52 cards, so probability = 4/52 = 1/13.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 75: Probability of getting sum 7 when two dice are thrown is:",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/9",
+      "1/36"
+    ],
+    "correctAnswer": "1/6",
+    "explanation": "There are 6 favorable outcomes out of 36, so probability = 6/36 = 1/6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 76: Probability of getting sum 2 when two dice are thrown is:",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/18",
+      "1/36"
+    ],
+    "correctAnswer": "1/36",
+    "explanation": "Only (1,1) gives sum 2, so probability = 1/36.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 77: Probability of getting sum 12 when two dice are thrown is:",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/18",
+      "1/36"
+    ],
+    "correctAnswer": "1/36",
+    "explanation": "Only (6,6) gives sum 12, so probability = 1/36.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 78: Probability of getting doubles when two dice are thrown is:",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/3",
+      "1/36"
+    ],
+    "correctAnswer": "1/6",
+    "explanation": "There are 6 doubles out of 36 outcomes, so probability = 6/36 = 1/6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 79: If two dice are thrown, total outcomes are:",
+    "options": [
+      "6",
+      "12",
+      "36",
+      "72"
+    ],
+    "correctAnswer": "36",
+    "explanation": "Each die has 6 outcomes, so total outcomes = 6×6 = 36.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 80: If a password has 2 letters followed by 2 digits and repetition is allowed, number of passwords is:",
+    "options": [
+      "2600",
+      "6760",
+      "67600",
+      "456976"
+    ],
+    "correctAnswer": "67600",
+    "explanation": "There are 26² choices for letters and 10² choices for digits, so 67600.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "counting principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 81: How many ways can letters of PAKISTAN be arranged if all letters are distinct?",
+    "options": [
+      "720",
+      "5040",
+      "40320",
+      "362880"
+    ],
+    "correctAnswer": "40320",
+    "explanation": "PAKISTAN has 8 distinct letters, so arrangements = 8! = 40320.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 82: The number of ways to arrange n distinct objects in a circle is:",
+    "options": [
+      "n!",
+      "(n-1)!",
+      "n!/2",
+      "(n+1)!"
+    ],
+    "correctAnswer": "(n-1)!",
+    "explanation": "Circular permutations of n distinct objects are (n-1)!.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "circular permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 83: For n distinct objects, nPn equals:",
+    "options": [
+      "n",
+      "n!",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "n!",
+    "explanation": "nPn means arranging all n objects, so it equals n!.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 84: For n distinct objects, nC0 equals:",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "n!"
+    ],
+    "correctAnswer": "1",
+    "explanation": "There is exactly one way to select no object.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 85: The multiplication principle is used when choices are made:",
+    "options": [
+      "One after another",
+      "Only once",
+      "Without counting",
+      "Only by addition"
+    ],
+    "correctAnswer": "One after another",
+    "explanation": "When a process has successive stages, multiply the number of choices.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "counting principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 86: The addition principle is used when choices are:",
+    "options": [
+      "Mutually exclusive alternatives",
+      "Successive steps",
+      "Always repeated",
+      "Impossible"
+    ],
+    "correctAnswer": "Mutually exclusive alternatives",
+    "explanation": "When alternatives cannot occur together, add the number of choices.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "counting principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 87: If P(A)=0.4 and P(B)=0.5 and A, B are independent, P(A∩B) is:",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.4",
+      "0.9"
+    ],
+    "correctAnswer": "0.2",
+    "explanation": "For independent events, P(A∩B)=0.4×0.5=0.2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 88: If P(A)=0.6 and P(B)=0.3 with A and B mutually exclusive, P(A∪B) is:",
+    "options": [
+      "0.18",
+      "0.3",
+      "0.6",
+      "0.9"
+    ],
+    "correctAnswer": "0.9",
+    "explanation": "For mutually exclusive events, P(A∪B)=P(A)+P(B)=0.9.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 89: If P(A)=0.7, probability that A does not occur is:",
+    "options": [
+      "0.3",
+      "0.7",
+      "1.7",
+      "0"
+    ],
+    "correctAnswer": "0.3",
+    "explanation": "Complement probability is 1 - 0.7 = 0.3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "complement"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 90: The event containing all outcomes of a random experiment is called:",
+    "options": [
+      "Impossible event",
+      "Sure event",
+      "Null event",
+      "Complement"
+    ],
+    "correctAnswer": "Sure event",
+    "explanation": "The event equal to the sample space is a sure event.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "events"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 91: An event with no outcome is called:",
+    "options": [
+      "Sure event",
+      "Null event",
+      "Compound event",
+      "Simple event"
+    ],
+    "correctAnswer": "Null event",
+    "explanation": "An event with no outcome is also called an impossible or null event.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "events"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 92: An event containing exactly one outcome is called:",
+    "options": [
+      "Simple event",
+      "Compound event",
+      "Sure event",
+      "Complement"
+    ],
+    "correctAnswer": "Simple event",
+    "explanation": "A simple event has exactly one outcome.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "events"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 93: An event containing more than one outcome is called:",
+    "options": [
+      "Simple event",
+      "Compound event",
+      "Null event",
+      "Impossible event"
+    ],
+    "correctAnswer": "Compound event",
+    "explanation": "A compound event contains two or more outcomes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "events"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 94: In probability, the set of all possible outcomes is called:",
+    "options": [
+      "Event",
+      "Sample space",
+      "Trial",
+      "Experiment"
+    ],
+    "correctAnswer": "Sample space",
+    "explanation": "Sample space is the set of all possible outcomes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "sample space"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 95: A random experiment is one whose result is:",
+    "options": [
+      "Always fixed",
+      "Known before trial",
+      "Not known before trial",
+      "Impossible"
+    ],
+    "correctAnswer": "Not known before trial",
+    "explanation": "In a random experiment, the exact outcome cannot be predicted with certainty.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "probability"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 96: If there are m ways to do one task and n ways to do another independent task, total ways are:",
+    "options": [
+      "m+n",
+      "m-n",
+      "mn",
+      "m/n"
+    ],
+    "correctAnswer": "mn",
+    "explanation": "By multiplication principle, total ways are mn.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "counting principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 97: If two alternatives can occur in m and n ways and are mutually exclusive, total ways are:",
+    "options": [
+      "m+n",
+      "m-n",
+      "mn",
+      "m/n"
+    ],
+    "correctAnswer": "m+n",
+    "explanation": "By addition principle, total ways are m+n.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "counting principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 98: How many ways can 3 prizes be given to 5 students if no student gets more than one prize and prizes are different?",
+    "options": [
+      "10",
+      "15",
+      "60",
+      "125"
+    ],
+    "correctAnswer": "60",
+    "explanation": "Different prizes mean order matters: 5P3 = 60.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "permutation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 99: How many ways can 3 students be chosen from 5 students for identical awards?",
+    "options": [
+      "10",
+      "15",
+      "60",
+      "125"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Identical awards mean selection only: 5C3 = 10.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "mcq",
+    "question": "MCQ 100: How many committees of 4 can be formed from 6 boys and 5 girls with exactly 2 boys and 2 girls?",
+    "options": [
+      "150",
+      "200",
+      "225",
+      "300"
+    ],
+    "correctAnswer": "150",
+    "explanation": "Choose 2 boys from 6 and 2 girls from 5: 6C2×5C2 = 15×10 = 150.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "combination"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 1: What is factorial notation? Give one example.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 2: Define permutation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 3: Define combination.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 4: Differentiate between permutation and combination.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 5: Write the formula for nPr.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 6: Write the formula for nCr.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 7: Find the value of 5!.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 8: Find the value of 0!.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 9: Evaluate 6P2.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 10: Evaluate 6C2.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 11: State the multiplication principle of counting.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 12: State the addition principle of counting.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 13: What is meant by sample space?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 14: Define random experiment.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 15: Define event in probability.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 16: What is a simple event?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 17: What is a compound event?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 18: What is a sure event?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 19: What is an impossible event?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 20: Define complement of an event.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 21: Write the formula for P(A').",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 22: What is the range of probability of an event?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 23: Find the probability of getting a head in one coin toss.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 24: Find the probability of getting an even number on one die.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 25: Find the probability of getting an odd number on one die.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 26: Find the probability of getting a prime number on one die.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 27: How many outcomes are possible when two coins are tossed?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 28: How many outcomes are possible when two dice are thrown?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 29: Find the value of 7C0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 30: Find the value of 7C7.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 31: Find the value of 8P2.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 32: Find the value of 8C2.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 33: What is meant by mutually exclusive events?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 34: What is meant by independent events?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 35: Write the formula for P(A ∪ B) for mutually exclusive events.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 36: Write the formula for P(A ∩ B) for independent events.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 37: How many ways can 4 different books be arranged on a shelf?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 38: How many ways can 2 students be selected from 5 students?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 39: How many ways can 3 students be arranged from 6 students?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 40: What is circular permutation?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 41: Write the formula for circular arrangements of n distinct objects.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 42: How many diagonals can be drawn in a pentagon?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 43: How many handshakes occur among 5 people if each shakes hands once?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 44: What is the probability of drawing a red ball from a bag containing 3 red and 2 blue balls?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 45: What is the probability of drawing an ace from a deck of 52 cards?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 46: What is the probability of drawing a heart from a deck of 52 cards?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 47: How many arrangements of the word ALL are possible?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 48: How many arrangements of the word LEVEL are possible?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 49: What is the difference between selection and arrangement?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "short",
+    "question": "Short Question 50: Why is order important in permutations but not in combinations?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 1: Explain the fundamental principle of counting with suitable examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 2: Define permutation and derive the formula for nPr.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 3: Define combination and derive the formula for nCr.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 4: Explain the difference between permutations and combinations with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 5: Describe factorial notation and its use in permutations and combinations.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 6: Solve different examples involving arrangements of objects without repetition.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 7: Solve different examples involving selections of objects using combinations.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 8: Explain circular permutations and derive the formula for arranging n persons around a round table.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 9: Explain arrangements of letters when some letters are repeated, with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 10: Discuss the concepts of random experiment, sample space, and event with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 11: Explain simple event, compound event, sure event, and impossible event with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 12: State and explain the classical definition of probability.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 13: Explain complement of an event and prove that P(A') = 1 - P(A).",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 14: Explain mutually exclusive events and derive the addition rule for them.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 15: Explain independent events and derive the multiplication rule for them.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 16: Solve probability problems based on tossing coins.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 17: Solve probability problems based on throwing dice.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 18: Solve probability problems based on drawing cards from a standard deck.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 19: Solve mixed problems involving both combinations and probability.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Permutations Combinations and Probability",
+    "chapterId": "Permutations Combinations and Probability",
+    "type": "long",
+    "question": "Long Question 20: Explain real-life applications of permutations, combinations, and probability.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Permutations Combinations and Probability",
+      "long question"
+    ]
+  }
+]

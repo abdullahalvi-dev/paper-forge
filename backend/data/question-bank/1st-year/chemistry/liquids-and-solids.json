@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 1: Which force is mainly responsible for the high boiling point of water?",
+    "options": [
+      "London dispersion forces",
+      "Hydrogen bonding",
+      "Metallic bonding",
+      "Coordinate covalent bonding"
+    ],
+    "correctAnswer": "Hydrogen bonding",
+    "explanation": "Water molecules form strong hydrogen bonds, so more energy is required to separate them.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 2: Which of the following liquids is expected to have the highest viscosity at room temperature?",
+    "options": [
+      "Ether",
+      "Water",
+      "Glycerol",
+      "Acetone"
+    ],
+    "correctAnswer": "Glycerol",
+    "explanation": "Glycerol has strong intermolecular hydrogen bonding and a larger molecular structure, so it flows slowly.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 3: Surface tension of a liquid is mainly due to:",
+    "options": [
+      "Covalent bonds inside molecules",
+      "Attractive forces between liquid molecules",
+      "Repulsion between liquid and air",
+      "High vapor pressure only"
+    ],
+    "correctAnswer": "Attractive forces between liquid molecules",
+    "explanation": "Surface tension comes from cohesive intermolecular forces at the surface.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 4: When temperature increases, the viscosity of most liquids:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Remains exactly constant"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "Higher temperature increases molecular motion and helps liquid layers slide more easily.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 5: Vapor pressure of a liquid increases when:",
+    "options": [
+      "Temperature increases",
+      "Surface area decreases",
+      "Atmospheric pressure increases",
+      "Liquid becomes less volatile"
+    ],
+    "correctAnswer": "Temperature increases",
+    "explanation": "At higher temperature, more molecules have enough energy to escape into vapor.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 6: A liquid boils when its vapor pressure becomes equal to:",
+    "options": [
+      "Zero pressure",
+      "Atmospheric pressure",
+      "Surface tension",
+      "Density of liquid"
+    ],
+    "correctAnswer": "Atmospheric pressure",
+    "explanation": "Boiling occurs when vapor pressure equals the external pressure on the liquid.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 7: Which liquid will usually have the lowest boiling point?",
+    "options": [
+      "One with weak intermolecular forces",
+      "One with strong hydrogen bonding",
+      "One with high viscosity",
+      "One with low vapor pressure"
+    ],
+    "correctAnswer": "One with weak intermolecular forces",
+    "explanation": "Weak intermolecular forces require less energy to overcome.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 8: Evaporation occurs:",
+    "options": [
+      "Only at boiling point",
+      "Only at freezing point",
+      "At the surface of a liquid at any temperature",
+      "Only under high pressure"
+    ],
+    "correctAnswer": "At the surface of a liquid at any temperature",
+    "explanation": "Evaporation is a surface phenomenon and can occur below boiling point.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "evaporation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 9: Which statement is correct about evaporation?",
+    "options": [
+      "It is always a bulk process",
+      "It causes cooling",
+      "It requires no energy",
+      "It happens only in closed vessels"
+    ],
+    "correctAnswer": "It causes cooling",
+    "explanation": "Fast-moving molecules escape, lowering the average kinetic energy of the remaining liquid.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "evaporation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 10: Which property is a measure of resistance to flow?",
+    "options": [
+      "Density",
+      "Viscosity",
+      "Vapor pressure",
+      "Refractive index"
+    ],
+    "correctAnswer": "Viscosity",
+    "explanation": "Viscosity tells how strongly a liquid resists flow.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 11: Stronger intermolecular forces generally cause:",
+    "options": [
+      "Lower boiling point",
+      "Higher vapor pressure",
+      "Higher boiling point",
+      "Lower surface tension"
+    ],
+    "correctAnswer": "Higher boiling point",
+    "explanation": "More energy is needed to separate molecules held by strong attractions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 12: The weakest intermolecular forces among the following are usually:",
+    "options": [
+      "Hydrogen bonds",
+      "Ion-dipole forces",
+      "London dispersion forces",
+      "Covalent bonds"
+    ],
+    "correctAnswer": "London dispersion forces",
+    "explanation": "London forces are temporary dipole-induced dipole attractions and are usually weakest.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 13: Hydrogen bonding is strongest when hydrogen is bonded to:",
+    "options": [
+      "Na, K, Ca",
+      "F, O, N",
+      "C, Si, Ge",
+      "Cl, Br, I only"
+    ],
+    "correctAnswer": "F, O, N",
+    "explanation": "F, O and N are highly electronegative and small, allowing strong hydrogen bonding.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 14: Which compound can show hydrogen bonding between its molecules?",
+    "options": [
+      "CH4",
+      "HCl",
+      "NH3",
+      "CO2"
+    ],
+    "correctAnswer": "NH3",
+    "explanation": "Ammonia has N-H bonds and a lone pair on nitrogen, so it can form hydrogen bonds.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 15: Capillary action is due to:",
+    "options": [
+      "Only gravity",
+      "Cohesive and adhesive forces",
+      "Only vapor pressure",
+      "Metallic bonding"
+    ],
+    "correctAnswer": "Cohesive and adhesive forces",
+    "explanation": "Capillary rise/fall depends on attraction among liquid molecules and attraction between liquid and tube.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 16: A concave meniscus is formed when:",
+    "options": [
+      "Cohesion is stronger than adhesion",
+      "Adhesion is stronger than cohesion",
+      "Vapor pressure is zero",
+      "Liquid is nonpolar"
+    ],
+    "correctAnswer": "Adhesion is stronger than cohesion",
+    "explanation": "Water forms a concave meniscus in glass because it adheres strongly to glass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 17: Mercury forms a convex meniscus in glass because:",
+    "options": [
+      "Adhesion is stronger than cohesion",
+      "Cohesion is stronger than adhesion",
+      "It has no surface tension",
+      "It is a gas at room temperature"
+    ],
+    "correctAnswer": "Cohesion is stronger than adhesion",
+    "explanation": "Mercury atoms attract each other more strongly than glass attracts mercury.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 18: The pressure exerted by vapor in equilibrium with its liquid is called:",
+    "options": [
+      "Osmotic pressure",
+      "Vapor pressure",
+      "Atmospheric pressure",
+      "Critical pressure"
+    ],
+    "correctAnswer": "Vapor pressure",
+    "explanation": "Vapor pressure is the pressure of vapor above a liquid at equilibrium.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 19: Dynamic equilibrium in evaporation-condensation means:",
+    "options": [
+      "Evaporation stops completely",
+      "Condensation stops completely",
+      "Rates of evaporation and condensation become equal",
+      "Liquid turns completely solid"
+    ],
+    "correctAnswer": "Rates of evaporation and condensation become equal",
+    "explanation": "At equilibrium, both processes continue at equal rates.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "evaporation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 20: A volatile liquid has:",
+    "options": [
+      "Low vapor pressure",
+      "High vapor pressure",
+      "No vapor phase",
+      "Very high melting point only"
+    ],
+    "correctAnswer": "High vapor pressure",
+    "explanation": "Volatile liquids evaporate easily, so they have high vapor pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 21: Which has higher vapor pressure at room temperature?",
+    "options": [
+      "Ether",
+      "Water",
+      "Glycerol",
+      "Mercury"
+    ],
+    "correctAnswer": "Ether",
+    "explanation": "Ether has weaker intermolecular forces than the others and evaporates readily.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 22: The normal boiling point is the temperature at which vapor pressure equals:",
+    "options": [
+      "0.5 atm",
+      "1 atm",
+      "2 atm",
+      "10 atm"
+    ],
+    "correctAnswer": "1 atm",
+    "explanation": "Normal boiling point is measured at standard atmospheric pressure, 1 atm.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 23: At high altitude, water boils at lower temperature because:",
+    "options": [
+      "Atmospheric pressure is lower",
+      "Gravity is higher",
+      "Water molecules become heavier",
+      "Hydrogen bonding disappears"
+    ],
+    "correctAnswer": "Atmospheric pressure is lower",
+    "explanation": "Lower external pressure lets vapor pressure equal it at a lower temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement about boiling is correct?",
+    "options": [
+      "It occurs only at the surface",
+      "It occurs throughout the liquid",
+      "It occurs only below freezing point",
+      "It does not require heat"
+    ],
+    "correctAnswer": "It occurs throughout the liquid",
+    "explanation": "Boiling is a bulk phenomenon where bubbles form throughout the liquid.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 25: Which liquid property is reduced by adding soap to water?",
+    "options": [
+      "Surface tension",
+      "Boiling point always to zero",
+      "Molecular mass",
+      "Density always to zero"
+    ],
+    "correctAnswer": "Surface tension",
+    "explanation": "Soap reduces water's surface tension by disrupting hydrogen bonding at the surface.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 26: Crystalline solids have:",
+    "options": [
+      "Random particle arrangement",
+      "Sharp melting points",
+      "No definite geometry",
+      "Only liquid-like structure"
+    ],
+    "correctAnswer": "Sharp melting points",
+    "explanation": "Crystalline solids have regular arrangement and melt at a definite temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "crystalline solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 27: Amorphous solids are also called:",
+    "options": [
+      "True solids only",
+      "Supercooled liquids",
+      "Ionic liquids",
+      "Perfect crystals"
+    ],
+    "correctAnswer": "Supercooled liquids",
+    "explanation": "Amorphous solids lack long-range order and are often described as supercooled liquids.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "amorphous solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 28: Which is an amorphous solid?",
+    "options": [
+      "NaCl",
+      "Diamond",
+      "Glass",
+      "Quartz crystal"
+    ],
+    "correctAnswer": "Glass",
+    "explanation": "Glass lacks a regular long-range crystalline arrangement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 29: Which is a crystalline solid?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Glass",
+      "Sodium chloride"
+    ],
+    "correctAnswer": "Sodium chloride",
+    "explanation": "NaCl has a regular ionic crystal lattice.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 30: The basic repeating structural unit of a crystal is called:",
+    "options": [
+      "Molecule",
+      "Unit cell",
+      "Isotope",
+      "Meniscus"
+    ],
+    "correctAnswer": "Unit cell",
+    "explanation": "A unit cell repeats in three dimensions to build the crystal lattice.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 31: The total 3D arrangement of points in a crystal is called:",
+    "options": [
+      "Crystal lattice",
+      "Vapor pressure",
+      "Surface film",
+      "Liquid layer"
+    ],
+    "correctAnswer": "Crystal lattice",
+    "explanation": "The crystal lattice represents the regular 3D arrangement of particles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "crystal lattice"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 32: In a simple cubic unit cell, atoms are present at:",
+    "options": [
+      "Corners only",
+      "Body center only",
+      "Face centers only",
+      "Edges only"
+    ],
+    "correctAnswer": "Corners only",
+    "explanation": "A simple cubic unit cell has particles only at its eight corners.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 33: Number of atoms per simple cubic unit cell is:",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Eight corner atoms each contribute 1/8, giving 1 atom per unit cell.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 34: Number of atoms per body-centered cubic unit cell is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "explanation": "BCC has 1 atom from corners plus 1 atom at body center, total 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 35: Number of atoms per face-centered cubic unit cell is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "explanation": "FCC has 1 atom from corners plus 3 atoms from six face centers, total 4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 36: Coordination number of simple cubic structure is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Each atom touches six nearest neighbors in simple cubic packing.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "simple cubic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 37: Coordination number of body-centered cubic structure is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "explanation": "Each atom in BCC is surrounded by eight nearest neighbors.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "body-centered cubic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 38: Coordination number of face-centered cubic structure is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "explanation": "FCC is close-packed and each atom has twelve nearest neighbors.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "face-centered cubic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 39: The packing efficiency of simple cubic unit cell is about:",
+    "options": [
+      "52%",
+      "68%",
+      "74%",
+      "90%"
+    ],
+    "correctAnswer": "52%",
+    "explanation": "Simple cubic packing fills about 52.4% of the available space.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 40: The packing efficiency of body-centered cubic unit cell is about:",
+    "options": [
+      "52%",
+      "68%",
+      "74%",
+      "100%"
+    ],
+    "correctAnswer": "68%",
+    "explanation": "BCC packing efficiency is approximately 68%.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 41: The packing efficiency of face-centered cubic unit cell is about:",
+    "options": [
+      "52%",
+      "68%",
+      "74%",
+      "40%"
+    ],
+    "correctAnswer": "74%",
+    "explanation": "FCC is close-packed with about 74% packing efficiency.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "unit cell"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 42: Which crystal type is made of positive and negative ions?",
+    "options": [
+      "Molecular crystal",
+      "Ionic crystal",
+      "Metallic crystal",
+      "Covalent network crystal"
+    ],
+    "correctAnswer": "Ionic crystal",
+    "explanation": "Ionic crystals consist of cations and anions held by electrostatic forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 43: Which solid is an example of covalent network solid?",
+    "options": [
+      "Ice",
+      "Graphite",
+      "Dry ice",
+      "NaCl"
+    ],
+    "correctAnswer": "Graphite",
+    "explanation": "Graphite has a giant covalent network of carbon atoms in layers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "covalent network solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 44: Which type of solid generally conducts electricity in molten state but not in solid state?",
+    "options": [
+      "Ionic solid",
+      "Molecular solid",
+      "Covalent network solid",
+      "Amorphous solid"
+    ],
+    "correctAnswer": "Ionic solid",
+    "explanation": "Ions are fixed in solid ionic crystals but mobile when molten.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "ionic solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 45: Metals are good conductors because they contain:",
+    "options": [
+      "Free/mobile electrons",
+      "Only neutral molecules",
+      "No charged particles",
+      "Hydrogen bonds only"
+    ],
+    "correctAnswer": "Free/mobile electrons",
+    "explanation": "Metallic bonding includes delocalized electrons that carry charge.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 46: Molecular solids are generally:",
+    "options": [
+      "Hard with very high melting points",
+      "Soft with low melting points",
+      "Always electrical conductors",
+      "Always ionic"
+    ],
+    "correctAnswer": "Soft with low melting points",
+    "explanation": "Molecular solids have weak intermolecular forces between molecules.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "molecular solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 47: Dry ice is solid:",
+    "options": [
+      "H2O",
+      "CO2",
+      "NH3",
+      "NaCl"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "Dry ice is solid carbon dioxide.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 48: Ice floats on water because:",
+    "options": [
+      "Ice is denser than water",
+      "Ice has lower density due to open hydrogen-bonded structure",
+      "Water has no hydrogen bonding",
+      "Ice is metallic"
+    ],
+    "correctAnswer": "Ice has lower density due to open hydrogen-bonded structure",
+    "explanation": "Hydrogen bonding creates an open structure in ice, making it less dense.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 49: The melting point of a crystalline solid is sharp because:",
+    "options": [
+      "Particles are random",
+      "All bonds/forces break over a definite temperature range",
+      "It contains only gases",
+      "It has no lattice"
+    ],
+    "correctAnswer": "All bonds/forces break over a definite temperature range",
+    "explanation": "Regular lattice structure gives a definite melting point.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 50: The melting of amorphous solids occurs:",
+    "options": [
+      "At a sharp fixed temperature",
+      "Over a range of temperature",
+      "Only at 0 K",
+      "Only under vacuum"
+    ],
+    "correctAnswer": "Over a range of temperature",
+    "explanation": "Amorphous solids soften gradually due to lack of long-range order.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "amorphous solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 51: Which defect occurs when an ion is missing from its lattice site?",
+    "options": [
+      "Vacancy defect",
+      "Interstitial defect",
+      "Substitutional alloy only",
+      "Hydrogen bond"
+    ],
+    "correctAnswer": "Vacancy defect",
+    "explanation": "A vacancy defect is created when a particle is absent from its normal lattice position.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 52: Which defect occurs when a particle occupies a space between regular lattice sites?",
+    "options": [
+      "Vacancy defect",
+      "Interstitial defect",
+      "Schottky defect only",
+      "Surface tension"
+    ],
+    "correctAnswer": "Interstitial defect",
+    "explanation": "An interstitial defect involves a particle in an interstitial space.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 53: Schottky defect in ionic crystals involves:",
+    "options": [
+      "Equal number of cations and anions missing",
+      "Only extra electrons",
+      "Only covalent bond formation",
+      "No change in lattice"
+    ],
+    "correctAnswer": "Equal number of cations and anions missing",
+    "explanation": "Schottky defect preserves electrical neutrality by paired vacancies.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 54: Frenkel defect involves:",
+    "options": [
+      "Ion leaving crystal permanently",
+      "Smaller ion displaced to interstitial site",
+      "All ions missing",
+      "Only molecules rotating"
+    ],
+    "correctAnswer": "Smaller ion displaced to interstitial site",
+    "explanation": "In Frenkel defect, an ion leaves its normal site and occupies an interstitial position.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 55: Which defect usually decreases density of an ionic crystal?",
+    "options": [
+      "Schottky defect",
+      "Frenkel defect",
+      "Interstitial impurity only",
+      "No defect"
+    ],
+    "correctAnswer": "Schottky defect",
+    "explanation": "Schottky defect creates vacancies and reduces mass without reducing volume much.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 56: Which defect usually does not change density significantly?",
+    "options": [
+      "Frenkel defect",
+      "Schottky defect",
+      "Evaporation",
+      "Boiling"
+    ],
+    "correctAnswer": "Frenkel defect",
+    "explanation": "In Frenkel defect, ions are displaced within the crystal, not removed.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "defect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 57: Anisotropy is shown by:",
+    "options": [
+      "Crystalline solids",
+      "Liquids only",
+      "Gases only",
+      "All amorphous solids only"
+    ],
+    "correctAnswer": "Crystalline solids",
+    "explanation": "Crystalline solids can show direction-dependent properties.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "crystalline solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 58: Amorphous solids are usually:",
+    "options": [
+      "Isotropic",
+      "Anisotropic",
+      "Always ionic",
+      "Always metallic"
+    ],
+    "correctAnswer": "Isotropic",
+    "explanation": "Their random structure gives similar properties in all directions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "amorphous solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 59: Cleavage along definite planes is a property of:",
+    "options": [
+      "Crystalline solids",
+      "Gases",
+      "Liquids",
+      "Pure amorphous solids only"
+    ],
+    "correctAnswer": "Crystalline solids",
+    "explanation": "Regular arrangement allows crystalline solids to break along definite planes.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "crystalline solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 60: Which solid has highest melting point among the following?",
+    "options": [
+      "Ice",
+      "Iodine",
+      "Diamond",
+      "Dry ice"
+    ],
+    "correctAnswer": "Diamond",
+    "explanation": "Diamond has a giant covalent network requiring very high energy to melt.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 61: Which force exists between all atoms and molecules?",
+    "options": [
+      "London dispersion force",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "correctAnswer": "London dispersion force",
+    "explanation": "London forces arise from temporary dipoles and exist in all particles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 62: Dipole-dipole forces occur between:",
+    "options": [
+      "Nonpolar molecules only",
+      "Polar molecules",
+      "Only metals",
+      "Only ions in crystals"
+    ],
+    "correctAnswer": "Polar molecules",
+    "explanation": "Permanent dipoles attract each other in polar molecules.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 63: Ion-dipole forces are important in:",
+    "options": [
+      "Dissolving ionic compounds in polar solvents",
+      "Evaporation of noble gases only",
+      "Metallic bonding",
+      "Formation of dry ice only"
+    ],
+    "correctAnswer": "Dissolving ionic compounds in polar solvents",
+    "explanation": "Polar solvent molecules attract ions through ion-dipole forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 64: Which has stronger intermolecular attraction generally?",
+    "options": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correctAnswer": "HF",
+    "explanation": "HF forms strong hydrogen bonds.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 65: The energy required to increase the surface area of a liquid is related to:",
+    "options": [
+      "Surface tension",
+      "Molar mass only",
+      "Isotopes",
+      "Crystal defect"
+    ],
+    "correctAnswer": "Surface tension",
+    "explanation": "Surface tension measures energy or force associated with creating more surface.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 66: Vapor pressure is independent of:",
+    "options": [
+      "Temperature",
+      "Nature of liquid",
+      "Intermolecular forces",
+      "Amount of liquid if liquid remains present"
+    ],
+    "correctAnswer": "Amount of liquid if liquid remains present",
+    "explanation": "At a fixed temperature, vapor pressure depends on nature of liquid, not amount, as long as liquid is present.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 67: The critical temperature is:",
+    "options": [
+      "Temperature below which gas cannot liquefy",
+      "Highest temperature at which a gas can be liquefied by pressure",
+      "Temperature of freezing only",
+      "Normal boiling point"
+    ],
+    "correctAnswer": "Highest temperature at which a gas can be liquefied by pressure",
+    "explanation": "Above critical temperature, a gas cannot be liquefied by pressure alone.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 68: The critical pressure is the pressure required to liquefy a gas at:",
+    "options": [
+      "0 °C",
+      "Its critical temperature",
+      "Normal boiling point",
+      "Melting point"
+    ],
+    "correctAnswer": "Its critical temperature",
+    "explanation": "Critical pressure corresponds to liquefaction at critical temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 69: Liquid crystals have properties of:",
+    "options": [
+      "Only gases",
+      "Only crystalline solids",
+      "Both liquids and crystals",
+      "Only metals"
+    ],
+    "correctAnswer": "Both liquids and crystals",
+    "explanation": "Liquid crystals flow like liquids but may show ordered arrangement like crystals.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquid crystals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 70: Which substance is commonly used in liquid crystal displays?",
+    "options": [
+      "Liquid crystals",
+      "Dry ice only",
+      "Sodium chloride only",
+      "Graphite powder only"
+    ],
+    "correctAnswer": "Liquid crystals",
+    "explanation": "LCDs use liquid crystals whose optical behavior changes under electric fields.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquid crystals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 71: In liquids, particles are:",
+    "options": [
+      "Fixed at lattice points only",
+      "Close together but able to move past each other",
+      "Very far apart with no attraction",
+      "Always ionized"
+    ],
+    "correctAnswer": "Close together but able to move past each other",
+    "explanation": "Liquids have close particles with enough freedom to flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 72: In solids, particles generally have:",
+    "options": [
+      "No forces",
+      "Fixed positions and vibrational motion",
+      "Only translational motion like gases",
+      "Infinite separation"
+    ],
+    "correctAnswer": "Fixed positions and vibrational motion",
+    "explanation": "Solid particles vibrate about fixed positions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 73: The shape of a liquid is:",
+    "options": [
+      "Always fixed",
+      "Shape of its container",
+      "Always cubic",
+      "Always spherical"
+    ],
+    "correctAnswer": "Shape of its container",
+    "explanation": "Liquids have definite volume but take the shape of the container.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 74: A solid has:",
+    "options": [
+      "Definite shape and definite volume",
+      "No definite volume",
+      "Shape of container always",
+      "No particle attraction"
+    ],
+    "correctAnswer": "Definite shape and definite volume",
+    "explanation": "Solids have strong particle arrangement and retain shape/volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 75: Sublimation is the change from:",
+    "options": [
+      "Solid directly to gas",
+      "Gas to liquid",
+      "Liquid to solid",
+      "Liquid to gas only"
+    ],
+    "correctAnswer": "Solid directly to gas",
+    "explanation": "Sublimation is direct conversion of solid into vapor.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "sublimation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 76: Deposition is the change from:",
+    "options": [
+      "Gas directly to solid",
+      "Solid to liquid",
+      "Liquid to gas",
+      "Solid to liquid crystal"
+    ],
+    "correctAnswer": "Gas directly to solid",
+    "explanation": "Deposition is reverse of sublimation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 77: Which substance sublimes easily?",
+    "options": [
+      "Iodine",
+      "Sodium chloride",
+      "Copper",
+      "Sand"
+    ],
+    "correctAnswer": "Iodine",
+    "explanation": "Iodine crystals sublime readily on heating.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 78: The heat required to convert liquid into vapor at boiling point is:",
+    "options": [
+      "Heat of fusion",
+      "Heat of vaporization",
+      "Heat of sublimation",
+      "Specific heat only"
+    ],
+    "correctAnswer": "Heat of vaporization",
+    "explanation": "Heat of vaporization is energy needed for liquid-to-vapor conversion.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "boiling point"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 79: The heat required to convert solid into liquid at melting point is:",
+    "options": [
+      "Heat of fusion",
+      "Heat of vaporization",
+      "Heat of combustion",
+      "Heat of neutralization"
+    ],
+    "correctAnswer": "Heat of fusion",
+    "explanation": "Heat of fusion is required for melting.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 80: When a liquid evaporates, the molecules escaping have:",
+    "options": [
+      "Lower than average kinetic energy",
+      "Higher than average kinetic energy",
+      "Zero kinetic energy",
+      "No motion"
+    ],
+    "correctAnswer": "Higher than average kinetic energy",
+    "explanation": "High-energy surface molecules escape into vapor.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 81: Which statement about vapor pressure and boiling point is correct?",
+    "options": [
+      "High vapor pressure usually means low boiling point",
+      "High vapor pressure always means high boiling point",
+      "They are unrelated",
+      "Low vapor pressure means very volatile"
+    ],
+    "correctAnswer": "High vapor pressure usually means low boiling point",
+    "explanation": "Liquids with high vapor pressure reach atmospheric pressure at lower temperature.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "vapor pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 82: Increasing external pressure on a liquid generally:",
+    "options": [
+      "Raises its boiling point",
+      "Lowers its boiling point to zero",
+      "Stops all evaporation",
+      "Makes vapor pressure zero"
+    ],
+    "correctAnswer": "Raises its boiling point",
+    "explanation": "Higher external pressure requires higher temperature for vapor pressure to match it.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "boiling point"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 83: Pressure cooker works because:",
+    "options": [
+      "It lowers pressure and lowers boiling point",
+      "It raises pressure and raises boiling point of water",
+      "It removes all steam",
+      "It stops heat transfer"
+    ],
+    "correctAnswer": "It raises pressure and raises boiling point of water",
+    "explanation": "Higher pressure makes water boil at higher temperature, cooking food faster.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "boiling point"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 84: Which is a molecular solid?",
+    "options": [
+      "Iodine",
+      "Copper",
+      "Sodium chloride",
+      "Diamond"
+    ],
+    "correctAnswer": "Iodine",
+    "explanation": "Solid iodine consists of I2 molecules held by London dispersion forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "molecular solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 85: Which is a metallic solid?",
+    "options": [
+      "Copper",
+      "Ice",
+      "Dry ice",
+      "Quartz"
+    ],
+    "correctAnswer": "Copper",
+    "explanation": "Copper atoms are held by metallic bonding.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "metallic solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 86: Which is an ionic solid?",
+    "options": [
+      "NaCl",
+      "I2",
+      "CO2",
+      "CH4"
+    ],
+    "correctAnswer": "NaCl",
+    "explanation": "NaCl consists of Na+ and Cl- ions in a lattice.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "ionic solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 87: Which is a hydrogen-bonded molecular solid?",
+    "options": [
+      "Ice",
+      "Copper",
+      "Diamond",
+      "Sodium chloride"
+    ],
+    "correctAnswer": "Ice",
+    "explanation": "Ice contains water molecules held together by hydrogen bonds.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "molecular solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 88: Which solid conducts electricity due to delocalized electrons?",
+    "options": [
+      "Metallic solid",
+      "Ionic solid at room temperature",
+      "Molecular solid",
+      "Amorphous glass"
+    ],
+    "correctAnswer": "Metallic solid",
+    "explanation": "Delocalized electrons in metals are mobile charge carriers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "metallic solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 89: Graphite conducts electricity because:",
+    "options": [
+      "It has mobile electrons in layers",
+      "It contains Na+ ions",
+      "It is amorphous",
+      "It has no bonds"
+    ],
+    "correctAnswer": "It has mobile electrons in layers",
+    "explanation": "Graphite has delocalized electrons within carbon layers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 90: Diamond is hard because:",
+    "options": [
+      "It has a giant 3D covalent network",
+      "It is molecular",
+      "It has weak London forces",
+      "It is liquid crystal"
+    ],
+    "correctAnswer": "It has a giant 3D covalent network",
+    "explanation": "Strong covalent bonds extend through the diamond crystal.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 91: Which property helps insects walk on water?",
+    "options": [
+      "Surface tension",
+      "Low density of air",
+      "High melting point",
+      "Crystal defect"
+    ],
+    "correctAnswer": "Surface tension",
+    "explanation": "Water surface acts like a stretched film due to surface tension.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 92: The rise of water in a narrow glass tube is an example of:",
+    "options": [
+      "Capillary action",
+      "Sublimation",
+      "Crystallization only",
+      "Metallic conduction"
+    ],
+    "correctAnswer": "Capillary action",
+    "explanation": "Water rises due to adhesive forces with glass and cohesive forces within water.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 93: Liquids have lower compressibility than gases because:",
+    "options": [
+      "Their particles are closer together",
+      "Their particles are farther apart",
+      "They have no particles",
+      "They are always crystalline"
+    ],
+    "correctAnswer": "Their particles are closer together",
+    "explanation": "Less empty space exists between liquid particles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 94: Solids are generally least compressible because:",
+    "options": [
+      "Particles are closely packed",
+      "Particles are far apart",
+      "They have no mass",
+      "They are always volatile"
+    ],
+    "correctAnswer": "Particles are closely packed",
+    "explanation": "Closely packed particles leave little space to compress.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 95: The SI unit often used for surface tension is:",
+    "options": [
+      "N m^-1",
+      "mol L^-1",
+      "atm mol^-1",
+      "kg mol^-1"
+    ],
+    "correctAnswer": "N m^-1",
+    "explanation": "Surface tension is force per unit length.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 96: Viscosity is affected by:",
+    "options": [
+      "Temperature and intermolecular forces",
+      "Only color",
+      "Only container shape",
+      "Only altitude"
+    ],
+    "correctAnswer": "Temperature and intermolecular forces",
+    "explanation": "Both temperature and molecular attraction strongly influence viscosity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 97: A liquid with strong intermolecular forces usually has:",
+    "options": [
+      "High viscosity",
+      "Very low boiling point",
+      "No surface tension",
+      "Zero density"
+    ],
+    "correctAnswer": "High viscosity",
+    "explanation": "Strong attractions make flow more difficult.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 98: The temperature at which solid and liquid phases coexist in equilibrium is:",
+    "options": [
+      "Melting point",
+      "Critical point",
+      "Triple point only",
+      "Boiling point"
+    ],
+    "correctAnswer": "Melting point",
+    "explanation": "At melting point, solid and liquid are in equilibrium.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 99: Freezing point is the temperature at which:",
+    "options": [
+      "Liquid changes to solid",
+      "Solid changes directly to gas",
+      "Gas changes to plasma",
+      "Vapor pressure becomes zero"
+    ],
+    "correctAnswer": "Liquid changes to solid",
+    "explanation": "Freezing is liquid-to-solid transition.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "mcq",
+    "question": "MCQ 100: Which process releases heat?",
+    "options": [
+      "Freezing",
+      "Melting",
+      "Vaporization",
+      "Sublimation"
+    ],
+    "correctAnswer": "Freezing",
+    "explanation": "Freezing releases heat as particles form stronger attractions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "liquids and solids"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 1: Define intermolecular forces.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 2: Write the names of three types of intermolecular forces.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 3: What is hydrogen bonding?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 4: Why does water have a high boiling point?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 5: Define surface tension.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 6: Give one daily-life example of surface tension.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 7: What is viscosity?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 8: Why does viscosity of liquids decrease on heating?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 9: Define vapor pressure.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 10: What is meant by dynamic equilibrium between liquid and vapor?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 11: Define boiling point.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 12: What is normal boiling point?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 13: Why does water boil at a lower temperature at high altitude?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 14: Differentiate between evaporation and boiling.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 15: What is volatility?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 16: Why is ether more volatile than water?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 17: Define capillary action.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 18: What is cohesion?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 19: What is adhesion?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 20: Why does mercury form a convex meniscus in glass?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 21: Why does water form a concave meniscus in glass?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 22: What is heat of vaporization?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 23: What is heat of fusion?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 24: Define sublimation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 25: Give two examples of substances that sublime.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 26: What is deposition?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 27: Write two properties of liquids.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 28: Write two properties of solids.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 29: What is a crystalline solid?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 30: What is an amorphous solid?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 31: Why are amorphous solids called supercooled liquids?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 32: Give two examples of crystalline solids.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 33: Give two examples of amorphous solids.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 34: What is a crystal lattice?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 35: What is a unit cell?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 36: Define coordination number.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 37: What is meant by packing efficiency?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 38: How many atoms are present in a simple cubic unit cell?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 39: How many atoms are present in a body-centered cubic unit cell?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 40: How many atoms are present in a face-centered cubic unit cell?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 41: What is the coordination number of FCC structure?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 42: What is the coordination number of BCC structure?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 43: Differentiate between ionic and molecular solids.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 44: Why do ionic solids conduct electricity in molten state?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 45: What are metallic solids?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 46: Why are metals good conductors of electricity?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 47: What is a covalent network solid?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 48: Why is diamond very hard?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 49: Why does graphite conduct electricity?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "short",
+    "question": "Short Question 50: What is a crystal defect?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 1: Explain hydrogen bonding and its effects on the physical properties of liquids with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 2: Describe surface tension, its cause, factors affecting it, and daily-life applications.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 3: Explain viscosity of liquids. Discuss the effect of temperature and intermolecular forces on viscosity.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 4: Define vapor pressure. Explain its relationship with temperature, volatility, and boiling point.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 5: Differentiate between evaporation and boiling in detail with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 6: Explain boiling point and normal boiling point. Why does boiling point change with external pressure?",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 7: Describe capillary action with the help of cohesion and adhesion. Explain the meniscus of water and mercury.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 8: Explain the properties of liquids including definite volume, fluidity, diffusion, viscosity, surface tension, and vapor pressure.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 9: Explain crystalline solids and amorphous solids. Write their differences with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 10: Describe crystal lattice and unit cell. Explain why unit cell is important in studying crystals.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 11: Explain simple cubic, body-centered cubic, and face-centered cubic unit cells with number of atoms and coordination number.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 12: Discuss packing efficiency of simple cubic, BCC, and FCC structures.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 13: Classify solids into ionic, molecular, metallic, and covalent network solids with examples and properties.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 14: Explain why ionic solids are hard, brittle, and conduct electricity only in molten or aqueous state.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 15: Compare diamond and graphite in terms of structure, bonding, hardness, and electrical conductivity.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 16: Explain Schottky and Frenkel defects in ionic crystals with their effect on density.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 17: Discuss phase changes among solid, liquid, and gas with examples of melting, freezing, vaporization, condensation, sublimation, and deposition.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 18: Explain the anomalous behavior of water and why ice floats on liquid water.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 19: Describe liquid crystals, their properties, and uses in display technology.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Liquids and Solids",
+    "chapterId": "Liquids and Solids",
+    "type": "long",
+    "question": "Long Question 20: Explain the role of intermolecular forces in determining melting point, boiling point, vapor pressure, viscosity, and surface tension.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Liquids and Solids",
+      "long question"
+    ]
+  }
+]

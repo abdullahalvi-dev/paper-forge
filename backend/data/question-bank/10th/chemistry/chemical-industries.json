@@ -1,0 +1,4001 @@
+[
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 1: Which process is commonly used for the industrial manufacture of sodium carbonate?",
+    "options": [
+      "Ostwald process",
+      "Haber process",
+      "Solvay process",
+      "Contact process"
+    ],
+    "correctAnswer": "Solvay process",
+    "explanation": "Sodium carbonate is manufactured industrially by the Solvay process.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 2: The chemical formula of washing soda is:",
+    "options": [
+      "CaCO3",
+      "Na2CO3",
+      "NaHCO3",
+      "Na2CO3·10H2O"
+    ],
+    "correctAnswer": "Na2CO3·10H2O",
+    "explanation": "Washing soda is hydrated sodium carbonate, Na2CO3·10H2O.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sodium carbonate"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 3: The main raw material used as a source of sodium chloride in the Solvay process is:",
+    "options": [
+      "Limestone",
+      "Ammonia",
+      "Coke",
+      "Brine"
+    ],
+    "correctAnswer": "Brine",
+    "explanation": "Brine is a concentrated solution of sodium chloride.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 4: In the Solvay process, limestone provides:",
+    "options": [
+      "H2",
+      "CO2",
+      "NaCl",
+      "NH3"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "Limestone decomposes on heating to give calcium oxide and carbon dioxide.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 5: The formula of limestone is:",
+    "options": [
+      "CaO",
+      "CaCl2",
+      "CaCO3",
+      "CaSO4"
+    ],
+    "correctAnswer": "CaCO3",
+    "explanation": "Limestone is calcium carbonate.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 6: In the Solvay process, ammonia is:",
+    "options": [
+      "Converted into sodium chloride",
+      "Used as fuel only",
+      "Consumed completely",
+      "Recovered and reused"
+    ],
+    "correctAnswer": "Recovered and reused",
+    "explanation": "Ammonia is regenerated during the process and used again.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 7: Sodium bicarbonate formed in the Solvay process is separated because it is:",
+    "options": [
+      "Sparingly soluble in cold water",
+      "A strong acid",
+      "A gas",
+      "Highly soluble in water"
+    ],
+    "correctAnswer": "Sparingly soluble in cold water",
+    "explanation": "NaHCO3 has low solubility in cold ammoniacal brine and precipitates.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 8: On heating sodium bicarbonate, the main product obtained is:",
+    "options": [
+      "Sodium chloride",
+      "Calcium carbonate",
+      "Ammonium chloride",
+      "Sodium carbonate"
+    ],
+    "correctAnswer": "Sodium carbonate",
+    "explanation": "2NaHCO3 decomposes to Na2CO3, CO2 and H2O.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 9: The by-product calcium chloride in Solvay process is formed from:",
+    "options": [
+      "Na2CO3 and HCl",
+      "NH3 and H2O",
+      "CaO and NH4Cl",
+      "NaCl and CO2"
+    ],
+    "correctAnswer": "CaO and NH4Cl",
+    "explanation": "Calcium oxide reacts with ammonium chloride to produce ammonia and calcium chloride.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 10: Which substance is also called soda ash?",
+    "options": [
+      "NaHCO3",
+      "NaOH",
+      "Na2CO3",
+      "NaCl"
+    ],
+    "correctAnswer": "Na2CO3",
+    "explanation": "Anhydrous sodium carbonate is known as soda ash.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sodium carbonate"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 11: Sodium carbonate is used in the manufacture of:",
+    "options": [
+      "Sulphuric acid only",
+      "Urea only",
+      "Glass",
+      "Petrol"
+    ],
+    "correctAnswer": "Glass",
+    "explanation": "Sodium carbonate is an important raw material in glass manufacture.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sodium carbonate"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 12: Baking soda has the chemical formula:",
+    "options": [
+      "NaOH",
+      "Na2CO3",
+      "NaHCO3",
+      "K2CO3"
+    ],
+    "correctAnswer": "NaHCO3",
+    "explanation": "Baking soda is sodium hydrogen carbonate.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 13: Portland cement mainly contains compounds of:",
+    "options": [
+      "Sodium and chlorine only",
+      "Calcium, silicon, aluminium and iron",
+      "Nitrogen and oxygen only",
+      "Carbon and hydrogen only"
+    ],
+    "correctAnswer": "Calcium, silicon, aluminium and iron",
+    "explanation": "Cement is made from limestone and clay containing these oxides.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 14: The main raw materials for cement manufacture are:",
+    "options": [
+      "Sand and soda ash only",
+      "Limestone and clay",
+      "Brine and ammonia",
+      "Petroleum and water"
+    ],
+    "correctAnswer": "Limestone and clay",
+    "explanation": "Limestone and clay are heated to produce cement clinker.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 15: During cement manufacture, limestone is mainly a source of:",
+    "options": [
+      "Sodium oxide",
+      "Ammonia",
+      "Calcium oxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Calcium oxide",
+    "explanation": "Limestone decomposes to calcium oxide at high temperature.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 16: The substance added to cement clinker to control setting time is:",
+    "options": [
+      "Sodium chloride",
+      "Gypsum",
+      "Charcoal",
+      "Sugar"
+    ],
+    "correctAnswer": "Gypsum",
+    "explanation": "Gypsum slows down the setting of cement.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 17: Cement clinker is formed in a:",
+    "options": [
+      "Solvay tower",
+      "Blast furnace",
+      "Electrolytic cell",
+      "Rotary kiln"
+    ],
+    "correctAnswer": "Rotary kiln",
+    "explanation": "The raw meal is heated strongly in a rotary kiln.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 18: Gypsum is chemically:",
+    "options": [
+      "CaCl2",
+      "CaSO4·2H2O",
+      "CaCO3",
+      "CaO"
+    ],
+    "correctAnswer": "CaSO4·2H2O",
+    "explanation": "Gypsum is hydrated calcium sulphate.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 19: The process of hardening of cement after adding water is called:",
+    "options": [
+      "Cracking",
+      "Setting",
+      "Sublimation",
+      "Distillation"
+    ],
+    "correctAnswer": "Setting",
+    "explanation": "Cement sets and hardens by hydration reactions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 20: A major use of cement is in:",
+    "options": [
+      "Food preservation",
+      "Soap fragrance",
+      "Construction",
+      "Refrigeration"
+    ],
+    "correctAnswer": "Construction",
+    "explanation": "Cement is mainly used as a binding material in construction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 21: Glass is generally regarded as:",
+    "options": [
+      "A gas at room temperature",
+      "A crystalline solid",
+      "A pure metal",
+      "A supercooled liquid/amorphous solid"
+    ],
+    "correctAnswer": "A supercooled liquid/amorphous solid",
+    "explanation": "Glass lacks a regular crystalline structure.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 22: Common glass is mainly made from:",
+    "options": [
+      "Clay, urea and petrol",
+      "Brine, ammonia and coke",
+      "Sand, soda ash and limestone",
+      "Sulphur, nitrogen and oxygen"
+    ],
+    "correctAnswer": "Sand, soda ash and limestone",
+    "explanation": "These are the principal raw materials of soda-lime glass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 23: Silica used in glass manufacture has the formula:",
+    "options": [
+      "SO2",
+      "SiO2",
+      "CaO",
+      "CO2"
+    ],
+    "correctAnswer": "SiO2",
+    "explanation": "Silica is silicon dioxide.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 24: Soda ash is added in glass manufacture to:",
+    "options": [
+      "Lower the melting point of silica",
+      "Remove all colour",
+      "Make glass magnetic",
+      "Increase oxygen content"
+    ],
+    "correctAnswer": "Lower the melting point of silica",
+    "explanation": "Sodium carbonate acts as a flux and lowers melting temperature.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sodium carbonate"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 25: Limestone is added in glass manufacture to:",
+    "options": [
+      "Increase solubility in water",
+      "Improve durability",
+      "Produce ammonia",
+      "Act as a fuel"
+    ],
+    "correctAnswer": "Improve durability",
+    "explanation": "Calcium oxide from limestone makes glass less soluble and more durable.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 26: The common type of glass used for bottles and window panes is:",
+    "options": [
+      "Coloured glass only",
+      "Optical fibre glass only",
+      "Quartz glass only",
+      "Soda-lime glass"
+    ],
+    "correctAnswer": "Soda-lime glass",
+    "explanation": "Soda-lime glass is the most common commercial glass.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 27: Borosilicate glass is resistant to:",
+    "options": [
+      "Thermal shock",
+      "Radioactivity only",
+      "Magnetism",
+      "Rusting like iron"
+    ],
+    "correctAnswer": "Thermal shock",
+    "explanation": "Borosilicate glass withstands sudden temperature changes.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 28: Pyrex is an example of:",
+    "options": [
+      "Cement clinker",
+      "Soda ash",
+      "Calcium chloride",
+      "Borosilicate glass"
+    ],
+    "correctAnswer": "Borosilicate glass",
+    "explanation": "Pyrex is a heat-resistant borosilicate glass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 29: Coloured glass is made by adding:",
+    "options": [
+      "Gypsum only",
+      "Metal oxides",
+      "Ammonium chloride only",
+      "Pure water"
+    ],
+    "correctAnswer": "Metal oxides",
+    "explanation": "Different metal oxides produce different glass colours.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 30: Glass used in laboratory apparatus is usually:",
+    "options": [
+      "Paper glass",
+      "Ordinary soft glass only",
+      "Cement glass",
+      "Borosilicate glass"
+    ],
+    "correctAnswer": "Borosilicate glass",
+    "explanation": "It resists heat and chemicals better.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 31: The main raw material for paper industry is:",
+    "options": [
+      "Cellulose",
+      "Petrol",
+      "Calcium carbonate only",
+      "Sodium chloride"
+    ],
+    "correctAnswer": "Cellulose",
+    "explanation": "Paper is made from cellulose fibres from wood, straw or other plant sources.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 32: Wood pulp is mainly composed of:",
+    "options": [
+      "Ammonia gas",
+      "Sodium carbonate crystals",
+      "Cellulose fibres",
+      "Calcium chloride"
+    ],
+    "correctAnswer": "Cellulose fibres",
+    "explanation": "Pulp contains cellulose fibres needed for paper making.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 33: The process of converting wood into pulp is called:",
+    "options": [
+      "Setting",
+      "Cracking",
+      "Roasting",
+      "Pulping"
+    ],
+    "correctAnswer": "Pulping",
+    "explanation": "Pulping separates cellulose fibres from wood.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 34: Bleaching in paper manufacture is done to:",
+    "options": [
+      "Remove colour and brighten pulp",
+      "Convert paper into plastic",
+      "Make paper magnetic",
+      "Increase salt content"
+    ],
+    "correctAnswer": "Remove colour and brighten pulp",
+    "explanation": "Bleaching removes coloured impurities such as lignin residues.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 35: An important environmental problem of paper industry is:",
+    "options": [
+      "Increased gold production",
+      "No waste generation",
+      "Ozone formation only",
+      "Water pollution"
+    ],
+    "correctAnswer": "Water pollution",
+    "explanation": "Paper mills can discharge polluted effluents if untreated.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 36: Recycling paper helps to reduce:",
+    "options": [
+      "Atmospheric nitrogen",
+      "Deforestation",
+      "Glass formation",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Deforestation",
+    "explanation": "Recycling reduces the need for fresh wood pulp.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 37: Which chemical is often used in alkaline pulping?",
+    "options": [
+      "Calcium sulphate",
+      "Sodium hydroxide",
+      "Sodium chloride only",
+      "Methane"
+    ],
+    "correctAnswer": "Sodium hydroxide",
+    "explanation": "NaOH helps dissolve lignin in alkaline pulping.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 38: The purpose of sizing in paper manufacture is to:",
+    "options": [
+      "Increase acidity only",
+      "Turn paper into glass",
+      "Reduce ink spreading and water absorption",
+      "Make paper dissolve instantly"
+    ],
+    "correctAnswer": "Reduce ink spreading and water absorption",
+    "explanation": "Sizing improves writing and printing quality.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 39: Fillers are added to paper to improve:",
+    "options": [
+      "Explosive power",
+      "Opacity and smoothness",
+      "Magnetic strength",
+      "Gas formation"
+    ],
+    "correctAnswer": "Opacity and smoothness",
+    "explanation": "Fillers improve paper appearance and printability.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 40: Paper is dried after sheet formation to:",
+    "options": [
+      "Melt cellulose",
+      "Add sodium chloride",
+      "Produce cement",
+      "Remove excess water"
+    ],
+    "correctAnswer": "Remove excess water",
+    "explanation": "Drying removes moisture from the paper web.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "paper"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 41: Fertilizers are added to soil to supply:",
+    "options": [
+      "Only glass particles",
+      "Only colour",
+      "Essential plant nutrients",
+      "Only sand"
+    ],
+    "correctAnswer": "Essential plant nutrients",
+    "explanation": "Fertilizers provide nutrients required for plant growth.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 42: The three primary plant nutrients are:",
+    "options": [
+      "Sodium, chlorine and calcium only",
+      "Helium, neon and argon",
+      "Gold, silver and copper",
+      "Nitrogen, phosphorus and potassium"
+    ],
+    "correctAnswer": "Nitrogen, phosphorus and potassium",
+    "explanation": "NPK are the major nutrients supplied by fertilizers.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 43: Urea contains mainly which nutrient?",
+    "options": [
+      "Silicon",
+      "Potassium",
+      "Calcium",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Nitrogen",
+    "explanation": "Urea is a nitrogenous fertilizer.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 44: The formula of urea is:",
+    "options": [
+      "CO(NH2)2",
+      "KCl",
+      "CaCO3",
+      "NH4NO3"
+    ],
+    "correctAnswer": "CO(NH2)2",
+    "explanation": "Urea has formula CO(NH2)2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "urea"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 45: Urea is manufactured from:",
+    "options": [
+      "Brine and limestone",
+      "Sand and soda ash",
+      "Clay and gypsum",
+      "Ammonia and carbon dioxide"
+    ],
+    "correctAnswer": "Ammonia and carbon dioxide",
+    "explanation": "Industrial urea production uses NH3 and CO2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "urea"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 46: Ammonia for fertilizer industry is mainly prepared by:",
+    "options": [
+      "Glass blowing",
+      "Solvay process",
+      "Electrolysis of brine only",
+      "Haber process"
+    ],
+    "correctAnswer": "Haber process",
+    "explanation": "The Haber process produces ammonia from nitrogen and hydrogen.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 47: In the Haber process, ammonia is formed from:",
+    "options": [
+      "Sodium and chlorine",
+      "Nitrogen and hydrogen",
+      "Silica and limestone",
+      "Calcium carbonate and heat"
+    ],
+    "correctAnswer": "Nitrogen and hydrogen",
+    "explanation": "N2 and H2 combine to produce NH3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 48: DAP stands for:",
+    "options": [
+      "Dissolved acid product",
+      "Dry ammonia powder",
+      "Diammonium phosphate",
+      "Double alkali phosphate"
+    ],
+    "correctAnswer": "Diammonium phosphate",
+    "explanation": "DAP is diammonium phosphate fertilizer.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 49: A potassium fertilizer commonly used is:",
+    "options": [
+      "Sodium bicarbonate",
+      "Calcium carbonate",
+      "Potassium chloride",
+      "Silicon dioxide"
+    ],
+    "correctAnswer": "Potassium chloride",
+    "explanation": "KCl is a common potash fertilizer.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 50: Excessive use of fertilizers can cause:",
+    "options": [
+      "Formation of glass",
+      "Eutrophication of water bodies",
+      "No environmental effect",
+      "Decrease in crop growth always"
+    ],
+    "correctAnswer": "Eutrophication of water bodies",
+    "explanation": "Runoff nutrients can cause algal blooms and oxygen depletion.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 51: Petroleum is a mixture mainly of:",
+    "options": [
+      "Metal oxides",
+      "Pure water",
+      "Salts",
+      "Hydrocarbons"
+    ],
+    "correctAnswer": "Hydrocarbons",
+    "explanation": "Crude oil consists mostly of hydrocarbons.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "petroleum"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 52: The separation of petroleum into fractions is done by:",
+    "options": [
+      "Sublimation",
+      "Filtration only",
+      "Crystallization only",
+      "Fractional distillation"
+    ],
+    "correctAnswer": "Fractional distillation",
+    "explanation": "Fractions are separated according to boiling point ranges.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "petroleum"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 53: The fraction of petroleum used as fuel in cars is:",
+    "options": [
+      "Lubricating oil only",
+      "Petrol/gasoline",
+      "Paraffin wax only",
+      "Bitumen"
+    ],
+    "correctAnswer": "Petrol/gasoline",
+    "explanation": "Petrol is commonly used in spark-ignition engines.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "petroleum"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 54: Diesel has a boiling point range generally:",
+    "options": [
+      "Lower than petrol",
+      "Same as gases only",
+      "Zero at all conditions",
+      "Higher than petrol"
+    ],
+    "correctAnswer": "Higher than petrol",
+    "explanation": "Diesel contains larger hydrocarbons and boils at higher temperatures.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 55: Bitumen is commonly used for:",
+    "options": [
+      "Making table salt",
+      "Producing ammonia",
+      "Bleaching paper",
+      "Road surfacing"
+    ],
+    "correctAnswer": "Road surfacing",
+    "explanation": "Bitumen is a heavy petroleum residue used in roads.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "petroleum"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 56: Kerosene is used as:",
+    "options": [
+      "A bleaching agent only",
+      "A glass flux only",
+      "A cement setting retarder",
+      "A fuel"
+    ],
+    "correctAnswer": "A fuel",
+    "explanation": "Kerosene is used in lamps, stoves and jet fuel grades.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 57: Petrochemicals are chemicals obtained from:",
+    "options": [
+      "Only glass",
+      "Petroleum and natural gas",
+      "Only limestone",
+      "Only sea water"
+    ],
+    "correctAnswer": "Petroleum and natural gas",
+    "explanation": "Petrochemical industry uses hydrocarbons as feedstock.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 58: Cracking is used to convert:",
+    "options": [
+      "Large hydrocarbons into smaller hydrocarbons",
+      "Salt into limestone",
+      "Cement into gypsum",
+      "Water into glass"
+    ],
+    "correctAnswer": "Large hydrocarbons into smaller hydrocarbons",
+    "explanation": "Cracking breaks long-chain hydrocarbons into useful shorter ones.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 59: Polymers such as plastics are commonly made from:",
+    "options": [
+      "Gypsum only",
+      "Pure limestone only",
+      "Sodium chloride crystals only",
+      "Petrochemical monomers"
+    ],
+    "correctAnswer": "Petrochemical monomers",
+    "explanation": "Ethene, propene and similar monomers are petrochemical feedstocks.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 60: Natural gas is mainly composed of:",
+    "options": [
+      "Methane",
+      "Nitrogen dioxide",
+      "Carbon dioxide only",
+      "Ethene"
+    ],
+    "correctAnswer": "Methane",
+    "explanation": "Methane is the main component of natural gas.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 61: Soap is commonly made by the reaction of fats/oils with:",
+    "options": [
+      "Sodium chloride only",
+      "Calcium carbonate",
+      "Sodium hydroxide",
+      "Silica"
+    ],
+    "correctAnswer": "Sodium hydroxide",
+    "explanation": "Saponification uses alkali such as NaOH.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "soap"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 62: The process of making soap from fats and alkali is called:",
+    "options": [
+      "Polymerization",
+      "Hydration",
+      "Saponification",
+      "Sublimation"
+    ],
+    "correctAnswer": "Saponification",
+    "explanation": "Saponification produces soap and glycerol.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "soap"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 63: A detergent is generally preferred over soap in hard water because it:",
+    "options": [
+      "Always forms more scum",
+      "Contains no cleaning agent",
+      "Does not form scum easily",
+      "Is insoluble in water"
+    ],
+    "correctAnswer": "Does not form scum easily",
+    "explanation": "Detergents clean effectively in hard water.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "soap"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 64: Hard water contains mainly ions of:",
+    "options": [
+      "Sodium and potassium only",
+      "Calcium and magnesium",
+      "Silver and gold",
+      "Hydrogen and oxygen only"
+    ],
+    "correctAnswer": "Calcium and magnesium",
+    "explanation": "Ca2+ and Mg2+ ions cause hardness.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 65: Soap forms scum in hard water due to formation of:",
+    "options": [
+      "Carbon dioxide gas",
+      "Silica gel",
+      "Sodium chloride",
+      "Insoluble calcium/magnesium salts"
+    ],
+    "correctAnswer": "Insoluble calcium/magnesium salts",
+    "explanation": "Soap anions form insoluble salts with Ca2+ and Mg2+.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "soap"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 66: The Contact process is used to manufacture:",
+    "options": [
+      "Ammonia",
+      "Glass",
+      "Sodium carbonate",
+      "Sulphuric acid"
+    ],
+    "correctAnswer": "Sulphuric acid",
+    "explanation": "Sulphuric acid is manufactured by the Contact process.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sulphuric acid"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 67: The catalyst used in Contact process is:",
+    "options": [
+      "Iron",
+      "Vanadium(V) oxide",
+      "Platinum only in modern plants",
+      "Nickel"
+    ],
+    "correctAnswer": "Vanadium(V) oxide",
+    "explanation": "V2O5 is the common catalyst used in the Contact process.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 68: Sulphur dioxide is converted into sulphur trioxide by:",
+    "options": [
+      "Precipitation only",
+      "Reduction",
+      "Neutralization only",
+      "Oxidation"
+    ],
+    "correctAnswer": "Oxidation",
+    "explanation": "SO2 reacts with oxygen to form SO3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 69: Sulphur trioxide is absorbed in concentrated sulphuric acid to form:",
+    "options": [
+      "Soda ash",
+      "Ammonia",
+      "Gypsum",
+      "Oleum"
+    ],
+    "correctAnswer": "Oleum",
+    "explanation": "SO3 is absorbed in H2SO4 to form oleum, H2S2O7.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sulphuric acid"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 70: Oleum is diluted with water to obtain:",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Hydrochloric acid",
+      "Carbonic acid"
+    ],
+    "correctAnswer": "Sulphuric acid",
+    "explanation": "Dilution of oleum gives H2SO4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 71: Sulphuric acid is called the king of chemicals because:",
+    "options": [
+      "It is used only in glass",
+      "It is a noble gas",
+      "It has many industrial uses",
+      "It cannot react with anything"
+    ],
+    "correctAnswer": "It has many industrial uses",
+    "explanation": "H2SO4 is important in fertilizers, chemicals, petroleum refining and more.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 72: Nitric acid is industrially manufactured by:",
+    "options": [
+      "Haber process",
+      "Ostwald process",
+      "Bessemer process",
+      "Solvay process"
+    ],
+    "correctAnswer": "Ostwald process",
+    "explanation": "The Ostwald process converts ammonia into nitric acid.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "industrial"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 73: In the Ostwald process, ammonia is first oxidized to:",
+    "options": [
+      "Nitric oxide",
+      "Sulphur dioxide",
+      "Methane",
+      "Carbon monoxide"
+    ],
+    "correctAnswer": "Nitric oxide",
+    "explanation": "Ammonia is catalytically oxidized to NO.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 74: The catalyst in Ostwald process is commonly:",
+    "options": [
+      "Platinum-rhodium gauze",
+      "Vanadium oxide",
+      "Copper sulphate",
+      "Iron"
+    ],
+    "correctAnswer": "Platinum-rhodium gauze",
+    "explanation": "Pt-Rh gauze catalyzes oxidation of ammonia.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 75: Nitric acid is used in the manufacture of:",
+    "options": [
+      "Window glass only",
+      "Fertilizers and explosives",
+      "Table salt only",
+      "Cement clinker only"
+    ],
+    "correctAnswer": "Fertilizers and explosives",
+    "explanation": "HNO3 is used for nitrates, fertilizers and explosives.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 76: Sodium hydroxide is commonly manufactured by electrolysis of:",
+    "options": [
+      "Limestone",
+      "Brine",
+      "Gypsum",
+      "Sand"
+    ],
+    "correctAnswer": "Brine",
+    "explanation": "Electrolysis of brine produces NaOH, chlorine and hydrogen.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "brine"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 77: The electrolysis of brine produces chlorine at the:",
+    "options": [
+      "Cathode",
+      "Salt bridge",
+      "Condenser",
+      "Anode"
+    ],
+    "correctAnswer": "Anode",
+    "explanation": "Chloride ions are oxidized to chlorine at the anode.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "brine"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 78: Hydrogen gas is produced at the cathode during electrolysis of:",
+    "options": [
+      "Dry cement",
+      "Molten glass",
+      "Limestone only",
+      "Brine"
+    ],
+    "correctAnswer": "Brine",
+    "explanation": "Water is reduced at the cathode to hydrogen.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 79: Caustic soda is the common name of:",
+    "options": [
+      "Sodium carbonate",
+      "Calcium carbonate",
+      "Potassium nitrate",
+      "Sodium hydroxide"
+    ],
+    "correctAnswer": "Sodium hydroxide",
+    "explanation": "NaOH is known as caustic soda.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 80: Chlorine is used for:",
+    "options": [
+      "Cement setting",
+      "Petrol refining only",
+      "Water disinfection",
+      "Glass softening only"
+    ],
+    "correctAnswer": "Water disinfection",
+    "explanation": "Chlorine kills harmful microorganisms in water.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 81: Chlor-alkali industry produces:",
+    "options": [
+      "Chlorine, hydrogen and sodium hydroxide",
+      "Only paper",
+      "Only glass",
+      "Only cement"
+    ],
+    "correctAnswer": "Chlorine, hydrogen and sodium hydroxide",
+    "explanation": "Brine electrolysis gives these three major products.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "brine"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 82: A chemical industry converts raw materials into:",
+    "options": [
+      "Useful chemical products",
+      "Only natural rocks",
+      "Only sunlight",
+      "Only air"
+    ],
+    "correctAnswer": "Useful chemical products",
+    "explanation": "Chemical industries process raw materials into valuable products.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 83: Quality control in chemical industry is important to ensure:",
+    "options": [
+      "Random composition",
+      "Maximum pollution",
+      "Purity and safety of products",
+      "No testing"
+    ],
+    "correctAnswer": "Purity and safety of products",
+    "explanation": "Quality control keeps products within required specifications.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 84: A catalyst in chemical industry is used to:",
+    "options": [
+      "Become the only product",
+      "Increase reaction rate without being consumed",
+      "Stop every reaction",
+      "Decrease all yield"
+    ],
+    "correctAnswer": "Increase reaction rate without being consumed",
+    "explanation": "Catalysts speed reactions and are not consumed overall.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 85: Recycling in chemical industries helps to:",
+    "options": [
+      "Eliminate all products",
+      "Increase raw material wastage",
+      "Stop production",
+      "Reduce waste and save resources"
+    ],
+    "correctAnswer": "Reduce waste and save resources",
+    "explanation": "Recycling improves resource efficiency and lowers pollution.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 86: Untreated industrial waste may cause:",
+    "options": [
+      "No harm",
+      "Environmental pollution",
+      "Better drinking water always",
+      "Higher purity of rivers"
+    ],
+    "correctAnswer": "Environmental pollution",
+    "explanation": "Untreated waste can contaminate air, water and soil.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "industrial"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 87: Green chemistry focuses on:",
+    "options": [
+      "Making reactions more dangerous",
+      "Using no science",
+      "Increasing pollution",
+      "Reducing harmful substances and waste"
+    ],
+    "correctAnswer": "Reducing harmful substances and waste",
+    "explanation": "Green chemistry designs safer processes and products.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 88: The main purpose of effluent treatment is to:",
+    "options": [
+      "Remove harmful pollutants before discharge",
+      "Increase water colour",
+      "Add more toxins",
+      "Convert water into petrol"
+    ],
+    "correctAnswer": "Remove harmful pollutants before discharge",
+    "explanation": "Treatment protects water bodies from industrial pollutants.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "industrial"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 89: A raw material is:",
+    "options": [
+      "Only a final product",
+      "A starting substance used to make products",
+      "Only waste material",
+      "Only packaging"
+    ],
+    "correctAnswer": "A starting substance used to make products",
+    "explanation": "Raw materials are processed to form useful products.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 90: A by-product is:",
+    "options": [
+      "Always the main desired product",
+      "A catalyst only",
+      "A raw material only",
+      "A secondary product formed during a process"
+    ],
+    "correctAnswer": "A secondary product formed during a process",
+    "explanation": "By-products form alongside the main product.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 91: Yield in a chemical process refers to:",
+    "options": [
+      "Colour of container",
+      "Amount of product obtained",
+      "Size of building",
+      "Weight of catalyst only"
+    ],
+    "correctAnswer": "Amount of product obtained",
+    "explanation": "Yield measures how much desired product is produced.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 92: High temperature in a kiln is needed to:",
+    "options": [
+      "Cause chemical decomposition and combination reactions",
+      "Prevent all reactions",
+      "Make ammonia only",
+      "Freeze raw materials"
+    ],
+    "correctAnswer": "Cause chemical decomposition and combination reactions",
+    "explanation": "Cement raw materials react at high temperatures.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 93: The correct equation for decomposition of limestone is:",
+    "options": [
+      "SiO2 → Si + O2",
+      "NH3 + CO2 → Na2CO3",
+      "NaCl → Na + Cl",
+      "CaCO3 → CaO + CO2"
+    ],
+    "correctAnswer": "CaCO3 → CaO + CO2",
+    "explanation": "Calcium carbonate thermally decomposes into calcium oxide and carbon dioxide.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 94: The correct equation for heating sodium bicarbonate is:",
+    "options": [
+      "CaCO3 → CaCl2 + CO2",
+      "2NaHCO3 → Na2CO3 + CO2 + H2O",
+      "Na2CO3 → 2Na + CO3",
+      "NH3 → N2 + H2O"
+    ],
+    "correctAnswer": "2NaHCO3 → Na2CO3 + CO2 + H2O",
+    "explanation": "Sodium bicarbonate decomposes on heating to sodium carbonate, carbon dioxide and water.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "sodium carbonate"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 95: Which product is obtained when ammonia reacts with carbon dioxide under suitable conditions in fertilizer industry?",
+    "options": [
+      "Urea",
+      "Glass",
+      "Cement",
+      "Bitumen"
+    ],
+    "correctAnswer": "Urea",
+    "explanation": "Urea is produced from ammonia and carbon dioxide.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "fertilizer"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 96: Which industry uses rotary kilns on a large scale?",
+    "options": [
+      "Cement industry",
+      "Soap packaging only",
+      "Salt mining only",
+      "Paper bleaching only"
+    ],
+    "correctAnswer": "Cement industry",
+    "explanation": "Rotary kilns are central in cement manufacture.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "cement"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 97: Which material gives strength to glass by supplying CaO?",
+    "options": [
+      "Brine",
+      "Urea",
+      "Ammonia",
+      "Limestone"
+    ],
+    "correctAnswer": "Limestone",
+    "explanation": "Calcium carbonate decomposes to calcium oxide, strengthening glass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 98: Which substance is used as a flux in glass making?",
+    "options": [
+      "Urea",
+      "Calcium chloride",
+      "Ammonium chloride",
+      "Sodium carbonate"
+    ],
+    "correctAnswer": "Sodium carbonate",
+    "explanation": "Soda ash lowers the melting point of silica.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "glass"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 99: Why is ammonia important in the Solvay process?",
+    "options": [
+      "It is the final product",
+      "It colours the glass",
+      "It helps precipitate sodium bicarbonate and is regenerated",
+      "It hardens cement"
+    ],
+    "correctAnswer": "It helps precipitate sodium bicarbonate and is regenerated",
+    "explanation": "Ammonia helps convert brine and CO2 into NaHCO3 and is recovered.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "Solvay"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "mcq",
+    "question": "MCQ 100: Which one is NOT a product of brine electrolysis?",
+    "options": [
+      "Calcium carbonate",
+      "Sodium hydroxide",
+      "Chlorine",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Calcium carbonate",
+    "explanation": "Brine electrolysis produces Cl2, H2 and NaOH, not CaCO3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "brine"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 1: Define chemical industry.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 2: What is meant by raw material in a chemical industry?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 3: Write the names of two raw materials used in the Solvay process.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 4: What is brine?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 5: Write the chemical formula of washing soda.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 6: What is soda ash?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 7: Why is ammonia recovered in the Solvay process?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 8: Write the equation for the decomposition of limestone.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 9: Why does sodium bicarbonate precipitate in the Solvay process?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 10: Write the equation for heating sodium bicarbonate.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 11: Give two uses of sodium carbonate.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 12: What is cement clinker?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 13: Name the two main raw materials used in cement manufacture.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 14: Why is gypsum added to cement?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 15: What is the function of a rotary kiln in cement industry?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 16: Define setting of cement.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 17: Write the chemical formula of gypsum.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 18: Name two important uses of cement.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 19: What are the main raw materials used in glass manufacture?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 20: What is silica? Write its formula.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 21: Why is soda ash added in glass manufacture?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 22: Why is limestone added in glass manufacture?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 23: What is soda-lime glass?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 24: What is borosilicate glass?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 25: Why is borosilicate glass used in laboratory apparatus?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 26: How is coloured glass prepared?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 27: What is the main raw material of paper?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 28: Define pulping.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 29: Why is bleaching done in paper manufacture?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 30: What is the purpose of sizing in paper industry?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 31: What are fillers in paper manufacture?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 32: Write one environmental problem caused by paper industry.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 33: How does paper recycling help the environment?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 34: What are fertilizers?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 35: Name the three primary plant nutrients.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 36: What is the formula of urea?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 37: From which substances is urea manufactured?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 38: What is DAP?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 39: Write one harmful effect of excessive fertilizer use.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 40: What is petroleum mainly composed of?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 41: Define fractional distillation of petroleum.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 42: Name two petroleum fractions and their uses.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 43: What is cracking in petroleum industry?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 44: Define petrochemicals.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 45: What is natural gas mainly composed of?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 46: Define saponification.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 47: Why are detergents useful in hard water?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 48: What is caustic soda?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 49: Name the products of brine electrolysis.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "short",
+    "question": "Short Question 50: Why is effluent treatment important in chemical industries?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 1: Describe the Solvay process for the manufacture of sodium carbonate with important raw materials and reactions.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 2: Explain the role of ammonia in the Solvay process and show how it is recovered.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 3: Write a detailed note on the uses of sodium carbonate and sodium bicarbonate.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 4: Describe the manufacture of cement, including raw materials, kiln process, clinker formation and addition of gypsum.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 5: Explain the setting and hardening of cement and state the importance of gypsum.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 6: Describe the manufacture of glass from sand, soda ash and limestone. Also explain the function of each raw material.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 7: Compare soda-lime glass and borosilicate glass with uses.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 8: Explain how coloured glass is prepared and mention the role of metal oxides.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 9: Describe the main steps involved in paper manufacture from wood pulp.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 10: Discuss the environmental problems caused by paper industry and methods to reduce them.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 11: Explain fertilizers, their types and the importance of NPK nutrients for plants.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 12: Describe the manufacture of urea from ammonia and carbon dioxide with its importance as fertilizer.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 13: Write a detailed note on petroleum refining and fractional distillation.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 14: Explain cracking of petroleum fractions and its importance in petrochemical industry.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 15: Describe petrochemicals and explain their role in the manufacture of plastics and synthetic materials.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 16: Explain soap manufacture by saponification and compare soap with detergent.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 17: Describe the chlor-alkali process and write the products and uses of brine electrolysis.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 18: Explain the Contact process for the manufacture of sulphuric acid with catalyst and main steps.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 19: Describe the Ostwald process for manufacturing nitric acid and state its industrial uses.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "10th",
+    "classId": "10th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Industries",
+    "chapterId": "Chemical Industries",
+    "type": "long",
+    "question": "Long Question 20: Discuss safety measures, quality control and pollution control in chemical industries.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "10th",
+      "Chemistry",
+      "Chemical Industries",
+      "long question"
+    ]
+  }
+]

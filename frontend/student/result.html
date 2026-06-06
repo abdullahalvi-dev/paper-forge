@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Result | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css?v=practice-result-20260606-1" rel="stylesheet">
+  </head>
+  <body data-page="result" class="practice-result-page">
+    <div class="practice-result-shell">
+      <header class="practice-exam-header">
+        <a class="practice-exam-brand" href="/dashboard/student-dashboard.html" aria-label="Return to student dashboard">
+          <img src="../assets/images/Logo.svg" alt="Paper Forge">
+          <span>Answer Review</span>
+        </a>
+        <button class="practice-retry-button" id="retryPracticeBtn" type="button">
+          <i class="bi bi-arrow-repeat" aria-hidden="true"></i>
+          <span>New practice</span>
+        </button>
+      </header>
+
+      <main class="practice-result-main">
+        <section class="practice-result-hero">
+          <div>
+            <span class="practice-eyebrow">Practice completed</span>
+            <h1>Review your answers</h1>
+            <p>Har question ka selected answer, correct answer aur marks neeche diye gaye hain.</p>
+          </div>
+          <div class="practice-result-summary" aria-label="Practice result summary">
+            <div><span>Score</span><strong id="resultScore">0/0</strong></div>
+            <div><span>Percentage</span><strong id="resultPercent">0%</strong></div>
+            <div><span>Time taken</span><strong id="resultTime">0 min</strong></div>
+          </div>
+        </section>
+
+        <section class="practice-review-section">
+          <div class="practice-review-heading">
+            <div>
+              <span class="practice-eyebrow">Answer review</span>
+              <h2>Questions and answers</h2>
+            </div>
+            <span id="resultQuestionCount">0 questions</span>
+          </div>
+          <div class="practice-review-list" id="reviewList"></div>
+        </section>
+
+        <div class="practice-review-finish">
+          <button class="btn practice-submit-button" id="finishReviewBtn" type="button">
+            <i class="bi bi-check2-circle" aria-hidden="true"></i>
+            Finish review
+          </button>
+        </div>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js?v=practice-result-20260606-1"></script>
+  </body>
+</html>

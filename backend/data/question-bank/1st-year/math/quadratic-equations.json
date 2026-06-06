@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 1: Which of the following is the standard form of a quadratic equation?",
+    "options": [
+      "ax³ + bx² + c = 0",
+      "ax + b = 0",
+      "a/x + b = 0",
+      "ax² + bx + c = 0, where a ≠ 0"
+    ],
+    "correctAnswer": "ax² + bx + c = 0, where a ≠ 0",
+    "explanation": "A quadratic equation has degree 2 and non-zero coefficient of x².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "standard form"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 2: The degree of a quadratic equation is:",
+    "options": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "explanation": "The highest power of the variable in a quadratic equation is 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "degree"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 3: In ax² + bx + c = 0, the coefficient of x² is:",
+    "options": [
+      "b",
+      "0",
+      "c",
+      "a"
+    ],
+    "correctAnswer": "a",
+    "explanation": "The term containing x² is ax², so its coefficient is a.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "coefficient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 4: For ax² + bx + c = 0, which condition must be true?",
+    "options": [
+      "b ≠ 0",
+      "c ≠ 0",
+      "a ≠ 0",
+      "a = 0"
+    ],
+    "correctAnswer": "a ≠ 0",
+    "explanation": "If a = 0, the equation becomes linear, not quadratic.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "standard form"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 5: Which expression is the discriminant of ax² + bx + c = 0?",
+    "options": [
+      "b² + 4ac",
+      "a² - 4bc",
+      "4ac - b²",
+      "b² - 4ac"
+    ],
+    "correctAnswer": "b² - 4ac",
+    "explanation": "The discriminant is D = b² - 4ac.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 6: The quadratic formula for ax² + bx + c = 0 is:",
+    "options": [
+      "x = (b ± √(b² - 4ac))/(2a)",
+      "x = (-b ± √(a² - 4bc))/(2a)",
+      "x = (-a ± √(b² - 4ac))/(2b)",
+      "x = (-b ± √(b² - 4ac))/(2a)"
+    ],
+    "correctAnswer": "x = (-b ± √(b² - 4ac))/(2a)",
+    "explanation": "The quadratic formula solves any quadratic equation where a ≠ 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "quadratic formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 7: If the discriminant is positive, the quadratic equation has:",
+    "options": [
+      "no real roots",
+      "one repeated real root",
+      "two distinct real roots",
+      "infinitely many roots"
+    ],
+    "correctAnswer": "two distinct real roots",
+    "explanation": "D > 0 gives two different real roots.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 8: If the discriminant is zero, the quadratic equation has:",
+    "options": [
+      "two distinct real roots",
+      "no solution",
+      "two equal real roots",
+      "two imaginary roots only"
+    ],
+    "correctAnswer": "two equal real roots",
+    "explanation": "D = 0 means both roots are equal.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 9: If the discriminant is negative, the quadratic equation has:",
+    "options": [
+      "no real roots",
+      "two positive real roots",
+      "two equal real roots",
+      "one real root only"
+    ],
+    "correctAnswer": "no real roots",
+    "explanation": "D < 0 gives complex conjugate roots, not real roots.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 10: For ax² + bx + c = 0, the sum of roots is:",
+    "options": [
+      "b/a",
+      "-c/a",
+      "-b/a",
+      "c/a"
+    ],
+    "correctAnswer": "-b/a",
+    "explanation": "If roots are α and β, then α + β = -b/a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 11: For ax² + bx + c = 0, the product of roots is:",
+    "options": [
+      "b/a",
+      "-b/a",
+      "-c/a",
+      "c/a"
+    ],
+    "correctAnswer": "c/a",
+    "explanation": "If roots are α and β, then αβ = c/a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 12: If α and β are roots of x² - 5x + 6 = 0, then α + β equals:",
+    "options": [
+      "-6",
+      "-5",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "explanation": "For x² - 5x + 6, sum = -b/a = -(-5)/1 = 5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 13: If α and β are roots of x² - 5x + 6 = 0, then αβ equals:",
+    "options": [
+      "-6",
+      "5",
+      "6",
+      "-5"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Product = c/a = 6/1 = 6.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 14: Which method can solve every quadratic equation?",
+    "options": [
+      "Only graphing",
+      "Only trial method",
+      "Only factorization",
+      "Quadratic formula"
+    ],
+    "correctAnswer": "Quadratic formula",
+    "explanation": "The quadratic formula works for all quadratic equations with a ≠ 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "quadratic formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 15: A quadratic equation can have at most how many roots?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "correctAnswer": "2",
+    "explanation": "A degree 2 polynomial equation has at most two roots.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 16: Solve by factorization: x² - 5x + 6 = 0",
+    "options": [
+      "-1, -6",
+      "2, 3",
+      "-2, -3",
+      "1, 6"
+    ],
+    "correctAnswer": "2, 3",
+    "explanation": "(x - 2)(x - 3)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 17: Solve by factorization: x² + 5x + 6 = 0",
+    "options": [
+      "2, 3",
+      "-1, -6",
+      "1, 6",
+      "-2, -3"
+    ],
+    "correctAnswer": "-2, -3",
+    "explanation": "(x + 2)(x + 3)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 18: Solve by factorization: x² - 9 = 0",
+    "options": [
+      "9, -9",
+      "3, 0",
+      "3, -3",
+      "0, 9"
+    ],
+    "correctAnswer": "3, -3",
+    "explanation": "x² - 9 = (x - 3)(x + 3).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 19: Solve by factorization: x² - 7x + 12 = 0",
+    "options": [
+      "1, 12",
+      "2, 6",
+      "-3, -4",
+      "3, 4"
+    ],
+    "correctAnswer": "3, 4",
+    "explanation": "(x - 3)(x - 4)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 20: Solve by factorization: x² + 2x - 15 = 0",
+    "options": [
+      "3, -5",
+      "-3, 5",
+      "5, 3",
+      "-5, -3"
+    ],
+    "correctAnswer": "3, -5",
+    "explanation": "(x + 5)(x - 3)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 21: Solve by factorization: x² - x - 6 = 0",
+    "options": [
+      "3, -2",
+      "6, -1",
+      "1, -6",
+      "-3, 2"
+    ],
+    "correctAnswer": "3, -2",
+    "explanation": "(x - 3)(x + 2)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 22: Solve by factorization: 2x² - 5x + 2 = 0",
+    "options": [
+      "2, 1/2",
+      "5, 2",
+      "-2, -1/2",
+      "1, 2"
+    ],
+    "correctAnswer": "2, 1/2",
+    "explanation": "(2x - 1)(x - 2)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 23: Solve by factorization: 3x² - 12x = 0",
+    "options": [
+      "0, -4",
+      "-3, 4",
+      "3, 4",
+      "0, 4"
+    ],
+    "correctAnswer": "0, 4",
+    "explanation": "3x(x - 4)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 24: Solve by factorization: x² + 6x + 9 = 0",
+    "options": [
+      "-9, 1",
+      "0, -6",
+      "-3, -3",
+      "3, 3"
+    ],
+    "correctAnswer": "-3, -3",
+    "explanation": "(x + 3)²=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 25: Solve by factorization: 4x² - 25 = 0",
+    "options": [
+      "25/4, -25/4",
+      "5/2, -5/2",
+      "5, -5",
+      "2/5, -2/5"
+    ],
+    "correctAnswer": "5/2, -5/2",
+    "explanation": "4x² - 25 = (2x - 5)(2x + 5).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 26: Find the discriminant of x² - 4x + 4 = 0",
+    "options": [
+      "1",
+      "4",
+      "0",
+      "-1"
+    ],
+    "correctAnswer": "0",
+    "explanation": "D = (-4)² - 4(1)(4) = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 27: Find the discriminant of x² - 5x + 6 = 0",
+    "options": [
+      "4",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "explanation": "D = (-5)² - 4(1)(6) = 25 - 24 = 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 28: Find the discriminant of x² + 2x + 5 = 0",
+    "options": [
+      "0",
+      "-1",
+      "-16",
+      "1"
+    ],
+    "correctAnswer": "-16",
+    "explanation": "D = 2² - 4(1)(5) = -16.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 29: Find the discriminant of 2x² + 3x - 2 = 0",
+    "options": [
+      "-1",
+      "0",
+      "25",
+      "1"
+    ],
+    "correctAnswer": "25",
+    "explanation": "D = 3² - 4(2)(-2) = 9 + 16 = 25.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 30: Find the discriminant of 3x² - 2x + 1 = 0",
+    "options": [
+      "-8",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": "-8",
+    "explanation": "D = (-2)² - 4(3)(1) = -8.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 31: Find the discriminant of x² + 4x + 4 = 0",
+    "options": [
+      "-1",
+      "0",
+      "4",
+      "1"
+    ],
+    "correctAnswer": "0",
+    "explanation": "D = 4² - 4(1)(4)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 32: Find the discriminant of 5x² - x - 1 = 0",
+    "options": [
+      "21",
+      "-1",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "21",
+    "explanation": "D = (-1)² - 4(5)(-1)=21.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 33: Find the discriminant of x² - 2x - 3 = 0",
+    "options": [
+      "16",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": "16",
+    "explanation": "D = (-2)² - 4(1)(-3)=16.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 34: What is the nature of roots of x² - 6x + 9 = 0?",
+    "options": [
+      "two equal real roots",
+      "infinitely many roots",
+      "two distinct real roots",
+      "no real roots"
+    ],
+    "correctAnswer": "two equal real roots",
+    "explanation": "D = 36 - 36 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 35: What is the nature of roots of x² + x + 1 = 0?",
+    "options": [
+      "two equal real roots",
+      "no real roots",
+      "two distinct real roots",
+      "infinitely many roots"
+    ],
+    "correctAnswer": "no real roots",
+    "explanation": "D = 1 - 4 = -3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 36: What is the nature of roots of x² - 3x + 2 = 0?",
+    "options": [
+      "two equal real roots",
+      "no real roots",
+      "infinitely many roots",
+      "two distinct real roots"
+    ],
+    "correctAnswer": "two distinct real roots",
+    "explanation": "D = 9 - 8 = 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 37: What is the nature of roots of 2x² + x + 3 = 0?",
+    "options": [
+      "two equal real roots",
+      "two distinct real roots",
+      "no real roots",
+      "infinitely many roots"
+    ],
+    "correctAnswer": "no real roots",
+    "explanation": "D = 1 - 24 = -23.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 38: What is the nature of roots of 4x² - 4x + 1 = 0?",
+    "options": [
+      "two distinct real roots",
+      "no real roots",
+      "two equal real roots",
+      "infinitely many roots"
+    ],
+    "correctAnswer": "two equal real roots",
+    "explanation": "D = 16 - 16 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 39: What is the nature of roots of x² + 5x + 4 = 0?",
+    "options": [
+      "two equal real roots",
+      "two distinct real roots",
+      "infinitely many roots",
+      "no real roots"
+    ],
+    "correctAnswer": "two distinct real roots",
+    "explanation": "D = 25 - 16 = 9.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 40: For x² - 7x + 10 = 0, find the sum of roots.",
+    "options": [
+      "5",
+      "2",
+      "-2",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Sum = -b/a = 7.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 41: For 2x² - 3x + 5 = 0, find the sum of roots.",
+    "options": [
+      "5",
+      "2",
+      "3/2",
+      "-2"
+    ],
+    "correctAnswer": "3/2",
+    "explanation": "Sum = -b/a = 3/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 42: For 3x² + 6x - 1 = 0, find the sum of roots.",
+    "options": [
+      "5",
+      "2",
+      "-2",
+      "-5"
+    ],
+    "correctAnswer": "-2",
+    "explanation": "Sum = -b/a = -6/3 = -2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 43: For x² - 7x + 10 = 0, find the product of roots.",
+    "options": [
+      "5",
+      "2",
+      "-2",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Product = c/a = 10.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 44: For 2x² - 3x + 5 = 0, find the product of roots.",
+    "options": [
+      "5",
+      "5/2",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "5/2",
+    "explanation": "Product = c/a = 5/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 45: For 3x² + 6x - 1 = 0, find the product of roots.",
+    "options": [
+      "2",
+      "-1/3",
+      "5",
+      "-2"
+    ],
+    "correctAnswer": "-1/3",
+    "explanation": "Product = c/a = -1/3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 46: For 5x² + 2x + 1 = 0, find the sum of roots.",
+    "options": [
+      "-2",
+      "-2/5",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "-2/5",
+    "explanation": "Sum = -b/a = -2/5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 47: For 5x² + 2x + 1 = 0, find the product of roots.",
+    "options": [
+      "5",
+      "2",
+      "-2",
+      "1/5"
+    ],
+    "correctAnswer": "1/5",
+    "explanation": "Product = c/a = 1/5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 48: Which equation has roots 2 and 5?",
+    "options": [
+      "x² + 7x + 10 = 0",
+      "x² - 7x - 10 = 0",
+      "x² - 7x + 10 = 0",
+      "2x² - 7x + 3 = 0"
+    ],
+    "correctAnswer": "x² - 7x + 10 = 0",
+    "explanation": "Sum = 7, product = 10, so x² - 7x + 10 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "formation of quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 49: Which equation has roots -3 and 4?",
+    "options": [
+      "2x² - 7x + 3 = 0",
+      "x² - x - 12 = 0",
+      "x² + 7x + 10 = 0",
+      "x² - 7x - 10 = 0"
+    ],
+    "correctAnswer": "x² - x - 12 = 0",
+    "explanation": "Sum = 1, product = -12, so x² - x - 12 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "formation of quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 50: Which equation has roots 3 and 3?",
+    "options": [
+      "x² + 7x + 10 = 0",
+      "x² - 7x - 10 = 0",
+      "2x² - 7x + 3 = 0",
+      "x² - 6x + 9 = 0"
+    ],
+    "correctAnswer": "x² - 6x + 9 = 0",
+    "explanation": "Repeated root 3 gives (x - 3)² = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "formation of quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 51: Which equation has roots -2 and -5?",
+    "options": [
+      "x² - x - 12 = 0",
+      "x² - 7x - 10 = 0",
+      "2x² - 7x + 3 = 0",
+      "x² + 7x + 10 = 0"
+    ],
+    "correctAnswer": "x² + 7x + 10 = 0",
+    "explanation": "Sum = -7, product = 10, so x² + 7x + 10 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "formation of quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 52: Which equation has roots 1/2 and 3?",
+    "options": [
+      "x² + 7x + 10 = 0",
+      "x² - x - 12 = 0",
+      "x² - 7x - 10 = 0",
+      "2x² - 7x + 3 = 0"
+    ],
+    "correctAnswer": "2x² - 7x + 3 = 0",
+    "explanation": "Roots 1/2 and 3 give (2x - 1)(x - 3)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "formation of quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 53: Completing the square for x² + 6x + 5 = 0 gives:",
+    "options": [
+      "(x + 3)² = 4",
+      "(x + 3)² = -4",
+      "(x - 3)² = 4",
+      "(x + 6)² = 5"
+    ],
+    "correctAnswer": "(x + 3)² = 4",
+    "explanation": "x² + 6x + 5 = 0 ⇒ x² + 6x = -5 ⇒ (x+3)² = 4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "completing square"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 54: The roots of x² + 6x + 5 = 0 are:",
+    "options": [
+      "-1, -5",
+      "-2, -3",
+      "0, -6",
+      "1, 5"
+    ],
+    "correctAnswer": "-1, -5",
+    "explanation": "(x+1)(x+5)=0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 55: The roots of x² + 4x + 1 = 0 are:",
+    "options": [
+      "-2 ± 3",
+      "-2 ± √3",
+      "-4 ± √3",
+      "2 ± √3"
+    ],
+    "correctAnswer": "-2 ± √3",
+    "explanation": "Using formula: x = (-4 ± √12)/2 = -2 ± √3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "quadratic formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 56: The roots of 2x² + 4x + 1 = 0 are:",
+    "options": [
+      "(-2 ± √2)/2",
+      "(-4 ± √2)/2",
+      "-1 ± √2",
+      "2 ± √2"
+    ],
+    "correctAnswer": "(-2 ± √2)/2",
+    "explanation": "x = (-4 ± √8)/4 = (-2 ± √2)/2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "quadratic formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 57: If x² + px + q = 0 has roots 2 and 3, then p and q are:",
+    "options": [
+      "p = -5, q = 6",
+      "p = 5, q = 6",
+      "p = -6, q = 5",
+      "p = 6, q = -5"
+    ],
+    "correctAnswer": "p = -5, q = 6",
+    "explanation": "Equation with roots 2 and 3 is x² -5x +6=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum product roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 58: If one root of x² - 5x + k = 0 is 2, then k equals:",
+    "options": [
+      "3",
+      "10",
+      "-6",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Substitute x=2: 4 -10 + k=0, so k=6.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "unknown coefficient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 59: If roots of x² - 6x + k = 0 are equal, then k equals:",
+    "options": [
+      "3",
+      "36",
+      "6",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "explanation": "Equal roots require D=0: 36 - 4k = 0 ⇒ k=9.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "equal roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 60: For kx² + 4x + 1 = 0 to be quadratic, k must satisfy:",
+    "options": [
+      "k < 0 only",
+      "k ≠ 0",
+      "k = 1",
+      "k = 0"
+    ],
+    "correctAnswer": "k ≠ 0",
+    "explanation": "The coefficient of x² must be non-zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "standard form"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 61: Which equation has no real roots?",
+    "options": [
+      "x² - 2x + 1 = 0",
+      "x² - 5x + 6 = 0",
+      "x² - 9 = 0",
+      "x² + 2x + 5 = 0"
+    ],
+    "correctAnswer": "x² + 2x + 5 = 0",
+    "explanation": "Its discriminant is 4 - 20 = -16.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "nature of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 62: Which equation has equal roots?",
+    "options": [
+      "x² - 9 = 0",
+      "x² + 2x + 5 = 0",
+      "x² - 4x + 4 = 0",
+      "x² - 5x + 6 = 0"
+    ],
+    "correctAnswer": "x² - 4x + 4 = 0",
+    "explanation": "It is (x - 2)² = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "equal roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 63: The graph of y = ax² + bx + c is called a:",
+    "options": [
+      "circle",
+      "ellipse",
+      "parabola",
+      "line"
+    ],
+    "correctAnswer": "parabola",
+    "explanation": "A quadratic function has a parabolic graph.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 64: If a > 0 in y = ax² + bx + c, the parabola opens:",
+    "options": [
+      "upward",
+      "downward",
+      "right",
+      "left"
+    ],
+    "correctAnswer": "upward",
+    "explanation": "Positive leading coefficient makes the parabola open upward.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 65: If a < 0 in y = ax² + bx + c, the parabola opens:",
+    "options": [
+      "right",
+      "downward",
+      "left",
+      "upward"
+    ],
+    "correctAnswer": "downward",
+    "explanation": "Negative leading coefficient makes the parabola open downward.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 66: The x-intercepts of y = ax² + bx + c represent:",
+    "options": [
+      "only y-intercept",
+      "only coefficient a",
+      "roots of ax² + bx + c = 0",
+      "axis of symmetry"
+    ],
+    "correctAnswer": "roots of ax² + bx + c = 0",
+    "explanation": "At x-intercepts, y=0, so the corresponding x-values are roots.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 67: The axis of symmetry of y = ax² + bx + c is:",
+    "options": [
+      "x = b/(2a)",
+      "x = -c/(2a)",
+      "x = -b/(2a)",
+      "x = c/a"
+    ],
+    "correctAnswer": "x = -b/(2a)",
+    "explanation": "The vertical axis of a quadratic graph is x = -b/2a.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 68: For y = x² - 4x + 3, the axis of symmetry is:",
+    "options": [
+      "x = 3",
+      "x = -2",
+      "x = 4",
+      "x = 2"
+    ],
+    "correctAnswer": "x = 2",
+    "explanation": "x = -b/2a = -(-4)/2 = 2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 69: The y-intercept of y = ax² + bx + c is:",
+    "options": [
+      "c",
+      "-b/a",
+      "a",
+      "b"
+    ],
+    "correctAnswer": "c",
+    "explanation": "Putting x=0 gives y=c.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 70: For y = x² - 4x + 3, the y-intercept is:",
+    "options": [
+      "-4",
+      "3",
+      "1",
+      "0"
+    ],
+    "correctAnswer": "3",
+    "explanation": "At x=0, y=3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "graph"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 71: Solve: x² - 2x - 8 = 0",
+    "options": [
+      "-2, -3",
+      "2, 3",
+      "1, -1",
+      "4, -2"
+    ],
+    "correctAnswer": "4, -2",
+    "explanation": "(x - 4)(x + 2)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 72: Solve: x² + x - 12 = 0",
+    "options": [
+      "2, 3",
+      "1, -1",
+      "3, -4",
+      "-2, -3"
+    ],
+    "correctAnswer": "3, -4",
+    "explanation": "(x - 3)(x + 4)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 73: Solve: x² - 10x + 25 = 0",
+    "options": [
+      "-2, -3",
+      "1, -1",
+      "5, 5",
+      "2, 3"
+    ],
+    "correctAnswer": "5, 5",
+    "explanation": "(x - 5)²=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 74: Solve: 9x² - 1 = 0",
+    "options": [
+      "-2, -3",
+      "1/3, -1/3",
+      "1, -1",
+      "2, 3"
+    ],
+    "correctAnswer": "1/3, -1/3",
+    "explanation": "(3x - 1)(3x + 1)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 75: Solve: x² + 8x + 15 = 0",
+    "options": [
+      "1, -1",
+      "-3, -5",
+      "2, 3",
+      "-2, -3"
+    ],
+    "correctAnswer": "-3, -5",
+    "explanation": "(x + 3)(x + 5)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 76: Solve: 6x² - 5x + 1 = 0",
+    "options": [
+      "-2, -3",
+      "1, -1",
+      "2, 3",
+      "1/2, 1/3"
+    ],
+    "correctAnswer": "1/2, 1/3",
+    "explanation": "(3x - 1)(2x - 1)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 77: Solve: x² - 11x + 30 = 0",
+    "options": [
+      "2, 3",
+      "1, -1",
+      "-2, -3",
+      "5, 6"
+    ],
+    "correctAnswer": "5, 6",
+    "explanation": "(x - 5)(x - 6)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 78: Solve: x² + 7x + 10 = 0",
+    "options": [
+      "2, 3",
+      "-2, -3",
+      "1, -1",
+      "-5, -2"
+    ],
+    "correctAnswer": "-5, -2",
+    "explanation": "(x + 5)(x + 2)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 79: Solve: x² - 16 = 0",
+    "options": [
+      "4, -4",
+      "-2, -3",
+      "2, 3",
+      "1, -1"
+    ],
+    "correctAnswer": "4, -4",
+    "explanation": "x² - 16 = (x - 4)(x + 4).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 80: Solve: x² + 1 = 0",
+    "options": [
+      "-2, -3",
+      "no real roots",
+      "1, -1",
+      "2, 3"
+    ],
+    "correctAnswer": "no real roots",
+    "explanation": "x² = -1 has no real solution.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "solving quadratic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 81: If the product of two consecutive positive integers is 20, the smaller integer is:",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Let integers be x and x+1. x(x+1)=20 gives x²+x-20=0, so x=4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "word problem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 82: If a rectangle has length x + 3 and width x, and area 40, the equation is:",
+    "options": [
+      "x² + 3x - 40 = 0",
+      "x² + 3x + 40 = 0",
+      "x² - 3x - 40 = 0",
+      "2x + 3 = 40"
+    ],
+    "correctAnswer": "x² + 3x - 40 = 0",
+    "explanation": "Area = x(x+3)=40 ⇒ x²+3x-40=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "word problem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 83: If x and 1/x have sum 5, then x satisfies:",
+    "options": [
+      "x² - 5x + 1 = 0",
+      "5x² - x + 1 = 0",
+      "x² + 5x + 1 = 0",
+      "x² - x + 5 = 0"
+    ],
+    "correctAnswer": "x² - 5x + 1 = 0",
+    "explanation": "x + 1/x = 5 ⇒ x² + 1 = 5x ⇒ x² - 5x + 1=0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "word problem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 84: If one root of a quadratic equation is 3 and sum of roots is 7, the other root is:",
+    "options": [
+      "-4",
+      "21",
+      "4",
+      "10"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Other root = 7 - 3 = 4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "sum of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 85: If one root is 2 and product of roots is 10, the other root is:",
+    "options": [
+      "20",
+      "12",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Other root = 10/2 = 5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "product of roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 86: If roots are reciprocal, then for ax² + bx + c = 0:",
+    "options": [
+      "b = c",
+      "c = 0",
+      "a = c",
+      "a = b"
+    ],
+    "correctAnswer": "a = c",
+    "explanation": "Product of reciprocal roots is 1, so c/a=1 ⇒ a=c.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "special roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 87: If roots are equal and opposite, then their sum is:",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Equal and opposite roots are α and -α, whose sum is 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "special roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 88: If roots of ax² + bx + c = 0 are equal and opposite, then:",
+    "options": [
+      "a = 0",
+      "b² = 4ac",
+      "c = 0",
+      "b = 0"
+    ],
+    "correctAnswer": "b = 0",
+    "explanation": "Sum of roots = -b/a = 0, so b = 0.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "special roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 89: The expression b² - 4ac determines:",
+    "options": [
+      "degree of equation",
+      "product of roots only",
+      "nature of roots",
+      "sum of roots only"
+    ],
+    "correctAnswer": "nature of roots",
+    "explanation": "The discriminant tells whether roots are real/equal/non-real.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 90: For real and equal roots, discriminant must be:",
+    "options": [
+      "negative",
+      "0",
+      "1",
+      "positive"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Equal real roots occur when D = 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 91: For real and distinct roots, discriminant must be:",
+    "options": [
+      "not defined",
+      "positive",
+      "negative",
+      "zero"
+    ],
+    "correctAnswer": "positive",
+    "explanation": "Two distinct real roots occur when D > 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 92: For no real roots, discriminant must be:",
+    "options": [
+      "equal to 1",
+      "positive",
+      "zero",
+      "negative"
+    ],
+    "correctAnswer": "negative",
+    "explanation": "No real roots occur when D < 0.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "discriminant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 93: Which pair of numbers has sum 8 and product 15?",
+    "options": [
+      "-3 and -5",
+      "2 and 6",
+      "3 and 5",
+      "1 and 15"
+    ],
+    "correctAnswer": "3 and 5",
+    "explanation": "3+5=8 and 3×5=15.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 94: Which pair of numbers has sum -7 and product 10?",
+    "options": [
+      "-5 and -2",
+      "-10 and 1",
+      "-1 and -10",
+      "5 and 2"
+    ],
+    "correctAnswer": "-5 and -2",
+    "explanation": "-5 + -2 = -7 and product = 10.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 95: The roots of 3x² - x - 2 = 0 are:",
+    "options": [
+      "1, -2/3",
+      "1/3, -2",
+      "2, -1/3",
+      "-1, 2/3"
+    ],
+    "correctAnswer": "1, -2/3",
+    "explanation": "(3x+2)(x-1)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 96: The roots of 5x² + 6x + 1 = 0 are:",
+    "options": [
+      "-5, -1",
+      "-1, -1/5",
+      "1, 1/5",
+      "5, 1"
+    ],
+    "correctAnswer": "-1, -1/5",
+    "explanation": "(5x+1)(x+1)=0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "factorization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 97: For x² - 4x + 3 = 0, the smaller root is:",
+    "options": [
+      "4",
+      "-1",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Roots are 1 and 3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 98: For x² + 3x - 10 = 0, the positive root is:",
+    "options": [
+      "-5",
+      "-2",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "explanation": "(x+5)(x-2)=0, so positive root is 2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "roots"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 99: If x = 2 is a root of x² + mx + 6 = 0, then m equals:",
+    "options": [
+      "3",
+      "5",
+      "-5",
+      "-3"
+    ],
+    "correctAnswer": "-5",
+    "explanation": "Substitute x=2: 4 + 2m + 6 = 0 ⇒ m = -5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "unknown coefficient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "mcq",
+    "question": "MCQ 100: If x = -1 is a root of x² + kx - 6 = 0, then k equals:",
+    "options": [
+      "6",
+      "5",
+      "-6",
+      "-5"
+    ],
+    "correctAnswer": "-5",
+    "explanation": "1 - k - 6=0 ⇒ k=-5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "unknown coefficient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 1: Define a quadratic equation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 2: Write the standard form of a quadratic equation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 3: What is meant by the roots of a quadratic equation?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 4: Define the discriminant of a quadratic equation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 5: Write the quadratic formula.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 6: State the condition for two distinct real roots.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 7: State the condition for equal real roots.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 8: State the condition for no real roots.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 9: Find the discriminant of x² - 4x + 4 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 10: Find the roots of x² - 5x + 6 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 11: Find the roots of x² + 5x + 6 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 12: Find the sum of roots of x² - 7x + 10 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 13: Find the product of roots of 2x² - 3x + 5 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 14: Form a quadratic equation whose roots are 2 and 5.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 15: Form a quadratic equation whose roots are -3 and 4.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 16: Solve x² - 9 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 17: Solve x² + 6x + 9 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 18: Solve 2x² - 5x + 2 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 19: Find the value of k if x = 2 is a root of x² + kx + 6 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 20: Find k if x² - 6x + k = 0 has equal roots.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 21: What is the axis of symmetry of y = ax² + bx + c?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 22: Find the axis of symmetry of y = x² - 4x + 3.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 23: What is the y-intercept of y = ax² + bx + c?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 24: State the relationship between x-intercepts and roots.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 25: Explain why a must not be zero in ax² + bx + c = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 26: Write the sum and product of roots of ax² + bx + c = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 27: Find the roots of x² - x - 6 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 28: Find the roots of x² + 2x - 15 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 29: Complete the square for x² + 6x + 5 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 30: Solve x² + 4x + 1 = 0 using the quadratic formula.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 31: Determine the nature of roots of x² + x + 1 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 32: Determine the nature of roots of x² - 3x + 2 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 33: Determine the nature of roots of 4x² - 4x + 1 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 34: Find the smaller root of x² - 4x + 3 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 35: Find the positive root of x² + 3x - 10 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 36: What is a repeated root?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 37: Give one example of a quadratic equation with no real roots.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 38: Give one example of a quadratic equation with equal roots.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 39: Give one example of a quadratic equation with two distinct real roots.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 40: Find the equation whose roots are 4 and -1.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 41: If roots are reciprocal, what is the relation between a and c?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 42: If roots are equal and opposite, what is the value of b?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 43: Solve 9x² - 1 = 0.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 44: Solve 6x² - 5x + 1 = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 45: Find the discriminant of 2x² + 3x - 2 = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 46: Find the value of k if x² + kx + 16 = 0 has equal roots.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 47: Write the expanded form of (x - 4)² = 0.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 48: Write the expanded form of (x + 2)(x - 7) = 0.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 49: State one advantage of using the quadratic formula.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "short",
+    "question": "Short Question 50: Why is factorization not always possible over real rational factors?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 1: Derive the quadratic formula for ax² + bx + c = 0 by completing the square.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 2: Explain the discriminant and discuss all possible natures of roots with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 3: Solve x² - 5x + 6 = 0 by factorization and verify the roots.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 4: Solve 2x² - 5x + 2 = 0 by factorization and by quadratic formula.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 5: Use completing the square to solve x² + 6x + 5 = 0.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 6: Find the value of k for which x² - 6x + k = 0 has equal roots, and then find the roots.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 7: Form a quadratic equation whose roots are 3 and -5, then verify using sum and product of roots.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 8: Discuss the relationship between roots and coefficients of ax² + bx + c = 0.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 9: Sketch and explain the graph of y = x² - 4x + 3, including intercepts and axis of symmetry.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 10: Solve x² + 4x + 1 = 0 using the quadratic formula and simplify the roots.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 11: Find the nature of roots of 3x² - 2x + 1 = 0 and explain the result.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 12: A rectangle has length x + 3 and width x. Its area is 40. Form and solve the quadratic equation.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 13: If x + 1/x = 5, form the quadratic equation and find the possible values of x.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 14: Prove that if roots of ax² + bx + c = 0 are reciprocal, then a = c.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 15: Prove that if roots of ax² + bx + c = 0 are equal and opposite, then b = 0.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 16: Compare factorization, completing the square, and quadratic formula methods for solving quadratic equations.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 17: Solve 6x² - 5x + 1 = 0 and verify the roots using sum and product formulas.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 18: Find the equation whose roots are 1/2 and 3, and verify both roots by substitution.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 19: Explain how the sign of the leading coefficient affects the graph of a quadratic function.",
+    "difficulty": "medium",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Quadratic Equations",
+    "chapterId": "Quadratic Equations",
+    "type": "long",
+    "question": "Long Question 20: Create and solve a real-life word problem that leads to a quadratic equation.",
+    "difficulty": "hard",
+    "marks": 8,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Quadratic Equations",
+      "long question"
+    ]
+  }
+]

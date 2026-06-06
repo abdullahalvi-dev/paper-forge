@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 1: Which gas law states that volume of a fixed mass of gas is inversely proportional to pressure at constant temperature?",
+    "options": [
+      "Charles's law",
+      "Boyle's law",
+      "Avogadro's law",
+      "Graham's law"
+    ],
+    "correctAnswer": "Boyle's law",
+    "explanation": "Boyle's law states that for a fixed amount of gas at constant temperature, volume is inversely proportional to pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 2: According to Charles's law, volume of a gas is directly proportional to which quantity at constant pressure?",
+    "options": [
+      "Mass",
+      "Absolute temperature",
+      "Density",
+      "Pressure"
+    ],
+    "correctAnswer": "Absolute temperature",
+    "explanation": "Charles's law relates volume directly with absolute temperature in kelvin at constant pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Charles's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 3: The SI unit of pressure is:",
+    "options": [
+      "atm",
+      "torr",
+      "pascal",
+      "mmHg"
+    ],
+    "correctAnswer": "pascal",
+    "explanation": "The SI unit of pressure is pascal (Pa).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 4: At STP, the molar volume of an ideal gas is approximately:",
+    "options": [
+      "11.2 dm³",
+      "22.4 dm³",
+      "24.5 dm³",
+      "1.0 dm³"
+    ],
+    "correctAnswer": "22.4 dm³",
+    "explanation": "One mole of an ideal gas occupies 22.4 dm³ at STP.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molar volume"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 5: The ideal gas equation is:",
+    "options": [
+      "PV = nRT",
+      "P1V1 = P2V2",
+      "V/T = constant",
+      "P/T = constant"
+    ],
+    "correctAnswer": "PV = nRT",
+    "explanation": "The ideal gas equation combines pressure, volume, moles and temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal gas equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 6: Which temperature scale must be used in gas law calculations?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Centigrade"
+    ],
+    "correctAnswer": "Kelvin",
+    "explanation": "Gas laws require absolute temperature, measured in kelvin.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 7: Absolute zero is equal to:",
+    "options": [
+      "0°C",
+      "100°C",
+      "-273.15°C",
+      "273.15°C"
+    ],
+    "correctAnswer": "-273.15°C",
+    "explanation": "Absolute zero is 0 K, equal to about -273.15°C.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "absolute zero"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 8: According to Avogadro's law, equal volumes of gases at same temperature and pressure contain equal:",
+    "options": [
+      "Masses",
+      "Numbers of molecules",
+      "Densities",
+      "Pressures"
+    ],
+    "correctAnswer": "Numbers of molecules",
+    "explanation": "Avogadro's law states that equal gas volumes under the same conditions contain equal numbers of molecules.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Avogadro's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 9: Which law relates the rate of diffusion of a gas to its molar mass?",
+    "options": [
+      "Boyle's law",
+      "Graham's law",
+      "Dalton's law",
+      "Charles's law"
+    ],
+    "correctAnswer": "Graham's law",
+    "explanation": "Graham's law states that rate of diffusion is inversely proportional to the square root of molar mass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Graham's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 10: Which gas will diffuse fastest under the same conditions?",
+    "options": [
+      "CO2",
+      "O2",
+      "N2",
+      "H2"
+    ],
+    "correctAnswer": "H2",
+    "explanation": "Hydrogen has the lowest molar mass among these gases, so it diffuses fastest.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "diffusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 11: The pressure exerted by a single gas in a mixture is called:",
+    "options": [
+      "Total pressure",
+      "Vapour pressure",
+      "Partial pressure",
+      "Atmospheric pressure"
+    ],
+    "correctAnswer": "Partial pressure",
+    "explanation": "Each gas in a mixture exerts its own partial pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "partial pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 12: Dalton's law is related to:",
+    "options": [
+      "Partial pressures of gases",
+      "Volumes at constant pressure",
+      "Diffusion rates",
+      "Real gas correction"
+    ],
+    "correctAnswer": "Partial pressures of gases",
+    "explanation": "Dalton's law states that total pressure of a gas mixture is the sum of partial pressures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Dalton's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 13: The value of gas constant R depends on:",
+    "options": [
+      "Gas identity only",
+      "Units of pressure and volume",
+      "Colour of gas",
+      "Shape of container only"
+    ],
+    "correctAnswer": "Units of pressure and volume",
+    "explanation": "Different units of pressure and volume give different numerical values of R.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 14: Which of the following is the correct value of R in dm³ atm mol⁻¹ K⁻¹?",
+    "options": [
+      "0.0821",
+      "8.314",
+      "1.987",
+      "22.4"
+    ],
+    "correctAnswer": "0.0821",
+    "explanation": "When pressure is in atm and volume in dm³, R = 0.0821 dm³ atm mol⁻¹ K⁻¹.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 15: Which value of R is used when pressure is in pascal and volume in m³?",
+    "options": [
+      "0.0821",
+      "8.314 J mol⁻¹ K⁻¹",
+      "22.4",
+      "760"
+    ],
+    "correctAnswer": "8.314 J mol⁻¹ K⁻¹",
+    "explanation": "In SI units, R = 8.314 J mol⁻¹ K⁻¹.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 16: Which condition favours ideal gas behaviour?",
+    "options": [
+      "High pressure and low temperature",
+      "Low pressure and high temperature",
+      "High pressure and high temperature",
+      "Low temperature only"
+    ],
+    "correctAnswer": "Low pressure and high temperature",
+    "explanation": "Gases behave ideally when molecular volume and attractions become negligible.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal behaviour"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 17: Real gases deviate most from ideal behaviour at:",
+    "options": [
+      "Low pressure and high temperature",
+      "High pressure and low temperature",
+      "Low pressure only",
+      "Room temperature only"
+    ],
+    "correctAnswer": "High pressure and low temperature",
+    "explanation": "At high pressure and low temperature, molecular attractions and volume become significant.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "real gases"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 18: The kinetic molecular theory assumes that gas particles:",
+    "options": [
+      "Are stationary",
+      "Have strong attractive forces",
+      "Move randomly in straight lines",
+      "Have fixed positions"
+    ],
+    "correctAnswer": "Move randomly in straight lines",
+    "explanation": "Gas particles are assumed to move randomly and continuously in straight-line motion between collisions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic molecular theory"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 19: Pressure of a gas is due to:",
+    "options": [
+      "Colour of gas molecules",
+      "Collisions of gas molecules with container walls",
+      "Mass loss from gas",
+      "Chemical reaction with container"
+    ],
+    "correctAnswer": "Collisions of gas molecules with container walls",
+    "explanation": "Gas pressure results from molecular collisions with the walls of the container.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 20: Average kinetic energy of gas molecules depends only on:",
+    "options": [
+      "Volume",
+      "Pressure",
+      "Absolute temperature",
+      "Molar mass"
+    ],
+    "correctAnswer": "Absolute temperature",
+    "explanation": "The average kinetic energy of gas molecules is directly proportional to absolute temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 21: At constant volume, pressure of a fixed amount of gas is directly proportional to:",
+    "options": [
+      "Density",
+      "Absolute temperature",
+      "Molar mass",
+      "Volume"
+    ],
+    "correctAnswer": "Absolute temperature",
+    "explanation": "Gay-Lussac's law states that pressure is directly proportional to kelvin temperature at constant volume.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Gay-Lussac law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 22: Which equation represents Boyle's law?",
+    "options": [
+      "V/T = constant",
+      "P/T = constant",
+      "PV = constant",
+      "V/n = constant"
+    ],
+    "correctAnswer": "PV = constant",
+    "explanation": "For a fixed mass of gas at constant temperature, PV remains constant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 23: Which equation represents Charles's law?",
+    "options": [
+      "V/T = constant",
+      "PV = constant",
+      "P1V1 = P2V2",
+      "Ptotal = P1 + P2"
+    ],
+    "correctAnswer": "V/T = constant",
+    "explanation": "At constant pressure, volume divided by kelvin temperature is constant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Charles's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 24: The combined gas law is:",
+    "options": [
+      "P1V1/T1 = P2V2/T2",
+      "PV = nRT",
+      "r1/r2 = √M2/M1",
+      "Ptotal = P1 + P2"
+    ],
+    "correctAnswer": "P1V1/T1 = P2V2/T2",
+    "explanation": "The combined gas law combines Boyle's, Charles's and Gay-Lussac's laws.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "combined gas law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 25: If pressure is doubled at constant temperature, the volume of a fixed gas becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Half",
+    "explanation": "According to Boyle's law, volume is inversely proportional to pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 26: If temperature in kelvin is doubled at constant pressure, volume becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "According to Charles's law, volume is directly proportional to absolute temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Charles's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 27: 1 atmosphere is approximately equal to:",
+    "options": [
+      "76 mmHg",
+      "760 mmHg",
+      "7.60 mmHg",
+      "7600 mmHg"
+    ],
+    "correctAnswer": "760 mmHg",
+    "explanation": "One atmosphere equals 760 mmHg or 760 torr.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure units"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 28: 1 atm is equal to:",
+    "options": [
+      "101325 Pa",
+      "273 Pa",
+      "760 Pa",
+      "22.4 Pa"
+    ],
+    "correctAnswer": "101325 Pa",
+    "explanation": "Standard atmospheric pressure is 101325 Pa.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure units"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 29: Which gas has the greatest average molecular speed at the same temperature?",
+    "options": [
+      "CH4",
+      "CO2",
+      "SO2",
+      "Cl2"
+    ],
+    "correctAnswer": "CH4",
+    "explanation": "At the same temperature, lighter gas molecules move faster; CH4 has the lowest molar mass here.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molecular speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 30: The root mean square speed of gas molecules is represented by:",
+    "options": [
+      "u_rms",
+      "Kc",
+      "pH",
+      "ΔH"
+    ],
+    "correctAnswer": "u_rms",
+    "explanation": "The symbol u_rms is commonly used for root mean square speed.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "rms speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 31: For ideal gases, compressibility factor Z is:",
+    "options": [
+      "0",
+      "1",
+      "Greater than 10",
+      "Always negative"
+    ],
+    "correctAnswer": "1",
+    "explanation": "For an ideal gas, Z = PV/nRT = 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "compressibility factor"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 32: For real gases, the compressibility factor is:",
+    "options": [
+      "Always exactly 1",
+      "May be greater or less than 1",
+      "Always zero",
+      "Always negative"
+    ],
+    "correctAnswer": "May be greater or less than 1",
+    "explanation": "Real gases can show positive or negative deviations depending on conditions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "real gases"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 33: The van der Waals constant 'a' corrects for:",
+    "options": [
+      "Volume of molecules",
+      "Attractive forces between molecules",
+      "Temperature change",
+      "Number of moles only"
+    ],
+    "correctAnswer": "Attractive forces between molecules",
+    "explanation": "The constant a accounts for intermolecular attractive forces.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "van der Waals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 34: The van der Waals constant 'b' corrects for:",
+    "options": [
+      "Intermolecular attraction",
+      "Volume occupied by gas molecules",
+      "Gas colour",
+      "Heat capacity"
+    ],
+    "correctAnswer": "Volume occupied by gas molecules",
+    "explanation": "The constant b accounts for the finite volume of gas molecules.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "van der Waals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 35: A gas that obeys gas laws perfectly at all temperatures and pressures is called:",
+    "options": [
+      "Real gas",
+      "Ideal gas",
+      "Noble gas",
+      "Vapour"
+    ],
+    "correctAnswer": "Ideal gas",
+    "explanation": "An ideal gas is a hypothetical gas that perfectly follows the gas laws.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal gas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 36: Which gas is expected to behave most ideally under ordinary conditions?",
+    "options": [
+      "NH3",
+      "H2O vapour",
+      "He",
+      "CO2"
+    ],
+    "correctAnswer": "He",
+    "explanation": "Helium has very weak intermolecular forces and small atomic size, so it behaves nearly ideally.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal gas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 37: Which gas shows strong deviation due to hydrogen bonding or polarity?",
+    "options": [
+      "He",
+      "Ne",
+      "NH3",
+      "Ar"
+    ],
+    "correctAnswer": "NH3",
+    "explanation": "Ammonia is polar and can show stronger intermolecular attractions than noble gases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "real gases"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 38: The rate of diffusion of a gas is inversely proportional to the square root of its:",
+    "options": [
+      "Volume",
+      "Molar mass",
+      "Temperature",
+      "Pressure"
+    ],
+    "correctAnswer": "Molar mass",
+    "explanation": "Graham's law relates diffusion rate inversely to the square root of molar mass.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Graham's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 39: If gas A has molar mass 4 and gas B has molar mass 16, then A diffuses:",
+    "options": [
+      "2 times faster than B",
+      "4 times faster than B",
+      "2 times slower than B",
+      "At the same rate"
+    ],
+    "correctAnswer": "2 times faster than B",
+    "explanation": "Rate ratio = √(16/4) = 2, so gas A diffuses twice as fast.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Graham's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 40: If the volume of a gas changes from 2 dm³ to 4 dm³ at constant temperature, its pressure becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Zero"
+    ],
+    "correctAnswer": "Half",
+    "explanation": "By Boyle's law, increasing volume to double makes pressure half.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 41: A gas occupies 10 dm³ at 300 K. At constant pressure, its volume at 600 K is:",
+    "options": [
+      "5 dm³",
+      "10 dm³",
+      "20 dm³",
+      "30 dm³"
+    ],
+    "correctAnswer": "20 dm³",
+    "explanation": "Using V1/T1 = V2/T2, V2 = 10 × 600/300 = 20 dm³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Charles's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 42: A gas has pressure 2 atm at 300 K. At constant volume, pressure at 600 K is:",
+    "options": [
+      "1 atm",
+      "2 atm",
+      "4 atm",
+      "8 atm"
+    ],
+    "correctAnswer": "4 atm",
+    "explanation": "Pressure is directly proportional to kelvin temperature at constant volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Gay-Lussac law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 43: Which law explains why a hot air balloon expands when heated?",
+    "options": [
+      "Boyle's law",
+      "Charles's law",
+      "Dalton's law",
+      "Graham's law"
+    ],
+    "correctAnswer": "Charles's law",
+    "explanation": "Heating increases gas volume at nearly constant pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 44: Which law explains breathing mechanism most directly?",
+    "options": [
+      "Boyle's law",
+      "Graham's law",
+      "Dalton's law",
+      "Avogadro's law"
+    ],
+    "correctAnswer": "Boyle's law",
+    "explanation": "Breathing involves pressure changes due to volume changes in the lungs.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "application"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 45: Which gas law is used when pressure and volume both change but temperature remains constant?",
+    "options": [
+      "Boyle's law",
+      "Charles's law",
+      "Avogadro's law",
+      "Dalton's law"
+    ],
+    "correctAnswer": "Boyle's law",
+    "explanation": "Boyle's law is applied to pressure-volume changes at constant temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 46: The number of molecules in one mole of any gas is:",
+    "options": [
+      "6.022 × 10^23",
+      "22.4 × 10^23",
+      "273",
+      "760"
+    ],
+    "correctAnswer": "6.022 × 10^23",
+    "explanation": "One mole contains Avogadro's number of particles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Avogadro number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 47: At the same temperature and pressure, 1 mole of O2 and 1 mole of H2 have the same:",
+    "options": [
+      "Mass",
+      "Density",
+      "Volume",
+      "Diffusion rate"
+    ],
+    "correctAnswer": "Volume",
+    "explanation": "Equal moles of gases occupy equal volumes under the same conditions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Avogadro's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 48: Which gas has the highest density at the same temperature and pressure?",
+    "options": [
+      "H2",
+      "N2",
+      "O2",
+      "CO2"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "At the same temperature and pressure, density increases with molar mass; CO2 is heaviest here.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 49: Gas density is directly proportional to:",
+    "options": [
+      "Molar mass",
+      "Volume only",
+      "Diffusion rate",
+      "Temperature only"
+    ],
+    "correctAnswer": "Molar mass",
+    "explanation": "At fixed temperature and pressure, density = PM/RT, so density is proportional to molar mass.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 50: Which formula relates density of gas with molar mass?",
+    "options": [
+      "d = PM/RT",
+      "PV = RT/n",
+      "r = M/T",
+      "P = dRT"
+    ],
+    "correctAnswer": "d = PM/RT",
+    "explanation": "The density of a gas can be calculated using d = PM/RT.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 51: The pressure of dry gas collected over water is obtained by:",
+    "options": [
+      "Adding water vapour pressure to total pressure",
+      "Subtracting water vapour pressure from total pressure",
+      "Multiplying total pressure by volume",
+      "Dividing by temperature"
+    ],
+    "correctAnswer": "Subtracting water vapour pressure from total pressure",
+    "explanation": "Pressure of dry gas = total pressure - aqueous tension.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas collection"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 52: Aqueous tension means:",
+    "options": [
+      "Pressure of dry gas",
+      "Vapour pressure of water",
+      "Atmospheric pressure only",
+      "Pressure of oxygen only"
+    ],
+    "correctAnswer": "Vapour pressure of water",
+    "explanation": "Aqueous tension is the pressure exerted by water vapour.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "aqueous tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 53: Which postulate of kinetic theory is not true for real gases?",
+    "options": [
+      "Particles move randomly",
+      "Collisions occur",
+      "Particles have negligible volume",
+      "Particles have mass"
+    ],
+    "correctAnswer": "Particles have negligible volume",
+    "explanation": "Real gas particles have finite volume, especially noticeable at high pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic molecular theory"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 54: In an ideal gas, intermolecular forces are assumed to be:",
+    "options": [
+      "Very strong",
+      "Negligible",
+      "Ionic",
+      "Covalent"
+    ],
+    "correctAnswer": "Negligible",
+    "explanation": "Ideal gas theory assumes no attractive or repulsive forces between particles except during collisions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal gas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 55: Elastic collision means:",
+    "options": [
+      "Kinetic energy is conserved",
+      "Molecules stick together",
+      "Energy is lost permanently",
+      "Mass becomes zero"
+    ],
+    "correctAnswer": "Kinetic energy is conserved",
+    "explanation": "In elastic collisions, total kinetic energy remains conserved.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic theory"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 56: At constant temperature, increasing pressure on a gas increases its:",
+    "options": [
+      "Volume",
+      "Intermolecular distance",
+      "Density",
+      "Diffusion rate always"
+    ],
+    "correctAnswer": "Density",
+    "explanation": "Increasing pressure compresses gas, decreasing volume and increasing density.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 57: Effusion is the movement of gas molecules through:",
+    "options": [
+      "A wide open vessel",
+      "A tiny hole",
+      "A liquid surface only",
+      "A solid crystal only"
+    ],
+    "correctAnswer": "A tiny hole",
+    "explanation": "Effusion is escape of gas through a small opening.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "effusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 58: Diffusion is the spreading of gas molecules due to:",
+    "options": [
+      "Random motion",
+      "Fixed lattice positions",
+      "Loss of mass",
+      "Chemical bonding only"
+    ],
+    "correctAnswer": "Random motion",
+    "explanation": "Gas diffusion occurs because gas molecules move randomly.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "diffusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 59: Which of the following gases has lowest molar mass?",
+    "options": [
+      "O2",
+      "N2",
+      "CO2",
+      "H2"
+    ],
+    "correctAnswer": "H2",
+    "explanation": "Hydrogen has molar mass 2 g mol⁻¹, the lowest among these.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molar mass"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement is correct about gases?",
+    "options": [
+      "They have fixed shape and fixed volume",
+      "They have fixed shape but no fixed volume",
+      "They have no fixed shape and no fixed volume",
+      "They cannot be compressed"
+    ],
+    "correctAnswer": "They have no fixed shape and no fixed volume",
+    "explanation": "Gases take the shape and volume of their container.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "properties"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 61: Gases are highly compressible because:",
+    "options": [
+      "Their particles are very close",
+      "There are large empty spaces between particles",
+      "They have fixed volume",
+      "They are always heavy"
+    ],
+    "correctAnswer": "There are large empty spaces between particles",
+    "explanation": "Large intermolecular spaces allow gases to be compressed.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "properties"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 62: Which factor increases the pressure of gas in a closed container?",
+    "options": [
+      "Decreasing molecular collisions",
+      "Increasing temperature",
+      "Removing gas molecules",
+      "Increasing volume at constant temperature"
+    ],
+    "correctAnswer": "Increasing temperature",
+    "explanation": "Higher temperature increases kinetic energy and collision frequency, raising pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 63: At constant temperature and pressure, volume of a gas is directly proportional to:",
+    "options": [
+      "Number of moles",
+      "Molar mass only",
+      "Density only",
+      "Diffusion rate"
+    ],
+    "correctAnswer": "Number of moles",
+    "explanation": "Avogadro's law states V ∝ n at constant T and P.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Avogadro's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 64: Which equation represents Dalton's law?",
+    "options": [
+      "Ptotal = P1 + P2 + P3",
+      "PV = nRT",
+      "V1/T1 = V2/T2",
+      "r1/r2 = √M2/M1"
+    ],
+    "correctAnswer": "Ptotal = P1 + P2 + P3",
+    "explanation": "Dalton's law states total pressure equals the sum of partial pressures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Dalton's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 65: If partial pressures of O2, N2 and CO2 are 0.2 atm, 0.7 atm and 0.1 atm, total pressure is:",
+    "options": [
+      "0.8 atm",
+      "1.0 atm",
+      "1.2 atm",
+      "2.0 atm"
+    ],
+    "correctAnswer": "1.0 atm",
+    "explanation": "Total pressure = 0.2 + 0.7 + 0.1 = 1.0 atm.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Dalton's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 66: The volume occupied by 2 moles of ideal gas at STP is:",
+    "options": [
+      "11.2 dm³",
+      "22.4 dm³",
+      "44.8 dm³",
+      "2.24 dm³"
+    ],
+    "correctAnswer": "44.8 dm³",
+    "explanation": "At STP, 1 mole occupies 22.4 dm³, so 2 moles occupy 44.8 dm³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molar volume"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 67: The number of moles in 44.8 dm³ of an ideal gas at STP is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "explanation": "At STP, 22.4 dm³ is 1 mole, so 44.8 dm³ is 2 moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molar volume"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 68: Which property of gases is explained by weak intermolecular forces?",
+    "options": [
+      "High density",
+      "Expansion to fill container",
+      "Fixed volume",
+      "Definite shape"
+    ],
+    "correctAnswer": "Expansion to fill container",
+    "explanation": "Weak forces and random motion allow gases to expand and fill available space.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "properties"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 69: The kinetic energy of gas molecules becomes zero theoretically at:",
+    "options": [
+      "0°C",
+      "100°C",
+      "0 K",
+      "273 K"
+    ],
+    "correctAnswer": "0 K",
+    "explanation": "At absolute zero, molecular motion is theoretically minimum.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "absolute zero"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 70: Which gas law uses the relation P1/T1 = P2/T2?",
+    "options": [
+      "Boyle's law",
+      "Charles's law",
+      "Gay-Lussac's law",
+      "Graham's law"
+    ],
+    "correctAnswer": "Gay-Lussac's law",
+    "explanation": "At constant volume, pressure is directly proportional to absolute temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Gay-Lussac law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 71: A gas occupies 5 dm³ at 1 atm. Its volume at 2 atm and same temperature is:",
+    "options": [
+      "2.5 dm³",
+      "5 dm³",
+      "10 dm³",
+      "1 dm³"
+    ],
+    "correctAnswer": "2.5 dm³",
+    "explanation": "P1V1 = P2V2, so V2 = 1×5/2 = 2.5 dm³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 72: Which quantity remains constant in Boyle's law?",
+    "options": [
+      "Temperature and amount of gas",
+      "Pressure only",
+      "Volume only",
+      "Temperature only but not moles"
+    ],
+    "correctAnswer": "Temperature and amount of gas",
+    "explanation": "Boyle's law applies to a fixed amount of gas at constant temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 73: Which quantity remains constant in Charles's law?",
+    "options": [
+      "Pressure and amount of gas",
+      "Temperature and pressure",
+      "Volume and mass",
+      "Molar mass only"
+    ],
+    "correctAnswer": "Pressure and amount of gas",
+    "explanation": "Charles's law applies to fixed amount of gas at constant pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Charles's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 74: The graph of volume versus absolute temperature at constant pressure is:",
+    "options": [
+      "A straight line",
+      "A circle",
+      "A parabola",
+      "A horizontal line always"
+    ],
+    "correctAnswer": "A straight line",
+    "explanation": "Charles's law gives a direct linear relationship between V and T in kelvin.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 75: The graph of pressure versus 1/volume at constant temperature is:",
+    "options": [
+      "Straight line",
+      "Circle",
+      "Random curve",
+      "Vertical line only"
+    ],
+    "correctAnswer": "Straight line",
+    "explanation": "Since P ∝ 1/V, plotting P against 1/V gives a straight line.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "graphs"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 76: Which of the following is a correct pressure unit?",
+    "options": [
+      "mole",
+      "kelvin",
+      "torr",
+      "joule"
+    ],
+    "correctAnswer": "torr",
+    "explanation": "Torr is a unit of pressure, equal approximately to mmHg.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure units"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 77: Which statement about gas molecules is correct?",
+    "options": [
+      "They are always at rest",
+      "They move continuously and randomly",
+      "They have fixed positions",
+      "They cannot collide"
+    ],
+    "correctAnswer": "They move continuously and randomly",
+    "explanation": "Gas particles are in continuous random motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic theory"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 78: When a gas expands into vacuum, the process is called:",
+    "options": [
+      "Free expansion",
+      "Condensation",
+      "Sublimation",
+      "Ionization"
+    ],
+    "correctAnswer": "Free expansion",
+    "explanation": "Free expansion is expansion of gas into vacuum without external pressure.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "expansion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 79: Increasing temperature increases diffusion rate because:",
+    "options": [
+      "Molecules become heavier",
+      "Molecular kinetic energy increases",
+      "Pressure becomes zero",
+      "Volume always becomes zero"
+    ],
+    "correctAnswer": "Molecular kinetic energy increases",
+    "explanation": "Higher temperature increases molecular speed, so diffusion becomes faster.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "diffusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 80: At the same temperature, all gases have the same average:",
+    "options": [
+      "Molecular speed",
+      "Kinetic energy",
+      "Density",
+      "Molar mass"
+    ],
+    "correctAnswer": "Kinetic energy",
+    "explanation": "Average kinetic energy depends only on absolute temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic energy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 81: Which of the following is not a postulate of ideal gas theory?",
+    "options": [
+      "Gas molecules occupy negligible volume",
+      "There are no attractive forces",
+      "Collisions are elastic",
+      "Gas molecules are fixed in place"
+    ],
+    "correctAnswer": "Gas molecules are fixed in place",
+    "explanation": "Gas molecules are assumed to move randomly, not remain fixed.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "kinetic theory"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 82: The equation for Graham's law is:",
+    "options": [
+      "r1/r2 = √(M2/M1)",
+      "PV = nRT",
+      "P1V1 = P2V2",
+      "Ptotal = P1 + P2"
+    ],
+    "correctAnswer": "r1/r2 = √(M2/M1)",
+    "explanation": "Graham's law compares rates of diffusion or effusion with molar masses.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Graham's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 83: A gas with lower molar mass has:",
+    "options": [
+      "Lower diffusion rate",
+      "Higher diffusion rate",
+      "No kinetic energy",
+      "No volume"
+    ],
+    "correctAnswer": "Higher diffusion rate",
+    "explanation": "Lower molar mass gives higher diffusion rate according to Graham's law.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "diffusion"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 84: The molar mass of a gas can be found from density using:",
+    "options": [
+      "M = dRT/P",
+      "M = P/dRT",
+      "M = dP/RT",
+      "M = RT/dP"
+    ],
+    "correctAnswer": "M = dRT/P",
+    "explanation": "From d = PM/RT, rearranging gives M = dRT/P.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density formula"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 85: When pressure is in atm and volume in dm³, which R value is most suitable?",
+    "options": [
+      "8.314",
+      "0.0821",
+      "760",
+      "273"
+    ],
+    "correctAnswer": "0.0821",
+    "explanation": "R = 0.0821 dm³ atm mol⁻¹ K⁻¹ for atm and dm³ units.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 86: Which gas would have the lowest density at same T and P?",
+    "options": [
+      "H2",
+      "O2",
+      "CO2",
+      "SO2"
+    ],
+    "correctAnswer": "H2",
+    "explanation": "Hydrogen has the smallest molar mass, so it has the lowest density.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 87: Which condition makes gas liquefaction easier?",
+    "options": [
+      "High temperature and low pressure",
+      "Low temperature and high pressure",
+      "Low pressure and high temperature",
+      "No pressure"
+    ],
+    "correctAnswer": "Low temperature and high pressure",
+    "explanation": "Low temperature reduces kinetic energy and high pressure brings molecules closer.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "liquefaction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 88: Critical temperature is the temperature above which a gas:",
+    "options": [
+      "Can be liquefied by pressure only",
+      "Cannot be liquefied by pressure alone",
+      "Always becomes solid",
+      "Has zero pressure"
+    ],
+    "correctAnswer": "Cannot be liquefied by pressure alone",
+    "explanation": "Above critical temperature, a gas cannot be liquefied by pressure alone.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "critical temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 89: Critical pressure is the pressure required to liquefy a gas at its:",
+    "options": [
+      "Boiling point",
+      "Critical temperature",
+      "Freezing point",
+      "Room temperature only"
+    ],
+    "correctAnswer": "Critical temperature",
+    "explanation": "Critical pressure is the minimum pressure needed to liquefy a gas at critical temperature.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "critical pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 90: Which gas is easier to liquefy?",
+    "options": [
+      "Gas with high critical temperature",
+      "Gas with very low critical temperature",
+      "Ideal gas only",
+      "Gas with no attractions"
+    ],
+    "correctAnswer": "Gas with high critical temperature",
+    "explanation": "Higher critical temperature usually indicates stronger attractions and easier liquefaction.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "liquefaction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 91: Which law is used in calculating partial pressure of a gas collected over water?",
+    "options": [
+      "Dalton's law",
+      "Charles's law only",
+      "Graham's law",
+      "Boyle's law only"
+    ],
+    "correctAnswer": "Dalton's law",
+    "explanation": "The total pressure includes dry gas pressure plus water vapour pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Dalton's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 92: If total pressure over water is 750 mmHg and water vapour pressure is 20 mmHg, dry gas pressure is:",
+    "options": [
+      "770 mmHg",
+      "750 mmHg",
+      "730 mmHg",
+      "20 mmHg"
+    ],
+    "correctAnswer": "730 mmHg",
+    "explanation": "Dry gas pressure = total pressure - water vapour pressure = 750 - 20 = 730 mmHg.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "gas collection"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 93: Which variable is held constant in Gay-Lussac's pressure-temperature law?",
+    "options": [
+      "Volume and amount of gas",
+      "Pressure and volume",
+      "Temperature and volume",
+      "Moles only, not volume"
+    ],
+    "correctAnswer": "Volume and amount of gas",
+    "explanation": "Gay-Lussac's law applies to a fixed amount of gas at constant volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Gay-Lussac law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 94: If a gas container is heated without changing volume, pressure:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes zero",
+      "Does not change"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "At constant volume, pressure increases with temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "pressure-temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 95: Which statement is true for an ideal gas at constant T?",
+    "options": [
+      "PV is constant",
+      "P/V is constant",
+      "V/P is constant",
+      "P + V is constant"
+    ],
+    "correctAnswer": "PV is constant",
+    "explanation": "Boyle's law states PV remains constant at constant temperature for fixed gas.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "Boyle's law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 96: The standard temperature used in STP is:",
+    "options": [
+      "0 K",
+      "273.15 K",
+      "298 K",
+      "100 K"
+    ],
+    "correctAnswer": "273.15 K",
+    "explanation": "STP commonly uses 273.15 K and 1 atm.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "STP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 97: The standard pressure used in STP is:",
+    "options": [
+      "1 atm",
+      "2 atm",
+      "0 atm",
+      "10 atm"
+    ],
+    "correctAnswer": "1 atm",
+    "explanation": "STP pressure is commonly taken as 1 atm.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "STP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 98: A gas sample has 3 moles. At STP, its volume is:",
+    "options": [
+      "22.4 dm³",
+      "44.8 dm³",
+      "67.2 dm³",
+      "11.2 dm³"
+    ],
+    "correctAnswer": "67.2 dm³",
+    "explanation": "At STP, volume = 3 × 22.4 = 67.2 dm³.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "molar volume"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 99: Which of the following has no units?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Compressibility factor",
+      "Gas constant"
+    ],
+    "correctAnswer": "Compressibility factor",
+    "explanation": "Compressibility factor Z is a ratio, so it is unitless.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "compressibility factor"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "mcq",
+    "question": "MCQ 100: Ideal gas equation can be used to calculate:",
+    "options": [
+      "Only colour of gas",
+      "Pressure, volume, moles or temperature",
+      "Only chemical formula",
+      "Only atomic number"
+    ],
+    "correctAnswer": "Pressure, volume, moles or temperature",
+    "explanation": "PV = nRT relates pressure, volume, amount and temperature.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "ideal gas equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 1: Define gas pressure.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 2: State Boyle's law.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 3: State Charles's law.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 4: Write the ideal gas equation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 5: What is meant by absolute zero?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 6: Why is kelvin scale used in gas law calculations?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 7: Define standard temperature and pressure (STP).",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 8: What is molar volume of a gas at STP?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 9: State Avogadro's law.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 10: Define diffusion of gases.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 11: Define effusion of gases.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 12: State Graham's law of diffusion.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 13: Why does hydrogen diffuse faster than oxygen?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 14: State Dalton's law of partial pressures.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 15: What is partial pressure?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 16: What is aqueous tension?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 17: How is pressure of dry gas calculated when gas is collected over water?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 18: Write two postulates of kinetic molecular theory of gases.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 19: What is meant by elastic collision?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 20: Why are gases compressible?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 21: What is an ideal gas?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 22: What is a real gas?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 23: Why do real gases deviate from ideal behaviour?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 24: Under what conditions do gases behave ideally?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 25: Under what conditions do gases show maximum deviation from ideal behaviour?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 26: Define compressibility factor.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 27: What is the value of compressibility factor for an ideal gas?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 28: What is the significance of van der Waals constant a?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 29: What is the significance of van der Waals constant b?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 30: Define critical temperature.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 31: Define critical pressure.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 32: Why are gases liquefied at low temperature and high pressure?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 33: Write the relationship between density and molar mass of a gas.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 34: How can molar mass of a gas be calculated from density?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 35: What is the SI unit of pressure?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 36: Convert 1 atm into mmHg.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 37: Convert 1 atm into pascal.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 38: What is the value of R in SI units?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 39: What is the value of R when pressure is in atm and volume in dm³?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 40: Why does gas pressure increase when temperature is increased at constant volume?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 41: Why does gas volume increase when temperature is increased at constant pressure?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 42: How does molar mass affect diffusion rate?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 43: What is root mean square speed?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 44: How does temperature affect average kinetic energy of gas molecules?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 45: What is meant by total pressure of a gas mixture?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 46: Give one daily-life example of Boyle's law.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 47: Give one daily-life example of Charles's law.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 48: Why does perfume smell spread in a room?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 49: What is the difference between diffusion and effusion?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "short",
+    "question": "Short Question 50: Why are gases less dense than liquids?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 1: Explain Boyle's law with statement, mathematical form, graph and one numerical example.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 2: Explain Charles's law with statement, mathematical form, graph and one daily-life application.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 3: Derive and explain the ideal gas equation PV = nRT.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 4: Explain the kinetic molecular theory of gases and its important postulates.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 5: Discuss Dalton's law of partial pressures and its application in gases collected over water.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 6: Explain Graham's law of diffusion and derive the relation between rate and molar mass.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 7: Compare ideal gases and real gases in detail.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 8: Explain why real gases deviate from ideal behaviour at high pressure and low temperature.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 9: Discuss van der Waals equation and explain the significance of constants a and b.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 10: Explain critical temperature, critical pressure and liquefaction of gases.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 11: Describe the relationship between gas density and molar mass using the ideal gas equation.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 12: Explain the effect of temperature on molecular speed and kinetic energy of gases.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 13: Solve numerical problems involving Boyle's law, Charles's law and Gay-Lussac's law.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 14: Explain the combined gas law and its use in changing pressure, volume and temperature conditions.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 15: Describe diffusion and effusion of gases with examples and differences.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 16: Explain gas pressure in terms of molecular collisions according to kinetic theory.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 17: Discuss the conditions under which gases behave ideally and non-ideally.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 18: Explain molar volume of gases at STP with examples.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 19: Describe partial pressure, total pressure and mole fraction in a gas mixture.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Gases",
+    "chapterId": "Gases",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on applications of gas laws in daily life and industry.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Gases",
+      "long question"
+    ]
+  }
+]

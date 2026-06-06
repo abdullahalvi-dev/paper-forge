@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Chatbot | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+    <style>
+      body[data-chat-role="student"] .chatbot-confirmation-card .chatbot-marks-editor {
+        grid-template-columns: minmax(120px, 180px);
+      }
+
+      body[data-chat-role="student"] .chatbot-confirmation-card .chatbot-marks-editor label:not(:first-child) {
+        display: none;
+      }
+    </style>
+  </head>
+  <body data-page="chatbot" data-chat-role="student">
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand"><img class="brand-logo" src="../assets/images/Logo.svg" alt="Paper Forge"><span class="brand-role">Student</span></div>
+        <a href="/dashboard/student-dashboard.html"><i class="bi bi-speedometer2"></i> Dashboard</a>
+        <a href="/student/practice-setup.html"><i class="bi bi-pencil-square"></i> Practice Setup</a>
+        <a class="active" href="/student/chatbot.html"><i class="bi bi-chat-dots"></i> AI Chatbot</a>
+        <a href="/student/result.html"><i class="bi bi-clipboard-check"></i> Results</a>
+        <a href="/resources.html"><i class="bi bi-folder2-open"></i> Past Papers & Books</a>
+        <a href="/subscription.html"><i class="bi bi-credit-card"></i> Subscription</a>
+        <button class="js-logout"><i class="bi bi-box-arrow-left"></i> Logout</button>
+      </aside>
+      <main class="main">
+        <div class="topbar">
+          <div class="page-title">
+            <h1>AI Practice Chatbot</h1>
+            <p>Ask for practice MCQs or an answer explanation in natural language.</p>
+          </div>
+          <div class="action-row mt-0">
+            <button class="btn btn-outline-dark" id="chatbotExportPdf" type="button"><i class="bi bi-filetype-pdf"></i> Export PDF</button>
+            <button class="btn btn-outline-dark" id="chatbotExportWord" type="button"><i class="bi bi-filetype-docx"></i> Export Word</button>
+            <button class="btn btn-outline-danger" id="chatbotResetBtn" type="button"><i class="bi bi-arrow-counterclockwise"></i> Clear Chat</button>
+          </div>
+        </div>
+
+        <section class="chatbot-layout">
+          <div class="panel chatbot-panel">
+            <div class="panel-title">
+              <h2>Command chat</h2>
+              <span class="pill-soft">Student</span>
+            </div>
+            <div class="chatbot-feed" id="chatbotFeed"></div>
+            <form id="chatbotForm" class="chatbot-form">
+              <textarea class="form-control" id="chatbotInput" placeholder="Example: Make the practice paper of 10th Physics chapter 5 with 15 MCQs." required></textarea>
+              <button class="btn btn-primary" id="chatbotSendBtn" type="submit"><i class="bi bi-send"></i> Send Command</button>
+            </form>
+          </div>
+
+          <div class="chatbot-result-grid">
+            <section class="panel" id="chatbotPreview">
+              <div class="admin-empty">Generated practice preview or AI answer will appear here.</div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js?v=practice-mcq-marks-only"></script>
+  </body>
+</html>

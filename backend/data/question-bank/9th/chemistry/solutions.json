@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 1: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 1.",
+      "It gives a physical measurement only and misses solution in Solutions case 1.",
+      "It says solution has no effect on the Solutions reaction or property 2.",
+      "It changes the given Solutions condition instead of explaining solution 3."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 1.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 2: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 2.",
+      "The correct choice applies solute to particles and properties in Solutions example 2.",
+      "It says solute has no effect on the Solutions reaction or property 3.",
+      "It changes the given Solutions condition instead of explaining solute 4."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 2.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 3: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 3.",
+      "It says solvent has no effect on the Solutions reaction or property 4.",
+      "solvent gives the valid chemical explanation for Solutions item 3.",
+      "It changes the given Solutions condition instead of explaining solvent 5."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 3.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 4: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 4.",
+      "It says concentration has no effect on the Solutions reaction or property 5.",
+      "It changes the given Solutions condition instead of explaining concentration 6.",
+      "This answer properly connects concentration with composition or change in Solutions question 4."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 4.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 5: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 5.",
+      "It gives a physical measurement only and misses saturation in Solutions case 5.",
+      "It says saturation has no effect on the Solutions reaction or property 6.",
+      "It changes the given Solutions condition instead of explaining saturation 7."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 5.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 6: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 6.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 6.",
+      "It says gas pressure has no effect on the Solutions reaction or property 7.",
+      "It changes the given Solutions condition instead of explaining gas pressure 8."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 6.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 7: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 7.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 8.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 7.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 9."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 7.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 8: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 8.",
+      "It says phase change has no effect on the Solutions reaction or property 9.",
+      "It changes the given Solutions condition instead of explaining phase change 10.",
+      "This answer properly connects phase change with composition or change in Solutions question 8."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 8.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 9: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 9.",
+      "It gives a physical measurement only and misses solution in Solutions case 9.",
+      "It says solution has no effect on the Solutions reaction or property 10.",
+      "It changes the given Solutions condition instead of explaining solution 11."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 9.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 10: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 10.",
+      "The correct choice applies solute to particles and properties in Solutions example 10.",
+      "It says solute has no effect on the Solutions reaction or property 11.",
+      "It changes the given Solutions condition instead of explaining solute 12."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 10.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 11: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 11.",
+      "It says solvent has no effect on the Solutions reaction or property 12.",
+      "solvent gives the valid chemical explanation for Solutions item 11.",
+      "It changes the given Solutions condition instead of explaining solvent 13."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 11.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 12: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 12.",
+      "It says concentration has no effect on the Solutions reaction or property 13.",
+      "It changes the given Solutions condition instead of explaining concentration 14.",
+      "This answer properly connects concentration with composition or change in Solutions question 12."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 12.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 13: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 13.",
+      "It gives a physical measurement only and misses saturation in Solutions case 13.",
+      "It says saturation has no effect on the Solutions reaction or property 14.",
+      "It changes the given Solutions condition instead of explaining saturation 15."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 13.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 14: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 14.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 14.",
+      "It says gas pressure has no effect on the Solutions reaction or property 15.",
+      "It changes the given Solutions condition instead of explaining gas pressure 16."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 14.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 15: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 15.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 16.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 15.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 17."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 15.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 16: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 16.",
+      "It says phase change has no effect on the Solutions reaction or property 17.",
+      "It changes the given Solutions condition instead of explaining phase change 18.",
+      "This answer properly connects phase change with composition or change in Solutions question 16."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 16.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 17: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 17.",
+      "It gives a physical measurement only and misses solution in Solutions case 17.",
+      "It says solution has no effect on the Solutions reaction or property 18.",
+      "It changes the given Solutions condition instead of explaining solution 19."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 17.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 18: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 18.",
+      "The correct choice applies solute to particles and properties in Solutions example 18.",
+      "It says solute has no effect on the Solutions reaction or property 19.",
+      "It changes the given Solutions condition instead of explaining solute 20."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 18.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 19: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 19.",
+      "It says solvent has no effect on the Solutions reaction or property 20.",
+      "solvent gives the valid chemical explanation for Solutions item 19.",
+      "It changes the given Solutions condition instead of explaining solvent 21."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 19.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 20: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 20.",
+      "It says concentration has no effect on the Solutions reaction or property 21.",
+      "It changes the given Solutions condition instead of explaining concentration 22.",
+      "This answer properly connects concentration with composition or change in Solutions question 20."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 20.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 21: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 21.",
+      "It gives a physical measurement only and misses saturation in Solutions case 21.",
+      "It says saturation has no effect on the Solutions reaction or property 22.",
+      "It changes the given Solutions condition instead of explaining saturation 23."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 21.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 22: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 22.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 22.",
+      "It says gas pressure has no effect on the Solutions reaction or property 23.",
+      "It changes the given Solutions condition instead of explaining gas pressure 24."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 22.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 23: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 23.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 24.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 23.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 25."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 23.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 24.",
+      "It says phase change has no effect on the Solutions reaction or property 25.",
+      "It changes the given Solutions condition instead of explaining phase change 26.",
+      "This answer properly connects phase change with composition or change in Solutions question 24."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 24.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 25: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 25.",
+      "It gives a physical measurement only and misses solution in Solutions case 25.",
+      "It says solution has no effect on the Solutions reaction or property 26.",
+      "It changes the given Solutions condition instead of explaining solution 27."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 25.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 26: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 26.",
+      "The correct choice applies solute to particles and properties in Solutions example 26.",
+      "It says solute has no effect on the Solutions reaction or property 27.",
+      "It changes the given Solutions condition instead of explaining solute 28."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 26.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 27: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 27.",
+      "It says solvent has no effect on the Solutions reaction or property 28.",
+      "solvent gives the valid chemical explanation for Solutions item 27.",
+      "It changes the given Solutions condition instead of explaining solvent 29."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 27.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 28: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 28.",
+      "It says concentration has no effect on the Solutions reaction or property 29.",
+      "It changes the given Solutions condition instead of explaining concentration 30.",
+      "This answer properly connects concentration with composition or change in Solutions question 28."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 28.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 29: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 29.",
+      "It gives a physical measurement only and misses saturation in Solutions case 29.",
+      "It says saturation has no effect on the Solutions reaction or property 30.",
+      "It changes the given Solutions condition instead of explaining saturation 31."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 29.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 30: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 30.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 30.",
+      "It says gas pressure has no effect on the Solutions reaction or property 31.",
+      "It changes the given Solutions condition instead of explaining gas pressure 32."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 30.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 31: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 31.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 32.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 31.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 33."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 31.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 32: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 32.",
+      "It says phase change has no effect on the Solutions reaction or property 33.",
+      "It changes the given Solutions condition instead of explaining phase change 34.",
+      "This answer properly connects phase change with composition or change in Solutions question 32."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 32.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 33: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 33.",
+      "It gives a physical measurement only and misses solution in Solutions case 33.",
+      "It says solution has no effect on the Solutions reaction or property 34.",
+      "It changes the given Solutions condition instead of explaining solution 35."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 33.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 34: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 34.",
+      "The correct choice applies solute to particles and properties in Solutions example 34.",
+      "It says solute has no effect on the Solutions reaction or property 35.",
+      "It changes the given Solutions condition instead of explaining solute 36."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 34.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 35: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 35.",
+      "It says solvent has no effect on the Solutions reaction or property 36.",
+      "solvent gives the valid chemical explanation for Solutions item 35.",
+      "It changes the given Solutions condition instead of explaining solvent 37."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 35.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 36: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 36.",
+      "It says concentration has no effect on the Solutions reaction or property 37.",
+      "It changes the given Solutions condition instead of explaining concentration 38.",
+      "This answer properly connects concentration with composition or change in Solutions question 36."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 36.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 37: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 37.",
+      "It gives a physical measurement only and misses saturation in Solutions case 37.",
+      "It says saturation has no effect on the Solutions reaction or property 38.",
+      "It changes the given Solutions condition instead of explaining saturation 39."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 37.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 38: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 38.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 38.",
+      "It says gas pressure has no effect on the Solutions reaction or property 39.",
+      "It changes the given Solutions condition instead of explaining gas pressure 40."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 38.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 39: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 39.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 40.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 39.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 41."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 39.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 40: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 40.",
+      "It says phase change has no effect on the Solutions reaction or property 41.",
+      "It changes the given Solutions condition instead of explaining phase change 42.",
+      "This answer properly connects phase change with composition or change in Solutions question 40."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 40.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 41: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 41.",
+      "It gives a physical measurement only and misses solution in Solutions case 41.",
+      "It says solution has no effect on the Solutions reaction or property 42.",
+      "It changes the given Solutions condition instead of explaining solution 43."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 41.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 42: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 42.",
+      "The correct choice applies solute to particles and properties in Solutions example 42.",
+      "It says solute has no effect on the Solutions reaction or property 43.",
+      "It changes the given Solutions condition instead of explaining solute 44."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 42.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 43: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 43.",
+      "It says solvent has no effect on the Solutions reaction or property 44.",
+      "solvent gives the valid chemical explanation for Solutions item 43.",
+      "It changes the given Solutions condition instead of explaining solvent 45."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 43.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 44: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 44.",
+      "It says concentration has no effect on the Solutions reaction or property 45.",
+      "It changes the given Solutions condition instead of explaining concentration 46.",
+      "This answer properly connects concentration with composition or change in Solutions question 44."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 44.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 45: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 45.",
+      "It gives a physical measurement only and misses saturation in Solutions case 45.",
+      "It says saturation has no effect on the Solutions reaction or property 46.",
+      "It changes the given Solutions condition instead of explaining saturation 47."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 45.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 46: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 46.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 46.",
+      "It says gas pressure has no effect on the Solutions reaction or property 47.",
+      "It changes the given Solutions condition instead of explaining gas pressure 48."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 46.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 47: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 47.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 48.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 47.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 49."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 47.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 48.",
+      "It says phase change has no effect on the Solutions reaction or property 49.",
+      "It changes the given Solutions condition instead of explaining phase change 50.",
+      "This answer properly connects phase change with composition or change in Solutions question 48."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 48.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 49: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 49.",
+      "It gives a physical measurement only and misses solution in Solutions case 49.",
+      "It says solution has no effect on the Solutions reaction or property 50.",
+      "It changes the given Solutions condition instead of explaining solution 51."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 49.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 50: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 50.",
+      "The correct choice applies solute to particles and properties in Solutions example 50.",
+      "It says solute has no effect on the Solutions reaction or property 51.",
+      "It changes the given Solutions condition instead of explaining solute 52."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 50.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 51: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 51.",
+      "It says solvent has no effect on the Solutions reaction or property 52.",
+      "solvent gives the valid chemical explanation for Solutions item 51.",
+      "It changes the given Solutions condition instead of explaining solvent 53."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 51.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 52: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 52.",
+      "It says concentration has no effect on the Solutions reaction or property 53.",
+      "It changes the given Solutions condition instead of explaining concentration 54.",
+      "This answer properly connects concentration with composition or change in Solutions question 52."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 52.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 53: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 53.",
+      "It gives a physical measurement only and misses saturation in Solutions case 53.",
+      "It says saturation has no effect on the Solutions reaction or property 54.",
+      "It changes the given Solutions condition instead of explaining saturation 55."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 53.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 54: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 54.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 54.",
+      "It says gas pressure has no effect on the Solutions reaction or property 55.",
+      "It changes the given Solutions condition instead of explaining gas pressure 56."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 54.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 55: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 55.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 56.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 55.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 57."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 55.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 56: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 56.",
+      "It says phase change has no effect on the Solutions reaction or property 57.",
+      "It changes the given Solutions condition instead of explaining phase change 58.",
+      "This answer properly connects phase change with composition or change in Solutions question 56."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 56.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 57: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 57.",
+      "It gives a physical measurement only and misses solution in Solutions case 57.",
+      "It says solution has no effect on the Solutions reaction or property 58.",
+      "It changes the given Solutions condition instead of explaining solution 59."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 57.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 58: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 58.",
+      "The correct choice applies solute to particles and properties in Solutions example 58.",
+      "It says solute has no effect on the Solutions reaction or property 59.",
+      "It changes the given Solutions condition instead of explaining solute 60."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 58.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 59: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 59.",
+      "It says solvent has no effect on the Solutions reaction or property 60.",
+      "solvent gives the valid chemical explanation for Solutions item 59.",
+      "It changes the given Solutions condition instead of explaining solvent 61."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 59.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 60.",
+      "It says concentration has no effect on the Solutions reaction or property 61.",
+      "It changes the given Solutions condition instead of explaining concentration 62.",
+      "This answer properly connects concentration with composition or change in Solutions question 60."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 60.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 61: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 61.",
+      "It gives a physical measurement only and misses saturation in Solutions case 61.",
+      "It says saturation has no effect on the Solutions reaction or property 62.",
+      "It changes the given Solutions condition instead of explaining saturation 63."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 61.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 62: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 62.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 62.",
+      "It says gas pressure has no effect on the Solutions reaction or property 63.",
+      "It changes the given Solutions condition instead of explaining gas pressure 64."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 62.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 63: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 63.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 64.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 63.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 65."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 63.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 64: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 64.",
+      "It says phase change has no effect on the Solutions reaction or property 65.",
+      "It changes the given Solutions condition instead of explaining phase change 66.",
+      "This answer properly connects phase change with composition or change in Solutions question 64."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 64.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 65: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 65.",
+      "It gives a physical measurement only and misses solution in Solutions case 65.",
+      "It says solution has no effect on the Solutions reaction or property 66.",
+      "It changes the given Solutions condition instead of explaining solution 67."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 65.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 66: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 66.",
+      "The correct choice applies solute to particles and properties in Solutions example 66.",
+      "It says solute has no effect on the Solutions reaction or property 67.",
+      "It changes the given Solutions condition instead of explaining solute 68."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 66.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 67: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 67.",
+      "It says solvent has no effect on the Solutions reaction or property 68.",
+      "solvent gives the valid chemical explanation for Solutions item 67.",
+      "It changes the given Solutions condition instead of explaining solvent 69."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 67.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 68: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 68.",
+      "It says concentration has no effect on the Solutions reaction or property 69.",
+      "It changes the given Solutions condition instead of explaining concentration 70.",
+      "This answer properly connects concentration with composition or change in Solutions question 68."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 68.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 69: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 69.",
+      "It gives a physical measurement only and misses saturation in Solutions case 69.",
+      "It says saturation has no effect on the Solutions reaction or property 70.",
+      "It changes the given Solutions condition instead of explaining saturation 71."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 69.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 70: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 70.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 70.",
+      "It says gas pressure has no effect on the Solutions reaction or property 71.",
+      "It changes the given Solutions condition instead of explaining gas pressure 72."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 70.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 71: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 71.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 72.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 71.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 73."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 71.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 72.",
+      "It says phase change has no effect on the Solutions reaction or property 73.",
+      "It changes the given Solutions condition instead of explaining phase change 74.",
+      "This answer properly connects phase change with composition or change in Solutions question 72."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 72.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 73: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 73.",
+      "It gives a physical measurement only and misses solution in Solutions case 73.",
+      "It says solution has no effect on the Solutions reaction or property 74.",
+      "It changes the given Solutions condition instead of explaining solution 75."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 73.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 74: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 74.",
+      "The correct choice applies solute to particles and properties in Solutions example 74.",
+      "It says solute has no effect on the Solutions reaction or property 75.",
+      "It changes the given Solutions condition instead of explaining solute 76."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 74.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 75: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 75.",
+      "It says solvent has no effect on the Solutions reaction or property 76.",
+      "solvent gives the valid chemical explanation for Solutions item 75.",
+      "It changes the given Solutions condition instead of explaining solvent 77."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 75.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 76.",
+      "It says concentration has no effect on the Solutions reaction or property 77.",
+      "It changes the given Solutions condition instead of explaining concentration 78.",
+      "This answer properly connects concentration with composition or change in Solutions question 76."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 76.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 77: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 77.",
+      "It gives a physical measurement only and misses saturation in Solutions case 77.",
+      "It says saturation has no effect on the Solutions reaction or property 78.",
+      "It changes the given Solutions condition instead of explaining saturation 79."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 77.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 78: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 78.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 78.",
+      "It says gas pressure has no effect on the Solutions reaction or property 79.",
+      "It changes the given Solutions condition instead of explaining gas pressure 80."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 78.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 79: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 79.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 80.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 79.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 81."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 79.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 80: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 80.",
+      "It says phase change has no effect on the Solutions reaction or property 81.",
+      "It changes the given Solutions condition instead of explaining phase change 82.",
+      "This answer properly connects phase change with composition or change in Solutions question 80."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 80.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 81: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 81.",
+      "It gives a physical measurement only and misses solution in Solutions case 81.",
+      "It says solution has no effect on the Solutions reaction or property 82.",
+      "It changes the given Solutions condition instead of explaining solution 83."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 81.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 82: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 82.",
+      "The correct choice applies solute to particles and properties in Solutions example 82.",
+      "It says solute has no effect on the Solutions reaction or property 83.",
+      "It changes the given Solutions condition instead of explaining solute 84."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 82.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 83: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 83.",
+      "It says solvent has no effect on the Solutions reaction or property 84.",
+      "solvent gives the valid chemical explanation for Solutions item 83.",
+      "It changes the given Solutions condition instead of explaining solvent 85."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 83.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 84: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 84.",
+      "It says concentration has no effect on the Solutions reaction or property 85.",
+      "It changes the given Solutions condition instead of explaining concentration 86.",
+      "This answer properly connects concentration with composition or change in Solutions question 84."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 84.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 85: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 85.",
+      "It gives a physical measurement only and misses saturation in Solutions case 85.",
+      "It says saturation has no effect on the Solutions reaction or property 86.",
+      "It changes the given Solutions condition instead of explaining saturation 87."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 85.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 86: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 86.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 86.",
+      "It says gas pressure has no effect on the Solutions reaction or property 87.",
+      "It changes the given Solutions condition instead of explaining gas pressure 88."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 86.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 87: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 87.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 88.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 87.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 89."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 87.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 88: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 88.",
+      "It says phase change has no effect on the Solutions reaction or property 89.",
+      "It changes the given Solutions condition instead of explaining phase change 90.",
+      "This answer properly connects phase change with composition or change in Solutions question 88."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 88.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 89: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 89.",
+      "It gives a physical measurement only and misses solution in Solutions case 89.",
+      "It says solution has no effect on the Solutions reaction or property 90.",
+      "It changes the given Solutions condition instead of explaining solution 91."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 89.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 90: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 90.",
+      "The correct choice applies solute to particles and properties in Solutions example 90.",
+      "It says solute has no effect on the Solutions reaction or property 91.",
+      "It changes the given Solutions condition instead of explaining solute 92."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 90.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 91: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 91.",
+      "It says solvent has no effect on the Solutions reaction or property 92.",
+      "solvent gives the valid chemical explanation for Solutions item 91.",
+      "It changes the given Solutions condition instead of explaining solvent 93."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 91.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 92: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 92.",
+      "It says concentration has no effect on the Solutions reaction or property 93.",
+      "It changes the given Solutions condition instead of explaining concentration 94.",
+      "This answer properly connects concentration with composition or change in Solutions question 92."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 92.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 93: In 9th Chemistry chapter \"Solutions\", which statement about saturation is correct?",
+    "options": [
+      "saturation correctly describes the matter or reaction idea in Solutions case 93.",
+      "It gives a physical measurement only and misses saturation in Solutions case 93.",
+      "It says saturation has no effect on the Solutions reaction or property 94.",
+      "It changes the given Solutions condition instead of explaining saturation 95."
+    ],
+    "correctAnswer": "saturation correctly describes the matter or reaction idea in Solutions case 93.",
+    "explanation": "The correct option connects saturation with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 94: Which option is most closely related to gas pressure in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses gas pressure in Solutions case 94.",
+      "The correct choice applies gas pressure to particles and properties in Solutions example 94.",
+      "It says gas pressure has no effect on the Solutions reaction or property 95.",
+      "It changes the given Solutions condition instead of explaining gas pressure 96."
+    ],
+    "correctAnswer": "The correct choice applies gas pressure to particles and properties in Solutions example 94.",
+    "explanation": "The correct option connects gas pressure with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 95: For \"Solutions\", why do students study intermolecular force?",
+    "options": [
+      "It gives a physical measurement only and misses intermolecular force in Solutions case 95.",
+      "It says intermolecular force has no effect on the Solutions reaction or property 96.",
+      "intermolecular force gives the valid chemical explanation for Solutions item 95.",
+      "It changes the given Solutions condition instead of explaining intermolecular force 97."
+    ],
+    "correctAnswer": "intermolecular force gives the valid chemical explanation for Solutions item 95.",
+    "explanation": "The correct option connects intermolecular force with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 96: Which statement correctly explains the use of phase change?",
+    "options": [
+      "It gives a physical measurement only and misses phase change in Solutions case 96.",
+      "It says phase change has no effect on the Solutions reaction or property 97.",
+      "It changes the given Solutions condition instead of explaining phase change 98.",
+      "This answer properly connects phase change with composition or change in Solutions question 96."
+    ],
+    "correctAnswer": "This answer properly connects phase change with composition or change in Solutions question 96.",
+    "explanation": "The correct option connects phase change with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 97: In 9th Chemistry chapter \"Solutions\", which statement about solution is correct?",
+    "options": [
+      "solution correctly describes the matter or reaction idea in Solutions case 97.",
+      "It gives a physical measurement only and misses solution in Solutions case 97.",
+      "It says solution has no effect on the Solutions reaction or property 98.",
+      "It changes the given Solutions condition instead of explaining solution 99."
+    ],
+    "correctAnswer": "solution correctly describes the matter or reaction idea in Solutions case 97.",
+    "explanation": "The correct option connects solution with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 98: Which option is most closely related to solute in \"Solutions\"?",
+    "options": [
+      "It gives a physical measurement only and misses solute in Solutions case 98.",
+      "The correct choice applies solute to particles and properties in Solutions example 98.",
+      "It says solute has no effect on the Solutions reaction or property 99.",
+      "It changes the given Solutions condition instead of explaining solute 100."
+    ],
+    "correctAnswer": "The correct choice applies solute to particles and properties in Solutions example 98.",
+    "explanation": "The correct option connects solute with the main learning point of Solutions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 99: For \"Solutions\", why do students study solvent?",
+    "options": [
+      "It gives a physical measurement only and misses solvent in Solutions case 99.",
+      "It says solvent has no effect on the Solutions reaction or property 100.",
+      "solvent gives the valid chemical explanation for Solutions item 99.",
+      "It changes the given Solutions condition instead of explaining solvent 101."
+    ],
+    "correctAnswer": "solvent gives the valid chemical explanation for Solutions item 99.",
+    "explanation": "The correct option connects solvent with the main learning point of Solutions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "mcq",
+    "question": "MCQ 100: Which statement correctly explains the use of concentration?",
+    "options": [
+      "It gives a physical measurement only and misses concentration in Solutions case 100.",
+      "It says concentration has no effect on the Solutions reaction or property 101.",
+      "It changes the given Solutions condition instead of explaining concentration 102.",
+      "This answer properly connects concentration with composition or change in Solutions question 100."
+    ],
+    "correctAnswer": "This answer properly connects concentration with composition or change in Solutions question 100.",
+    "explanation": "The correct option connects concentration with the main learning point of Solutions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 1: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 2: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 3: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 4: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 5: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 6: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 7: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 8: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 9: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 10: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 11: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 12: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 13: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 14: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 15: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 16: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 17: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 18: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 19: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 20: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 21: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 22: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 23: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 24: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 25: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 26: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 27: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 28: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 29: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 30: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 31: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 32: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 33: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 34: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 35: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 36: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 37: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 38: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 39: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 40: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 41: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 42: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 43: Explain why solvent is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solvent is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solvent.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 44: Give one example related to concentration.",
+    "options": [],
+    "correctAnswer": "concentration is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about concentration.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 45: Define saturation in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "saturation is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about saturation.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 46: Write two important points about gas pressure.",
+    "options": [],
+    "correctAnswer": "gas pressure is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about gas pressure.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 47: Explain why intermolecular force is important in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "intermolecular force is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about intermolecular force.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 48: Give one example related to phase change.",
+    "options": [],
+    "correctAnswer": "phase change is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about phase change.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 49: Define solution in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "solution is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solution.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "short",
+    "question": "Short Question 50: Write two important points about solute.",
+    "options": [],
+    "correctAnswer": "solute is an important idea in Solutions used to explain matter, particles, properties, or chemical change.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about solute.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 1: Explain solution from \"Solutions\" with one example and important conditions.",
+    "options": [],
+    "correctAnswer": "Explain solution, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solution.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 2: Write a detailed note on solute and its role in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain solute, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solute.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 3: Describe the process, reaction, or trend related to solvent.",
+    "options": [],
+    "correctAnswer": "Explain solvent, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solvent.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 4: Compare concentration with a related concept from \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain concentration, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for concentration.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 5: Explain saturation from \"Solutions\" with one example and important conditions.",
+    "options": [],
+    "correctAnswer": "Explain saturation, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for saturation.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 6: Write a detailed note on gas pressure and its role in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain gas pressure, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for gas pressure.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 7: Describe the process, reaction, or trend related to intermolecular force.",
+    "options": [],
+    "correctAnswer": "Explain intermolecular force, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for intermolecular force.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 8: Compare phase change with a related concept from \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain phase change, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for phase change.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 9: Explain solution from \"Solutions\" with one example and important conditions.",
+    "options": [],
+    "correctAnswer": "Explain solution, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solution.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 10: Write a detailed note on solute and its role in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain solute, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solute.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 11: Describe the process, reaction, or trend related to solvent.",
+    "options": [],
+    "correctAnswer": "Explain solvent, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solvent.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 12: Compare concentration with a related concept from \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain concentration, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for concentration.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 13: Explain saturation from \"Solutions\" with one example and important conditions.",
+    "options": [],
+    "correctAnswer": "Explain saturation, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for saturation.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "saturation"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 14: Write a detailed note on gas pressure and its role in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain gas pressure, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for gas pressure.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "gas pressure"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 15: Describe the process, reaction, or trend related to intermolecular force.",
+    "options": [],
+    "correctAnswer": "Explain intermolecular force, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for intermolecular force.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "intermolecular force"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 16: Compare phase change with a related concept from \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain phase change, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for phase change.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "phase change"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 17: Explain solution from \"Solutions\" with one example and important conditions.",
+    "options": [],
+    "correctAnswer": "Explain solution, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solution.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solution"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 18: Write a detailed note on solute and its role in \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain solute, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solute.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solute"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 19: Describe the process, reaction, or trend related to solvent.",
+    "options": [],
+    "correctAnswer": "Explain solvent, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for solvent.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "solvent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Solutions",
+    "chapterId": "Solutions",
+    "type": "long",
+    "question": "Long Question 20: Compare concentration with a related concept from \"Solutions\".",
+    "options": [],
+    "correctAnswer": "Explain concentration, describe its role in Solutions, include one reaction, trend, property, or example, and mention any important condition if required.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for concentration.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Chemistry",
+      "Solutions",
+      "concentration"
+    ]
+  }
+]

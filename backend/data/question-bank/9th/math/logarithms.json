@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 1: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 1.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 1.",
+      "It changes the given values before applying logarithm in Logarithms problem 2.",
+      "It uses a diagram only and avoids the needed logarithm calculation 3."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 1.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 2: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 2.",
+      "The correct method is to apply base and verify each step in Logarithms item 2.",
+      "It changes the given values before applying base in Logarithms problem 3.",
+      "It uses a diagram only and avoids the needed base calculation 4."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 2.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 3: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 3.",
+      "It changes the given values before applying antilog in Logarithms problem 4.",
+      "antilog is the rule needed to solve this Logarithms problem 3.",
+      "It uses a diagram only and avoids the needed antilog calculation 5."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 3.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 4: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 4.",
+      "It changes the given values before applying product rule in Logarithms problem 5.",
+      "It uses a diagram only and avoids the needed product rule calculation 6.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 4."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 4.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 5: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 5.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 5.",
+      "It changes the given values before applying quotient rule in Logarithms problem 6.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 7."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 5.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 6: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 6.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 6.",
+      "It changes the given values before applying power rule in Logarithms problem 7.",
+      "It uses a diagram only and avoids the needed power rule calculation 8."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 6.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 7: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 7.",
+      "It changes the given values before applying common log in Logarithms problem 8.",
+      "common log is the rule needed to solve this Logarithms problem 7.",
+      "It uses a diagram only and avoids the needed common log calculation 9."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 7.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 8: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 8.",
+      "It changes the given values before applying natural log in Logarithms problem 9.",
+      "It uses a diagram only and avoids the needed natural log calculation 10.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 8."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 8.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 9: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 9.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 9.",
+      "It changes the given values before applying logarithm in Logarithms problem 10.",
+      "It uses a diagram only and avoids the needed logarithm calculation 11."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 9.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 10: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 10.",
+      "The correct method is to apply base and verify each step in Logarithms item 10.",
+      "It changes the given values before applying base in Logarithms problem 11.",
+      "It uses a diagram only and avoids the needed base calculation 12."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 10.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 11: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 11.",
+      "It changes the given values before applying antilog in Logarithms problem 12.",
+      "antilog is the rule needed to solve this Logarithms problem 11.",
+      "It uses a diagram only and avoids the needed antilog calculation 13."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 11.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 12: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 12.",
+      "It changes the given values before applying product rule in Logarithms problem 13.",
+      "It uses a diagram only and avoids the needed product rule calculation 14.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 12."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 12.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 13: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 13.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 13.",
+      "It changes the given values before applying quotient rule in Logarithms problem 14.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 15."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 13.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 14: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 14.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 14.",
+      "It changes the given values before applying power rule in Logarithms problem 15.",
+      "It uses a diagram only and avoids the needed power rule calculation 16."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 14.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 15: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 15.",
+      "It changes the given values before applying common log in Logarithms problem 16.",
+      "common log is the rule needed to solve this Logarithms problem 15.",
+      "It uses a diagram only and avoids the needed common log calculation 17."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 15.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 16: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 16.",
+      "It changes the given values before applying natural log in Logarithms problem 17.",
+      "It uses a diagram only and avoids the needed natural log calculation 18.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 16."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 16.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 17: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 17.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 17.",
+      "It changes the given values before applying logarithm in Logarithms problem 18.",
+      "It uses a diagram only and avoids the needed logarithm calculation 19."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 17.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 18: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 18.",
+      "The correct method is to apply base and verify each step in Logarithms item 18.",
+      "It changes the given values before applying base in Logarithms problem 19.",
+      "It uses a diagram only and avoids the needed base calculation 20."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 18.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 19: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 19.",
+      "It changes the given values before applying antilog in Logarithms problem 20.",
+      "antilog is the rule needed to solve this Logarithms problem 19.",
+      "It uses a diagram only and avoids the needed antilog calculation 21."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 19.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 20: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 20.",
+      "It changes the given values before applying product rule in Logarithms problem 21.",
+      "It uses a diagram only and avoids the needed product rule calculation 22.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 20."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 20.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 21: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 21.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 21.",
+      "It changes the given values before applying quotient rule in Logarithms problem 22.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 23."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 21.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 22: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 22.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 22.",
+      "It changes the given values before applying power rule in Logarithms problem 23.",
+      "It uses a diagram only and avoids the needed power rule calculation 24."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 22.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 23: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 23.",
+      "It changes the given values before applying common log in Logarithms problem 24.",
+      "common log is the rule needed to solve this Logarithms problem 23.",
+      "It uses a diagram only and avoids the needed common log calculation 25."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 23.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 24.",
+      "It changes the given values before applying natural log in Logarithms problem 25.",
+      "It uses a diagram only and avoids the needed natural log calculation 26.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 24."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 24.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 25: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 25.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 25.",
+      "It changes the given values before applying logarithm in Logarithms problem 26.",
+      "It uses a diagram only and avoids the needed logarithm calculation 27."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 25.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 26: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 26.",
+      "The correct method is to apply base and verify each step in Logarithms item 26.",
+      "It changes the given values before applying base in Logarithms problem 27.",
+      "It uses a diagram only and avoids the needed base calculation 28."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 26.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 27: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 27.",
+      "It changes the given values before applying antilog in Logarithms problem 28.",
+      "antilog is the rule needed to solve this Logarithms problem 27.",
+      "It uses a diagram only and avoids the needed antilog calculation 29."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 27.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 28: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 28.",
+      "It changes the given values before applying product rule in Logarithms problem 29.",
+      "It uses a diagram only and avoids the needed product rule calculation 30.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 28."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 28.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 29: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 29.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 29.",
+      "It changes the given values before applying quotient rule in Logarithms problem 30.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 31."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 29.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 30: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 30.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 30.",
+      "It changes the given values before applying power rule in Logarithms problem 31.",
+      "It uses a diagram only and avoids the needed power rule calculation 32."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 30.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 31: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 31.",
+      "It changes the given values before applying common log in Logarithms problem 32.",
+      "common log is the rule needed to solve this Logarithms problem 31.",
+      "It uses a diagram only and avoids the needed common log calculation 33."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 31.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 32: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 32.",
+      "It changes the given values before applying natural log in Logarithms problem 33.",
+      "It uses a diagram only and avoids the needed natural log calculation 34.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 32."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 32.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 33: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 33.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 33.",
+      "It changes the given values before applying logarithm in Logarithms problem 34.",
+      "It uses a diagram only and avoids the needed logarithm calculation 35."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 33.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 34: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 34.",
+      "The correct method is to apply base and verify each step in Logarithms item 34.",
+      "It changes the given values before applying base in Logarithms problem 35.",
+      "It uses a diagram only and avoids the needed base calculation 36."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 34.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 35: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 35.",
+      "It changes the given values before applying antilog in Logarithms problem 36.",
+      "antilog is the rule needed to solve this Logarithms problem 35.",
+      "It uses a diagram only and avoids the needed antilog calculation 37."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 35.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 36: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 36.",
+      "It changes the given values before applying product rule in Logarithms problem 37.",
+      "It uses a diagram only and avoids the needed product rule calculation 38.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 36."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 36.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 37: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 37.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 37.",
+      "It changes the given values before applying quotient rule in Logarithms problem 38.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 39."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 37.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 38: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 38.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 38.",
+      "It changes the given values before applying power rule in Logarithms problem 39.",
+      "It uses a diagram only and avoids the needed power rule calculation 40."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 38.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 39: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 39.",
+      "It changes the given values before applying common log in Logarithms problem 40.",
+      "common log is the rule needed to solve this Logarithms problem 39.",
+      "It uses a diagram only and avoids the needed common log calculation 41."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 39.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 40: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 40.",
+      "It changes the given values before applying natural log in Logarithms problem 41.",
+      "It uses a diagram only and avoids the needed natural log calculation 42.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 40."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 40.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 41: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 41.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 41.",
+      "It changes the given values before applying logarithm in Logarithms problem 42.",
+      "It uses a diagram only and avoids the needed logarithm calculation 43."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 41.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 42: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 42.",
+      "The correct method is to apply base and verify each step in Logarithms item 42.",
+      "It changes the given values before applying base in Logarithms problem 43.",
+      "It uses a diagram only and avoids the needed base calculation 44."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 42.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 43: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 43.",
+      "It changes the given values before applying antilog in Logarithms problem 44.",
+      "antilog is the rule needed to solve this Logarithms problem 43.",
+      "It uses a diagram only and avoids the needed antilog calculation 45."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 43.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 44: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 44.",
+      "It changes the given values before applying product rule in Logarithms problem 45.",
+      "It uses a diagram only and avoids the needed product rule calculation 46.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 44."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 44.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 45: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 45.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 45.",
+      "It changes the given values before applying quotient rule in Logarithms problem 46.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 47."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 45.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 46: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 46.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 46.",
+      "It changes the given values before applying power rule in Logarithms problem 47.",
+      "It uses a diagram only and avoids the needed power rule calculation 48."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 46.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 47: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 47.",
+      "It changes the given values before applying common log in Logarithms problem 48.",
+      "common log is the rule needed to solve this Logarithms problem 47.",
+      "It uses a diagram only and avoids the needed common log calculation 49."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 47.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 48.",
+      "It changes the given values before applying natural log in Logarithms problem 49.",
+      "It uses a diagram only and avoids the needed natural log calculation 50.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 48."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 48.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 49: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 49.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 49.",
+      "It changes the given values before applying logarithm in Logarithms problem 50.",
+      "It uses a diagram only and avoids the needed logarithm calculation 51."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 49.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 50: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 50.",
+      "The correct method is to apply base and verify each step in Logarithms item 50.",
+      "It changes the given values before applying base in Logarithms problem 51.",
+      "It uses a diagram only and avoids the needed base calculation 52."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 50.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 51: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 51.",
+      "It changes the given values before applying antilog in Logarithms problem 52.",
+      "antilog is the rule needed to solve this Logarithms problem 51.",
+      "It uses a diagram only and avoids the needed antilog calculation 53."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 51.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 52: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 52.",
+      "It changes the given values before applying product rule in Logarithms problem 53.",
+      "It uses a diagram only and avoids the needed product rule calculation 54.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 52."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 52.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 53: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 53.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 53.",
+      "It changes the given values before applying quotient rule in Logarithms problem 54.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 55."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 53.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 54: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 54.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 54.",
+      "It changes the given values before applying power rule in Logarithms problem 55.",
+      "It uses a diagram only and avoids the needed power rule calculation 56."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 54.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 55: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 55.",
+      "It changes the given values before applying common log in Logarithms problem 56.",
+      "common log is the rule needed to solve this Logarithms problem 55.",
+      "It uses a diagram only and avoids the needed common log calculation 57."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 55.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 56: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 56.",
+      "It changes the given values before applying natural log in Logarithms problem 57.",
+      "It uses a diagram only and avoids the needed natural log calculation 58.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 56."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 56.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 57: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 57.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 57.",
+      "It changes the given values before applying logarithm in Logarithms problem 58.",
+      "It uses a diagram only and avoids the needed logarithm calculation 59."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 57.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 58: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 58.",
+      "The correct method is to apply base and verify each step in Logarithms item 58.",
+      "It changes the given values before applying base in Logarithms problem 59.",
+      "It uses a diagram only and avoids the needed base calculation 60."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 58.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 59: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 59.",
+      "It changes the given values before applying antilog in Logarithms problem 60.",
+      "antilog is the rule needed to solve this Logarithms problem 59.",
+      "It uses a diagram only and avoids the needed antilog calculation 61."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 59.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 60.",
+      "It changes the given values before applying product rule in Logarithms problem 61.",
+      "It uses a diagram only and avoids the needed product rule calculation 62.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 60."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 60.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 61: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 61.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 61.",
+      "It changes the given values before applying quotient rule in Logarithms problem 62.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 63."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 61.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 62: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 62.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 62.",
+      "It changes the given values before applying power rule in Logarithms problem 63.",
+      "It uses a diagram only and avoids the needed power rule calculation 64."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 62.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 63: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 63.",
+      "It changes the given values before applying common log in Logarithms problem 64.",
+      "common log is the rule needed to solve this Logarithms problem 63.",
+      "It uses a diagram only and avoids the needed common log calculation 65."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 63.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 64: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 64.",
+      "It changes the given values before applying natural log in Logarithms problem 65.",
+      "It uses a diagram only and avoids the needed natural log calculation 66.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 64."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 64.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 65: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 65.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 65.",
+      "It changes the given values before applying logarithm in Logarithms problem 66.",
+      "It uses a diagram only and avoids the needed logarithm calculation 67."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 65.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 66: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 66.",
+      "The correct method is to apply base and verify each step in Logarithms item 66.",
+      "It changes the given values before applying base in Logarithms problem 67.",
+      "It uses a diagram only and avoids the needed base calculation 68."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 66.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 67: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 67.",
+      "It changes the given values before applying antilog in Logarithms problem 68.",
+      "antilog is the rule needed to solve this Logarithms problem 67.",
+      "It uses a diagram only and avoids the needed antilog calculation 69."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 67.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 68: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 68.",
+      "It changes the given values before applying product rule in Logarithms problem 69.",
+      "It uses a diagram only and avoids the needed product rule calculation 70.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 68."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 68.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 69: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 69.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 69.",
+      "It changes the given values before applying quotient rule in Logarithms problem 70.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 71."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 69.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 70: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 70.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 70.",
+      "It changes the given values before applying power rule in Logarithms problem 71.",
+      "It uses a diagram only and avoids the needed power rule calculation 72."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 70.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 71: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 71.",
+      "It changes the given values before applying common log in Logarithms problem 72.",
+      "common log is the rule needed to solve this Logarithms problem 71.",
+      "It uses a diagram only and avoids the needed common log calculation 73."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 71.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 72.",
+      "It changes the given values before applying natural log in Logarithms problem 73.",
+      "It uses a diagram only and avoids the needed natural log calculation 74.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 72."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 72.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 73: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 73.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 73.",
+      "It changes the given values before applying logarithm in Logarithms problem 74.",
+      "It uses a diagram only and avoids the needed logarithm calculation 75."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 73.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 74: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 74.",
+      "The correct method is to apply base and verify each step in Logarithms item 74.",
+      "It changes the given values before applying base in Logarithms problem 75.",
+      "It uses a diagram only and avoids the needed base calculation 76."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 74.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 75: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 75.",
+      "It changes the given values before applying antilog in Logarithms problem 76.",
+      "antilog is the rule needed to solve this Logarithms problem 75.",
+      "It uses a diagram only and avoids the needed antilog calculation 77."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 75.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 76.",
+      "It changes the given values before applying product rule in Logarithms problem 77.",
+      "It uses a diagram only and avoids the needed product rule calculation 78.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 76."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 76.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 77: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 77.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 77.",
+      "It changes the given values before applying quotient rule in Logarithms problem 78.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 79."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 77.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 78: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 78.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 78.",
+      "It changes the given values before applying power rule in Logarithms problem 79.",
+      "It uses a diagram only and avoids the needed power rule calculation 80."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 78.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 79: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 79.",
+      "It changes the given values before applying common log in Logarithms problem 80.",
+      "common log is the rule needed to solve this Logarithms problem 79.",
+      "It uses a diagram only and avoids the needed common log calculation 81."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 79.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 80: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 80.",
+      "It changes the given values before applying natural log in Logarithms problem 81.",
+      "It uses a diagram only and avoids the needed natural log calculation 82.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 80."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 80.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 81: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 81.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 81.",
+      "It changes the given values before applying logarithm in Logarithms problem 82.",
+      "It uses a diagram only and avoids the needed logarithm calculation 83."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 81.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 82: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 82.",
+      "The correct method is to apply base and verify each step in Logarithms item 82.",
+      "It changes the given values before applying base in Logarithms problem 83.",
+      "It uses a diagram only and avoids the needed base calculation 84."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 82.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 83: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 83.",
+      "It changes the given values before applying antilog in Logarithms problem 84.",
+      "antilog is the rule needed to solve this Logarithms problem 83.",
+      "It uses a diagram only and avoids the needed antilog calculation 85."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 83.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 84: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 84.",
+      "It changes the given values before applying product rule in Logarithms problem 85.",
+      "It uses a diagram only and avoids the needed product rule calculation 86.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 84."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 84.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 85: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 85.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 85.",
+      "It changes the given values before applying quotient rule in Logarithms problem 86.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 87."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 85.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 86: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 86.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 86.",
+      "It changes the given values before applying power rule in Logarithms problem 87.",
+      "It uses a diagram only and avoids the needed power rule calculation 88."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 86.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 87: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 87.",
+      "It changes the given values before applying common log in Logarithms problem 88.",
+      "common log is the rule needed to solve this Logarithms problem 87.",
+      "It uses a diagram only and avoids the needed common log calculation 89."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 87.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 88: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 88.",
+      "It changes the given values before applying natural log in Logarithms problem 89.",
+      "It uses a diagram only and avoids the needed natural log calculation 90.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 88."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 88.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 89: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 89.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 89.",
+      "It changes the given values before applying logarithm in Logarithms problem 90.",
+      "It uses a diagram only and avoids the needed logarithm calculation 91."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 89.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 90: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 90.",
+      "The correct method is to apply base and verify each step in Logarithms item 90.",
+      "It changes the given values before applying base in Logarithms problem 91.",
+      "It uses a diagram only and avoids the needed base calculation 92."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 90.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 91: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 91.",
+      "It changes the given values before applying antilog in Logarithms problem 92.",
+      "antilog is the rule needed to solve this Logarithms problem 91.",
+      "It uses a diagram only and avoids the needed antilog calculation 93."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 91.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 92: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 92.",
+      "It changes the given values before applying product rule in Logarithms problem 93.",
+      "It uses a diagram only and avoids the needed product rule calculation 94.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 92."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 92.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 93: In 9th Math chapter \"Logarithms\", what is the correct approach for quotient rule?",
+    "options": [
+      "Use quotient rule step by step to reach the correct result in Logarithms question 93.",
+      "It skips the rule of quotient rule and guesses the Logarithms answer 93.",
+      "It changes the given values before applying quotient rule in Logarithms problem 94.",
+      "It uses a diagram only and avoids the needed quotient rule calculation 95."
+    ],
+    "correctAnswer": "Use quotient rule step by step to reach the correct result in Logarithms question 93.",
+    "explanation": "The correct option connects quotient rule with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 94: Which option is a valid step when using power rule in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of power rule and guesses the Logarithms answer 94.",
+      "The correct method is to apply power rule and verify each step in Logarithms item 94.",
+      "It changes the given values before applying power rule in Logarithms problem 95.",
+      "It uses a diagram only and avoids the needed power rule calculation 96."
+    ],
+    "correctAnswer": "The correct method is to apply power rule and verify each step in Logarithms item 94.",
+    "explanation": "The correct option connects power rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 95: For problems from \"Logarithms\", why is common log useful?",
+    "options": [
+      "It skips the rule of common log and guesses the Logarithms answer 95.",
+      "It changes the given values before applying common log in Logarithms problem 96.",
+      "common log is the rule needed to solve this Logarithms problem 95.",
+      "It uses a diagram only and avoids the needed common log calculation 97."
+    ],
+    "correctAnswer": "common log is the rule needed to solve this Logarithms problem 95.",
+    "explanation": "The correct option connects common log with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 96: Which statement is correct about natural log?",
+    "options": [
+      "It skips the rule of natural log and guesses the Logarithms answer 96.",
+      "It changes the given values before applying natural log in Logarithms problem 97.",
+      "It uses a diagram only and avoids the needed natural log calculation 98.",
+      "This choice correctly uses natural log to complete the Logarithms calculation 96."
+    ],
+    "correctAnswer": "This choice correctly uses natural log to complete the Logarithms calculation 96.",
+    "explanation": "The correct option connects natural log with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 97: In 9th Math chapter \"Logarithms\", what is the correct approach for logarithm?",
+    "options": [
+      "Use logarithm step by step to reach the correct result in Logarithms question 97.",
+      "It skips the rule of logarithm and guesses the Logarithms answer 97.",
+      "It changes the given values before applying logarithm in Logarithms problem 98.",
+      "It uses a diagram only and avoids the needed logarithm calculation 99."
+    ],
+    "correctAnswer": "Use logarithm step by step to reach the correct result in Logarithms question 97.",
+    "explanation": "The correct option connects logarithm with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 98: Which option is a valid step when using base in \"Logarithms\"?",
+    "options": [
+      "It skips the rule of base and guesses the Logarithms answer 98.",
+      "The correct method is to apply base and verify each step in Logarithms item 98.",
+      "It changes the given values before applying base in Logarithms problem 99.",
+      "It uses a diagram only and avoids the needed base calculation 100."
+    ],
+    "correctAnswer": "The correct method is to apply base and verify each step in Logarithms item 98.",
+    "explanation": "The correct option connects base with the main learning point of Logarithms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 99: For problems from \"Logarithms\", why is antilog useful?",
+    "options": [
+      "It skips the rule of antilog and guesses the Logarithms answer 99.",
+      "It changes the given values before applying antilog in Logarithms problem 100.",
+      "antilog is the rule needed to solve this Logarithms problem 99.",
+      "It uses a diagram only and avoids the needed antilog calculation 101."
+    ],
+    "correctAnswer": "antilog is the rule needed to solve this Logarithms problem 99.",
+    "explanation": "The correct option connects antilog with the main learning point of Logarithms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "mcq",
+    "question": "MCQ 100: Which statement is correct about product rule?",
+    "options": [
+      "It skips the rule of product rule and guesses the Logarithms answer 100.",
+      "It changes the given values before applying product rule in Logarithms problem 101.",
+      "It uses a diagram only and avoids the needed product rule calculation 102.",
+      "This choice correctly uses product rule to complete the Logarithms calculation 100."
+    ],
+    "correctAnswer": "This choice correctly uses product rule to complete the Logarithms calculation 100.",
+    "explanation": "The correct option connects product rule with the main learning point of Logarithms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 1: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 2: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 3: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 4: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 5: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 6: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 7: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 8: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 9: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 10: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 11: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 12: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 13: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 14: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 15: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 16: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 17: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 18: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 19: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 20: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 21: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 22: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 23: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 24: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 25: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 26: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 27: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 28: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 29: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 30: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 31: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 32: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 33: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 34: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 35: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 36: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 37: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 38: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 39: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 40: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 41: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 42: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 43: Mention two steps for solving a question involving antilog.",
+    "options": [],
+    "correctAnswer": "antilog is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about antilog.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 44: Give one example where product rule is applied.",
+    "options": [],
+    "correctAnswer": "product rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about product rule.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 45: Define or state quotient rule in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "quotient rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about quotient rule.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 46: Write the main rule used for power rule.",
+    "options": [],
+    "correctAnswer": "power rule is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about power rule.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 47: Mention two steps for solving a question involving common log.",
+    "options": [],
+    "correctAnswer": "common log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about common log.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 48: Give one example where natural log is applied.",
+    "options": [],
+    "correctAnswer": "natural log is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about natural log.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 49: Define or state logarithm in \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "logarithm is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about logarithm.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "short",
+    "question": "Short Question 50: Write the main rule used for base.",
+    "options": [],
+    "correctAnswer": "base is a mathematical idea in Logarithms used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about base.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 1: Solve a detailed question involving logarithm from \"Logarithms\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for logarithm, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for logarithm.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 2: Explain the method of base with a worked example from \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "State the rule for base, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for base.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 3: Prove or verify the main result related to antilog.",
+    "options": [],
+    "correctAnswer": "State the rule for antilog, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for antilog.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 4: Write a detailed solution strategy for questions based on product rule.",
+    "options": [],
+    "correctAnswer": "State the rule for product rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for product rule.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 5: Solve a detailed question involving quotient rule from \"Logarithms\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for quotient rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for quotient rule.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 6: Explain the method of power rule with a worked example from \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "State the rule for power rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for power rule.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 7: Prove or verify the main result related to common log.",
+    "options": [],
+    "correctAnswer": "State the rule for common log, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for common log.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 8: Write a detailed solution strategy for questions based on natural log.",
+    "options": [],
+    "correctAnswer": "State the rule for natural log, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for natural log.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 9: Solve a detailed question involving logarithm from \"Logarithms\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for logarithm, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for logarithm.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 10: Explain the method of base with a worked example from \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "State the rule for base, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for base.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 11: Prove or verify the main result related to antilog.",
+    "options": [],
+    "correctAnswer": "State the rule for antilog, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for antilog.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 12: Write a detailed solution strategy for questions based on product rule.",
+    "options": [],
+    "correctAnswer": "State the rule for product rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for product rule.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 13: Solve a detailed question involving quotient rule from \"Logarithms\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for quotient rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for quotient rule.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "quotient rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 14: Explain the method of power rule with a worked example from \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "State the rule for power rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for power rule.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "power rule"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 15: Prove or verify the main result related to common log.",
+    "options": [],
+    "correctAnswer": "State the rule for common log, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for common log.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "common log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 16: Write a detailed solution strategy for questions based on natural log.",
+    "options": [],
+    "correctAnswer": "State the rule for natural log, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for natural log.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "natural log"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 17: Solve a detailed question involving logarithm from \"Logarithms\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for logarithm, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for logarithm.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "logarithm"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 18: Explain the method of base with a worked example from \"Logarithms\".",
+    "options": [],
+    "correctAnswer": "State the rule for base, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for base.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "base"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 19: Prove or verify the main result related to antilog.",
+    "options": [],
+    "correctAnswer": "State the rule for antilog, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for antilog.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "antilog"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Logarithms",
+    "chapterId": "Logarithms",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed solution strategy for questions based on product rule.",
+    "options": [],
+    "correctAnswer": "State the rule for product rule, write the step-by-step method, solve using the given relation, and verify the answer according to Logarithms.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for product rule.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Logarithms",
+      "product rule"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Reports | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css" rel="stylesheet">
+  </head>
+  <body data-page="admin-reports">
+    <div class="app-shell admin-shell">
+      <aside class="sidebar"></aside>
+      <main class="main">
+        <div class="topbar admin-topbar">
+          <div class="page-title"><h1>Reports</h1><p>Export a complete platform report and inspect key charts.</p></div>
+          <div class="header-tools">
+            <button class="btn btn-outline-primary" id="downloadReportJson"><i class="bi bi-download"></i> Download JSON</button>
+            <button class="btn btn-primary" id="downloadReportPdf"><i class="bi bi-filetype-pdf"></i> Download PDF</button>
+          </div>
+        </div>
+
+        <section class="metric-grid">
+          <div class="metric-card"><span>Revenue</span><strong id="reportRevenue">PKR 0</strong></div>
+          <div class="metric-card"><span>Papers</span><strong id="reportPapers">0</strong></div>
+          <div class="metric-card"><span>Practice</span><strong id="reportPractice">0</strong></div>
+          <div class="metric-card"><span>Questions</span><strong id="reportQuestions">0</strong></div>
+        </section>
+
+        <div class="sales-grid">
+          <section class="admin-widget">
+            <div class="panel-title"><h2>Papers by Subject</h2></div>
+            <canvas id="reportSubjectChart" height="130"></canvas>
+          </section>
+          <section class="admin-widget">
+            <div class="panel-title"><h2>Practice by Subject</h2></div>
+            <canvas id="reportPracticeChart" height="130"></canvas>
+          </section>
+        </div>
+      </main>
+    </div>
+    <div id="appToast" hidden></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../assets/js/app.js"></script>
+  </body>
+</html>

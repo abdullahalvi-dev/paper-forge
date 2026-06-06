@@ -1,0 +1,3962 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 1: Which type of reaction can proceed in both forward and reverse directions?",
+    "options": [
+      "Irreversible reaction",
+      "Reversible reaction",
+      "Neutralization only",
+      "Precipitation only"
+    ],
+    "correctAnswer": "Reversible reaction",
+    "explanation": "A reversible reaction proceeds in both directions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "reversible reaction"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 2: At dynamic equilibrium, which statement is correct?",
+    "options": [
+      "Forward reaction stops",
+      "Reverse reaction stops",
+      "Both reactions continue at equal rates",
+      "Concentrations become zero"
+    ],
+    "correctAnswer": "Both reactions continue at equal rates",
+    "explanation": "Forward and reverse reactions continue at equal rates.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "dynamic equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 3: For N2 + 3H2 ⇌ 2NH3, Kc is:",
+    "options": [
+      "[N2][H2]^3/[NH3]^2",
+      "[NH3]^2/[N2][H2]^3",
+      "[NH3]/[N2][H2]",
+      "[N2][H2]/[NH3]"
+    ],
+    "correctAnswer": "[NH3]^2/[N2][H2]^3",
+    "explanation": "Products over reactants with powers as coefficients.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 4: Equilibrium is established in a closed system when:",
+    "options": [
+      "Reactants finish",
+      "Products finish",
+      "Forward and reverse rates become equal",
+      "Temperature becomes zero"
+    ],
+    "correctAnswer": "Forward and reverse rates become equal",
+    "explanation": "Equal forward and reverse rates define equilibrium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "closed system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 5: Le Chatelier's principle says an equilibrium system responds to stress by:",
+    "options": [
+      "Increasing the stress",
+      "Opposing the stress",
+      "Stopping reactions",
+      "Making Kc zero"
+    ],
+    "correctAnswer": "Opposing the stress",
+    "explanation": "The shift reduces the applied stress.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Le Chatelier principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 6: Increasing concentration of a reactant usually shifts equilibrium:",
+    "options": [
+      "Towards reactants",
+      "Towards products",
+      "No direction",
+      "Towards lower pressure"
+    ],
+    "correctAnswer": "Towards products",
+    "explanation": "Added reactant is consumed by forward reaction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 7: Increasing concentration of a product usually shifts equilibrium:",
+    "options": [
+      "Towards products",
+      "Towards reactants",
+      "Forward only",
+      "No change"
+    ],
+    "correctAnswer": "Towards reactants",
+    "explanation": "Added product is consumed by reverse reaction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "concentration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 8: A catalyst affects equilibrium by:",
+    "options": [
+      "Changing Kc",
+      "Increasing only forward rate",
+      "Increasing both forward and reverse rates",
+      "Removing products"
+    ],
+    "correctAnswer": "Increasing both forward and reverse rates",
+    "explanation": "A catalyst helps reach equilibrium faster without changing Kc.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "catalyst"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 9: The value of Kc changes only with:",
+    "options": [
+      "Concentration",
+      "Pressure",
+      "Catalyst",
+      "Temperature"
+    ],
+    "correctAnswer": "Temperature",
+    "explanation": "For a given reaction, equilibrium constant depends on temperature.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 10: For an exothermic reaction, increasing temperature shifts equilibrium:",
+    "options": [
+      "Towards products",
+      "Towards reactants",
+      "No shift",
+      "Towards more moles only"
+    ],
+    "correctAnswer": "Towards reactants",
+    "explanation": "Heat is treated as product, so adding heat shifts backward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 11: For an endothermic reaction, increasing temperature shifts equilibrium:",
+    "options": [
+      "Towards products",
+      "Towards reactants",
+      "No shift",
+      "Always left"
+    ],
+    "correctAnswer": "Towards products",
+    "explanation": "Heat is treated as reactant, so adding heat shifts forward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 12: Increasing pressure in a gaseous equilibrium favors the side with:",
+    "options": [
+      "More gas moles",
+      "Fewer gas moles",
+      "More solids",
+      "More liquids"
+    ],
+    "correctAnswer": "Fewer gas moles",
+    "explanation": "High pressure favors fewer gaseous moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 13: For N2 + 3H2 ⇌ 2NH3, increasing pressure shifts equilibrium:",
+    "options": [
+      "Left",
+      "Right",
+      "No shift",
+      "Towards H2 only"
+    ],
+    "correctAnswer": "Right",
+    "explanation": "The product side has fewer gas moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 14: For H2 + I2 ⇌ 2HI, pressure has little effect because:",
+    "options": [
+      "All are solids",
+      "Gas moles are equal on both sides",
+      "HI is insoluble",
+      "Reaction is irreversible"
+    ],
+    "correctAnswer": "Gas moles are equal on both sides",
+    "explanation": "There are two gaseous moles on each side.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 15: A very large Kc means equilibrium mixture contains mostly:",
+    "options": [
+      "Reactants",
+      "Products",
+      "Catalyst",
+      "Solvent"
+    ],
+    "correctAnswer": "Products",
+    "explanation": "Large Kc favors products.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 16: A very small Kc means equilibrium mixture contains mostly:",
+    "options": [
+      "Products",
+      "Reactants",
+      "Only ions",
+      "No molecules"
+    ],
+    "correctAnswer": "Reactants",
+    "explanation": "Small Kc favors reactants.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 17: For aA + bB ⇌ cC + dD, Kc is:",
+    "options": [
+      "[A]^a[B]^b/[C]^c[D]^d",
+      "[C]^c[D]^d/[A]^a[B]^b",
+      "[A+B]/[C+D]",
+      "[C][D][A][B]"
+    ],
+    "correctAnswer": "[C]^c[D]^d/[A]^a[B]^b",
+    "explanation": "Products over reactants with powers as coefficients.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 18: Pure solids are omitted from Kc expressions because their concentration is:",
+    "options": [
+      "Zero",
+      "Constant",
+      "Infinite",
+      "Negative"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Pure solid concentration/activity is constant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 19: Pure liquids are usually omitted from Kc expressions because their concentration is:",
+    "options": [
+      "Variable",
+      "Constant",
+      "Zero",
+      "Equal to pressure"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Pure liquid concentration is treated as constant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kc expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 20: Kc for H2 + I2 ⇌ 2HI has:",
+    "options": [
+      "mol dm^-3 unit",
+      "dm^3 mol^-1 unit",
+      "No unit",
+      "mol^2 dm^-6 unit"
+    ],
+    "correctAnswer": "No unit",
+    "explanation": "Concentration powers cancel.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "units of Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 21: The relation between Kp and Kc is:",
+    "options": [
+      "Kp = Kc(RT)^Δn",
+      "Kc = Kp(RT)^Δn",
+      "Kp = Kc + RT",
+      "Kp = Kc/Δn"
+    ],
+    "correctAnswer": "Kp = Kc(RT)^Δn",
+    "explanation": "This is the standard relation for gaseous equilibria.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 22: In Kp = Kc(RT)^Δn, Δn is:",
+    "options": [
+      "Liquid product moles",
+      "Gaseous product moles minus gaseous reactant moles",
+      "Total mass",
+      "Temperature difference"
+    ],
+    "correctAnswer": "Gaseous product moles minus gaseous reactant moles",
+    "explanation": "Only gaseous stoichiometric coefficients are used.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 23: For N2 + 3H2 ⇌ 2NH3, Δn is:",
+    "options": [
+      "+2",
+      "-2",
+      "+4",
+      "0"
+    ],
+    "correctAnswer": "-2",
+    "explanation": "Δn = 2 - 4 = -2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 24: If Qc < Kc, reaction proceeds:",
+    "options": [
+      "Reverse",
+      "Forward",
+      "At equilibrium",
+      "No reaction"
+    ],
+    "correctAnswer": "Forward",
+    "explanation": "More products must form to reach Kc.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "reaction quotient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 25: If Qc > Kc, reaction proceeds:",
+    "options": [
+      "Forward",
+      "Reverse",
+      "At equilibrium",
+      "Only with catalyst"
+    ],
+    "correctAnswer": "Reverse",
+    "explanation": "Products convert to reactants to reduce Qc.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "reaction quotient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 26: If Qc = Kc, the system is:",
+    "options": [
+      "At equilibrium",
+      "Irreversible",
+      "Completed",
+      "Without products"
+    ],
+    "correctAnswer": "At equilibrium",
+    "explanation": "Qc equals Kc at equilibrium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "reaction quotient"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 27: A homogeneous equilibrium has all substances:",
+    "options": [
+      "In same phase",
+      "In different phases",
+      "Only solids",
+      "Only liquids"
+    ],
+    "correctAnswer": "In same phase",
+    "explanation": "Homogeneous means one phase.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "homogeneous equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 28: A heterogeneous equilibrium has substances:",
+    "options": [
+      "In same phase",
+      "In different phases",
+      "Only gases",
+      "Only aqueous ions"
+    ],
+    "correctAnswer": "In different phases",
+    "explanation": "Heterogeneous means more than one phase.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "heterogeneous equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 29: Which is heterogeneous equilibrium?",
+    "options": [
+      "H2+I2⇌2HI",
+      "CaCO3(s)⇌CaO(s)+CO2(g)",
+      "N2+3H2⇌2NH3",
+      "2SO2+O2⇌2SO3"
+    ],
+    "correctAnswer": "CaCO3(s)⇌CaO(s)+CO2(g)",
+    "explanation": "It contains solid and gas phases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "heterogeneous equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 30: The Haber process manufactures:",
+    "options": [
+      "Sulfuric acid",
+      "Ammonia",
+      "Sodium carbonate",
+      "Methanol only"
+    ],
+    "correctAnswer": "Ammonia",
+    "explanation": "Haber process produces ammonia.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Haber process"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 31: Catalyst used in Haber process is:",
+    "options": [
+      "Nickel",
+      "Iron",
+      "V2O5",
+      "Platinum"
+    ],
+    "correctAnswer": "Iron",
+    "explanation": "Finely divided iron is used.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Haber process"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 32: Catalyst used in Contact process is:",
+    "options": [
+      "Iron",
+      "Nickel",
+      "V2O5",
+      "MnO2"
+    ],
+    "correctAnswer": "V2O5",
+    "explanation": "Vanadium(V) oxide catalyzes SO2 oxidation.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Contact process"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 33: For 2SO2 + O2 ⇌ 2SO3, increasing pressure shifts equilibrium:",
+    "options": [
+      "Left",
+      "Right",
+      "No shift",
+      "Towards O2"
+    ],
+    "correctAnswer": "Right",
+    "explanation": "Product side has fewer gas moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Contact process"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 34: Common ion effect usually causes ionization of a weak electrolyte to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Become explosive",
+      "Become irreversible"
+    ],
+    "correctAnswer": "Decrease",
+    "explanation": "Common ion shifts ionization backward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "common ion effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 35: Adding CH3COONa to CH3COOH decreases ionization due to:",
+    "options": [
+      "Catalysis",
+      "Common ion effect",
+      "Oxidation",
+      "Hydrolysis only"
+    ],
+    "correctAnswer": "Common ion effect",
+    "explanation": "Acetate ion is common.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "common ion effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 36: pH of neutral water at 25°C is:",
+    "options": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Neutral water has pH 7 at 25°C.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 37: A solution with pH less than 7 is:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "Saturated"
+    ],
+    "correctAnswer": "Acidic",
+    "explanation": "Low pH indicates acidic solution.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 38: A solution with pH greater than 7 is:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "No ions"
+    ],
+    "correctAnswer": "Basic",
+    "explanation": "High pH indicates basic solution.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 39: pH is defined as:",
+    "options": [
+      "log[H+]",
+      "-log[H+]",
+      "[H+][OH-]",
+      "1/[OH-]"
+    ],
+    "correctAnswer": "-log[H+]",
+    "explanation": "pH is negative logarithm of hydrogen ion concentration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 40: If [H+] = 1×10^-3 M, pH is:",
+    "options": [
+      "3",
+      "7",
+      "11",
+      "-3"
+    ],
+    "correctAnswer": "3",
+    "explanation": "pH = -log(10^-3) = 3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 41: Ionic product of water at 25°C is:",
+    "options": [
+      "1×10^-7",
+      "1×10^-14",
+      "1×10^14",
+      "7"
+    ],
+    "correctAnswer": "1×10^-14",
+    "explanation": "Kw = [H+][OH-] = 10^-14.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kw"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 42: Buffer solutions resist change in:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "pH",
+      "Mass"
+    ],
+    "correctAnswer": "pH",
+    "explanation": "Buffers resist pH changes.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "buffer"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 43: An acidic buffer contains:",
+    "options": [
+      "Weak acid and its salt",
+      "Strong acid only",
+      "Strong base only",
+      "Neutral salt only"
+    ],
+    "correctAnswer": "Weak acid and its salt",
+    "explanation": "Acidic buffer uses weak acid and conjugate base salt.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "buffer"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 44: A basic buffer contains:",
+    "options": [
+      "Weak base and its salt",
+      "Strong acid only",
+      "Strong base only",
+      "Water only"
+    ],
+    "correctAnswer": "Weak base and its salt",
+    "explanation": "Basic buffer uses weak base and conjugate acid salt.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "buffer"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 45: Solubility product is represented by:",
+    "options": [
+      "Ka",
+      "Kb",
+      "Ksp",
+      "Kw"
+    ],
+    "correctAnswer": "Ksp",
+    "explanation": "Ksp is solubility product constant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ksp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 46: For AgCl(s) ⇌ Ag+ + Cl-, Ksp is:",
+    "options": [
+      "[Ag+][Cl-]",
+      "[AgCl]/[Ag+][Cl-]",
+      "[Ag+]+[Cl-]",
+      "[Ag+]/[Cl-]"
+    ],
+    "correctAnswer": "[Ag+][Cl-]",
+    "explanation": "Solid AgCl is omitted.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ksp expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 47: Precipitation occurs when ionic product is:",
+    "options": [
+      "Less than Ksp",
+      "Equal to Ksp",
+      "Greater than Ksp",
+      "Zero"
+    ],
+    "correctAnswer": "Greater than Ksp",
+    "explanation": "Exceeding Ksp causes precipitation.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "precipitation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 48: For CaF2(s) ⇌ Ca2+ + 2F-, Ksp is:",
+    "options": [
+      "[Ca2+][F-]",
+      "[Ca2+][F-]^2",
+      "[CaF2]/[Ca2+][F-]^2",
+      "[Ca2+]^2[F-]"
+    ],
+    "correctAnswer": "[Ca2+][F-]^2",
+    "explanation": "Fluoride concentration is squared.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ksp expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 49: Acid ionization constant is:",
+    "options": [
+      "Ka",
+      "Kb",
+      "Ksp",
+      "Kp"
+    ],
+    "correctAnswer": "Ka",
+    "explanation": "Ka measures weak acid ionization.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ka"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 50: Base ionization constant is:",
+    "options": [
+      "Ka",
+      "Kb",
+      "Ksp",
+      "Kw"
+    ],
+    "correctAnswer": "Kb",
+    "explanation": "Kb measures weak base ionization.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kb"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 51: A strong electrolyte in water is:",
+    "options": [
+      "Completely ionized",
+      "Partially ionized",
+      "Not ionized",
+      "Always insoluble"
+    ],
+    "correctAnswer": "Completely ionized",
+    "explanation": "Strong electrolytes dissociate almost completely.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "electrolyte"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 52: A weak electrolyte in water is:",
+    "options": [
+      "Completely ionized",
+      "Partially ionized",
+      "Always unionized",
+      "Always solid"
+    ],
+    "correctAnswer": "Partially ionized",
+    "explanation": "Weak electrolytes ionize partially and establish equilibrium.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "electrolyte"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 53: Bronsted-Lowry acid is a:",
+    "options": [
+      "Proton donor",
+      "Proton acceptor",
+      "Electron donor only",
+      "Salt only"
+    ],
+    "correctAnswer": "Proton donor",
+    "explanation": "Bronsted acids donate protons.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "acid-base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 54: Bronsted-Lowry base is a:",
+    "options": [
+      "Proton donor",
+      "Proton acceptor",
+      "Electron acceptor only",
+      "Gas only"
+    ],
+    "correctAnswer": "Proton acceptor",
+    "explanation": "Bronsted bases accept protons.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "acid-base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 55: The conjugate base of HCl is:",
+    "options": [
+      "H+",
+      "Cl-",
+      "OH-",
+      "H2O"
+    ],
+    "correctAnswer": "Cl-",
+    "explanation": "After donating H+, HCl becomes Cl-.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "conjugate base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 56: The conjugate acid of NH3 is:",
+    "options": [
+      "NH2-",
+      "NH4+",
+      "N2",
+      "NO3-"
+    ],
+    "correctAnswer": "NH4+",
+    "explanation": "NH3 accepts H+ to form NH4+.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "conjugate acid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 57: In HCl + H2O → H3O+ + Cl-, water acts as:",
+    "options": [
+      "Acid",
+      "Base",
+      "Catalyst",
+      "Salt"
+    ],
+    "correctAnswer": "Base",
+    "explanation": "Water accepts a proton from HCl.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "acid-base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 58: In NH3 + H2O ⇌ NH4+ + OH-, NH3 acts as:",
+    "options": [
+      "Acid",
+      "Base",
+      "Salt",
+      "Oxidant"
+    ],
+    "correctAnswer": "Base",
+    "explanation": "NH3 accepts a proton from water.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "acid-base"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 59: At 25°C, pH + pOH equals:",
+    "options": [
+      "7",
+      "10",
+      "14",
+      "1"
+    ],
+    "correctAnswer": "14",
+    "explanation": "For water at 25°C, pH + pOH = 14.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH and pOH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 60: If pOH = 4 at 25°C, pH is:",
+    "options": [
+      "4",
+      "7",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "10",
+    "explanation": "pH = 14 - pOH = 10.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pOH calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 61: If pH = 9 at 25°C, pOH is:",
+    "options": [
+      "5",
+      "9",
+      "14",
+      "1"
+    ],
+    "correctAnswer": "5",
+    "explanation": "pOH = 14 - pH = 5.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pOH calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 62: If pH increases by 1 unit, [H+] becomes:",
+    "options": [
+      "10 times larger",
+      "10 times smaller",
+      "2 times larger",
+      "unchanged"
+    ],
+    "correctAnswer": "10 times smaller",
+    "explanation": "pH scale is logarithmic.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 63: For HA ⇌ H+ + A-, Ka is:",
+    "options": [
+      "[HA]/[H+][A-]",
+      "[H+][A-]/[HA]",
+      "[H+]+[A-]",
+      "[HA][H+]"
+    ],
+    "correctAnswer": "[H+][A-]/[HA]",
+    "explanation": "Ka is products over reactant for acid ionization.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ka expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 64: For BOH ⇌ B+ + OH-, Kb is:",
+    "options": [
+      "[B+][OH-]/[BOH]",
+      "[BOH]/[B+][OH-]",
+      "[B+]+[OH-]",
+      "[OH-]/[B+]"
+    ],
+    "correctAnswer": "[B+][OH-]/[BOH]",
+    "explanation": "Kb is ion product over unionized base.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kb expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 65: Higher Ka means the acid is:",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Neutral",
+      "Insoluble"
+    ],
+    "correctAnswer": "Stronger",
+    "explanation": "Larger Ka indicates greater acid ionization.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ka"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 66: Higher Kb means the base is:",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Neutral",
+      "A salt"
+    ],
+    "correctAnswer": "Stronger",
+    "explanation": "Larger Kb indicates greater base ionization.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kb"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 67: A saturated solution has ionic product:",
+    "options": [
+      "Less than Ksp",
+      "Equal to Ksp",
+      "Greater than Ksp",
+      "Zero"
+    ],
+    "correctAnswer": "Equal to Ksp",
+    "explanation": "At saturation equilibrium, ionic product equals Ksp.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ksp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 68: If ionic product is less than Ksp, solution is:",
+    "options": [
+      "Unsaturated",
+      "Saturated",
+      "Supersaturated",
+      "Precipitated"
+    ],
+    "correctAnswer": "Unsaturated",
+    "explanation": "No precipitate forms below Ksp.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Ksp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 69: Adding NaCl to AgCl equilibrium adds common ion:",
+    "options": [
+      "Na+",
+      "Cl-",
+      "Ag+",
+      "OH-"
+    ],
+    "correctAnswer": "Cl-",
+    "explanation": "Chloride is common to AgCl dissociation.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "common ion effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 70: Adding a common ion to a sparingly soluble salt generally:",
+    "options": [
+      "Increases solubility",
+      "Decreases solubility",
+      "Makes Ksp zero",
+      "Removes equilibrium"
+    ],
+    "correctAnswer": "Decreases solubility",
+    "explanation": "Common ion shifts dissolution backward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "common ion effect"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 71: For PCl5(g) ⇌ PCl3(g)+Cl2(g), increasing pressure shifts:",
+    "options": [
+      "Right",
+      "Left",
+      "No effect",
+      "Towards Cl2"
+    ],
+    "correctAnswer": "Left",
+    "explanation": "Left has fewer gas moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 72: For PCl5(g) ⇌ PCl3(g)+Cl2(g), decreasing pressure shifts:",
+    "options": [
+      "Left",
+      "Right",
+      "No effect",
+      "Towards solid"
+    ],
+    "correctAnswer": "Right",
+    "explanation": "Right has more gas moles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 73: For CaCO3(s) ⇌ CaO(s)+CO2(g), Kp equals:",
+    "options": [
+      "P(CO2)",
+      "P(CaO)P(CO2)",
+      "P(CaCO3)/P(CO2)",
+      "1/P(CO2)"
+    ],
+    "correctAnswer": "P(CO2)",
+    "explanation": "Pure solids are omitted.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp expression"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 74: If a reaction equation is reversed, new K is:",
+    "options": [
+      "K",
+      "1/K",
+      "K^2",
+      "2K"
+    ],
+    "correctAnswer": "1/K",
+    "explanation": "Reversing a reaction reciprocates K.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 75: If a reaction equation is doubled, new K is:",
+    "options": [
+      "2K",
+      "K/2",
+      "K^2",
+      "1/K"
+    ],
+    "correctAnswer": "K^2",
+    "explanation": "Multiplying coefficients by 2 squares K.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 76: If two reactions are added, their K values are:",
+    "options": [
+      "Added",
+      "Subtracted",
+      "Multiplied",
+      "Divided"
+    ],
+    "correctAnswer": "Multiplied",
+    "explanation": "Overall K is product of individual K values.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 77: Square brackets [ ] in Kc expression show:",
+    "options": [
+      "Mass",
+      "Molar concentration",
+      "Pressure only",
+      "Temperature"
+    ],
+    "correctAnswer": "Molar concentration",
+    "explanation": "Kc uses molar concentrations.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "notation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 78: Kp uses:",
+    "options": [
+      "Masses",
+      "Partial pressures",
+      "Only molarities",
+      "Densities"
+    ],
+    "correctAnswer": "Partial pressures",
+    "explanation": "Kp is written in terms of gas partial pressures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 79: At equilibrium, concentrations are:",
+    "options": [
+      "Always equal",
+      "Constant but not necessarily equal",
+      "Always zero",
+      "Always increasing"
+    ],
+    "correctAnswer": "Constant but not necessarily equal",
+    "explanation": "Equal rates do not require equal concentrations.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "equilibrium concentration"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 80: Removing a product shifts equilibrium:",
+    "options": [
+      "Backward",
+      "Forward",
+      "No shift",
+      "Stops reaction"
+    ],
+    "correctAnswer": "Forward",
+    "explanation": "System forms more product to oppose removal.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Le Chatelier principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 81: Adding a product shifts equilibrium:",
+    "options": [
+      "Forward",
+      "Backward",
+      "No shift",
+      "Only changes Kc"
+    ],
+    "correctAnswer": "Backward",
+    "explanation": "System consumes the added product.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Le Chatelier principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 82: Adding a reactant shifts equilibrium:",
+    "options": [
+      "Forward",
+      "Backward",
+      "No shift",
+      "Stops reaction"
+    ],
+    "correctAnswer": "Forward",
+    "explanation": "System consumes the added reactant.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Le Chatelier principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 83: Decreasing temperature for an exothermic reaction shifts:",
+    "options": [
+      "Products",
+      "Reactants",
+      "No shift",
+      "More gas moles"
+    ],
+    "correctAnswer": "Products",
+    "explanation": "Removing heat favors heat-producing direction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 84: Decreasing temperature for an endothermic reaction shifts:",
+    "options": [
+      "Products",
+      "Reactants",
+      "No shift",
+      "Less gas moles"
+    ],
+    "correctAnswer": "Reactants",
+    "explanation": "Heat is a reactant, so removing it shifts backward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "temperature"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 85: Adding inert gas at constant volume generally:",
+    "options": [
+      "Shifts right",
+      "Shifts left",
+      "Does not shift equilibrium",
+      "Changes Kc"
+    ],
+    "correctAnswer": "Does not shift equilibrium",
+    "explanation": "Partial pressures of reactants do not change at constant volume.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "inert gas"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 86: Initially, if no product is present, reverse reaction rate is:",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Equal to forward",
+      "Infinite"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "No product exists initially for reverse reaction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 87: At start of reaction, forward rate is usually:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Negative",
+      "Equal to Kc"
+    ],
+    "correctAnswer": "Maximum",
+    "explanation": "Reactant concentration is greatest at the start.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 88: As equilibrium approaches, forward rate:",
+    "options": [
+      "Increases forever",
+      "Decreases until equal to reverse rate",
+      "Becomes negative",
+      "Becomes Ksp"
+    ],
+    "correctAnswer": "Decreases until equal to reverse rate",
+    "explanation": "Reactants decrease as reaction proceeds.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 89: At equilibrium, molecular reactions:",
+    "options": [
+      "Stop completely",
+      "Continue both ways",
+      "Only go forward",
+      "Only go backward"
+    ],
+    "correctAnswer": "Continue both ways",
+    "explanation": "Equilibrium is dynamic.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "dynamic equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 90: A closed system is necessary for equilibrium because:",
+    "options": [
+      "Matter must not escape",
+      "Temperature must be zero",
+      "Catalyst must be absent",
+      "Pressure must be zero"
+    ],
+    "correctAnswer": "Matter must not escape",
+    "explanation": "Closed systems allow forward and reverse processes to balance.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "closed system"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 91: For 2SO2 + O2 ⇌ 2SO3, Δn is:",
+    "options": [
+      "+1",
+      "-1",
+      "0",
+      "+3"
+    ],
+    "correctAnswer": "-1",
+    "explanation": "Δn = 2 - 3 = -1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 92: For H2 + I2 ⇌ 2HI, Δn is:",
+    "options": [
+      "0",
+      "+1",
+      "-1",
+      "+2"
+    ],
+    "correctAnswer": "0",
+    "explanation": "Δn = 2 - 2 = 0.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 93: For A ⇌ B, Kc unit is:",
+    "options": [
+      "No unit",
+      "mol dm^-3",
+      "dm^3 mol^-1",
+      "mol^2 dm^-6"
+    ],
+    "correctAnswer": "No unit",
+    "explanation": "Concentration units cancel.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "units of Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 94: For A ⇌ 2B, Kc unit is:",
+    "options": [
+      "mol dm^-3",
+      "dm^3 mol^-1",
+      "No unit",
+      "mol^-2 dm^6"
+    ],
+    "correctAnswer": "mol dm^-3",
+    "explanation": "[B]^2/[A] gives mol dm^-3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "units of Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 95: For 2A ⇌ B, Kc unit is:",
+    "options": [
+      "mol dm^-3",
+      "dm^3 mol^-1",
+      "No unit",
+      "mol^2 dm^-6"
+    ],
+    "correctAnswer": "dm^3 mol^-1",
+    "explanation": "[B]/[A]^2 gives dm^3 mol^-1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "units of Kc"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 96: If [H+] = 1×10^-2 M, pH is:",
+    "options": [
+      "2",
+      "7",
+      "12",
+      "-2"
+    ],
+    "correctAnswer": "2",
+    "explanation": "pH = -log(10^-2) = 2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 97: If pH = 3, [H+] is:",
+    "options": [
+      "1×10^-3 M",
+      "3 M",
+      "1×10^3 M",
+      "1×10^-11 M"
+    ],
+    "correctAnswer": "1×10^-3 M",
+    "explanation": "[H+] = 10^-pH.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "pH calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 98: At 25°C, if [H+] = 1×10^-5 M, [OH-] is:",
+    "options": [
+      "1×10^-9 M",
+      "1×10^-5 M",
+      "1×10^9 M",
+      "1×10^-14 M"
+    ],
+    "correctAnswer": "1×10^-9 M",
+    "explanation": "[OH-] = Kw/[H+] = 10^-14/10^-5.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kw calculation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 99: A neutral solution at 25°C has [H+] equal to:",
+    "options": [
+      "1×10^-7 M",
+      "1×10^-14 M",
+      "7 M",
+      "1 M"
+    ],
+    "correctAnswer": "1×10^-7 M",
+    "explanation": "Neutral water has equal H+ and OH- of 10^-7 M.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "Kw"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "mcq",
+    "question": "MCQ 100: Litmus in acidic solution turns:",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Colorless always"
+    ],
+    "correctAnswer": "Red",
+    "explanation": "Acids turn blue litmus red.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium",
+      "indicator"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 1: Define chemical equilibrium.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 2: What is dynamic equilibrium?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 3: Differentiate between reversible and irreversible reactions.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 4: Write the law of mass action.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 5: Define equilibrium constant Kc.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 6: Write Kc expression for N2 + 3H2 ⇌ 2NH3.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 7: What is Le Chatelier's principle?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 8: How does concentration affect equilibrium position?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 9: How does temperature affect an exothermic equilibrium?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 10: How does temperature affect an endothermic equilibrium?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 11: What is the effect of pressure on gaseous equilibrium?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 12: Why does a catalyst not change Kc?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 13: What is a homogeneous equilibrium?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 14: What is a heterogeneous equilibrium?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 15: Why are pure solids omitted from Kc expressions?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 16: Why are pure liquids omitted from Kc expressions?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 17: Define reaction quotient Qc.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 18: What happens when Qc is less than Kc?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 19: What happens when Qc is greater than Kc?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 20: Write the relation between Kp and Kc.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 21: What is meant by Δn in Kp = Kc(RT)^Δn?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 22: Define pH.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 23: What is the pH of neutral water at 25°C?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 24: Define pOH.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 25: State the relation between pH and pOH at 25°C.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 26: What is Kw?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 27: Write the value of Kw at 25°C.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 28: Define acid according to Bronsted-Lowry theory.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 29: Define base according to Bronsted-Lowry theory.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 30: What is a conjugate acid-base pair?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 31: Define common ion effect.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 32: Give one example of common ion effect.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 33: What is a buffer solution?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 34: What is an acidic buffer?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 35: What is a basic buffer?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 36: Define solubility product Ksp.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 37: Write Ksp expression for AgCl.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 38: Write Ksp expression for CaF2.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 39: When does precipitation occur according to Ksp?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 40: What is ionic product?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 41: What is a saturated solution?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 42: What is the Haber process?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 43: Name the catalyst used in the Haber process.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 44: What is the Contact process?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 45: Name the catalyst used in the Contact process.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 46: Why is high pressure used in ammonia synthesis?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 47: Why is a moderate temperature used in the Haber process?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 48: How does removing a product affect equilibrium?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 49: What is the effect of adding an inert gas at constant volume?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "short",
+    "question": "Short Question 50: Why are equilibrium concentrations not necessarily equal?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 1: Explain chemical equilibrium and dynamic equilibrium with suitable examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 2: State and explain the law of mass action. Derive Kc expression for a general reaction.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 3: Discuss Le Chatelier's principle with the effects of concentration, pressure, and temperature.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 4: Explain the effect of temperature on exothermic and endothermic equilibrium reactions with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 5: Describe the Haber process for ammonia synthesis using equilibrium principles.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 6: Describe the Contact process and explain the equilibrium conditions used for SO3 formation.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 7: Differentiate between homogeneous and heterogeneous equilibria with examples and Kc/Kp expressions.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 8: Explain the relationship between Kp and Kc. Calculate Δn for common gaseous reactions.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 9: Explain reaction quotient Qc and its use in predicting the direction of reaction.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 10: Discuss the role of catalyst in reversible reactions and equilibrium systems.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 11: Explain pH, pOH, and ionic product of water with numerical examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 12: Describe Bronsted-Lowry acids and bases with conjugate acid-base pairs.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 13: Explain common ion effect with examples involving weak acids and sparingly soluble salts.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 14: Define buffer solution. Explain acidic and basic buffers with examples.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 15: Explain solubility product Ksp and its applications in precipitation reactions.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 16: Derive Ksp expressions for AgCl, PbCl2, and CaF2 and explain their significance.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 17: Explain how pressure changes affect gaseous equilibria using N2 + 3H2 ⇌ 2NH3 and PCl5 ⇌ PCl3 + Cl2.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 18: Discuss the industrial importance of chemical equilibrium in manufacturing processes.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 19: Explain why equilibrium constant changes with temperature but not with catalyst or concentration.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapterId": "Chemical Equilibrium",
+    "type": "long",
+    "question": "Long Question 20: Compare strong and weak electrolytes using ionization equilibrium and equilibrium constants.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Equilibrium"
+    ]
+  }
+]

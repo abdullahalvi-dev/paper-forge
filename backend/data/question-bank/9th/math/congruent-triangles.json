@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 1: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 1.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 1.",
+      "It changes the given values before applying sine in Congruent Triangles problem 2.",
+      "It uses a diagram only and avoids the needed sine calculation 3."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 1.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 2: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 2.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 2.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 3.",
+      "It uses a diagram only and avoids the needed cosine calculation 4."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 2.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 3: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 3.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 4.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 3.",
+      "It uses a diagram only and avoids the needed tangent calculation 5."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 3.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 4: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 4.",
+      "It changes the given values before applying angle in Congruent Triangles problem 5.",
+      "It uses a diagram only and avoids the needed angle calculation 6.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 4."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 4.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 5: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 5.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 5.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 6.",
+      "It uses a diagram only and avoids the needed right triangle calculation 7."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 5.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 6: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 6.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 6.",
+      "It changes the given values before applying identity in Congruent Triangles problem 7.",
+      "It uses a diagram only and avoids the needed identity calculation 8."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 6.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 7: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 7.",
+      "It changes the given values before applying projection in Congruent Triangles problem 8.",
+      "projection is the rule needed to solve this Congruent Triangles problem 7.",
+      "It uses a diagram only and avoids the needed projection calculation 9."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 7.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 8: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 8.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 9.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 10.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 8."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 8.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 9: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 9.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 9.",
+      "It changes the given values before applying sine in Congruent Triangles problem 10.",
+      "It uses a diagram only and avoids the needed sine calculation 11."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 9.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 10: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 10.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 10.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 11.",
+      "It uses a diagram only and avoids the needed cosine calculation 12."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 10.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 11: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 11.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 12.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 11.",
+      "It uses a diagram only and avoids the needed tangent calculation 13."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 11.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 12: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 12.",
+      "It changes the given values before applying angle in Congruent Triangles problem 13.",
+      "It uses a diagram only and avoids the needed angle calculation 14.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 12."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 12.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 13: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 13.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 13.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 14.",
+      "It uses a diagram only and avoids the needed right triangle calculation 15."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 13.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 14: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 14.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 14.",
+      "It changes the given values before applying identity in Congruent Triangles problem 15.",
+      "It uses a diagram only and avoids the needed identity calculation 16."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 14.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 15: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 15.",
+      "It changes the given values before applying projection in Congruent Triangles problem 16.",
+      "projection is the rule needed to solve this Congruent Triangles problem 15.",
+      "It uses a diagram only and avoids the needed projection calculation 17."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 15.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 16: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 16.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 17.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 18.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 16."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 16.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 17: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 17.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 17.",
+      "It changes the given values before applying sine in Congruent Triangles problem 18.",
+      "It uses a diagram only and avoids the needed sine calculation 19."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 17.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 18: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 18.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 18.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 19.",
+      "It uses a diagram only and avoids the needed cosine calculation 20."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 18.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 19: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 19.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 20.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 19.",
+      "It uses a diagram only and avoids the needed tangent calculation 21."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 19.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 20: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 20.",
+      "It changes the given values before applying angle in Congruent Triangles problem 21.",
+      "It uses a diagram only and avoids the needed angle calculation 22.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 20."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 20.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 21: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 21.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 21.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 22.",
+      "It uses a diagram only and avoids the needed right triangle calculation 23."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 21.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 22: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 22.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 22.",
+      "It changes the given values before applying identity in Congruent Triangles problem 23.",
+      "It uses a diagram only and avoids the needed identity calculation 24."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 22.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 23: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 23.",
+      "It changes the given values before applying projection in Congruent Triangles problem 24.",
+      "projection is the rule needed to solve this Congruent Triangles problem 23.",
+      "It uses a diagram only and avoids the needed projection calculation 25."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 23.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 24: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 24.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 25.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 26.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 24."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 24.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 25: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 25.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 25.",
+      "It changes the given values before applying sine in Congruent Triangles problem 26.",
+      "It uses a diagram only and avoids the needed sine calculation 27."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 25.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 26: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 26.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 26.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 27.",
+      "It uses a diagram only and avoids the needed cosine calculation 28."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 26.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 27: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 27.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 28.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 27.",
+      "It uses a diagram only and avoids the needed tangent calculation 29."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 27.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 28: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 28.",
+      "It changes the given values before applying angle in Congruent Triangles problem 29.",
+      "It uses a diagram only and avoids the needed angle calculation 30.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 28."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 28.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 29: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 29.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 29.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 30.",
+      "It uses a diagram only and avoids the needed right triangle calculation 31."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 29.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 30: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 30.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 30.",
+      "It changes the given values before applying identity in Congruent Triangles problem 31.",
+      "It uses a diagram only and avoids the needed identity calculation 32."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 30.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 31: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 31.",
+      "It changes the given values before applying projection in Congruent Triangles problem 32.",
+      "projection is the rule needed to solve this Congruent Triangles problem 31.",
+      "It uses a diagram only and avoids the needed projection calculation 33."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 31.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 32: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 32.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 33.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 34.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 32."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 32.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 33: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 33.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 33.",
+      "It changes the given values before applying sine in Congruent Triangles problem 34.",
+      "It uses a diagram only and avoids the needed sine calculation 35."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 33.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 34: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 34.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 34.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 35.",
+      "It uses a diagram only and avoids the needed cosine calculation 36."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 34.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 35: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 35.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 36.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 35.",
+      "It uses a diagram only and avoids the needed tangent calculation 37."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 35.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 36: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 36.",
+      "It changes the given values before applying angle in Congruent Triangles problem 37.",
+      "It uses a diagram only and avoids the needed angle calculation 38.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 36."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 36.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 37: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 37.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 37.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 38.",
+      "It uses a diagram only and avoids the needed right triangle calculation 39."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 37.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 38: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 38.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 38.",
+      "It changes the given values before applying identity in Congruent Triangles problem 39.",
+      "It uses a diagram only and avoids the needed identity calculation 40."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 38.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 39: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 39.",
+      "It changes the given values before applying projection in Congruent Triangles problem 40.",
+      "projection is the rule needed to solve this Congruent Triangles problem 39.",
+      "It uses a diagram only and avoids the needed projection calculation 41."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 39.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 40: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 40.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 41.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 42.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 40."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 40.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 41: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 41.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 41.",
+      "It changes the given values before applying sine in Congruent Triangles problem 42.",
+      "It uses a diagram only and avoids the needed sine calculation 43."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 41.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 42: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 42.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 42.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 43.",
+      "It uses a diagram only and avoids the needed cosine calculation 44."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 42.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 43: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 43.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 44.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 43.",
+      "It uses a diagram only and avoids the needed tangent calculation 45."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 43.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 44: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 44.",
+      "It changes the given values before applying angle in Congruent Triangles problem 45.",
+      "It uses a diagram only and avoids the needed angle calculation 46.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 44."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 44.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 45: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 45.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 45.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 46.",
+      "It uses a diagram only and avoids the needed right triangle calculation 47."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 45.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 46: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 46.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 46.",
+      "It changes the given values before applying identity in Congruent Triangles problem 47.",
+      "It uses a diagram only and avoids the needed identity calculation 48."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 46.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 47: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 47.",
+      "It changes the given values before applying projection in Congruent Triangles problem 48.",
+      "projection is the rule needed to solve this Congruent Triangles problem 47.",
+      "It uses a diagram only and avoids the needed projection calculation 49."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 47.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 48: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 48.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 49.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 50.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 48."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 48.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 49: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 49.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 49.",
+      "It changes the given values before applying sine in Congruent Triangles problem 50.",
+      "It uses a diagram only and avoids the needed sine calculation 51."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 49.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 50: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 50.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 50.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 51.",
+      "It uses a diagram only and avoids the needed cosine calculation 52."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 50.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 51: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 51.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 52.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 51.",
+      "It uses a diagram only and avoids the needed tangent calculation 53."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 51.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 52: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 52.",
+      "It changes the given values before applying angle in Congruent Triangles problem 53.",
+      "It uses a diagram only and avoids the needed angle calculation 54.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 52."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 52.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 53: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 53.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 53.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 54.",
+      "It uses a diagram only and avoids the needed right triangle calculation 55."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 53.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 54: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 54.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 54.",
+      "It changes the given values before applying identity in Congruent Triangles problem 55.",
+      "It uses a diagram only and avoids the needed identity calculation 56."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 54.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 55: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 55.",
+      "It changes the given values before applying projection in Congruent Triangles problem 56.",
+      "projection is the rule needed to solve this Congruent Triangles problem 55.",
+      "It uses a diagram only and avoids the needed projection calculation 57."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 55.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 56: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 56.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 57.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 58.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 56."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 56.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 57: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 57.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 57.",
+      "It changes the given values before applying sine in Congruent Triangles problem 58.",
+      "It uses a diagram only and avoids the needed sine calculation 59."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 57.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 58: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 58.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 58.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 59.",
+      "It uses a diagram only and avoids the needed cosine calculation 60."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 58.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 59: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 59.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 60.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 59.",
+      "It uses a diagram only and avoids the needed tangent calculation 61."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 59.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 60: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 60.",
+      "It changes the given values before applying angle in Congruent Triangles problem 61.",
+      "It uses a diagram only and avoids the needed angle calculation 62.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 60."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 60.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 61: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 61.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 61.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 62.",
+      "It uses a diagram only and avoids the needed right triangle calculation 63."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 61.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 62: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 62.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 62.",
+      "It changes the given values before applying identity in Congruent Triangles problem 63.",
+      "It uses a diagram only and avoids the needed identity calculation 64."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 62.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 63: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 63.",
+      "It changes the given values before applying projection in Congruent Triangles problem 64.",
+      "projection is the rule needed to solve this Congruent Triangles problem 63.",
+      "It uses a diagram only and avoids the needed projection calculation 65."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 63.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 64: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 64.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 65.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 66.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 64."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 64.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 65: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 65.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 65.",
+      "It changes the given values before applying sine in Congruent Triangles problem 66.",
+      "It uses a diagram only and avoids the needed sine calculation 67."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 65.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 66: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 66.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 66.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 67.",
+      "It uses a diagram only and avoids the needed cosine calculation 68."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 66.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 67: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 67.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 68.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 67.",
+      "It uses a diagram only and avoids the needed tangent calculation 69."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 67.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 68: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 68.",
+      "It changes the given values before applying angle in Congruent Triangles problem 69.",
+      "It uses a diagram only and avoids the needed angle calculation 70.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 68."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 68.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 69: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 69.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 69.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 70.",
+      "It uses a diagram only and avoids the needed right triangle calculation 71."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 69.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 70: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 70.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 70.",
+      "It changes the given values before applying identity in Congruent Triangles problem 71.",
+      "It uses a diagram only and avoids the needed identity calculation 72."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 70.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 71: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 71.",
+      "It changes the given values before applying projection in Congruent Triangles problem 72.",
+      "projection is the rule needed to solve this Congruent Triangles problem 71.",
+      "It uses a diagram only and avoids the needed projection calculation 73."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 71.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 72: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 72.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 73.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 74.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 72."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 72.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 73: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 73.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 73.",
+      "It changes the given values before applying sine in Congruent Triangles problem 74.",
+      "It uses a diagram only and avoids the needed sine calculation 75."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 73.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 74: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 74.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 74.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 75.",
+      "It uses a diagram only and avoids the needed cosine calculation 76."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 74.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 75: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 75.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 76.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 75.",
+      "It uses a diagram only and avoids the needed tangent calculation 77."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 75.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 76: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 76.",
+      "It changes the given values before applying angle in Congruent Triangles problem 77.",
+      "It uses a diagram only and avoids the needed angle calculation 78.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 76."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 76.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 77: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 77.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 77.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 78.",
+      "It uses a diagram only and avoids the needed right triangle calculation 79."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 77.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 78: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 78.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 78.",
+      "It changes the given values before applying identity in Congruent Triangles problem 79.",
+      "It uses a diagram only and avoids the needed identity calculation 80."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 78.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 79: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 79.",
+      "It changes the given values before applying projection in Congruent Triangles problem 80.",
+      "projection is the rule needed to solve this Congruent Triangles problem 79.",
+      "It uses a diagram only and avoids the needed projection calculation 81."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 79.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 80: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 80.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 81.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 82.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 80."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 80.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 81: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 81.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 81.",
+      "It changes the given values before applying sine in Congruent Triangles problem 82.",
+      "It uses a diagram only and avoids the needed sine calculation 83."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 81.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 82: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 82.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 82.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 83.",
+      "It uses a diagram only and avoids the needed cosine calculation 84."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 82.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 83: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 83.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 84.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 83.",
+      "It uses a diagram only and avoids the needed tangent calculation 85."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 83.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 84: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 84.",
+      "It changes the given values before applying angle in Congruent Triangles problem 85.",
+      "It uses a diagram only and avoids the needed angle calculation 86.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 84."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 84.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 85: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 85.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 85.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 86.",
+      "It uses a diagram only and avoids the needed right triangle calculation 87."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 85.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 86: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 86.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 86.",
+      "It changes the given values before applying identity in Congruent Triangles problem 87.",
+      "It uses a diagram only and avoids the needed identity calculation 88."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 86.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 87: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 87.",
+      "It changes the given values before applying projection in Congruent Triangles problem 88.",
+      "projection is the rule needed to solve this Congruent Triangles problem 87.",
+      "It uses a diagram only and avoids the needed projection calculation 89."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 87.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 88: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 88.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 89.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 90.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 88."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 88.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 89: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 89.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 89.",
+      "It changes the given values before applying sine in Congruent Triangles problem 90.",
+      "It uses a diagram only and avoids the needed sine calculation 91."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 89.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 90: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 90.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 90.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 91.",
+      "It uses a diagram only and avoids the needed cosine calculation 92."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 90.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 91: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 91.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 92.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 91.",
+      "It uses a diagram only and avoids the needed tangent calculation 93."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 91.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 92: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 92.",
+      "It changes the given values before applying angle in Congruent Triangles problem 93.",
+      "It uses a diagram only and avoids the needed angle calculation 94.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 92."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 92.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 93: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for right triangle?",
+    "options": [
+      "Use right triangle step by step to reach the correct result in Congruent Triangles question 93.",
+      "It skips the rule of right triangle and guesses the Congruent Triangles answer 93.",
+      "It changes the given values before applying right triangle in Congruent Triangles problem 94.",
+      "It uses a diagram only and avoids the needed right triangle calculation 95."
+    ],
+    "correctAnswer": "Use right triangle step by step to reach the correct result in Congruent Triangles question 93.",
+    "explanation": "The correct option connects right triangle with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 94: Which option is a valid step when using identity in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of identity and guesses the Congruent Triangles answer 94.",
+      "The correct method is to apply identity and verify each step in Congruent Triangles item 94.",
+      "It changes the given values before applying identity in Congruent Triangles problem 95.",
+      "It uses a diagram only and avoids the needed identity calculation 96."
+    ],
+    "correctAnswer": "The correct method is to apply identity and verify each step in Congruent Triangles item 94.",
+    "explanation": "The correct option connects identity with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 95: For problems from \"Congruent Triangles\", why is projection useful?",
+    "options": [
+      "It skips the rule of projection and guesses the Congruent Triangles answer 95.",
+      "It changes the given values before applying projection in Congruent Triangles problem 96.",
+      "projection is the rule needed to solve this Congruent Triangles problem 95.",
+      "It uses a diagram only and avoids the needed projection calculation 97."
+    ],
+    "correctAnswer": "projection is the rule needed to solve this Congruent Triangles problem 95.",
+    "explanation": "The correct option connects projection with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 96: Which statement is correct about trigonometric ratio?",
+    "options": [
+      "It skips the rule of trigonometric ratio and guesses the Congruent Triangles answer 96.",
+      "It changes the given values before applying trigonometric ratio in Congruent Triangles problem 97.",
+      "It uses a diagram only and avoids the needed trigonometric ratio calculation 98.",
+      "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 96."
+    ],
+    "correctAnswer": "This choice correctly uses trigonometric ratio to complete the Congruent Triangles calculation 96.",
+    "explanation": "The correct option connects trigonometric ratio with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 97: In 9th Math chapter \"Congruent Triangles\", what is the correct approach for sine?",
+    "options": [
+      "Use sine step by step to reach the correct result in Congruent Triangles question 97.",
+      "It skips the rule of sine and guesses the Congruent Triangles answer 97.",
+      "It changes the given values before applying sine in Congruent Triangles problem 98.",
+      "It uses a diagram only and avoids the needed sine calculation 99."
+    ],
+    "correctAnswer": "Use sine step by step to reach the correct result in Congruent Triangles question 97.",
+    "explanation": "The correct option connects sine with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 98: Which option is a valid step when using cosine in \"Congruent Triangles\"?",
+    "options": [
+      "It skips the rule of cosine and guesses the Congruent Triangles answer 98.",
+      "The correct method is to apply cosine and verify each step in Congruent Triangles item 98.",
+      "It changes the given values before applying cosine in Congruent Triangles problem 99.",
+      "It uses a diagram only and avoids the needed cosine calculation 100."
+    ],
+    "correctAnswer": "The correct method is to apply cosine and verify each step in Congruent Triangles item 98.",
+    "explanation": "The correct option connects cosine with the main learning point of Congruent Triangles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 99: For problems from \"Congruent Triangles\", why is tangent useful?",
+    "options": [
+      "It skips the rule of tangent and guesses the Congruent Triangles answer 99.",
+      "It changes the given values before applying tangent in Congruent Triangles problem 100.",
+      "tangent is the rule needed to solve this Congruent Triangles problem 99.",
+      "It uses a diagram only and avoids the needed tangent calculation 101."
+    ],
+    "correctAnswer": "tangent is the rule needed to solve this Congruent Triangles problem 99.",
+    "explanation": "The correct option connects tangent with the main learning point of Congruent Triangles.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "mcq",
+    "question": "MCQ 100: Which statement is correct about angle?",
+    "options": [
+      "It skips the rule of angle and guesses the Congruent Triangles answer 100.",
+      "It changes the given values before applying angle in Congruent Triangles problem 101.",
+      "It uses a diagram only and avoids the needed angle calculation 102.",
+      "This choice correctly uses angle to complete the Congruent Triangles calculation 100."
+    ],
+    "correctAnswer": "This choice correctly uses angle to complete the Congruent Triangles calculation 100.",
+    "explanation": "The correct option connects angle with the main learning point of Congruent Triangles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 1: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 2: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 3: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 4: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 5: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 6: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 7: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 8: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 9: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 10: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 11: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 12: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 13: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 14: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 15: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 16: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 17: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 18: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 19: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 20: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 21: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 22: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 23: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 24: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 25: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 26: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 27: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 28: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 29: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 30: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 31: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 32: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 33: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 34: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 35: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 36: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 37: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 38: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 39: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 40: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 41: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 42: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 43: Mention two steps for solving a question involving tangent.",
+    "options": [],
+    "correctAnswer": "tangent is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about tangent.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 44: Give one example where angle is applied.",
+    "options": [],
+    "correctAnswer": "angle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about angle.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 45: Define or state right triangle in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "right triangle is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about right triangle.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 46: Write the main rule used for identity.",
+    "options": [],
+    "correctAnswer": "identity is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about identity.",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 47: Mention two steps for solving a question involving projection.",
+    "options": [],
+    "correctAnswer": "projection is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about projection.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 48: Give one example where trigonometric ratio is applied.",
+    "options": [],
+    "correctAnswer": "trigonometric ratio is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about trigonometric ratio.",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 49: Define or state sine in \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "sine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about sine.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "short",
+    "question": "Short Question 50: Write the main rule used for cosine.",
+    "options": [],
+    "correctAnswer": "cosine is a mathematical idea in Congruent Triangles used to form a method, relation, rule, or solution.",
+    "explanation": "A complete short answer should include the key definition and one relevant point about cosine.",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 1: Solve a detailed question involving sine from \"Congruent Triangles\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for sine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for sine.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 2: Explain the method of cosine with a worked example from \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "State the rule for cosine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for cosine.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 3: Prove or verify the main result related to tangent.",
+    "options": [],
+    "correctAnswer": "State the rule for tangent, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for tangent.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 4: Write a detailed solution strategy for questions based on angle.",
+    "options": [],
+    "correctAnswer": "State the rule for angle, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for angle.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 5: Solve a detailed question involving right triangle from \"Congruent Triangles\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for right triangle, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for right triangle.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 6: Explain the method of identity with a worked example from \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "State the rule for identity, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for identity.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 7: Prove or verify the main result related to projection.",
+    "options": [],
+    "correctAnswer": "State the rule for projection, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for projection.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 8: Write a detailed solution strategy for questions based on trigonometric ratio.",
+    "options": [],
+    "correctAnswer": "State the rule for trigonometric ratio, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for trigonometric ratio.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 9: Solve a detailed question involving sine from \"Congruent Triangles\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for sine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for sine.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 10: Explain the method of cosine with a worked example from \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "State the rule for cosine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for cosine.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 11: Prove or verify the main result related to tangent.",
+    "options": [],
+    "correctAnswer": "State the rule for tangent, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for tangent.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 12: Write a detailed solution strategy for questions based on angle.",
+    "options": [],
+    "correctAnswer": "State the rule for angle, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for angle.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 13: Solve a detailed question involving right triangle from \"Congruent Triangles\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for right triangle, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for right triangle.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "right triangle"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 14: Explain the method of identity with a worked example from \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "State the rule for identity, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for identity.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "identity"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 15: Prove or verify the main result related to projection.",
+    "options": [],
+    "correctAnswer": "State the rule for projection, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for projection.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "projection"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 16: Write a detailed solution strategy for questions based on trigonometric ratio.",
+    "options": [],
+    "correctAnswer": "State the rule for trigonometric ratio, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for trigonometric ratio.",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "trigonometric ratio"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 17: Solve a detailed question involving sine from \"Congruent Triangles\" and show all steps.",
+    "options": [],
+    "correctAnswer": "State the rule for sine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for sine.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "sine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 18: Explain the method of cosine with a worked example from \"Congruent Triangles\".",
+    "options": [],
+    "correctAnswer": "State the rule for cosine, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for cosine.",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "cosine"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 19: Prove or verify the main result related to tangent.",
+    "options": [],
+    "correctAnswer": "State the rule for tangent, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for tangent.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "tangent"
+    ]
+  },
+  {
+    "classLevel": "9th",
+    "classId": "9th",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Congruent Triangles",
+    "chapterId": "Congruent Triangles",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed solution strategy for questions based on angle.",
+    "options": [],
+    "correctAnswer": "State the rule for angle, write the step-by-step method, solve using the given relation, and verify the answer according to Congruent Triangles.",
+    "explanation": "A strong long answer should include definition, steps, example, and final conclusion for angle.",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "9th",
+      "Math",
+      "Congruent Triangles",
+      "angle"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Practice Test | Paper Forge</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/css/dashboard.css?v=practice-quiz-20260606-4" rel="stylesheet">
+  </head>
+  <body data-page="practice-test" class="practice-focus-page">
+    <div class="practice-exam-shell">
+      <header class="practice-exam-header">
+        <a class="practice-exam-brand" href="/dashboard/student-dashboard.html" aria-label="Return to student dashboard">
+          <img src="../assets/images/Logo.svg" alt="Paper Forge">
+          <span>Student Practice</span>
+        </a>
+        <a class="practice-exit-link" href="/student/practice-setup.html">
+          <i class="bi bi-x-lg" aria-hidden="true"></i>
+          <span>Exit test</span>
+        </a>
+      </header>
+
+      <main class="practice-exam-main">
+        <div class="practice-exam-overview">
+          <div class="practice-progress-copy">
+            <span class="practice-eyebrow">Practice test</span>
+            <strong id="practiceProgressText">Question 1 of 1</strong>
+            <div class="practice-progress-track" aria-hidden="true">
+              <span id="practiceProgressBar"></span>
+            </div>
+          </div>
+          <div class="practice-timer-control" id="practiceTimerPanel">
+            <div>
+              <span>Time left</span>
+              <strong id="practiceTimer">00:00</strong>
+            </div>
+            <button id="toggleTimerBtn" type="button" aria-pressed="false">Hide</button>
+          </div>
+        </div>
+
+        <section class="practice-meta-card" id="practiceMeta" aria-live="polite"></section>
+
+        <section class="practice-question-card" aria-labelledby="practiceQuestionHeading">
+          <div id="practiceQuestion"></div>
+        </section>
+
+        <nav class="practice-question-actions" aria-label="Question navigation">
+          <button class="btn practice-nav-secondary" id="prevQuestionBtn" type="button">
+            <i class="bi bi-arrow-left" aria-hidden="true"></i>
+            Previous
+          </button>
+          <button class="btn practice-nav-primary" id="nextQuestionBtn" type="button">
+            Next
+            <i class="bi bi-arrow-right" aria-hidden="true"></i>
+          </button>
+          <button class="btn practice-submit-button" id="submitPracticeBtn" type="button" hidden>
+            <i class="bi bi-check2-circle" aria-hidden="true"></i>
+            Finish attempt...
+          </button>
+        </nav>
+      </main>
+    </div>
+
+    <dialog class="practice-finish-dialog" id="practiceFinishDialog" aria-labelledby="practiceFinishTitle">
+      <div class="practice-finish-content">
+        <button class="practice-dialog-close" id="closePracticeFinishBtn" type="button" aria-label="Close finish attempt dialog">
+          <i class="bi bi-x-lg" aria-hidden="true"></i>
+        </button>
+        <span class="practice-dialog-icon"><i class="bi bi-clipboard-check" aria-hidden="true"></i></span>
+        <h2 id="practiceFinishTitle">Finish attempt?</h2>
+        <p>Submit karne ke baad answers change nahi ho sakein ge.</p>
+        <div class="practice-attempt-summary" id="practiceAttemptSummary"></div>
+        <div class="practice-dialog-actions">
+          <button class="btn practice-nav-secondary" id="returnToPracticeBtn" type="button">
+            Return to questions
+          </button>
+          <button class="btn practice-submit-button" id="confirmPracticeSubmitBtn" type="button">
+            <i class="bi bi-check2-circle" aria-hidden="true"></i>
+            Submit attempt
+          </button>
+        </div>
+      </div>
+    </dialog>
+
+    <div id="appToast" hidden></div>
+    <script src="../assets/js/app.js?v=practice-quiz-20260606-4"></script>
+  </body>
+</html>

@@ -1,0 +1,4300 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 1: What is the next term of the sequence 2, 5, 8, 11, ...?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswer": "14",
+    "explanation": "The common difference is 3, so the next term is 11 + 3 = 14.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "common difference"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 2: In an arithmetic progression, the common difference is found by:",
+    "options": [
+      "a₂ - a₁",
+      "a₂/a₁",
+      "a₁ + a₂",
+      "a₁a₂"
+    ],
+    "correctAnswer": "a₂ - a₁",
+    "explanation": "In an AP, each term is obtained by adding a fixed difference d = a₂ - a₁.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 3: The nth term of an arithmetic progression is:",
+    "options": [
+      "aₙ = a + (n - 1)d",
+      "aₙ = arⁿ⁻¹",
+      "aₙ = a + nd",
+      "aₙ = n/2[2a+(n-1)d]"
+    ],
+    "correctAnswer": "aₙ = a + (n - 1)d",
+    "explanation": "The general term of an AP with first term a and common difference d is a + (n-1)d.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "nth term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 4: Find the 10th term of the AP 3, 7, 11, ...",
+    "options": [
+      "35",
+      "39",
+      "43",
+      "47"
+    ],
+    "correctAnswer": "39",
+    "explanation": "Here a = 3, d = 4, so a₁₀ = 3 + 9(4) = 39.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "nth term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 5: The sum of first n terms of an AP is:",
+    "options": [
+      "Sₙ = n/2[2a + (n - 1)d]",
+      "Sₙ = a(1-rⁿ)/(1-r)",
+      "Sₙ = arⁿ⁻¹",
+      "Sₙ = n(a-d)"
+    ],
+    "correctAnswer": "Sₙ = n/2[2a + (n - 1)d]",
+    "explanation": "This is the standard formula for sum of first n terms of an arithmetic progression.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 6: Find the sum of first 10 natural numbers.",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswer": "55",
+    "explanation": "1 + 2 + ... + 10 = 10(11)/2 = 55.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "natural numbers"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 7: The sum 2 + 4 + 6 + ... + 20 is:",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "correctAnswer": "110",
+    "explanation": "This AP has 10 terms and average term (2+20)/2 = 11, so sum = 10×11 = 110.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 8: If a = 5 and d = 3 in an AP, the 6th term is:",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "23"
+    ],
+    "correctAnswer": "20",
+    "explanation": "a₆ = 5 + (6-1)3 = 20.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 9: The arithmetic mean between 7 and 15 is:",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "explanation": "Arithmetic mean = (7+15)/2 = 11.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 10: If three numbers are in AP, they can be written as:",
+    "options": [
+      "a-d, a, a+d",
+      "a/r, a, ar",
+      "a, ar, ar²",
+      "a-d, a+d, a+2d"
+    ],
+    "correctAnswer": "a-d, a, a+d",
+    "explanation": "Three terms in AP are conveniently represented as a-d, a, a+d.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 11: What is the common difference of the AP 12, 8, 4, 0, ...?",
+    "options": [
+      "4",
+      "-4",
+      "8",
+      "-8"
+    ],
+    "correctAnswer": "-4",
+    "explanation": "Each term decreases by 4, so d = -4.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 12: Find the 15th term of the AP 20, 17, 14, ...",
+    "options": [
+      "-19",
+      "-22",
+      "-25",
+      "-28"
+    ],
+    "correctAnswer": "-22",
+    "explanation": "a = 20, d = -3, so a₁₅ = 20 + 14(-3) = -22.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 13: If the nth term of a sequence is 3n + 2, its first term is:",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Put n = 1: a₁ = 3(1)+2 = 5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence",
+      "nth term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 14: The sequence with nth term aₙ = 2n is:",
+    "options": [
+      "1, 2, 3, 4, ...",
+      "2, 4, 6, 8, ...",
+      "2, 3, 4, 5, ...",
+      "4, 6, 8, 10, ..."
+    ],
+    "correctAnswer": "2, 4, 6, 8, ...",
+    "explanation": "Putting n = 1,2,3,4 gives 2,4,6,8.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 15: A finite sequence has:",
+    "options": [
+      "limited number of terms",
+      "unlimited number of terms",
+      "no first term",
+      "no last term"
+    ],
+    "correctAnswer": "limited number of terms",
+    "explanation": "A finite sequence contains a fixed, limited number of terms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 16: An infinite sequence has:",
+    "options": [
+      "only one term",
+      "no terms",
+      "unlimited number of terms",
+      "always negative terms"
+    ],
+    "correctAnswer": "unlimited number of terms",
+    "explanation": "An infinite sequence continues without ending.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 17: The next term of 1, 4, 9, 16, ... is:",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "36"
+    ],
+    "correctAnswer": "25",
+    "explanation": "These are square numbers: 1², 2², 3², 4², so next is 5² = 25.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence",
+      "squares"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 18: The next term of 1, 8, 27, 64, ... is:",
+    "options": [
+      "81",
+      "100",
+      "125",
+      "216"
+    ],
+    "correctAnswer": "125",
+    "explanation": "These are cube numbers: 1³, 2³, 3³, 4³, so next is 5³ = 125.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence",
+      "cubes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 19: A geometric progression has a constant:",
+    "options": [
+      "difference",
+      "ratio",
+      "sum",
+      "mean"
+    ],
+    "correctAnswer": "ratio",
+    "explanation": "In a GP, each term is obtained by multiplying by a fixed common ratio.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 20: The common ratio of 3, 6, 12, 24, ... is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Each term is multiplied by 2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "common ratio"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 21: The nth term of a geometric progression is:",
+    "options": [
+      "aₙ = arⁿ⁻¹",
+      "aₙ = a+(n-1)d",
+      "aₙ = n/2[2a+(n-1)d]",
+      "aₙ = a/rⁿ"
+    ],
+    "correctAnswer": "aₙ = arⁿ⁻¹",
+    "explanation": "The nth term of GP with first term a and common ratio r is ar^(n-1).",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "nth term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 22: Find the 5th term of the GP 2, 6, 18, ...",
+    "options": [
+      "54",
+      "108",
+      "162",
+      "243"
+    ],
+    "correctAnswer": "162",
+    "explanation": "a = 2, r = 3, so a₅ = 2×3⁴ = 162.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 23: The sum of first n terms of a GP when r ≠ 1 is:",
+    "options": [
+      "Sₙ = a(1-rⁿ)/(1-r)",
+      "Sₙ = n/2[2a+(n-1)d]",
+      "Sₙ = arⁿ⁻¹",
+      "Sₙ = n(a+l)/2"
+    ],
+    "correctAnswer": "Sₙ = a(1-rⁿ)/(1-r)",
+    "explanation": "This formula gives the sum of first n terms of a GP for r not equal to 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 24: Find the sum of first 4 terms of GP 3, 6, 12, ...",
+    "options": [
+      "21",
+      "30",
+      "45",
+      "60"
+    ],
+    "correctAnswer": "45",
+    "explanation": "First four terms are 3, 6, 12, 24; their sum is 45.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 25: The geometric mean between 4 and 16 is:",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "explanation": "Geometric mean = √(4×16) = √64 = 8.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 26: If three positive numbers are in GP, they can be written as:",
+    "options": [
+      "a/r, a, ar",
+      "a-d, a, a+d",
+      "a, a+d, a+2d",
+      "a-r, a, a+r"
+    ],
+    "correctAnswer": "a/r, a, ar",
+    "explanation": "Three terms in GP are conveniently represented as a/r, a, ar.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 27: The common ratio of 81, 27, 9, 3, ... is:",
+    "options": [
+      "3",
+      "1/3",
+      "-3",
+      "-1/3"
+    ],
+    "correctAnswer": "1/3",
+    "explanation": "Each term is multiplied by 1/3.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 28: Find the 6th term of GP 5, 10, 20, ...",
+    "options": [
+      "80",
+      "100",
+      "160",
+      "320"
+    ],
+    "correctAnswer": "160",
+    "explanation": "a = 5, r = 2, so a₆ = 5×2⁵ = 160.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 29: A GP 1 + 1/2 + 1/4 + ... has common ratio:",
+    "options": [
+      "1/2",
+      "2",
+      "1/4",
+      "4"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Each term is multiplied by 1/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 30: An infinite GP has a finite sum when:",
+    "options": [
+      "|r| < 1",
+      "r = 1",
+      "|r| > 1",
+      "r = 2"
+    ],
+    "correctAnswer": "|r| < 1",
+    "explanation": "An infinite geometric series converges only when the absolute value of r is less than 1.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP",
+      "convergence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 31: The sum to infinity of a GP is:",
+    "options": [
+      "S∞ = a/(1-r), |r|<1",
+      "S∞ = a/(r-1)",
+      "S∞ = arⁿ⁻¹",
+      "S∞ = n/2[2a+(n-1)d]"
+    ],
+    "correctAnswer": "S∞ = a/(1-r), |r|<1",
+    "explanation": "For |r| < 1, the infinite GP has sum a/(1-r).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 32: Find the sum to infinity of 6 + 3 + 3/2 + ...",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "correctAnswer": "12",
+    "explanation": "Here a=6, r=1/2, so S∞ = 6/(1-1/2)=12.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 33: The harmonic progression is formed when:",
+    "options": [
+      "reciprocals of its terms are in AP",
+      "terms are in GP",
+      "terms are all equal",
+      "terms are squares"
+    ],
+    "correctAnswer": "reciprocals of its terms are in AP",
+    "explanation": "A sequence is HP if reciprocals of its terms form an AP.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 34: Which sequence is in HP?",
+    "options": [
+      "1, 1/2, 1/3, 1/4",
+      "2, 4, 6, 8",
+      "3, 6, 12, 24",
+      "1, 4, 9, 16"
+    ],
+    "correctAnswer": "1, 1/2, 1/3, 1/4",
+    "explanation": "The reciprocals 1,2,3,4 are in AP.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 35: The harmonic mean between a and b is:",
+    "options": [
+      "2ab/(a+b)",
+      "(a+b)/2",
+      "√ab",
+      "a+b"
+    ],
+    "correctAnswer": "2ab/(a+b)",
+    "explanation": "The harmonic mean of two numbers a and b is 2ab/(a+b).",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 36: The harmonic mean between 4 and 12 is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "6",
+    "explanation": "HM = 2(4)(12)/(4+12)=96/16=6.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 37: If a, b, c are in AP, then:",
+    "options": [
+      "2b = a + c",
+      "b² = ac",
+      "1/b = 1/a + 1/c",
+      "b = ac"
+    ],
+    "correctAnswer": "2b = a + c",
+    "explanation": "For three terms in AP, the middle term is arithmetic mean of the other two.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 38: If a, b, c are in GP, then:",
+    "options": [
+      "b² = ac",
+      "2b = a + c",
+      "b = a + c",
+      "1/b = 1/a + 1/c"
+    ],
+    "correctAnswer": "b² = ac",
+    "explanation": "For three terms in GP, the square of middle term equals product of extremes.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 39: If a, b, c are in HP, then:",
+    "options": [
+      "2/b = 1/a + 1/c",
+      "b² = ac",
+      "2b = a+c",
+      "b = ac"
+    ],
+    "correctAnswer": "2/b = 1/a + 1/c",
+    "explanation": "In HP, reciprocals are in AP, so 2(1/b)=1/a+1/c.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 40: The arithmetic mean of 10 and 20 is:",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "30"
+    ],
+    "correctAnswer": "15",
+    "explanation": "AM = (10+20)/2 = 15.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 41: The geometric mean of 9 and 25 is:",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "225"
+    ],
+    "correctAnswer": "15",
+    "explanation": "GM = √(9×25)=√225=15.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 42: For positive unequal numbers a and b, which relation is true?",
+    "options": [
+      "AM > GM",
+      "AM < GM",
+      "AM = GM always",
+      "HM > AM"
+    ],
+    "correctAnswer": "AM > GM",
+    "explanation": "For positive unequal numbers, AM is greater than GM.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "means"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 43: For positive numbers, the order of means is:",
+    "options": [
+      "AM ≥ GM ≥ HM",
+      "HM ≥ GM ≥ AM",
+      "GM ≥ AM ≥ HM",
+      "AM ≥ HM ≥ GM"
+    ],
+    "correctAnswer": "AM ≥ GM ≥ HM",
+    "explanation": "For positive numbers, arithmetic mean is at least geometric mean, which is at least harmonic mean.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "means"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 44: Sigma notation Σ means:",
+    "options": [
+      "summation",
+      "subtraction",
+      "multiplication only",
+      "division"
+    ],
+    "correctAnswer": "summation",
+    "explanation": "The Greek letter sigma is used to denote summation.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sigma"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 45: The value of Σ from k=1 to 4 of k is:",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "16"
+    ],
+    "correctAnswer": "10",
+    "explanation": "1+2+3+4 = 10.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sigma"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 46: The value of Σ from k=1 to 3 of k² is:",
+    "options": [
+      "6",
+      "9",
+      "14",
+      "18"
+    ],
+    "correctAnswer": "14",
+    "explanation": "1²+2²+3²=1+4+9=14.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sigma"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 47: The formula for 1 + 2 + 3 + ... + n is:",
+    "options": [
+      "n(n+1)/2",
+      "n²",
+      "n(n-1)/2",
+      "2n"
+    ],
+    "correctAnswer": "n(n+1)/2",
+    "explanation": "The sum of first n natural numbers is n(n+1)/2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 48: The formula for 1² + 2² + ... + n² is:",
+    "options": [
+      "n(n+1)(2n+1)/6",
+      "n(n+1)/2",
+      "[n(n+1)/2]²",
+      "n³"
+    ],
+    "correctAnswer": "n(n+1)(2n+1)/6",
+    "explanation": "This is the standard formula for sum of squares of first n natural numbers.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "squares"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 49: The formula for 1³ + 2³ + ... + n³ is:",
+    "options": [
+      "[n(n+1)/2]²",
+      "n(n+1)(2n+1)/6",
+      "n²",
+      "n(n+1)/2"
+    ],
+    "correctAnswer": "[n(n+1)/2]²",
+    "explanation": "The sum of cubes equals the square of the sum of first n natural numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "cubes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 50: The sum of first 5 squares is:",
+    "options": [
+      "25",
+      "30",
+      "55",
+      "225"
+    ],
+    "correctAnswer": "55",
+    "explanation": "1²+2²+3²+4²+5²=1+4+9+16+25=55.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "squares"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 51: The sum of first 4 cubes is:",
+    "options": [
+      "16",
+      "64",
+      "100",
+      "256"
+    ],
+    "correctAnswer": "100",
+    "explanation": "1³+2³+3³+4³=1+8+27+64=100.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "cubes"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 52: A sequence is a function whose domain is usually:",
+    "options": [
+      "natural numbers",
+      "real numbers only",
+      "complex numbers only",
+      "negative integers only"
+    ],
+    "correctAnswer": "natural numbers",
+    "explanation": "A sequence assigns terms according to natural-number positions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 53: A series is:",
+    "options": [
+      "sum of terms of a sequence",
+      "product of terms of a sequence",
+      "only first term of a sequence",
+      "difference of two terms"
+    ],
+    "correctAnswer": "sum of terms of a sequence",
+    "explanation": "A series is obtained by adding the terms of a sequence.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 54: The sequence 5, 5, 5, 5, ... is:",
+    "options": [
+      "constant sequence",
+      "strictly increasing sequence",
+      "strictly decreasing sequence",
+      "alternating sequence"
+    ],
+    "correctAnswer": "constant sequence",
+    "explanation": "All terms are equal, so it is a constant sequence.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 55: The sequence 1, -1, 1, -1, ... is:",
+    "options": [
+      "alternating sequence",
+      "constant sequence",
+      "AP with d=1",
+      "GP with r=1"
+    ],
+    "correctAnswer": "alternating sequence",
+    "explanation": "The signs alternate from positive to negative.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 56: In the AP 4, 9, 14, ..., which term is 49?",
+    "options": [
+      "8th",
+      "9th",
+      "10th",
+      "11th"
+    ],
+    "correctAnswer": "10th",
+    "explanation": "aₙ=4+(n-1)5=49 gives n-1=9, so n=10.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 57: How many terms are there in AP 3, 6, 9, ..., 60?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": "20",
+    "explanation": "3n = 60, so n = 20.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 58: Find the sum of AP 5 + 10 + 15 + ... + 100.",
+    "options": [
+      "950",
+      "1000",
+      "1050",
+      "1100"
+    ],
+    "correctAnswer": "1050",
+    "explanation": "There are 20 terms and average = (5+100)/2=52.5, so sum=1050.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 59: If the first term of AP is 8 and 20th term is 65, d equals:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "explanation": "65 = 8 + 19d, so 19d = 57 and d = 3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 60: The average of first and last term of an AP equals:",
+    "options": [
+      "common difference",
+      "middle term when number of terms is odd",
+      "common ratio",
+      "number of terms"
+    ],
+    "correctAnswer": "middle term when number of terms is odd",
+    "explanation": "In an AP with an odd number of terms, the middle term equals the average of first and last terms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "middle term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 61: In GP 4, 12, 36, ..., which term is 324?",
+    "options": [
+      "3rd",
+      "4th",
+      "5th",
+      "6th"
+    ],
+    "correctAnswer": "5th",
+    "explanation": "aₙ=4×3^(n-1)=324; 3^(n-1)=81=3⁴, so n=5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 62: How many terms are in GP 2, 6, 18, ..., 486?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "explanation": "2×3^(n-1)=486; 3^(n-1)=243=3⁵, so n=6.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 63: Find the sum 1 + 3 + 9 + 27 + 81.",
+    "options": [
+      "81",
+      "100",
+      "121",
+      "243"
+    ],
+    "correctAnswer": "121",
+    "explanation": "It is a GP with five terms: sum = 1+3+9+27+81=121.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 64: If first term a = 7 and common ratio r = 1, then GP is:",
+    "options": [
+      "constant",
+      "increasing only",
+      "decreasing only",
+      "undefined"
+    ],
+    "correctAnswer": "constant",
+    "explanation": "When r=1, every term remains equal to the first term.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 65: A geometric series 2 + 4 + 8 + ... is:",
+    "options": [
+      "convergent",
+      "divergent",
+      "finite always",
+      "zero"
+    ],
+    "correctAnswer": "divergent",
+    "explanation": "Since |r|=2>1, the infinite geometric series diverges.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 66: The sum to infinity of 10 + 5 + 2.5 + ... is:",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "explanation": "a=10, r=1/2, so S∞=10/(1-1/2)=20.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 67: The sum to infinity of 8 - 4 + 2 - 1 + ... is:",
+    "options": [
+      "8/3",
+      "16/3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "16/3",
+    "explanation": "a=8, r=-1/2, so S∞=8/(1+1/2)=16/3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 68: Which value of r makes an infinite GP convergent?",
+    "options": [
+      "2",
+      "-3",
+      "1/2",
+      "5"
+    ],
+    "correctAnswer": "1/2",
+    "explanation": "Only r=1/2 has |r|<1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "infinite GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 69: If aₙ = n² + 1, then a₄ equals:",
+    "options": [
+      "9",
+      "16",
+      "17",
+      "20"
+    ],
+    "correctAnswer": "17",
+    "explanation": "a₄ = 4² + 1 = 17.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 70: If aₙ = 2n - 1, the sequence represents:",
+    "options": [
+      "even numbers",
+      "odd numbers",
+      "square numbers",
+      "cube numbers"
+    ],
+    "correctAnswer": "odd numbers",
+    "explanation": "Putting n=1,2,3 gives 1,3,5,... which are odd numbers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 71: The sequence 3, 6, 9, 12, ... is both:",
+    "options": [
+      "AP only",
+      "GP only",
+      "HP only",
+      "AP and GP"
+    ],
+    "correctAnswer": "AP only",
+    "explanation": "It has constant difference 3 but not a constant ratio.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 72: The sequence 2, 4, 8, 16, ... is:",
+    "options": [
+      "AP",
+      "GP",
+      "HP",
+      "neither AP nor GP"
+    ],
+    "correctAnswer": "GP",
+    "explanation": "It has constant ratio 2.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 73: The sequence 1, 1/2, 1/3, 1/4, ... is:",
+    "options": [
+      "AP",
+      "GP",
+      "HP",
+      "constant sequence"
+    ],
+    "correctAnswer": "HP",
+    "explanation": "Its reciprocals 1,2,3,4,... form an AP.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 74: If a, b, c are in AP and a=4, c=10, then b is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "14"
+    ],
+    "correctAnswer": "7",
+    "explanation": "b=(a+c)/2=(4+10)/2=7.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 75: If a, b, c are in GP and a=4, c=16, b is positive, then b is:",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "explanation": "b²=ac=64, so b=8.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 76: If a, b, c are in HP and a=3, c=6, then b is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "explanation": "For HP, b=2ac/(a+c)=36/9=4.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 77: Insert one arithmetic mean between 6 and 18.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "12",
+    "explanation": "The arithmetic mean is (6+18)/2=12.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 78: Insert one geometric mean between 5 and 20.",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": "10",
+    "explanation": "GM = √(5×20)=√100=10.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 79: Insert one harmonic mean between 6 and 12.",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "explanation": "HM = 2(6)(12)/(6+12)=144/18=8.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 80: If the sum of n terms of a sequence is Sₙ=n², then the nth term is:",
+    "options": [
+      "2n-1",
+      "n²",
+      "2n+1",
+      "n-1"
+    ],
+    "correctAnswer": "2n-1",
+    "explanation": "aₙ=Sₙ-Sₙ₋₁=n²-(n-1)²=2n-1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series",
+      "nth term"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 81: If Sₙ = n(n+1), then aₙ equals:",
+    "options": [
+      "n",
+      "2n",
+      "2n+1",
+      "n²"
+    ],
+    "correctAnswer": "2n",
+    "explanation": "aₙ=Sₙ-Sₙ₋₁=n(n+1)-(n-1)n=2n.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 82: The sum of first n odd numbers is:",
+    "options": [
+      "n",
+      "n²",
+      "2n",
+      "n(n+1)"
+    ],
+    "correctAnswer": "n²",
+    "explanation": "1+3+5+...+(2n-1)=n².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 83: The sum of first 6 odd numbers is:",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "49"
+    ],
+    "correctAnswer": "36",
+    "explanation": "Sum of first n odd numbers is n², so for n=6, sum=36.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 84: The sum of first n even numbers is:",
+    "options": [
+      "n²",
+      "n(n+1)",
+      "2n+1",
+      "n(n-1)"
+    ],
+    "correctAnswer": "n(n+1)",
+    "explanation": "2+4+...+2n = 2(1+2+...+n)=n(n+1).",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 85: The sum of first 5 even numbers is:",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": "30",
+    "explanation": "2+4+6+8+10=30.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 86: The 1st term of a sequence is denoted by:",
+    "options": [
+      "a₀",
+      "a₁",
+      "a₂",
+      "S₁"
+    ],
+    "correctAnswer": "a₁",
+    "explanation": "The first term is generally written as a₁.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 87: Sₙ usually represents:",
+    "options": [
+      "nth term",
+      "sum of first n terms",
+      "common difference",
+      "common ratio"
+    ],
+    "correctAnswer": "sum of first n terms",
+    "explanation": "Sₙ denotes the partial sum of first n terms.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 88: In an AP, if d = 0, the sequence is:",
+    "options": [
+      "constant",
+      "geometric only",
+      "harmonic only",
+      "undefined"
+    ],
+    "correctAnswer": "constant",
+    "explanation": "If common difference is zero, all terms are equal.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 89: In a GP, if r = -1, terms:",
+    "options": [
+      "remain positive",
+      "alternate in sign",
+      "become zero",
+      "form an AP always"
+    ],
+    "correctAnswer": "alternate in sign",
+    "explanation": "Multiplication by -1 changes the sign each time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 90: The sequence 10, 7, 4, 1, ... is:",
+    "options": [
+      "increasing AP",
+      "decreasing AP",
+      "increasing GP",
+      "HP"
+    ],
+    "correctAnswer": "decreasing AP",
+    "explanation": "The common difference is -3, so it is a decreasing AP.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 91: The sequence 3, -6, 12, -24, ... is:",
+    "options": [
+      "AP",
+      "GP",
+      "HP",
+      "constant"
+    ],
+    "correctAnswer": "GP",
+    "explanation": "The common ratio is -2.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 92: If a₁ = 2 and aₙ₊₁ = aₙ + 3, then the sequence is:",
+    "options": [
+      "AP",
+      "GP",
+      "HP",
+      "neither"
+    ],
+    "correctAnswer": "AP",
+    "explanation": "Each next term is obtained by adding 3, so it is an AP.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "recurrence",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 93: If a₁ = 3 and aₙ₊₁ = 2aₙ, then the sequence is:",
+    "options": [
+      "AP",
+      "GP",
+      "HP",
+      "constant"
+    ],
+    "correctAnswer": "GP",
+    "explanation": "Each next term is obtained by multiplying by 2, so it is a GP.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "recurrence",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 94: If a sequence is 2, 7, 12, 17, ..., its nth term is:",
+    "options": [
+      "5n-3",
+      "5n+3",
+      "2n+5",
+      "7n-5"
+    ],
+    "correctAnswer": "5n-3",
+    "explanation": "a=2, d=5, so aₙ=2+(n-1)5=5n-3.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 95: If a sequence is 4, 12, 36, ..., its nth term is:",
+    "options": [
+      "4×3ⁿ⁻¹",
+      "3×4ⁿ⁻¹",
+      "4+3(n-1)",
+      "12n"
+    ],
+    "correctAnswer": "4×3ⁿ⁻¹",
+    "explanation": "It is a GP with a=4 and r=3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 96: The 20th term of the AP with a=1, d=2 is:",
+    "options": [
+      "37",
+      "39",
+      "40",
+      "41"
+    ],
+    "correctAnswer": "39",
+    "explanation": "a₂₀ = 1 + 19(2)=39.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 97: The sum of first 20 odd numbers is:",
+    "options": [
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "correctAnswer": "400",
+    "explanation": "Sum of first n odd numbers is n², so 20²=400.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 98: The sum of first 10 even numbers is:",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "correctAnswer": "110",
+    "explanation": "Sum of first n even numbers is n(n+1), so 10×11=110.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 99: If the 4th term of an AP is 11 and d=2, first term is:",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswer": "5",
+    "explanation": "a₄=a+3d, so 11=a+6 and a=5.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "mcq",
+    "question": "MCQ 100: If the 3rd term of a GP is 20 and r=2, first term is:",
+    "options": [
+      "4",
+      "5",
+      "10",
+      "40"
+    ],
+    "correctAnswer": "5",
+    "explanation": "a₃=ar²=4a=20, so a=5.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 1: Define a sequence and give one example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 2: Define a series and give one example.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 3: Differentiate between finite and infinite sequences.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence",
+      "infinite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 4: Define arithmetic progression.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 5: Write the formula for the nth term of an AP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 6: Write the formula for the sum of first n terms of an AP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 7: Find the common difference of 7, 11, 15, 19.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 8: Find the 8th term of the AP 4, 9, 14, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 9: Define arithmetic mean.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 10: Insert one arithmetic mean between 12 and 20.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 11: Define geometric progression.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 12: Write the formula for the nth term of a GP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 13: Write the formula for the sum of first n terms of a GP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 14: Find the common ratio of 5, 15, 45, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 15: Find the 5th term of the GP 3, 6, 12, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 16: Define geometric mean.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 17: Insert one geometric mean between 9 and 25.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 18: Define harmonic progression.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 19: How can we test whether a sequence is in HP?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 20: Write the formula for harmonic mean between two numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 21: Find the harmonic mean between 5 and 15.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 22: State the relation between AM, GM and HM for positive numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 23: Write the formula for the sum of first n natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 24: Write the formula for the sum of squares of first n natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 25: Write the formula for the sum of cubes of first n natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 26: Evaluate 1 + 2 + 3 + ... + 20.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 27: Evaluate 1² + 2² + 3² + 4².",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 28: Evaluate 1³ + 2³ + 3³.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 29: What is sigma notation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sigma"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 30: Evaluate Σk from k=1 to 5.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 31: Evaluate Σk² from k=1 to 4.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 32: What is meant by the nth term of a sequence?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 33: What is meant by partial sum Sₙ?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 34: If Sₙ = n², find aₙ.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 35: Find the next two terms of 2, 6, 10, 14, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 36: Find the next two terms of 3, 9, 27, 81, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 37: Find the next two terms of 1, 4, 9, 16, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 38: Find the next two terms of 1, 8, 27, 64, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 39: When does an infinite GP have a finite sum?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum",
+      "infinite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 40: Write the formula for sum to infinity of a GP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 41: Find the sum to infinity of 4 + 2 + 1 + ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 42: Find the sum to infinity of 9 + 3 + 1 + ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 43: If a, b, c are in AP, state the relation among them.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 44: If a, b, c are in GP, state the relation among them.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 45: If a, b, c are in HP, state the relation among them.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 46: Find the number of terms in AP 2, 5, 8, ..., 29.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 47: Find the sum of AP 6 + 12 + 18 + ... + 60.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 48: Find the number of terms in GP 2, 4, 8, ..., 128.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 49: Find the sum of GP 1 + 2 + 4 + 8 + 16.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "short",
+    "question": "Short Question 50: Write one real-life example of a sequence or series.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence",
+      "series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 1: Solve and explain: Find the 25th term and the sum of first 25 terms of the AP 3, 7, 11, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 2: An AP has first term 5 and 20th term 81. Find the common difference and the sum of first 20 terms.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 3: Insert five arithmetic means between 4 and 28, and verify that the complete sequence is an AP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "mean",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 4: Derive the formula Sₙ = n/2[2a + (n - 1)d] for the sum of first n terms of an AP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 5: Find the number of terms and the sum of the AP 7, 10, 13, ..., 100.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 6: Solve and explain: Find the 8th term and sum of first 8 terms of the GP 2, 6, 18, ...",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 7: A GP has first term 3 and common ratio 2. Find its first 10 terms' sum.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 8: Insert three geometric means between 2 and 162.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 9: Derive the formula Sₙ = a(1-rⁿ)/(1-r) for the sum of first n terms of a GP.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "GP",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 10: Find the sum to infinity of 12 + 6 + 3 + 3/2 + ... and state the condition used.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 11: Explain harmonic progression with examples and show how it is related to arithmetic progression.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 12: Insert one arithmetic mean, one geometric mean, and one harmonic mean between 4 and 16, then compare them.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "mean"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 13: Prove that for positive numbers a and b, AM ≥ GM.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "Sequences and Series"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 14: Evaluate 1 + 2 + 3 + ... + n and use the formula to find the sum of first 100 natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 15: Evaluate 1² + 2² + ... + n² and use it to find the sum of squares of first 10 natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 16: Evaluate 1³ + 2³ + ... + n³ and use it to find the sum of cubes of first 8 natural numbers.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 17: If Sₙ = 3n² + 2n, find the nth term and first five terms of the sequence.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sequence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 18: Using sigma notation, express and evaluate the sum 5 + 10 + 15 + ... + 100.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sigma",
+      "sum"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 19: Compare AP, GP and HP with definitions, formulas, and one example of each.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "AP",
+      "GP",
+      "HP"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Math",
+    "subjectId": "Math",
+    "chapter": "Sequences and Series",
+    "chapterId": "Sequences and Series",
+    "type": "long",
+    "question": "Long Question 20: Solve a mixed problem: A sequence is 2, 5, 8, ... Find its nth term, 30th term, and sum of first 30 terms.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Math",
+      "Sequences and Series",
+      "sum",
+      "sequence"
+    ]
+  }
+]

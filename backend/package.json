@@ -1,0 +1,36 @@
+{
+  "name": "paper-forge-backend",
+  "version": "1.0.0",
+  "description": "Paper Forge API - Node.js, Express, MongoDB, JWT, PDF and Word exports",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build:questions": "node scripts/buildCombinedQuestionBank.js",
+    "import:questions": "node scripts/importQuestions.js",
+    "seed:questions": "node scripts/buildCombinedQuestionBank.js && node scripts/importQuestions.js data/questions.1000plus.json --replace",
+    "generate:questions": "node scripts/generateQuestionBank.js",
+    "sync:paper-mcq-answers": "node scripts/syncPaperMcqAnswers.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "docx": "^8.5.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^8.5.2",
+    "helmet": "^8.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.0",
+    "nodemailer": "^6.9.16",
+    "pdfkit": "^0.15.2",
+    "selfsigned": "^5.5.0",
+    "stripe": "^17.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

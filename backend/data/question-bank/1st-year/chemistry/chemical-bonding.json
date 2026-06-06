@@ -1,0 +1,4032 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 1: Which type of bond is formed by complete transfer of electrons?",
+    "options": [
+      "Hydrogen bond",
+      "Ionic bond",
+      "Metallic bond",
+      "Covalent bond"
+    ],
+    "correctAnswer": "Ionic bond",
+    "explanation": "An ionic bond forms when one atom transfers electron(s) to another atom.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 2: A covalent bond is formed by:",
+    "options": [
+      "complete transfer of electrons",
+      "loss of protons",
+      "gain of neutrons",
+      "sharing of electrons"
+    ],
+    "correctAnswer": "sharing of electrons",
+    "explanation": "Covalent bonding involves mutual sharing of electron pairs between atoms.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 3: Which pair is most likely to form an ionic compound?",
+    "options": [
+      "N and N",
+      "Na and Cl",
+      "C and O",
+      "H and H"
+    ],
+    "correctAnswer": "Na and Cl",
+    "explanation": "Sodium loses an electron and chlorine gains it, forming Na+ and Cl−.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 4: Which pair is most likely to form a covalent molecule?",
+    "options": [
+      "Mg and O",
+      "H and Cl",
+      "K and Br",
+      "Na and F"
+    ],
+    "correctAnswer": "H and Cl",
+    "explanation": "Hydrogen and chlorine are non-metals and share electrons in HCl.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 5: The force of attraction between oppositely charged ions is called:",
+    "options": [
+      "ionic bond",
+      "coordinate bond",
+      "van der Waals force",
+      "hydrogen bond"
+    ],
+    "correctAnswer": "ionic bond",
+    "explanation": "An ionic bond is electrostatic attraction between cations and anions.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 6: In NaCl, sodium becomes:",
+    "options": [
+      "neutral Na atom",
+      "Na2+",
+      "Na−",
+      "Na+"
+    ],
+    "correctAnswer": "Na+",
+    "explanation": "Sodium loses one electron and forms a +1 ion.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "In"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 7: In NaCl, chlorine becomes:",
+    "options": [
+      "neutral Cl atom",
+      "Cl+",
+      "Cl−",
+      "Cl2+"
+    ],
+    "correctAnswer": "Cl−",
+    "explanation": "Chlorine gains one electron and forms a −1 ion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "In"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 8: The octet rule means atoms tend to have:",
+    "options": [
+      "eight electrons in the valence shell",
+      "eight neutrons",
+      "eight shells",
+      "eight protons in the nucleus"
+    ],
+    "correctAnswer": "eight electrons in the valence shell",
+    "explanation": "Atoms usually become stable by achieving noble gas electronic configuration.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 9: Which element already has a complete octet?",
+    "options": [
+      "Neon",
+      "Sodium",
+      "Chlorine",
+      "Magnesium"
+    ],
+    "correctAnswer": "Neon",
+    "explanation": "Neon is a noble gas with a complete valence shell.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 10: Valence electrons are electrons present in the:",
+    "options": [
+      "neutron cloud",
+      "first shell only",
+      "nucleus",
+      "outermost shell"
+    ],
+    "correctAnswer": "outermost shell",
+    "explanation": "Valence electrons participate in chemical bonding.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Valence"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 11: The valency of sodium in NaCl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Sodium loses one electron, so its valency is 1.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 12: The valency of oxygen in water is:",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Oxygen forms two covalent bonds in H2O.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 13: Which molecule contains a double covalent bond?",
+    "options": [
+      "HCl",
+      "O2",
+      "H2",
+      "Cl2"
+    ],
+    "correctAnswer": "O2",
+    "explanation": "In O2, two oxygen atoms share two electron pairs.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 14: Which molecule contains a triple covalent bond?",
+    "options": [
+      "O2",
+      "H2O",
+      "H2",
+      "N2"
+    ],
+    "correctAnswer": "N2",
+    "explanation": "Nitrogen atoms share three electron pairs in N2.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 15: A single covalent bond contains:",
+    "options": [
+      "one transferred electron only",
+      "three shared pairs of electrons",
+      "one shared pair of electrons",
+      "two shared pairs of electrons"
+    ],
+    "correctAnswer": "one shared pair of electrons",
+    "explanation": "A single bond is formed by sharing one electron pair.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 16: A double covalent bond contains:",
+    "options": [
+      "two shared pairs of electrons",
+      "four shared pairs of electrons",
+      "one shared pair of electrons",
+      "three shared pairs of electrons"
+    ],
+    "correctAnswer": "two shared pairs of electrons",
+    "explanation": "A double bond is formed by sharing two electron pairs.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 17: A triple covalent bond contains:",
+    "options": [
+      "three shared pairs of electrons",
+      "two shared pairs of electrons",
+      "one shared pair of electrons",
+      "no shared electrons"
+    ],
+    "correctAnswer": "three shared pairs of electrons",
+    "explanation": "A triple bond consists of three shared electron pairs.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 18: A coordinate covalent bond is formed when:",
+    "options": [
+      "electrons are completely transferred",
+      "nuclei are shared",
+      "both shared electrons are donated by one atom",
+      "each atom donates one electron"
+    ],
+    "correctAnswer": "both shared electrons are donated by one atom",
+    "explanation": "In a coordinate bond, one atom provides the entire shared pair.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 19: Which ion contains a coordinate covalent bond?",
+    "options": [
+      "Na+",
+      "Mg2+",
+      "Cl−",
+      "NH4+"
+    ],
+    "correctAnswer": "NH4+",
+    "explanation": "NH3 donates a lone pair to H+ to form NH4+.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 20: The donor atom in a coordinate bond must have:",
+    "options": [
+      "only protons",
+      "a lone pair of electrons",
+      "complete absence of charge",
+      "no electrons"
+    ],
+    "correctAnswer": "a lone pair of electrons",
+    "explanation": "A coordinate bond requires donation of a lone pair.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 21: A lone pair is:",
+    "options": [
+      "an unshared pair of valence electrons",
+      "a pair of bonded atoms",
+      "two transferred ions",
+      "a pair of protons"
+    ],
+    "correctAnswer": "an unshared pair of valence electrons",
+    "explanation": "Lone pairs are valence electron pairs not used in bonding.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 22: The shape of methane, CH4, is:",
+    "options": [
+      "trigonal pyramidal",
+      "bent",
+      "tetrahedral",
+      "linear"
+    ],
+    "correctAnswer": "tetrahedral",
+    "explanation": "Carbon has four bonding pairs in CH4, giving a tetrahedral shape.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 23: The bond angle in methane is approximately:",
+    "options": [
+      "104.5°",
+      "180°",
+      "109.5°",
+      "120°"
+    ],
+    "correctAnswer": "109.5°",
+    "explanation": "Tetrahedral molecules have bond angles close to 109.5°.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 24: The shape of water, H2O, is:",
+    "options": [
+      "linear",
+      "bent",
+      "tetrahedral",
+      "trigonal planar"
+    ],
+    "correctAnswer": "bent",
+    "explanation": "Water has two bonding pairs and two lone pairs on oxygen.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 25: The bond angle in water is about:",
+    "options": [
+      "109.5°",
+      "120°",
+      "104.5°",
+      "180°"
+    ],
+    "correctAnswer": "104.5°",
+    "explanation": "Lone pair repulsion reduces the H–O–H angle to about 104.5°.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 26: The shape of ammonia, NH3, is:",
+    "options": [
+      "tetrahedral",
+      "trigonal pyramidal",
+      "linear",
+      "trigonal planar"
+    ],
+    "correctAnswer": "trigonal pyramidal",
+    "explanation": "NH3 has three bonding pairs and one lone pair on nitrogen.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 27: The bond angle in ammonia is approximately:",
+    "options": [
+      "107°",
+      "109.5°",
+      "120°",
+      "180°"
+    ],
+    "correctAnswer": "107°",
+    "explanation": "The lone pair on nitrogen compresses the H–N–H angle.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 28: The shape of carbon dioxide, CO2, is:",
+    "options": [
+      "bent",
+      "trigonal pyramidal",
+      "tetrahedral",
+      "linear"
+    ],
+    "correctAnswer": "linear",
+    "explanation": "CO2 has two regions of electron density around carbon and no lone pair on carbon.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 29: The bond angle in CO2 is:",
+    "options": [
+      "104.5°",
+      "109.5°",
+      "120°",
+      "180°"
+    ],
+    "correctAnswer": "180°",
+    "explanation": "Linear molecules have a bond angle of 180°.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 30: According to VSEPR theory, electron pairs around a central atom:",
+    "options": [
+      "attract each other strongly",
+      "repel each other",
+      "become neutrons",
+      "do not affect shape"
+    ],
+    "correctAnswer": "repel each other",
+    "explanation": "VSEPR explains molecular shapes by repulsions among electron pairs.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "According"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 31: Which repulsion is strongest?",
+    "options": [
+      "bond pair–nucleus",
+      "nucleus–nucleus only",
+      "bond pair–bond pair",
+      "lone pair–lone pair"
+    ],
+    "correctAnswer": "lone pair–lone pair",
+    "explanation": "Lone pairs occupy more space, so their repulsion is strongest.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 32: Correct order of electron pair repulsion is:",
+    "options": [
+      "BP–BP > LP–BP > LP–LP",
+      "LP–BP > LP–LP > BP–BP",
+      "all are equal",
+      "LP–LP > LP–BP > BP–BP"
+    ],
+    "correctAnswer": "LP–LP > LP–BP > BP–BP",
+    "explanation": "Lone pair-lone pair repulsion is greater than lone pair-bond pair repulsion.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Correct"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 33: Electronegativity is the tendency of an atom to:",
+    "options": [
+      "increase atomic mass",
+      "attract shared electrons",
+      "repel electrons always",
+      "lose neutrons"
+    ],
+    "correctAnswer": "attract shared electrons",
+    "explanation": "Electronegativity measures attraction for bonding electrons.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Electronegativity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 34: The most electronegative element is:",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "correctAnswer": "Fluorine",
+    "explanation": "Fluorine has the highest electronegativity value.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 35: A polar covalent bond is formed when bonded atoms have:",
+    "options": [
+      "same atomic mass",
+      "same electronegativity only",
+      "different electronegativities",
+      "no electrons"
+    ],
+    "correctAnswer": "different electronegativities",
+    "explanation": "Unequal sharing of electrons creates bond polarity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 36: Which molecule is polar?",
+    "options": [
+      "Cl2",
+      "O2",
+      "HCl",
+      "N2"
+    ],
+    "correctAnswer": "HCl",
+    "explanation": "HCl has unequal electron sharing due to electronegativity difference.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 37: Which molecule is non-polar?",
+    "options": [
+      "HCl",
+      "H2O",
+      "NH3",
+      "Cl2"
+    ],
+    "correctAnswer": "Cl2",
+    "explanation": "Cl2 has identical atoms, so electrons are shared equally.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 38: The partial negative end of HCl is on:",
+    "options": [
+      "both equally",
+      "chlorine",
+      "hydrogen",
+      "neither atom"
+    ],
+    "correctAnswer": "chlorine",
+    "explanation": "Chlorine is more electronegative and pulls electron density toward itself.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 39: A dipole moment is associated with:",
+    "options": [
+      "separation of positive and negative charges",
+      "atomic radius only",
+      "mass number only",
+      "number of neutrons only"
+    ],
+    "correctAnswer": "separation of positive and negative charges",
+    "explanation": "Dipole moment measures polarity due to charge separation.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 40: CO2 is non-polar because:",
+    "options": [
+      "C=O bonds are non-polar",
+      "bond dipoles cancel due to linear shape",
+      "oxygen is less electronegative than carbon",
+      "it has ionic bonds"
+    ],
+    "correctAnswer": "bond dipoles cancel due to linear shape",
+    "explanation": "CO2 has polar bonds but a symmetrical linear shape, so net dipole is zero.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "CO2"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 41: BF3 is non-polar because it is:",
+    "options": [
+      "ionic",
+      "trigonal planar and symmetrical",
+      "bent",
+      "linear with lone pairs"
+    ],
+    "correctAnswer": "trigonal planar and symmetrical",
+    "explanation": "The B–F bond dipoles cancel in symmetrical trigonal planar BF3.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "BF3"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 42: NH3 is polar because:",
+    "options": [
+      "N–H bonds are ionic",
+      "it is perfectly symmetrical",
+      "it has no dipole moment",
+      "it has a lone pair and trigonal pyramidal shape"
+    ],
+    "correctAnswer": "it has a lone pair and trigonal pyramidal shape",
+    "explanation": "The molecular shape of NH3 causes a net dipole moment.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "NH3"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 43: H2O is polar because:",
+    "options": [
+      "O–H bonds are non-polar",
+      "it has no lone pairs",
+      "it is linear",
+      "it has a bent shape"
+    ],
+    "correctAnswer": "it has a bent shape",
+    "explanation": "The bent geometry prevents cancellation of bond dipoles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "H2O"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 44: A Lewis structure shows:",
+    "options": [
+      "only protons",
+      "valence electrons as dots and bonds",
+      "only neutrons",
+      "nuclear reactions"
+    ],
+    "correctAnswer": "valence electrons as dots and bonds",
+    "explanation": "Lewis structures represent valence electrons and bonding arrangement.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 45: In Lewis notation, a single line between atoms represents:",
+    "options": [
+      "one shared electron pair",
+      "two ions only",
+      "one proton pair",
+      "one neutron pair"
+    ],
+    "correctAnswer": "one shared electron pair",
+    "explanation": "A line in a Lewis structure denotes a covalent bond or one shared pair.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "In"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 46: How many valence electrons does carbon have?",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Carbon belongs to group 14 and has four valence electrons.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "How"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 47: How many valence electrons does oxygen have?",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Oxygen belongs to group 16 and has six valence electrons.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "How"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 48: How many valence electrons does nitrogen have?",
+    "options": [
+      "7",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Nitrogen belongs to group 15 and has five valence electrons.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "How"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 49: How many valence electrons does chlorine have?",
+    "options": [
+      "8",
+      "5",
+      "1",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Chlorine is a group 17 element with seven valence electrons.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "How"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 50: How many valence electrons does hydrogen have?",
+    "options": [
+      "1",
+      "7",
+      "2",
+      "8"
+    ],
+    "correctAnswer": "1",
+    "explanation": "Hydrogen has one electron in its only shell.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "How"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 51: Hydrogen follows the:",
+    "options": [
+      "zero-electron rule",
+      "duplet rule",
+      "18-electron rule",
+      "octet rule only"
+    ],
+    "correctAnswer": "duplet rule",
+    "explanation": "Hydrogen becomes stable with two electrons like helium.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Hydrogen"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 52: Which compound has ionic bonding?",
+    "options": [
+      "NH3",
+      "CH4",
+      "MgO",
+      "CO2"
+    ],
+    "correctAnswer": "MgO",
+    "explanation": "Magnesium transfers electrons to oxygen, forming Mg2+ and O2−.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 53: Which compound has covalent bonding?",
+    "options": [
+      "CH4",
+      "MgO",
+      "CaF2",
+      "NaCl"
+    ],
+    "correctAnswer": "CH4",
+    "explanation": "Methane contains shared electron pairs between carbon and hydrogen.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 54: Which compound contains both ionic and covalent bonding?",
+    "options": [
+      "NH4Cl",
+      "H2",
+      "Cl2",
+      "NaCl"
+    ],
+    "correctAnswer": "NH4Cl",
+    "explanation": "NH4Cl has ionic attraction between NH4+ and Cl− and covalent N–H bonds.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 55: The bond between NH4+ and Cl− in NH4Cl is:",
+    "options": [
+      "pure covalent",
+      "metallic",
+      "hydrogen bond only",
+      "ionic"
+    ],
+    "correctAnswer": "ionic",
+    "explanation": "NH4+ and Cl− are oppositely charged ions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 56: The N–H bonds inside NH4+ are:",
+    "options": [
+      "van der Waals only",
+      "ionic only",
+      "metallic",
+      "covalent"
+    ],
+    "correctAnswer": "covalent",
+    "explanation": "Nitrogen and hydrogen share electrons in N–H bonds.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 57: The bond formed between NH3 and H+ in NH4+ is initially:",
+    "options": [
+      "non-polar covalent",
+      "hydrogen only",
+      "metallic",
+      "coordinate covalent"
+    ],
+    "correctAnswer": "coordinate covalent",
+    "explanation": "NH3 donates a lone pair to H+ to form the coordinate bond.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 58: Metallic bonding is due to attraction between:",
+    "options": [
+      "anions only",
+      "protons and neutrons",
+      "metal cations and delocalized electrons",
+      "neutral molecules only"
+    ],
+    "correctAnswer": "metal cations and delocalized electrons",
+    "explanation": "Metals contain positive ions surrounded by a sea of delocalized electrons.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Metallic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 59: The high electrical conductivity of metals is mainly due to:",
+    "options": [
+      "covalent bonds only",
+      "absence of electrons",
+      "mobile delocalized electrons",
+      "fixed neutrons"
+    ],
+    "correctAnswer": "mobile delocalized electrons",
+    "explanation": "Delocalized electrons move through the metallic lattice and conduct electricity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 60: Ionic compounds generally have high melting points because:",
+    "options": [
+      "they contain no charges",
+      "strong electrostatic forces hold ions together",
+      "they are made of molecules only",
+      "they have weak forces"
+    ],
+    "correctAnswer": "strong electrostatic forces hold ions together",
+    "explanation": "Strong ionic attractions require much energy to overcome.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Ionic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 61: Ionic compounds conduct electricity when molten because:",
+    "options": [
+      "electrons are shared equally",
+      "molecules become neutral",
+      "ions are free to move",
+      "neutrons move freely"
+    ],
+    "correctAnswer": "ions are free to move",
+    "explanation": "Molten ionic compounds contain mobile ions that carry charge.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Ionic"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 62: Solid NaCl does not conduct electricity because:",
+    "options": [
+      "it contains free electrons",
+      "it is covalent",
+      "ions are fixed in the crystal lattice",
+      "it has no ions"
+    ],
+    "correctAnswer": "ions are fixed in the crystal lattice",
+    "explanation": "In solid NaCl, ions cannot move freely.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Solid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 63: Covalent compounds usually have lower melting points than ionic compounds because:",
+    "options": [
+      "intermolecular forces are often weak",
+      "they contain only metals",
+      "covalent bonds do not exist",
+      "they have free ions"
+    ],
+    "correctAnswer": "intermolecular forces are often weak",
+    "explanation": "Many covalent substances are molecular, with weak forces between molecules.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Covalent"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 64: Diamond is hard because:",
+    "options": [
+      "it has weak hydrogen bonds only",
+      "it contains Na+ ions",
+      "each carbon atom is covalently bonded in a giant network",
+      "it is made of free molecules"
+    ],
+    "correctAnswer": "each carbon atom is covalently bonded in a giant network",
+    "explanation": "Diamond has a strong three-dimensional covalent network.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Diamond"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 65: Graphite conducts electricity because:",
+    "options": [
+      "it has delocalized electrons",
+      "it is an ionic solid",
+      "it has Na+ ions",
+      "it has no electrons"
+    ],
+    "correctAnswer": "it has delocalized electrons",
+    "explanation": "Each carbon in graphite leaves one electron delocalized over layers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Graphite"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 66: In diamond, each carbon atom is bonded to:",
+    "options": [
+      "one carbon atom",
+      "two carbon atoms",
+      "three carbon atoms",
+      "four carbon atoms"
+    ],
+    "correctAnswer": "four carbon atoms",
+    "explanation": "Diamond has tetrahedral bonding around each carbon atom.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "In"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 67: In graphite, each carbon atom is bonded to:",
+    "options": [
+      "two hydrogen atoms",
+      "four carbon atoms",
+      "one oxygen atom",
+      "three carbon atoms"
+    ],
+    "correctAnswer": "three carbon atoms",
+    "explanation": "Graphite has layered hexagonal sheets with three bonds per carbon.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "In"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 68: Hydrogen bonding is strongest when hydrogen is bonded to:",
+    "options": [
+      "Na, K or Mg",
+      "F, O or N",
+      "C, Si or Ge",
+      "He, Ne or Ar"
+    ],
+    "correctAnswer": "F, O or N",
+    "explanation": "F, O and N are highly electronegative and small, enabling strong hydrogen bonding.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Hydrogen"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 69: Which substance shows strong hydrogen bonding?",
+    "options": [
+      "CH4",
+      "CO2",
+      "CCl4",
+      "H2O"
+    ],
+    "correctAnswer": "H2O",
+    "explanation": "Water molecules form hydrogen bonds through O–H groups.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 70: The unusually high boiling point of water is due to:",
+    "options": [
+      "absence of polarity",
+      "metallic bonding",
+      "ionic bonding only",
+      "hydrogen bonding"
+    ],
+    "correctAnswer": "hydrogen bonding",
+    "explanation": "Hydrogen bonds between water molecules require extra energy to break.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 71: Intermolecular forces act:",
+    "options": [
+      "inside the nucleus",
+      "between molecules",
+      "only within metallic lattices",
+      "only between protons"
+    ],
+    "correctAnswer": "between molecules",
+    "explanation": "Intermolecular forces are attractions between separate molecules.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Intermolecular"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 72: Intramolecular bonds act:",
+    "options": [
+      "only between different molecules",
+      "only in gases",
+      "only outside atoms",
+      "within a molecule"
+    ],
+    "correctAnswer": "within a molecule",
+    "explanation": "Intramolecular bonds hold atoms together inside a molecule.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Intramolecular"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 73: Van der Waals forces are generally:",
+    "options": [
+      "metallic bonds",
+      "strong ionic bonds",
+      "weak intermolecular forces",
+      "nuclear forces"
+    ],
+    "correctAnswer": "weak intermolecular forces",
+    "explanation": "Van der Waals forces are weak attractions between particles.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Van"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 74: London dispersion forces are present in:",
+    "options": [
+      "only metals",
+      "only acids",
+      "only ionic compounds",
+      "all atoms and molecules"
+    ],
+    "correctAnswer": "all atoms and molecules",
+    "explanation": "Temporary dipoles cause London forces in all particles.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "London"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 75: The strongest bond among the following is generally:",
+    "options": [
+      "covalent bond within a molecule",
+      "London dispersion force",
+      "dipole-dipole force",
+      "ordinary van der Waals force"
+    ],
+    "correctAnswer": "covalent bond within a molecule",
+    "explanation": "Chemical bonds within molecules are stronger than weak intermolecular forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 76: The bond in Cl2 is:",
+    "options": [
+      "non-polar covalent",
+      "coordinate",
+      "polar covalent",
+      "ionic"
+    ],
+    "correctAnswer": "non-polar covalent",
+    "explanation": "Both chlorine atoms have equal electronegativity, so sharing is equal.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 77: The bond in HCl is:",
+    "options": [
+      "metallic",
+      "polar covalent",
+      "non-polar covalent",
+      "pure ionic"
+    ],
+    "correctAnswer": "polar covalent",
+    "explanation": "Chlorine attracts the shared pair more strongly than hydrogen.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 78: The bond in MgCl2 is mainly:",
+    "options": [
+      "coordinate",
+      "metallic",
+      "ionic",
+      "non-polar covalent"
+    ],
+    "correctAnswer": "ionic",
+    "explanation": "Magnesium transfers electrons to chlorine atoms forming ions.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 79: Which compound has a giant covalent structure?",
+    "options": [
+      "SiO2",
+      "H2O",
+      "NH3",
+      "NaCl"
+    ],
+    "correctAnswer": "SiO2",
+    "explanation": "Silicon dioxide is a network covalent solid.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 80: Which compound is an example of a molecular covalent substance?",
+    "options": [
+      "CO2",
+      "CaO",
+      "NaCl",
+      "MgO"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "CO2 exists as separate molecules with covalent bonds.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 81: Formal charge helps to determine:",
+    "options": [
+      "the best Lewis structure",
+      "number of neutrons",
+      "atomic mass",
+      "melting point only"
+    ],
+    "correctAnswer": "the best Lewis structure",
+    "explanation": "Lewis structures with smaller formal charges are usually more stable.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Formal"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 82: Resonance occurs when:",
+    "options": [
+      "more than one valid Lewis structure can represent a molecule or ion",
+      "atoms become radioactive",
+      "molecules stop moving",
+      "electrons are transferred completely"
+    ],
+    "correctAnswer": "more than one valid Lewis structure can represent a molecule or ion",
+    "explanation": "Resonance represents delocalization of electrons over possible structures.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Resonance"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 83: Which ion shows resonance?",
+    "options": [
+      "Cl−",
+      "NO3−",
+      "Na+",
+      "Mg2+"
+    ],
+    "correctAnswer": "NO3−",
+    "explanation": "Nitrate ion has equivalent resonance structures.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 84: A sigma bond is formed by:",
+    "options": [
+      "complete ionization only",
+      "sidewise overlap only",
+      "head-on overlap of orbitals",
+      "loss of neutrons"
+    ],
+    "correctAnswer": "head-on overlap of orbitals",
+    "explanation": "Sigma bonds arise from end-to-end overlap along the internuclear axis.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 85: A pi bond is formed by:",
+    "options": [
+      "ionic attraction only",
+      "sidewise overlap of p orbitals",
+      "transfer of protons",
+      "head-on s orbital overlap only"
+    ],
+    "correctAnswer": "sidewise overlap of p orbitals",
+    "explanation": "Pi bonds form by lateral overlap of parallel p orbitals.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 86: A double bond consists of:",
+    "options": [
+      "one coordinate bond only",
+      "two sigma bonds",
+      "two pi bonds only",
+      "one sigma and one pi bond"
+    ],
+    "correctAnswer": "one sigma and one pi bond",
+    "explanation": "A double bond contains one sigma bond and one pi bond.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 87: A triple bond consists of:",
+    "options": [
+      "three ionic bonds",
+      "one sigma and two pi bonds",
+      "one pi and two sigma bonds",
+      "three sigma bonds"
+    ],
+    "correctAnswer": "one sigma and two pi bonds",
+    "explanation": "Triple bonds have one sigma and two pi bonds.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "A"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 88: The first bond formed between two atoms is always a:",
+    "options": [
+      "hydrogen bond",
+      "pi bond",
+      "sigma bond",
+      "metallic bond"
+    ],
+    "correctAnswer": "sigma bond",
+    "explanation": "A sigma bond forms before any pi bond between two atoms.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 89: Hybridization in methane is:",
+    "options": [
+      "dsp2",
+      "sp2",
+      "sp",
+      "sp3"
+    ],
+    "correctAnswer": "sp3",
+    "explanation": "Methane has four equivalent sigma bonds arranged tetrahedrally.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Hybridization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 90: Hybridization of carbon in ethene, C2H4, is:",
+    "options": [
+      "sp3d",
+      "sp2",
+      "sp",
+      "sp3"
+    ],
+    "correctAnswer": "sp2",
+    "explanation": "Each carbon in ethene has three electron regions and trigonal planar geometry.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Hybridization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 91: Hybridization of carbon in ethyne, C2H2, is:",
+    "options": [
+      "sp2",
+      "sp3d2",
+      "sp3",
+      "sp"
+    ],
+    "correctAnswer": "sp",
+    "explanation": "Each carbon in ethyne has two electron regions and linear geometry.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Hybridization"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 92: sp3 hybridization gives which geometry?",
+    "options": [
+      "tetrahedral",
+      "linear",
+      "trigonal planar",
+      "octahedral"
+    ],
+    "correctAnswer": "tetrahedral",
+    "explanation": "Four sp3 hybrid orbitals are directed tetrahedrally.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "sp3"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 93: sp2 hybridization gives which geometry?",
+    "options": [
+      "trigonal planar",
+      "tetrahedral",
+      "linear",
+      "bent only"
+    ],
+    "correctAnswer": "trigonal planar",
+    "explanation": "Three sp2 orbitals lie in one plane at about 120°.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "sp2"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 94: sp hybridization gives which geometry?",
+    "options": [
+      "trigonal pyramidal",
+      "square planar",
+      "linear",
+      "tetrahedral"
+    ],
+    "correctAnswer": "linear",
+    "explanation": "Two sp hybrid orbitals are arranged at 180°.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "sp"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 95: The bond angle in sp2 hybridization is about:",
+    "options": [
+      "180°",
+      "120°",
+      "90°",
+      "109.5°"
+    ],
+    "correctAnswer": "120°",
+    "explanation": "Trigonal planar sp2 geometry has angles of about 120°.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 96: The bond angle in sp hybridization is:",
+    "options": [
+      "180°",
+      "107°",
+      "120°",
+      "109.5°"
+    ],
+    "correctAnswer": "180°",
+    "explanation": "sp hybridization gives a linear arrangement.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 97: The central atom in BF3 has which hybridization?",
+    "options": [
+      "sp2",
+      "sp",
+      "sp3d",
+      "sp3"
+    ],
+    "correctAnswer": "sp2",
+    "explanation": "BF3 is trigonal planar with three bonding regions.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 98: The central atom in BeCl2 has which hybridization?",
+    "options": [
+      "sp2",
+      "sp",
+      "dsp2",
+      "sp3"
+    ],
+    "correctAnswer": "sp",
+    "explanation": "BeCl2 is linear with two bonding regions around Be.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "The"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 99: Which molecule has trigonal planar geometry?",
+    "options": [
+      "H2O",
+      "BF3",
+      "NH3",
+      "CH4"
+    ],
+    "correctAnswer": "BF3",
+    "explanation": "BF3 has three bonding pairs and no lone pair on boron.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "mcq",
+    "question": "MCQ 100: Which molecule has trigonal pyramidal geometry?",
+    "options": [
+      "NH3",
+      "CO2",
+      "CH4",
+      "BF3"
+    ],
+    "correctAnswer": "NH3",
+    "explanation": "NH3 has one lone pair on nitrogen and three N–H bonds.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "Which"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 1: Define chemical bond.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 2: What is an ionic bond?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 3: What is a covalent bond?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 4: Define coordinate covalent bond.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 5: What is meant by valence electron?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 6: State the octet rule.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 7: Why does hydrogen follow the duplet rule?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 8: Define electronegativity.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 9: What is bond polarity?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 10: Define dipole moment.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 11: Why is HCl a polar molecule?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 12: Why is Cl2 non-polar?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 13: What is a lone pair of electrons?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 14: What is a bond pair of electrons?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 15: Write two properties of ionic compounds.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 16: Write two properties of covalent compounds.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 17: Why do ionic compounds conduct electricity in molten state?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 18: Why does solid NaCl not conduct electricity?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 19: Define lattice energy.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 20: What is VSEPR theory?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 21: Write the shape of methane.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 22: Write the shape of ammonia.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 23: Write the shape of water.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 24: Write the shape of carbon dioxide.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 25: What is the bond angle in methane?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 26: Why is the bond angle of water less than methane?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 27: What is a Lewis structure?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 28: Draw/describe the Lewis structure of H2O.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 29: Draw/describe the Lewis structure of NH3.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 30: Draw/describe the Lewis structure of CO2.",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 31: What is resonance?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 32: Give one example of resonance.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 33: What is a sigma bond?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 34: What is a pi bond?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 35: Differentiate between sigma and pi bonds briefly.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 36: What is hybridization?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 37: What is sp3 hybridization?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 38: What is sp2 hybridization?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 39: What is sp hybridization?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 40: What is the hybridization of carbon in methane?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 41: What is the hybridization of carbon in ethene?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 42: What is the hybridization of carbon in ethyne?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 43: What is metallic bonding?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 44: Why are metals good conductors of electricity?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 45: What is hydrogen bonding?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 46: Give two examples of substances having hydrogen bonding.",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 47: Why does water have a high boiling point?",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 48: What are intermolecular forces?",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 49: What is the difference between intermolecular and intramolecular forces?",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "short",
+    "question": "Short Question 50: State Fajans' rules briefly.",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "short question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 1: Explain ionic bond formation with examples of NaCl and MgO.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 2: Explain covalent bond formation with examples of H2, Cl2, H2O and CH4.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 3: Describe coordinate covalent bond formation with examples of NH4+ and H3O+.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 4: Compare ionic, covalent and coordinate covalent bonds in detail.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 5: Explain the octet rule and its importance in chemical bonding.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 6: Describe Lewis structures and explain how Lewis structures are drawn for simple molecules.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 7: Explain VSEPR theory and predict shapes of CH4, NH3, H2O, CO2 and BF3.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 8: Discuss bond polarity and molecular polarity with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 9: Explain why CO2 is non-polar but H2O is polar.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 10: Describe sigma and pi bonds and explain bonding in double and triple bonds.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 11: Explain hybridization and discuss sp, sp2 and sp3 hybridization with examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 12: Describe the structure and properties of diamond and graphite.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 13: Explain metallic bonding and properties of metals based on metallic bond theory.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 14: Discuss hydrogen bonding and its effects on physical properties of water.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 15: Explain intermolecular forces and compare London dispersion, dipole-dipole and hydrogen bonding.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 16: Describe factors affecting ionic character and covalent character of bonds.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 17: Explain Fajans' rules with suitable examples.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 18: Discuss lattice energy and its effect on melting point and stability of ionic compounds.",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 19: Explain resonance with examples such as nitrate ion and carbonate ion.",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Chemistry",
+    "subjectId": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapterId": "Chemical Bonding",
+    "type": "long",
+    "question": "Long Question 20: Write a detailed note on applications of chemical bonding in explaining properties of substances.",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Chemistry",
+      "Chemical Bonding",
+      "long question"
+    ]
+  }
+]

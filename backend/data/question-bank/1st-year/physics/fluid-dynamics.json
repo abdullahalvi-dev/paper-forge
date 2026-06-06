@@ -1,0 +1,4242 @@
+[
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 1: The study of fluids in motion is called:",
+    "options": [
+      "Fluid dynamics",
+      "Fluid statics",
+      "Thermodynamics",
+      "Optics"
+    ],
+    "correctAnswer": "Fluid dynamics",
+    "explanation": "Fluid dynamics deals with liquids and gases in motion.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 2: A fluid is a substance that can:",
+    "options": [
+      "Flow",
+      "Only remain solid",
+      "Only conduct electricity",
+      "Only reflect light"
+    ],
+    "correctAnswer": "Flow",
+    "explanation": "Liquids and gases are fluids because they can flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "fluid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 3: An ideal fluid is assumed to be:",
+    "options": [
+      "Non-viscous and incompressible",
+      "Highly viscous",
+      "Only compressible",
+      "Always turbulent"
+    ],
+    "correctAnswer": "Non-viscous and incompressible",
+    "explanation": "Ideal fluid has no viscosity and constant density.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "ideal fluid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 4: The SI unit of pressure is:",
+    "options": [
+      "pascal",
+      "newton",
+      "joule",
+      "watt"
+    ],
+    "correctAnswer": "pascal",
+    "explanation": "Pressure is measured in pascal, equal to N/m².",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 5: Pressure is defined as:",
+    "options": [
+      "Force per unit area",
+      "Mass per unit volume",
+      "Work per unit time",
+      "Distance per unit time"
+    ],
+    "correctAnswer": "Force per unit area",
+    "explanation": "Pressure = force/area.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 6: The formula for pressure is:",
+    "options": [
+      "P = F/A",
+      "P = FA",
+      "P = A/F",
+      "P = mv"
+    ],
+    "correctAnswer": "P = F/A",
+    "explanation": "Pressure equals normal force divided by area.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 7: Density is defined as:",
+    "options": [
+      "Mass per unit volume",
+      "Force per unit area",
+      "Volume per unit mass",
+      "Energy per unit time"
+    ],
+    "correctAnswer": "Mass per unit volume",
+    "explanation": "Density ρ = m/V.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 8: The SI unit of density is:",
+    "options": [
+      "kg m⁻³",
+      "kg m⁻²",
+      "N m⁻²",
+      "m s⁻¹"
+    ],
+    "correctAnswer": "kg m⁻³",
+    "explanation": "Density is mass divided by volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 9: The formula for density is:",
+    "options": [
+      "ρ = m/V",
+      "ρ = V/m",
+      "ρ = mV",
+      "ρ = F/A"
+    ],
+    "correctAnswer": "ρ = m/V",
+    "explanation": "Density is mass per unit volume.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 10: Viscosity is the property of a fluid due to which it:",
+    "options": [
+      "Opposes relative motion between layers",
+      "Loses mass",
+      "Becomes solid always",
+      "Creates electric current"
+    ],
+    "correctAnswer": "Opposes relative motion between layers",
+    "explanation": "Viscosity is internal friction of a fluid.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 11: A highly viscous liquid flows:",
+    "options": [
+      "Slowly",
+      "Very easily",
+      "Without resistance",
+      "Only upward"
+    ],
+    "correctAnswer": "Slowly",
+    "explanation": "High viscosity means greater internal friction.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 12: Honey is more viscous than water because it:",
+    "options": [
+      "Offers greater resistance to flow",
+      "Has no mass",
+      "Has no density",
+      "Is always compressible"
+    ],
+    "correctAnswer": "Offers greater resistance to flow",
+    "explanation": "Honey has higher internal friction than water.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 13: The SI unit of coefficient of viscosity is:",
+    "options": [
+      "Pa s",
+      "N m",
+      "kg m",
+      "m s⁻¹"
+    ],
+    "correctAnswer": "Pa s",
+    "explanation": "Coefficient of viscosity has SI unit pascal-second.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 14: Streamline flow is also called:",
+    "options": [
+      "Laminar flow",
+      "Turbulent flow",
+      "Random flow",
+      "Rotational collision"
+    ],
+    "correctAnswer": "Laminar flow",
+    "explanation": "Smooth flow in layers is laminar or streamline flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamline flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 15: In streamline flow, fluid particles move along:",
+    "options": [
+      "Smooth paths",
+      "Random paths",
+      "Zigzag paths only",
+      "Circular paths only"
+    ],
+    "correctAnswer": "Smooth paths",
+    "explanation": "Streamline flow is orderly and smooth.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamline flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 16: Turbulent flow is:",
+    "options": [
+      "Irregular and disorderly",
+      "Always smooth",
+      "Always at rest",
+      "Motionless flow"
+    ],
+    "correctAnswer": "Irregular and disorderly",
+    "explanation": "Turbulent flow has random fluctuations and eddies.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "turbulent flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 17: The critical speed is the speed above which flow becomes:",
+    "options": [
+      "Turbulent",
+      "Static",
+      "Solid",
+      "Zero"
+    ],
+    "correctAnswer": "Turbulent",
+    "explanation": "Above critical speed, laminar flow changes into turbulent flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "critical speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 18: Reynolds number is used to predict:",
+    "options": [
+      "Nature of fluid flow",
+      "Colour of fluid",
+      "Chemical composition",
+      "Temperature only"
+    ],
+    "correctAnswer": "Nature of fluid flow",
+    "explanation": "Reynolds number distinguishes laminar and turbulent flow.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 19: Reynolds number is:",
+    "options": [
+      "Dimensionless",
+      "Measured in pascal",
+      "Measured in metre",
+      "Measured in newton"
+    ],
+    "correctAnswer": "Dimensionless",
+    "explanation": "Reynolds number is a ratio and has no unit.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 20: The equation of continuity is based on conservation of:",
+    "options": [
+      "Mass",
+      "Charge",
+      "Temperature",
+      "Light"
+    ],
+    "correctAnswer": "Mass",
+    "explanation": "Continuity equation follows from conservation of mass in fluid flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 21: For incompressible fluid, equation of continuity is:",
+    "options": [
+      "A₁v₁ = A₂v₂",
+      "P₁V₁ = P₂V₂",
+      "F = ma",
+      "v = u + at"
+    ],
+    "correctAnswer": "A₁v₁ = A₂v₂",
+    "explanation": "For steady incompressible flow, volume flow rate remains constant.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 22: According to equation of continuity, when area decreases, speed:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Remains always same"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "A v = constant, so smaller area gives larger speed.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 23: Volume flow rate is given by:",
+    "options": [
+      "Q = Av",
+      "Q = A/v",
+      "Q = v/A",
+      "Q = PA"
+    ],
+    "correctAnswer": "Q = Av",
+    "explanation": "Volume flow rate equals area of cross section times speed.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "flow rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 24: The SI unit of volume flow rate is:",
+    "options": [
+      "m³ s⁻¹",
+      "m s⁻¹",
+      "kg m⁻³",
+      "N m⁻²"
+    ],
+    "correctAnswer": "m³ s⁻¹",
+    "explanation": "Flow rate is volume per unit time.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "flow rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 25: Bernoulli’s equation is based on conservation of:",
+    "options": [
+      "Energy",
+      "Mass only",
+      "Charge only",
+      "Momentum only"
+    ],
+    "correctAnswer": "Energy",
+    "explanation": "Bernoulli’s principle is an energy conservation statement for fluids.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 26: Bernoulli’s equation for ideal fluid is:",
+    "options": [
+      "P + 1/2ρv² + ρgh = constant",
+      "P = F/A only",
+      "ρ = m/V",
+      "Q = Av only"
+    ],
+    "correctAnswer": "P + 1/2ρv² + ρgh = constant",
+    "explanation": "It includes pressure, kinetic and potential energy per unit volume.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 27: In Bernoulli’s equation, 1/2ρv² represents:",
+    "options": [
+      "Kinetic energy per unit volume",
+      "Potential energy per unit mass",
+      "Pressure only",
+      "Density only"
+    ],
+    "correctAnswer": "Kinetic energy per unit volume",
+    "explanation": "The dynamic pressure term is kinetic energy per unit volume.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 28: In Bernoulli’s equation, ρgh represents:",
+    "options": [
+      "Potential energy per unit volume",
+      "Kinetic energy per unit volume",
+      "Velocity",
+      "Viscosity"
+    ],
+    "correctAnswer": "Potential energy per unit volume",
+    "explanation": "ρgh is gravitational potential energy per unit volume.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 29: According to Bernoulli’s principle, where speed of fluid is high, pressure is:",
+    "options": [
+      "Low",
+      "High",
+      "Zero always",
+      "Infinite"
+    ],
+    "correctAnswer": "Low",
+    "explanation": "Higher speed corresponds to lower pressure in streamline flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 30: The lift of an airplane wing is explained by:",
+    "options": [
+      "Bernoulli’s principle",
+      "Ohm’s law",
+      "Hooke’s law",
+      "Coulomb’s law"
+    ],
+    "correctAnswer": "Bernoulli’s principle",
+    "explanation": "Air speed difference causes pressure difference and lift.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 31: A Venturi meter is used to measure:",
+    "options": [
+      "Flow speed or flow rate",
+      "Temperature",
+      "Electric current",
+      "Mass of atom"
+    ],
+    "correctAnswer": "Flow speed or flow rate",
+    "explanation": "Venturi meter uses pressure difference to measure flow.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 32: A Venturi meter works on:",
+    "options": [
+      "Bernoulli’s principle",
+      "Archimedes principle only",
+      "Faraday’s law",
+      "Newton’s law of cooling"
+    ],
+    "correctAnswer": "Bernoulli’s principle",
+    "explanation": "The pressure drop in the narrow section is explained by Bernoulli’s equation.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 33: In a Venturi tube, pressure is minimum at:",
+    "options": [
+      "Narrow section",
+      "Widest section",
+      "Inlet tank only",
+      "Everywhere same always"
+    ],
+    "correctAnswer": "Narrow section",
+    "explanation": "Speed is highest in the narrow section, so pressure is lowest.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 34: Torricelli’s theorem gives speed of efflux as:",
+    "options": [
+      "v = √(2gh)",
+      "v = gh",
+      "v = 2gh",
+      "v = h/2g"
+    ],
+    "correctAnswer": "v = √(2gh)",
+    "explanation": "Efflux speed from a small hole is √(2gh).",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 35: Torricelli’s theorem is derived from:",
+    "options": [
+      "Bernoulli’s equation",
+      "Coulomb’s law",
+      "Snell’s law",
+      "Boyle’s law"
+    ],
+    "correctAnswer": "Bernoulli’s equation",
+    "explanation": "It is an application of Bernoulli’s theorem.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 36: Efflux means:",
+    "options": [
+      "Flowing out of liquid through an opening",
+      "Heating of liquid",
+      "Freezing of liquid",
+      "Expansion of solid"
+    ],
+    "correctAnswer": "Flowing out of liquid through an opening",
+    "explanation": "Efflux is outflow through a hole or orifice.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "efflux"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 37: If height of liquid column increases, speed of efflux:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Remains fixed"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "v = √(2gh), so speed increases with height.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 38: Terminal velocity is achieved when:",
+    "options": [
+      "Net force becomes zero",
+      "Weight becomes zero",
+      "Drag disappears",
+      "Mass becomes zero"
+    ],
+    "correctAnswer": "Net force becomes zero",
+    "explanation": "At terminal velocity, weight is balanced by upward forces.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 39: At terminal velocity, acceleration of falling body is:",
+    "options": [
+      "Zero",
+      "g",
+      "Infinite",
+      "Negative always"
+    ],
+    "correctAnswer": "Zero",
+    "explanation": "Net force is zero, so acceleration is zero.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 40: The force opposing motion of a body through fluid is called:",
+    "options": [
+      "Drag force",
+      "Centripetal force",
+      "Nuclear force",
+      "Electrostatic force only"
+    ],
+    "correctAnswer": "Drag force",
+    "explanation": "Drag resists motion through a fluid.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "drag force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 41: Drag force generally increases with:",
+    "options": [
+      "Speed",
+      "Mass only",
+      "Colour",
+      "Temperature only"
+    ],
+    "correctAnswer": "Speed",
+    "explanation": "Resistance of a fluid increases as speed increases.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "drag force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 42: Stokes’ law applies to:",
+    "options": [
+      "Small spherical bodies moving slowly in viscous fluid",
+      "Planets only",
+      "Sound waves",
+      "Electric circuits"
+    ],
+    "correctAnswer": "Small spherical bodies moving slowly in viscous fluid",
+    "explanation": "Stokes' law is for small spheres in laminar viscous flow.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 43: According to Stokes’ law, viscous drag is:",
+    "options": [
+      "F = 6πηrv",
+      "F = mv²/r",
+      "F = PA",
+      "F = qvB"
+    ],
+    "correctAnswer": "F = 6πηrv",
+    "explanation": "Stokes’ drag on a sphere is 6πηrv.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 44: In Stokes’ law, η represents:",
+    "options": [
+      "Coefficient of viscosity",
+      "Density",
+      "Pressure",
+      "Frequency"
+    ],
+    "correctAnswer": "Coefficient of viscosity",
+    "explanation": "η is the coefficient of viscosity.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 45: In Stokes’ law, r represents:",
+    "options": [
+      "Radius of sphere",
+      "Radius of pipe only",
+      "Density",
+      "Pressure"
+    ],
+    "correctAnswer": "Radius of sphere",
+    "explanation": "r is radius of the small spherical body.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 46: If viscosity increases, terminal velocity of a small sphere:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes infinite",
+      "Remains same always"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "Greater viscosity means greater drag, reducing terminal velocity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 47: A raindrop falls with nearly constant speed after some time because it reaches:",
+    "options": [
+      "Terminal velocity",
+      "Escape velocity",
+      "Sound speed",
+      "Angular velocity"
+    ],
+    "correctAnswer": "Terminal velocity",
+    "explanation": "Drag balances weight and net acceleration becomes zero.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 48: The pressure energy per unit volume is represented by:",
+    "options": [
+      "P",
+      "ρgh",
+      "1/2ρv²",
+      "Av"
+    ],
+    "correctAnswer": "P",
+    "explanation": "Pressure itself has dimensions of energy per unit volume.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 49: The unit of pressure is equivalent to:",
+    "options": [
+      "N m⁻²",
+      "N m",
+      "kg m",
+      "J s"
+    ],
+    "correctAnswer": "N m⁻²",
+    "explanation": "Pascal is equal to newton per square metre.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 50: Atmospheric pressure is measured by:",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Ammeter",
+      "Voltmeter"
+    ],
+    "correctAnswer": "Barometer",
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 51: Manometer is used to measure:",
+    "options": [
+      "Pressure difference",
+      "Electric current",
+      "Mass",
+      "Temperature only"
+    ],
+    "correctAnswer": "Pressure difference",
+    "explanation": "A manometer compares fluid pressures.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 52: The pressure at a depth h in a liquid is:",
+    "options": [
+      "P = ρgh",
+      "P = ρg/h",
+      "P = h/ρg",
+      "P = gh/ρ"
+    ],
+    "correctAnswer": "P = ρgh",
+    "explanation": "Hydrostatic pressure due to liquid column is ρgh.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 53: Pressure in a liquid increases with:",
+    "options": [
+      "Depth",
+      "Colour",
+      "Shape only",
+      "Sound"
+    ],
+    "correctAnswer": "Depth",
+    "explanation": "P = ρgh, so pressure increases with depth.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 54: For an incompressible liquid, density is:",
+    "options": [
+      "Constant",
+      "Zero",
+      "Infinite",
+      "Always changing sharply"
+    ],
+    "correctAnswer": "Constant",
+    "explanation": "Incompressible liquid has essentially constant density.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "incompressible fluid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 55: In steady flow, fluid velocity at a given point:",
+    "options": [
+      "Remains constant with time",
+      "Always increases",
+      "Always decreases",
+      "Is random"
+    ],
+    "correctAnswer": "Remains constant with time",
+    "explanation": "Steady flow has fixed velocity at each point.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "steady flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 56: In non-steady flow, velocity at a point:",
+    "options": [
+      "Changes with time",
+      "Is always zero",
+      "Never changes",
+      "Is absent"
+    ],
+    "correctAnswer": "Changes with time",
+    "explanation": "Unsteady flow varies with time.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "steady flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 57: Streamlines never cross each other because at crossing point fluid would have:",
+    "options": [
+      "Two directions of velocity",
+      "No pressure",
+      "No density",
+      "Zero mass"
+    ],
+    "correctAnswer": "Two directions of velocity",
+    "explanation": "A particle cannot have two velocity directions at one point.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamlines"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 58: The tangent to a streamline gives direction of:",
+    "options": [
+      "Velocity",
+      "Force only",
+      "Pressure only",
+      "Density only"
+    ],
+    "correctAnswer": "Velocity",
+    "explanation": "Velocity at any point is tangent to the streamline.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamlines"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 59: An example of Bernoulli’s principle is:",
+    "options": [
+      "Atomizer spray",
+      "Electric heater",
+      "Simple pendulum only",
+      "Magnet attraction"
+    ],
+    "correctAnswer": "Atomizer spray",
+    "explanation": "Fast air creates low pressure, drawing liquid upward.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 60: A Bunsen burner uses:",
+    "options": [
+      "Bernoulli’s principle",
+      "Coulomb’s law",
+      "Hooke’s law",
+      "Law of reflection"
+    ],
+    "correctAnswer": "Bernoulli’s principle",
+    "explanation": "Fast gas flow lowers pressure and draws air in.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 61: Blood flow through arteries can be studied using:",
+    "options": [
+      "Continuity and Bernoulli principles",
+      "Snell’s law",
+      "Photoelectric effect",
+      "Nuclear fission"
+    ],
+    "correctAnswer": "Continuity and Bernoulli principles",
+    "explanation": "Fluid dynamics applies to blood flow in vessels.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 62: When water flows from a wider pipe to a narrower pipe, its speed:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Stays same always"
+    ],
+    "correctAnswer": "Increases",
+    "explanation": "Continuity equation says smaller area gives greater speed.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 63: When water enters a wider pipe from a narrow pipe, its speed:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes infinite",
+      "Becomes zero always"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "For constant flow rate, larger area means smaller speed.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 64: For steady incompressible flow, A₁v₁ and A₂v₂ are:",
+    "options": [
+      "Equal",
+      "Always different",
+      "Zero",
+      "Infinite"
+    ],
+    "correctAnswer": "Equal",
+    "explanation": "Continuity equation gives A₁v₁ = A₂v₂.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 65: If A₁ = 4 cm², v₁ = 2 m/s, and A₂ = 2 cm², v₂ is:",
+    "options": [
+      "4 m/s",
+      "2 m/s",
+      "1 m/s",
+      "8 m/s"
+    ],
+    "correctAnswer": "4 m/s",
+    "explanation": "A₁v₁ = A₂v₂, so v₂ = 4×2/2 = 4 m/s.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "numerical"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 66: If area is reduced to half, speed becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "From Av = constant, v is inversely proportional to area.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 67: If liquid speed doubles in a horizontal pipe, pressure:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Does not exist",
+      "Becomes infinite"
+    ],
+    "correctAnswer": "Decreases",
+    "explanation": "In horizontal flow, increased kinetic term lowers pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 68: In a horizontal pipe, Bernoulli equation becomes:",
+    "options": [
+      "P + 1/2ρv² = constant",
+      "P + ρgh = constant only",
+      "Av = constant only",
+      "F = ma"
+    ],
+    "correctAnswer": "P + 1/2ρv² = constant",
+    "explanation": "Height is constant, so ρgh is unchanged.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 69: The speed of liquid from an orifice depends on:",
+    "options": [
+      "Height of liquid above the hole",
+      "Colour of liquid",
+      "Shape of container only",
+      "Atmospheric temperature only"
+    ],
+    "correctAnswer": "Height of liquid above the hole",
+    "explanation": "Torricelli theorem gives v = √(2gh).",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 70: If h = 5 m and g = 10 m/s², efflux speed is:",
+    "options": [
+      "10 m/s",
+      "5 m/s",
+      "50 m/s",
+      "100 m/s"
+    ],
+    "correctAnswer": "10 m/s",
+    "explanation": "v = √(2gh) = √(100) = 10 m/s.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "numerical"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 71: If h becomes four times, efflux speed becomes:",
+    "options": [
+      "Double",
+      "Four times",
+      "Half",
+      "Unchanged"
+    ],
+    "correctAnswer": "Double",
+    "explanation": "v ∝ √h, so four times height gives double speed.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 72: A fluid with zero viscosity is called:",
+    "options": [
+      "Non-viscous fluid",
+      "Highly viscous fluid",
+      "Turbulent fluid only",
+      "Solid fluid"
+    ],
+    "correctAnswer": "Non-viscous fluid",
+    "explanation": "An ideal fluid is non-viscous.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "ideal fluid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 73: Real fluids have:",
+    "options": [
+      "Viscosity",
+      "No internal friction",
+      "No density",
+      "No pressure"
+    ],
+    "correctAnswer": "Viscosity",
+    "explanation": "All real fluids show some internal friction.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 74: The motion of smoke rising irregularly is an example of:",
+    "options": [
+      "Turbulent flow",
+      "Streamline flow",
+      "Static flow",
+      "Ideal flow"
+    ],
+    "correctAnswer": "Turbulent flow",
+    "explanation": "Smoke often forms irregular eddies.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "turbulent flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 75: Slow flow of honey is mainly due to:",
+    "options": [
+      "High viscosity",
+      "Low density only",
+      "Zero pressure",
+      "No gravity"
+    ],
+    "correctAnswer": "High viscosity",
+    "explanation": "Honey resists flow strongly due to viscosity.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 76: Reynolds number depends on density, velocity, diameter and:",
+    "options": [
+      "Viscosity",
+      "Colour",
+      "Electric charge",
+      "Light intensity"
+    ],
+    "correctAnswer": "Viscosity",
+    "explanation": "Reynolds number includes coefficient of viscosity.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 77: For low Reynolds number, flow is generally:",
+    "options": [
+      "Laminar",
+      "Turbulent",
+      "Random",
+      "Explosive"
+    ],
+    "correctAnswer": "Laminar",
+    "explanation": "Low Reynolds number indicates smooth viscous-dominated flow.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 78: For high Reynolds number, flow is generally:",
+    "options": [
+      "Turbulent",
+      "Laminar",
+      "Static",
+      "Motionless"
+    ],
+    "correctAnswer": "Turbulent",
+    "explanation": "High Reynolds number indicates inertia-dominated irregular flow.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 79: The force of viscosity acts:",
+    "options": [
+      "Opposite relative motion of fluid layers",
+      "Along gravity only",
+      "Only upward",
+      "Only downward"
+    ],
+    "correctAnswer": "Opposite relative motion of fluid layers",
+    "explanation": "Viscous force resists relative sliding of layers.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 80: The velocity gradient is rate of change of velocity with:",
+    "options": [
+      "Distance perpendicular to flow",
+      "Time only",
+      "Mass",
+      "Temperature"
+    ],
+    "correctAnswer": "Distance perpendicular to flow",
+    "explanation": "Velocity gradient describes change of velocity between fluid layers.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 81: Poiseuille’s equation describes flow through:",
+    "options": [
+      "A narrow tube",
+      "A solid wire",
+      "A vacuum only",
+      "A lens"
+    ],
+    "correctAnswer": "A narrow tube",
+    "explanation": "Poiseuille’s law applies to viscous flow in a tube.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 82: Flow through a capillary tube increases strongly with:",
+    "options": [
+      "Fourth power of radius",
+      "First power of mass",
+      "Square of pressure only",
+      "Temperature only"
+    ],
+    "correctAnswer": "Fourth power of radius",
+    "explanation": "Poiseuille’s law has flow rate proportional to r⁴.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 83: If radius of a tube is doubled, viscous flow rate becomes:",
+    "options": [
+      "16 times",
+      "2 times",
+      "4 times",
+      "8 times"
+    ],
+    "correctAnswer": "16 times",
+    "explanation": "Flow rate ∝ r⁴, so doubling radius gives 2⁴ = 16 times.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 84: Surface tension is due to:",
+    "options": [
+      "Cohesive forces between liquid molecules",
+      "Nuclear forces",
+      "Electric current",
+      "Magnetic field only"
+    ],
+    "correctAnswer": "Cohesive forces between liquid molecules",
+    "explanation": "Molecular attraction creates surface tension.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 85: The SI unit of surface tension is:",
+    "options": [
+      "N m⁻¹",
+      "N m",
+      "Pa s",
+      "kg m⁻³"
+    ],
+    "correctAnswer": "N m⁻¹",
+    "explanation": "Surface tension is force per unit length.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 86: Small insects can walk on water due to:",
+    "options": [
+      "Surface tension",
+      "Bernoulli principle only",
+      "Centripetal force",
+      "Electric force"
+    ],
+    "correctAnswer": "Surface tension",
+    "explanation": "Surface tension supports small insects on water.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 87: Capillary action occurs due to:",
+    "options": [
+      "Adhesion, cohesion and surface tension",
+      "Only gravity",
+      "Only electricity",
+      "Only magnetism"
+    ],
+    "correctAnswer": "Adhesion, cohesion and surface tension",
+    "explanation": "Capillary rise depends on molecular forces and surface tension.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 88: Water rises in a glass capillary because adhesive force is:",
+    "options": [
+      "Greater than cohesive force",
+      "Zero",
+      "Less than gravity only",
+      "Not present"
+    ],
+    "correctAnswer": "Greater than cohesive force",
+    "explanation": "Water wets glass, causing capillary rise.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 89: Mercury falls in a glass capillary because cohesive force is:",
+    "options": [
+      "Greater than adhesive force",
+      "Zero",
+      "Equal to gravity",
+      "Not present"
+    ],
+    "correctAnswer": "Greater than adhesive force",
+    "explanation": "Mercury does not wet glass and shows depression.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 90: The shape of liquid meniscus depends on:",
+    "options": [
+      "Adhesion and cohesion",
+      "Only density",
+      "Only pressure",
+      "Only temperature"
+    ],
+    "correctAnswer": "Adhesion and cohesion",
+    "explanation": "Meniscus shape is due to relative adhesive and cohesive forces.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 91: Pascal’s law is used in:",
+    "options": [
+      "Hydraulic press",
+      "Transformer",
+      "Telescope",
+      "Diode"
+    ],
+    "correctAnswer": "Hydraulic press",
+    "explanation": "Hydraulic machines use transmission of pressure in fluids.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Pascal law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 92: Hydraulic brakes work on:",
+    "options": [
+      "Pascal’s law",
+      "Snell’s law",
+      "Coulomb’s law",
+      "Newton’s law of gravitation only"
+    ],
+    "correctAnswer": "Pascal’s law",
+    "explanation": "Pressure applied to enclosed fluid is transmitted equally.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Pascal law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 93: The upward force exerted by fluid on an immersed body is:",
+    "options": [
+      "Buoyant force",
+      "Drag force only",
+      "Tension",
+      "Normal force only"
+    ],
+    "correctAnswer": "Buoyant force",
+    "explanation": "Buoyancy is the upward force by a fluid.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 94: Archimedes’ principle relates buoyant force to:",
+    "options": [
+      "Weight of displaced fluid",
+      "Mass of body only",
+      "Speed of sound",
+      "Electric charge"
+    ],
+    "correctAnswer": "Weight of displaced fluid",
+    "explanation": "Buoyant force equals weight of displaced fluid.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 95: A body floats when its weight is:",
+    "options": [
+      "Equal to buoyant force",
+      "Greater than buoyant force always",
+      "Zero",
+      "Less than mass"
+    ],
+    "correctAnswer": "Equal to buoyant force",
+    "explanation": "For floating equilibrium, upward buoyant force equals weight.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 96: A ship floats because it displaces water whose weight is:",
+    "options": [
+      "Equal to ship’s weight",
+      "Zero",
+      "Less than air pressure",
+      "Unrelated to ship"
+    ],
+    "correctAnswer": "Equal to ship’s weight",
+    "explanation": "Floating occurs when displaced water supports the ship.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 97: The pressure in a moving fluid is lowest where velocity is:",
+    "options": [
+      "Highest",
+      "Lowest",
+      "Zero",
+      "Constant only"
+    ],
+    "correctAnswer": "Highest",
+    "explanation": "Bernoulli’s principle relates high speed with low pressure.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 98: A spinning ball curves in air due to:",
+    "options": [
+      "Pressure difference in moving air",
+      "Mass becoming zero",
+      "No gravity",
+      "No friction"
+    ],
+    "correctAnswer": "Pressure difference in moving air",
+    "explanation": "Different air speeds around the spinning ball create pressure difference.",
+    "difficulty": "medium",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 99: The equation of continuity is valid for:",
+    "options": [
+      "Steady incompressible flow",
+      "Only solids",
+      "Static electricity",
+      "Nuclear reactions"
+    ],
+    "correctAnswer": "Steady incompressible flow",
+    "explanation": "A₁v₁ = A₂v₂ applies to steady incompressible fluid flow.",
+    "difficulty": "hard",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "mcq",
+    "question": "MCQ 100: Bernoulli’s equation is valid for ideal fluid undergoing:",
+    "options": [
+      "Steady streamline flow",
+      "Highly turbulent flow only",
+      "Chemical reaction",
+      "Solid deformation"
+    ],
+    "correctAnswer": "Steady streamline flow",
+    "explanation": "Bernoulli’s equation assumes steady, non-viscous, incompressible flow.",
+    "difficulty": "easy",
+    "marks": 1,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 1: Define fluid dynamics.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "basic concept"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 2: Define an ideal fluid.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "ideal fluid"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 3: Define pressure and write its SI unit.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 4: Define density and write its formula.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "density"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 5: Define viscosity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 6: Write the SI unit of coefficient of viscosity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 7: Differentiate between streamline and turbulent flow.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamline flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 8: Define critical speed.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "critical speed"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 9: What is Reynolds number?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 10: Why is Reynolds number dimensionless?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 11: State the equation of continuity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 12: What is volume flow rate?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "flow rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 13: Write the formula Q = Av and define each symbol.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "flow rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 14: State Bernoulli’s principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 15: Write Bernoulli’s equation for ideal fluid.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 16: What does 1/2ρv² represent in Bernoulli’s equation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 17: What does ρgh represent in Bernoulli’s equation?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 18: Why does pressure decrease where fluid speed increases?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 19: What is a Venturi meter?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 20: Why is pressure minimum in the narrow part of a Venturi tube?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 21: State Torricelli’s theorem.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 22: What is meant by speed of efflux?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "efflux"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 23: Define terminal velocity.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 24: Why is acceleration zero at terminal velocity?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 25: Define drag force.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "drag force"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 26: State Stokes’ law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 27: What is the physical meaning of η in Stokes’ law?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 28: How does viscosity affect terminal velocity?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 29: What is Poiseuille’s law?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 30: How does radius of tube affect viscous flow rate?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 31: Define surface tension.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 32: Write the SI unit of surface tension.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 33: Why can small insects walk on water?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 34: Define capillary action.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 35: Why does water rise in a glass capillary tube?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 36: Why does mercury fall in a glass capillary tube?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 37: State Pascal’s law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Pascal law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 38: Give one application of Pascal’s law.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Pascal law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 39: State Archimedes’ principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 40: What is buoyant force?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 41: Why does a ship float on water?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 42: Mention two assumptions of Bernoulli’s equation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 43: Mention two applications of Bernoulli’s principle.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 44: How does an airplane wing get lift?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 45: What is the use of a manometer?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 46: What is the use of a barometer?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 3,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "pressure"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 47: Why do streamlines never cross each other?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamlines"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 48: What is steady flow?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "steady flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 49: What is turbulent flow?",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 2,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "turbulent flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "short",
+    "question": "Short Question 50: Give two daily life applications of fluid dynamics.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 3,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 1: Explain viscosity and describe how it affects fluid flow.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "viscosity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 2: Differentiate between streamline flow and turbulent flow with examples.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "streamline flow"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 3: Explain Reynolds number and its importance in predicting fluid flow.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Reynolds number"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 4: Derive the equation of continuity for steady incompressible flow.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "continuity equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 5: Explain volume flow rate and solve a numerical using Q = Av.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "flow rate"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 6: State and explain Bernoulli’s principle with physical meaning.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli principle"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 7: Derive Bernoulli’s equation for an ideal fluid.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Bernoulli equation"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 8: Explain applications of Bernoulli’s principle in airplane lift and atomizer.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 9: Explain the construction and working of a Venturi meter.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Venturi meter"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 10: Derive Torricelli’s theorem using Bernoulli’s equation.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Torricelli theorem"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 11: Explain terminal velocity of a body falling through a viscous fluid.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "terminal velocity"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 12: State Stokes’ law and derive the expression for terminal velocity of a small sphere.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Stokes law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 13: Explain Poiseuille’s law and the effect of tube radius on flow rate.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Poiseuille law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 14: Explain surface tension with examples from daily life.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "surface tension"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 15: Explain capillary action and discuss rise of water and fall of mercury in capillary tubes.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "capillary action"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 16: State Pascal’s law and explain hydraulic press or hydraulic brakes.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 6,
+    "isImportant": true,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "Pascal law"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 17: State Archimedes’ principle and explain floating of bodies.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "buoyancy"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 18: Compare pressure, density, viscosity and surface tension in tabular form.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "hard",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "comparison"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 19: Solve numerical problems based on continuity equation, Bernoulli equation and Torricelli theorem.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "easy",
+    "marks": 5,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "numericals"
+    ]
+  },
+  {
+    "classLevel": "1st Year",
+    "classId": "1st Year",
+    "subject": "Physics",
+    "subjectId": "Physics",
+    "chapter": "Fluid Dynamics",
+    "chapterId": "Fluid Dynamics",
+    "type": "long",
+    "question": "Long Question 20: Discuss the importance of fluid dynamics in aircraft, medical flow, water supply and machines.",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": "medium",
+    "marks": 6,
+    "isImportant": false,
+    "tags": [
+      "1st Year",
+      "Physics",
+      "Fluid Dynamics",
+      "applications"
+    ]
+  }
+]
