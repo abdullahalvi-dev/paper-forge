@@ -3,7 +3,7 @@
  * Ye file security constants rakhti hai.
  * Super admin email yahin se verify hoti hai taake admin role sirf trusted account ko mil sake.
  */
-const SUPER_ADMIN_EMAIL = 'aalvi8494@gmail.com';
+const SUPER_ADMIN_EMAIL = 'abdullahalvi176@gmail.com';
 
 const normalizeEmail = (value) => String(value || '').trim().toLowerCase();
 const isSuperAdminEmail = (email) => normalizeEmail(email) === SUPER_ADMIN_EMAIL;
