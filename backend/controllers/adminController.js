@@ -34,6 +34,17 @@ const shortDate = (value) => (value ? new Date(value).toLocaleDateString() : 'No
 const personName = (user, fallback = 'System record') => user?.name || user?.email || fallback;
 const allowedUserRoles = ['student', 'teacher', 'admin'];
 const normalizeRole = (role) => String(role || '').trim().toLowerCase();
+const clearPendingRegistration = (user) => {
+  user.emailVerified = true;
+  user.emailVerifiedAt = user.emailVerifiedAt || new Date();
+  user.emailVerificationCodeHash = undefined;
+  user.emailVerificationChallengeHash = undefined;
+  user.emailVerificationExpiresAt = undefined;
+  user.emailVerificationSentAt = undefined;
+  user.emailVerificationAttempts = 0;
+  user.registrationReviewReason = null;
+  user.registrationReviewRequestedAt = undefined;
+};
 
 const applyUserRoleChange = async ({ actor, targetUserId, role }) => {
   const normalizedRole = normalizeRole(role);
@@ -184,10 +195,22 @@ const updateUser = async (req, res, next) => {
     const user = await User.findById(req.params.id);
     if (!user) return res.status(404).json({ message: 'User not found' });
 
-    if (req.body.status) user.status = req.body.status;
+    if (req.body.status) {
+      user.status = req.body.status;
+      if (req.body.status === 'active' && user.emailVerified === false) {
+        clearPendingRegistration(user);
+      }
+    }
     if (req.body.subscription) user.subscription = req.body.subscription;
 
     await user.save();
+    if (user.status === 'active') {
+      await Subscription.findOneAndUpdate(
+        { userId: user._id },
+        { $setOnInsert: { plan: 'free', status: 'pending' } },
+        { upsert: true, new: true }
+      );
+    }
     res.json({ user });
   } catch (error) {
     next(error);

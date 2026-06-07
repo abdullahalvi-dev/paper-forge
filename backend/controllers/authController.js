@@ -74,6 +74,22 @@ const buildVerificationResponse = ({ email, challengeToken, delivery, message })
   expiresInSeconds: registrationCodeTtlMinutes() * 60,
   ...(delivery.devCode ? { devCode: delivery.devCode } : {})
 });
+const isEmailDeliverySetupError = (error) =>
+  ['EMAIL_CONFIG_MISSING', 'EMAIL_DELIVERY_FAILED'].includes(error.code) || [502, 503].includes(error.statusCode);
+const clearRegistrationVerificationFields = (user) => {
+  user.emailVerificationCodeHash = undefined;
+  user.emailVerificationChallengeHash = undefined;
+  user.emailVerificationExpiresAt = undefined;
+  user.emailVerificationSentAt = undefined;
+  user.emailVerificationAttempts = 0;
+};
+const buildManualReviewResponse = (user) => ({
+  message: 'Account request received. Admin approval is required before login.',
+  manualReviewRequired: true,
+  email: user.email,
+  status: user.status,
+  role: user.role
+});
 
 const signToken = (user) =>
   jwt.sign({ id: user._id, role: user.role }, process.env.JWT_SECRET, {
@@ -128,6 +144,9 @@ const register = async (req, res, next) => {
     if (existingUser && existingUser.emailVerified !== false) {
       return res.status(409).json({ message: 'Email already registered' });
     }
+    if (existingUser?.registrationReviewReason) {
+      return res.status(202).json(buildManualReviewResponse(existingUser));
+    }
     if (existingUser) ensureRegistrationCooldownPassed(existingUser);
 
     const challenge = createRegistrationChallenge(email);
@@ -145,6 +164,8 @@ const register = async (req, res, next) => {
     user.emailVerificationExpiresAt = challenge.expiresAt;
     user.emailVerificationSentAt = new Date();
     user.emailVerificationAttempts = 0;
+    user.registrationReviewReason = null;
+    user.registrationReviewRequestedAt = undefined;
 
     await user.save();
 
@@ -152,8 +173,23 @@ const register = async (req, res, next) => {
     try {
       delivery = await sendRegistrationCode(email, challenge.code, challenge.ttlMinutes);
     } catch (error) {
-      await User.deleteOne({ _id: user._id, emailVerified: false });
-      throw error;
+      if (!isEmailDeliverySetupError(error)) {
+        await User.deleteOne({ _id: user._id, emailVerified: false });
+        throw error;
+      }
+      clearRegistrationVerificationFields(user);
+      user.registrationReviewReason = error.code === 'EMAIL_CONFIG_MISSING' ? 'email_service_missing' : 'email_delivery_failed';
+      user.registrationReviewRequestedAt = new Date();
+      await user.save();
+      return res.status(202).json(buildManualReviewResponse(user));
+    }
+
+    if (!delivery?.delivered && !delivery?.devCode) {
+      clearRegistrationVerificationFields(user);
+      user.registrationReviewReason = 'email_delivery_failed';
+      user.registrationReviewRequestedAt = new Date();
+      await user.save();
+      return res.status(202).json(buildManualReviewResponse(user));
     }
 
     res
@@ -212,6 +248,8 @@ const verifyRegistrationEmail = async (req, res, next) => {
     user.emailVerificationExpiresAt = undefined;
     user.emailVerificationSentAt = undefined;
     user.emailVerificationAttempts = 0;
+    user.registrationReviewReason = null;
+    user.registrationReviewRequestedAt = undefined;
     await user.save();
 
     await Subscription.findOneAndUpdate(
@@ -244,6 +282,9 @@ const resendRegistrationCode = async (req, res, next) => {
     }
     if (!safeEqual(hashChallenge(challengeToken), user.emailVerificationChallengeHash)) {
       return res.status(400).json({ message: 'Invalid verification session. Please register again.' });
+    }
+    if (user.registrationReviewReason) {
+      return res.status(400).json({ message: 'This account is waiting for admin approval.' });
     }
     ensureRegistrationCooldownPassed(user);
 
@@ -294,6 +335,9 @@ const login = async (req, res, next) => {
     }
 
     if (user.emailVerified === false) {
+      if (user.registrationReviewReason) {
+        return res.status(403).json({ message: 'Your account is pending admin approval.' });
+      }
       return res.status(403).json({ message: 'Please verify your email before login.' });
     }
     if (user.status !== 'active') {

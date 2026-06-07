@@ -59,6 +59,7 @@ const createEmailConfigError = () => {
     'Email verification is not configured. Add SMTP_HOST, SMTP_USER and SMTP_PASS in Vercel Environment Variables, then redeploy.'
   );
   error.statusCode = 503;
+  error.code = 'EMAIL_CONFIG_MISSING';
   return error;
 };
 
@@ -90,6 +91,7 @@ const sendCodeEmail = async ({ to, code, subject, text, html }) => {
     });
     const deliveryError = new Error('Verification email could not be sent. Please check SMTP settings and try again.');
     deliveryError.statusCode = 502;
+    deliveryError.code = 'EMAIL_DELIVERY_FAILED';
     throw deliveryError;
   }
 
@@ -119,6 +121,7 @@ const sendRegistrationCode = (to, code, ttlMinutes) => {
 };
 
 module.exports = {
+  hasSmtpConfig,
   sendRegistrationCode,
   sendResetPin
 };
