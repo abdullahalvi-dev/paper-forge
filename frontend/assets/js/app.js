@@ -860,12 +860,6 @@
             role: formValue(form, 'role')
           }
         });
-        if (data.manualReviewRequired) {
-          clearRegistrationVerification();
-          showMessage(data.message || 'Account request received. Admin approval is required before login.', 'success');
-          form.reset();
-          return;
-        }
         localStorage.setItem('registrationEmail', data.email || email);
         localStorage.setItem('registrationChallenge', data.challengeToken);
         if (data.devCode) localStorage.setItem('registrationDevCode', data.devCode);
@@ -2846,10 +2840,9 @@
         .map(
           (item) => {
             const isOwnAccount = String(item._id) === String(user.id || user._id || '');
-            const needsApproval = item.emailVerified === false && Boolean(item.registrationReviewReason);
-            const needsEmailVerification = item.emailVerified === false && !needsApproval;
-            const statusText = needsApproval ? 'pending approval' : needsEmailVerification ? 'email pending' : item.status;
-            const statusTone = item.status === 'active' ? 'success' : needsApproval ? 'warning' : 'secondary';
+            const needsEmailVerification = item.emailVerified === false;
+            const statusText = needsEmailVerification ? 'email pending' : item.status;
+            const statusTone = item.status === 'active' ? 'success' : needsEmailVerification ? 'warning' : 'secondary';
             const roleOptions = [
               'teacher',
               'student',
@@ -2874,9 +2867,13 @@
               </td>
               <td><span class="badge text-bg-${statusTone}">${escapeHtml(statusText)}</span></td>
               <td>
-                <button class="btn btn-sm btn-outline-primary js-status" data-id="${item._id}" data-status="${item.status === 'active' ? 'inactive' : 'active'}">
-                  ${item.status === 'active' ? 'Deactivate' : needsApproval ? 'Approve' : 'Activate'}
-                </button>
+                ${
+                  needsEmailVerification
+                    ? '<button class="btn btn-sm btn-outline-secondary" disabled>Awaiting OTP</button>'
+                    : `<button class="btn btn-sm btn-outline-primary js-status" data-id="${item._id}" data-status="${item.status === 'active' ? 'inactive' : 'active'}">
+                        ${item.status === 'active' ? 'Deactivate' : 'Activate'}
+                      </button>`
+                }
                 <button class="btn btn-sm btn-outline-danger js-delete-user" data-id="${item._id}">Delete</button>
               </td>
             </tr>

@@ -40,6 +40,12 @@ const createValidationError = (message, statusCode = 400) => {
   return error;
 };
 
+const createMxTimeoutError = () => {
+  const error = createValidationError('Email domain verification timed out.', 503);
+  error.code = 'MX_TIMEOUT';
+  return error;
+};
+
 const normalizeStrictEmail = (value) => {
   const normalized = String(value || '').trim().toLowerCase();
   const atIndex = normalized.lastIndexOf('@');
@@ -81,7 +87,7 @@ const assertEmailCanReceiveMail = async (value) => {
     const mxRecords = await Promise.race([
       dns.resolveMx(result.domain),
       new Promise((_, reject) =>
-        setTimeout(() => reject(createValidationError('Email domain verification timed out.', 503)), 5000)
+        setTimeout(() => reject(createMxTimeoutError()), 5000)
       )
     ]);
 
@@ -89,6 +95,9 @@ const assertEmailCanReceiveMail = async (value) => {
       throw createValidationError('This email domain cannot receive email. Please use an official email address.');
     }
   } catch (error) {
+    if (error.code === 'MX_TIMEOUT') {
+      return result;
+    }
     if (error.statusCode) throw error;
     if (['ENODATA', 'ENOTFOUND', 'ESERVFAIL', 'EREFUSED'].includes(error.code)) {
       throw createValidationError('This email domain cannot receive email. Please use an official email address.');

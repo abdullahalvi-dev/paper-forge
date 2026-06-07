@@ -55,14 +55,6 @@ const userSchema = new mongoose.Schema(
       default: 0,
       select: false
     },
-    registrationReviewReason: {
-      type: String,
-      enum: ['email_service_missing', 'email_delivery_failed', null],
-      default: null
-    },
-    registrationReviewRequestedAt: {
-      type: Date
-    },
     password: {
       type: String,
       required: true,
