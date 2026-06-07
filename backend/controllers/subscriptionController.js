@@ -14,7 +14,7 @@ const {
   handleStripeWebhook
 } = require('../services/subscriptionService');
 const { getSettings } = require('../services/settingsService');
-const { isSuperAdminEmail } = require('../config/security');
+const { isSuperAdmin } = require('../config/security');
 
 const status = async (req, res, next) => {
   try {
@@ -69,7 +69,7 @@ const webhook = async (req, res, next) => {
 
 const listPayments = async (req, res, next) => {
   try {
-    const query = isSuperAdminEmail(req.user.email) ? {} : { userId: req.user._id };
+    const query = isSuperAdmin(req.user) ? {} : { userId: req.user._id };
     const payments = await PaymentTransaction.find(query).sort({ createdAt: -1 }).populate('userId', 'name email role');
     res.json({ payments });
   } catch (error) {

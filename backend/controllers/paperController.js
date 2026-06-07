@@ -10,6 +10,7 @@ const { syncQuestionBankFiles } = require('../services/questionBankFileService')
 const { createPdfBuffer, createWordBuffer } = require('../services/pdfService');
 const { consumeTrialOrRequireSubscription } = require('../services/subscriptionService');
 const { cleanQuestionText } = require('../utils/questionText');
+const { isTrustedAdmin } = require('../config/security');
 
 const countByType = (questions = []) => ({
   mcq: questions.filter((question) => question.type === 'mcq').length,
@@ -213,7 +214,7 @@ const createPaper = async (req, res, next) => {
 
 const listPapers = async (req, res, next) => {
   try {
-    const query = req.user.role === 'admin' ? {} : { teacherId: req.user._id };
+    const query = isTrustedAdmin(req.user) ? {} : { teacherId: req.user._id };
     const papers = await Paper.find(query).sort({ createdAt: -1 }).populate('teacherId', 'name email');
     res.json({ papers });
   } catch (error) {
@@ -227,7 +228,7 @@ const getPaper = async (req, res, next) => {
     if (!paper) return res.status(404).json({ message: 'Paper not found' });
 
     const ownsPaper = String(paper.teacherId._id || paper.teacherId) === String(req.user._id);
-    if (!ownsPaper && req.user.role !== 'admin') {
+    if (!ownsPaper && !isTrustedAdmin(req.user)) {
       return res.status(403).json({ message: 'You cannot access this paper' });
     }
 
@@ -242,7 +243,7 @@ const updatePaper = async (req, res, next) => {
     const paper = await Paper.findById(req.params.id);
     if (!paper) return res.status(404).json({ message: 'Paper not found' });
 
-    if (String(paper.teacherId) !== String(req.user._id) && req.user.role !== 'admin') {
+    if (String(paper.teacherId) !== String(req.user._id) && !isTrustedAdmin(req.user)) {
       return res.status(403).json({ message: 'You cannot update this paper' });
     }
 
@@ -291,7 +292,7 @@ const deletePaper = async (req, res, next) => {
     const paper = await Paper.findById(req.params.id);
     if (!paper) return res.status(404).json({ message: 'Paper not found' });
 
-    if (String(paper.teacherId) !== String(req.user._id) && req.user.role !== 'admin') {
+    if (String(paper.teacherId) !== String(req.user._id) && !isTrustedAdmin(req.user)) {
       return res.status(403).json({ message: 'You cannot delete this paper' });
     }
 
@@ -308,7 +309,7 @@ const downloadPaper = async (req, res, next) => {
     const paper = await Paper.findById(req.params.id);
     if (!paper) return res.status(404).json({ message: 'Paper not found' });
 
-    if (String(paper.teacherId) !== String(req.user._id) && req.user.role !== 'admin') {
+    if (String(paper.teacherId) !== String(req.user._id) && !isTrustedAdmin(req.user)) {
       return res.status(403).json({ message: 'You cannot download this paper' });
     }
 
@@ -335,7 +336,7 @@ const printPaper = async (req, res, next) => {
     const paper = await Paper.findById(req.params.id);
     if (!paper) return res.status(404).send('Paper not found');
 
-    if (String(paper.teacherId) !== String(req.user._id) && req.user.role !== 'admin') {
+    if (String(paper.teacherId) !== String(req.user._id) && !isTrustedAdmin(req.user)) {
       return res.status(403).send('You cannot print this paper');
     }
 

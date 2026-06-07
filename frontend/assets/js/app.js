@@ -68,10 +68,13 @@
   const roleHomes = {
     teacher: appUrl('/dashboard/teacher-dashboard.html'),
     student: appUrl('/dashboard/student-dashboard.html'),
-    admin: appUrl('/dashboard/admin-dashboard.html')
+    admin: appUrl('/dashboard/admin-dashboard.html'),
+    super_admin: appUrl('/dashboard/admin-dashboard.html')
   };
-  const SUPER_ADMIN_EMAIL = 'aalvi8494@gmail.com';
-  const isSuperAdminUser = (user) => String(user?.email || '').trim().toLowerCase() === SUPER_ADMIN_EMAIL;
+  const isSuperAdminUser = (user) => user?.role === 'super_admin' || user?.isSuperAdmin === true;
+  const isAdminUser = (user) => ['admin', 'super_admin'].includes(user?.role);
+  const isRoleAllowed = (userRole, allowedRoles = []) =>
+    allowedRoles.includes(userRole) || (userRole === 'super_admin' && allowedRoles.includes('admin'));
 
   const syllabus = {
     '9th': {
@@ -401,6 +404,7 @@
   const profileLabel = (value, fallback = '-') => {
     const labels = {
       admin: 'Administrator',
+      super_admin: 'Super Administrator',
       teacher: 'Teacher',
       student: 'Student',
       free_trial_used: 'Free Trial Used',
@@ -424,7 +428,7 @@
   const profileDate = (value) => (value ? new Date(value).toLocaleDateString() : 'No expiry');
 
   const profileSubscriptionText = (user) => {
-    if (user?.role === 'admin') return 'Platform access';
+    if (isAdminUser(user)) return 'Platform access';
     const status = profileLabel(user?.subscriptionStatus || (user?.subscription === 'pro' ? 'active' : 'pending'), 'Free');
     const plan = profileLabel(user?.subscriptionPlan || user?.subscription || 'free', 'Free');
     const days = Number(user?.subscriptionRemainingDays);
@@ -436,7 +440,7 @@
     const role = profileLabel(user?.role, 'User');
     const home = roleHomes[user?.role] || '/login.html';
     const secondaryAction =
-      user?.role === 'admin'
+      isAdminUser(user)
         ? isSuperAdminUser(user)
           ? `<a href="${appUrl('/admin/settings.html')}"><i class="bi bi-gear"></i><span>Settings</span></a>`
           : `<a href="${appUrl('/dashboard/admin-dashboard.html')}"><i class="bi bi-speedometer2"></i><span>Dashboard</span></a>`
@@ -566,7 +570,7 @@
       return null;
     }
 
-    if (roles.length && !roles.includes(user.role)) {
+    if (roles.length && !isRoleAllowed(user.role, roles)) {
       redirectByRole(user.role);
       return null;
     }
@@ -2764,7 +2768,12 @@
         .map(
           (item) => {
             const isOwnAccount = String(item._id) === String(user.id || user._id || '');
-            const roleOptions = ['teacher', 'student', ...(canManageRoles || item.role === 'admin' ? ['admin'] : [])];
+            const roleOptions = [
+              'teacher',
+              'student',
+              ...(canManageRoles || item.role === 'admin' ? ['admin'] : []),
+              ...(item.role === 'super_admin' ? ['super_admin'] : [])
+            ];
             const disabledRoleSelect = !canManageRoles
               ? 'disabled title="Only the super admin can change roles"'
               : isOwnAccount
@@ -3231,7 +3240,7 @@
   const initResources = async () => {
     const user = requireAuth(['teacher', 'student', 'admin']);
     if (!user) return;
-    if (user.role === 'admin') initAdminChrome();
+    if (isAdminUser(user)) initAdminChrome();
     const uploadPanel = $('#resourceUploadPanel');
     if (uploadPanel && user.role === 'student') uploadPanel.style.display = 'none';
 

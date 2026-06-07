@@ -6,16 +6,32 @@
 
 const normalizeEmail = (value) => String(value || '').trim().toLowerCase();
 
-const isSuperAdminEmail = () => false;
+const normalizeRole = (value) => String(value || '').trim().toLowerCase();
+
+const superAdminEmails = () =>
+  String(process.env.SUPER_ADMIN_EMAILS || process.env.SUPER_ADMIN_EMAIL || '')
+    .split(',')
+    .map(normalizeEmail)
+    .filter(Boolean);
+
+const isSuperAdminEmail = (value) => {
+  const emails = superAdminEmails();
+  if (!emails.length) return false;
+  return emails.includes(normalizeEmail(value));
+};
+
+const isSuperAdmin = (user) => normalizeRole(user?.role) === 'super_admin';
 
 const isTrustedAdmin = (user) =>
   Boolean(
-    user?.role === 'super_admin' ||
-    (user?.role === 'admin' && user.adminApproved === true)
+    isSuperAdmin(user) ||
+    (normalizeRole(user?.role) === 'admin' && user.adminApproved === true)
   );
 
 module.exports = {
+  isSuperAdmin,
   isTrustedAdmin,
   isSuperAdminEmail,
+  normalizeRole,
   normalizeEmail
 };

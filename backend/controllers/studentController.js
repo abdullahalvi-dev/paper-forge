@@ -8,6 +8,7 @@ const { generateQuestions, normalizeArray } = require('../services/aiEngine');
 const { consumeTrialOrRequireSubscription } = require('../services/subscriptionService');
 const { getSettings } = require('../services/settingsService');
 const { createPracticeAttempt, hidePracticeAnswers } = require('../services/practiceService');
+const { isTrustedAdmin } = require('../config/security');
 
 const normalizeAnswer = (value) =>
   String(value || '')
@@ -29,7 +30,7 @@ const getPractice = async (req, res, next) => {
   try {
     const practice = await Practice.findById(req.params.id);
     if (!practice) return res.status(404).json({ message: 'Practice not found' });
-    if (String(practice.studentId) !== String(req.user._id) && req.user.role !== 'admin') {
+    if (String(practice.studentId) !== String(req.user._id) && !isTrustedAdmin(req.user)) {
       return res.status(403).json({ message: 'You cannot access this practice test' });
     }
 

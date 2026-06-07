@@ -9,7 +9,7 @@ const User = require('../models/User');
 const Subscription = require('../models/Subscription');
 const { sendResetPin } = require('../services/mailService');
 const { getSubscriptionSnapshot } = require('../services/subscriptionService');
-const { isSuperAdminEmail, isTrustedAdmin, normalizeEmail } = require('../config/security');
+const { isSuperAdmin, isSuperAdminEmail, isTrustedAdmin, normalizeEmail } = require('../config/security');
 
 const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i;
 const isValidEmail = (value) => emailPattern.test(normalizeEmail(value));
@@ -21,7 +21,7 @@ const hasValidSuperAdminBootstrapKey = (providedKey) => {
   return crypto.timingSafeEqual(Buffer.from(candidateKey), Buffer.from(expectedKey));
 };
 const resolveRegistrationRole = (email, requestedRole) => {
-  if (isSuperAdminEmail(email)) return 'admin';
+  if (isSuperAdminEmail(email)) return 'super_admin';
   const safeRequestedRole = String(requestedRole || '').trim().toLowerCase();
   return ['student', 'teacher'].includes(safeRequestedRole) ? safeRequestedRole : 'student';
 };
@@ -36,7 +36,8 @@ const publicUser = (user) => ({
   name: user.name,
   email: user.email,
   role: user.role,
-  adminApproved: user.role === 'admin' ? isTrustedAdmin(user) : false,
+  adminApproved: isTrustedAdmin(user),
+  isSuperAdmin: isSuperAdmin(user),
   status: user.status,
   subscription: user.subscription,
   subscriptionStatus: user.subscriptionStatus || null,
@@ -77,8 +78,8 @@ const register = async (req, res, next) => {
       email,
       password,
       role,
-      adminApproved: role === 'admin' && isSuperAdminEmail(email),
-      roleAssignedAt: role === 'admin' ? new Date() : undefined
+      adminApproved: ['admin', 'super_admin'].includes(role),
+      roleAssignedAt: ['admin', 'super_admin'].includes(role) ? new Date() : undefined
     });
     await Subscription.create({ userId: user._id, plan: 'free', status: 'pending' });
 

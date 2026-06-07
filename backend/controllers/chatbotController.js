@@ -29,6 +29,7 @@ const {
   formatQuestionLimitMessage,
   formatPracticeQuestionLimitMessage
 } = require('../utils/questionLimits');
+const { isTrustedAdmin } = require('../config/security');
 
 const roleCan = {
   generate_paper: ['teacher', 'admin'],
@@ -165,7 +166,8 @@ const sendWithLog = async (req, res, statusCode, response, logPayload = {}) => {
 };
 
 const requireAllowedRole = (intent, role) => {
-  if ((roleCan[intent] || []).includes(role)) return null;
+  const effectiveRole = role === 'super_admin' ? 'admin' : role;
+  if ((roleCan[intent] || []).includes(effectiveRole)) return null;
   const error = new Error('Your role is not allowed to use this chatbot command.');
   error.statusCode = 403;
   return error;
@@ -1341,7 +1343,7 @@ const handleChatbotMessage = async (req, res, next) => {
       const paper = await Paper.findById(paperId);
       if (!paper) return res.status(404).json({ message: 'Paper not found.' });
       const ownsPaper = String(paper.teacherId) === String(req.user._id);
-      if (!ownsPaper && req.user.role !== 'admin') return res.status(403).json({ message: 'You cannot access this paper.' });
+      if (!ownsPaper && !isTrustedAdmin(req.user)) return res.status(403).json({ message: 'You cannot access this paper.' });
 
       await clearPendingContext(req.user._id);
       return sendWithLog(

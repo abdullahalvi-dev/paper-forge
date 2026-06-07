@@ -9,6 +9,7 @@ const PaymentTransaction = require('../models/PaymentTransaction');
 const Subscription = require('../models/Subscription');
 const User = require('../models/User');
 const { getSettings } = require('./settingsService');
+const { isTrustedAdmin } = require('../config/security');
 
 const dayMs = 24 * 60 * 60 * 1000;
 
@@ -42,7 +43,7 @@ const validateCardExpiry = (cardExpiry) => {
 };
 
 const hasActiveSubscription = (user) =>
-  user.role === 'admin' ||
+  isTrustedAdmin(user) ||
   (user.subscriptionStatus === 'active' &&
     user.subscriptionEndDate &&
     new Date(user.subscriptionEndDate).getTime() > Date.now());
@@ -110,7 +111,7 @@ const activateSubscription = async ({ userId, plan, provider = 'manual', transac
 };
 
 const consumeTrialOrRequireSubscription = async (user, feature) => {
-  if (user.role === 'admin') return { allowed: true, reason: 'admin' };
+  if (isTrustedAdmin(user)) return { allowed: true, reason: 'admin' };
   if (hasActiveSubscription(user)) return { allowed: true, reason: 'active_subscription' };
 
   if (!user.subscriptionStatus && !user.trialUsedAt) {

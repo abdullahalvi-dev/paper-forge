@@ -15,7 +15,7 @@ const PaymentTransaction = require('../models/PaymentTransaction');
 const ChatbotLog = require('../models/ChatbotLog');
 const { manualOverride, expireNow } = require('./subscriptionController');
 const { getSettings, updateSettings } = require('../services/settingsService');
-const { isSuperAdminEmail } = require('../config/security');
+const { isSuperAdmin } = require('../config/security');
 
 const collectPdfBuffer = (doc) =>
   new Promise((resolve, reject) => {
@@ -43,7 +43,7 @@ const applyUserRoleChange = async ({ actor, targetUserId, role }) => {
     error.statusCode = 400;
     throw error;
   }
-  if (!isSuperAdminEmail(actor.email)) {
+  if (!isSuperAdmin(actor)) {
     const error = new Error('Only the super admin can change user roles');
     error.statusCode = 403;
     throw error;
@@ -60,7 +60,7 @@ const applyUserRoleChange = async ({ actor, targetUserId, role }) => {
     error.statusCode = 404;
     throw error;
   }
-  if (isSuperAdminEmail(user.email) && normalizedRole !== 'admin') {
+  if (isSuperAdmin(user)) {
     const error = new Error('Super admin role cannot be downgraded');
     error.statusCode = 403;
     throw error;
@@ -130,7 +130,7 @@ const buildAdminReport = async () => {
 
 const adminStats = async (req, res, next) => {
   try {
-    const canViewFinance = isSuperAdminEmail(req.user.email);
+    const canViewFinance = isSuperAdmin(req.user);
     const [totalUsers, activeUsers, papers, questions, practices] = await Promise.all([
       User.countDocuments(),
       User.countDocuments({ status: 'active' }),
@@ -260,6 +260,12 @@ const deleteUser = async (req, res, next) => {
   try {
     const user = await User.findById(req.params.id);
     if (!user) return res.status(404).json({ message: 'User not found' });
+    if (isSuperAdmin(user)) {
+      return res.status(403).json({ message: 'Super admin account cannot be deleted.' });
+    }
+    if (String(user._id) === String(req.user._id)) {
+      return res.status(400).json({ message: 'You cannot delete your own account.' });
+    }
     await user.deleteOne();
     res.json({ message: 'User deleted' });
   } catch (error) {
