@@ -74,19 +74,18 @@
                     </div>
                     <div class="mb-3">
                         <label for="registerPassword" class="form-label">Password</label>
-                        <input type="password" name="password" placeholder="Enter your password" class="form-control textField" id="registerPassword" minlength="6" required>
-                        <span class="small-text">Password needs to be at least 6 characters long.</span>
+                        <input type="password" name="password" placeholder="Enter your password" class="form-control textField" id="registerPassword" minlength="8" maxlength="72" pattern="(?=.*[A-Za-z])(?=.*\d).{8,72}" required>
+                        <span class="small-text">Use 8 or more characters with at least one letter and one number.</span>
                     </div>
                     <div class="mb-3">
                         <label for="registerRole" class="form-label">Role</label>
                         <select name="role" class="form-control textField" id="registerRole">
                           <option value="teacher">Teacher</option>
                           <option value="student">Student</option>
-                          <option value="admin">Admin</option>
                         </select>
                     </div>
 
-                    <a href="forgot-password.html" class="linkStyle mt-3 d-flex justify-content-end">Forgot password?</a>
+                    <p class="small-text mt-3">A 6-digit verification code will be sent to this email before your account is activated.</p>
 
                     <button type="submit" class="Btn">Create Account <img src="assets/images/right-angle.svg" alt="Icon" /></button>
 

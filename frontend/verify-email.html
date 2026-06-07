@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Verify Email | Paper Forge</title>
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/mobile-layout.css" rel="stylesheet">
+  </head>
+  <body data-page="verify-email">
+    <div class="header d-flex align-items-center fixed-top">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+              <img src="assets/images/Logo.svg" alt="Paper Forge" class="headerLogo">
+            </a>
+            <div class="ms-auto d-flex gap-3 align-items-center">
+              <a class="nav-link" href="login.html">Login</a>
+              <a class="nav-link" href="register.html">Register</a>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <main class="Section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-5 d-flex flex-column justify-content-center">
+            <div class="formSection">
+              <h1>Verify your email.</h1>
+              <p>Enter the 6-digit code sent to your email. Your account will remain inactive until verification is complete.</p>
+              <p id="registrationCodeHelp" class="small-text"></p>
+            </div>
+
+            <form id="verifyRegistrationForm">
+              <div class="mb-3">
+                <label for="verificationEmail" class="form-label">Email</label>
+                <input type="email" name="email" class="form-control textField" id="verificationEmail" readonly required>
+              </div>
+              <div class="mb-3">
+                <label for="verificationCode" class="form-label">Verification code</label>
+                <input type="text" inputmode="numeric" autocomplete="one-time-code" name="pin" class="form-control textField" id="verificationCode" minlength="6" maxlength="6" pattern="[0-9]{6}" placeholder="Enter 6-digit code" required>
+              </div>
+              <button type="submit" class="Btn">Verify &amp; Continue <img src="assets/images/right-angle.svg" alt=""></button>
+              <button type="button" class="btn btn-link linkStyle mt-3 p-0" id="resendRegistrationCode">Resend verification code</button>
+              <p class="mt-4">Wrong email? <a href="register.html" class="linkStyle">Register again</a></p>
+            </form>
+          </div>
+          <div class="col-md-12 col-lg-6 offset-lg-1 d-flex align-items-center justify-content-center">
+            <img src="assets/images/resend-email-image.svg" alt="Email verification" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <div id="appToast" hidden></div>
+    <script src="assets/js/public-lite.js" defer></script>
+    <script src="assets/js/app.js" defer></script>
+  </body>
+</html>

@@ -860,10 +860,82 @@
             role: formValue(form, 'role')
           }
         });
+        localStorage.setItem('registrationEmail', data.email || email);
+        localStorage.setItem('registrationChallenge', data.challengeToken);
+        if (data.devCode) localStorage.setItem('registrationDevCode', data.devCode);
+        else localStorage.removeItem('registrationDevCode');
+        window.location.href = appUrl('/verify-email.html');
+      } catch (error) {
+        showMessage(error.message, 'danger');
+      }
+    });
+  };
+
+  const clearRegistrationVerification = () => {
+    localStorage.removeItem('registrationEmail');
+    localStorage.removeItem('registrationChallenge');
+    localStorage.removeItem('registrationDevCode');
+  };
+
+  const initVerifyRegistration = () => {
+    const email = localStorage.getItem('registrationEmail') || '';
+    const challengeToken = localStorage.getItem('registrationChallenge') || '';
+    const emailInput = $('#verificationEmail');
+    if (emailInput) emailInput.value = email;
+
+    const devCode = localStorage.getItem('registrationDevCode');
+    if (devCode && $('#registrationCodeHelp')) {
+      $('#registrationCodeHelp').textContent = `Development verification code: ${devCode}`;
+    }
+
+    if (!email || !challengeToken) {
+      showMessage('Registration session expired. Please register again.', 'danger');
+      window.location.href = appUrl('/register.html');
+      return;
+    }
+
+    $('#verifyRegistrationForm')?.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      try {
+        const data = await api('/auth/verify-registration-email', {
+          method: 'POST',
+          body: {
+            email,
+            challengeToken: localStorage.getItem('registrationChallenge'),
+            pin: formValue(event.currentTarget, 'pin')
+          }
+        });
         saveSession(data);
+        clearRegistrationVerification();
         redirectByRole(data.user.role);
       } catch (error) {
         showMessage(error.message, 'danger');
+      }
+    });
+
+    $('#resendRegistrationCode')?.addEventListener('click', async (event) => {
+      const button = event.currentTarget;
+      button.disabled = true;
+      try {
+        const data = await api('/auth/resend-registration-code', {
+          method: 'POST',
+          body: {
+            email,
+            challengeToken: localStorage.getItem('registrationChallenge')
+          }
+        });
+        localStorage.setItem('registrationChallenge', data.challengeToken);
+        if (data.devCode) {
+          localStorage.setItem('registrationDevCode', data.devCode);
+          if ($('#registrationCodeHelp')) {
+            $('#registrationCodeHelp').textContent = `Development verification code: ${data.devCode}`;
+          }
+        }
+        showMessage(data.message || 'Verification code sent.', 'success');
+      } catch (error) {
+        showMessage(error.message, 'danger');
+      } finally {
+        button.disabled = false;
       }
     });
   };
@@ -3877,6 +3949,7 @@
   const pageInitializers = {
     login: initLogin,
     register: initRegister,
+    'verify-email': initVerifyRegistration,
     'teacher-dashboard': initTeacherDashboard,
     'generate-paper': initGeneratePaper,
     'preview-paper': initPreviewPaper,

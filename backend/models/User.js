@@ -23,6 +23,38 @@ const userSchema = new mongoose.Schema(
       match: [emailPattern, 'Please enter a valid email address'],
       trim: true
     },
+    emailVerified: {
+      type: Boolean,
+      default: true
+    },
+    emailVerifiedAt: {
+      type: Date
+    },
+    emailVerificationCodeHash: {
+      type: String,
+      select: false
+    },
+    emailVerificationChallengeHash: {
+      type: String,
+      select: false
+    },
+    emailVerificationExpiresAt: {
+      type: Date,
+      select: false,
+      index: {
+        expires: 0,
+        partialFilterExpression: { emailVerified: false }
+      }
+    },
+    emailVerificationSentAt: {
+      type: Date,
+      select: false
+    },
+    emailVerificationAttempts: {
+      type: Number,
+      default: 0,
+      select: false
+    },
     password: {
       type: String,
       required: true,
