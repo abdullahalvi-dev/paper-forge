@@ -6,7 +6,6 @@
  */
 const nodemailer = require('nodemailer');
 
-const hasSmtpConfig = () => Boolean(process.env.SMTP_HOST && process.env.SMTP_USER && process.env.SMTP_PASS);
 const isProductionRuntime = () =>
   process.env.NODE_ENV === 'production' ||
   process.env.VERCEL === '1' ||
@@ -14,36 +13,85 @@ const isProductionRuntime = () =>
 const canExposeDevelopmentCode = () =>
   !isProductionRuntime() && process.env.ALLOW_DEV_EMAIL_CODES === 'true';
 
-const createTransport = () =>
-  nodemailer.createTransport({
-    host: process.env.SMTP_HOST,
-    port: Number(process.env.SMTP_PORT || 587),
-    secure: Number(process.env.SMTP_PORT || 587) === 465,
+const firstEnv = (...keys) => keys.map((key) => process.env[key]).find((value) => String(value || '').trim());
+
+const getSmtpConfig = () => {
+  const user = firstEnv('SMTP_USER', 'EMAIL_SERVER_USER', 'MAIL_USER', 'MAIL_USERNAME', 'GMAIL_USER');
+  const pass = firstEnv('SMTP_PASS', 'SMTP_PASSWORD', 'EMAIL_SERVER_PASSWORD', 'MAIL_PASS', 'MAIL_PASSWORD', 'GMAIL_APP_PASSWORD');
+  let host = firstEnv('SMTP_HOST', 'EMAIL_SERVER_HOST', 'MAIL_HOST');
+  let port = Number(firstEnv('SMTP_PORT', 'EMAIL_SERVER_PORT', 'MAIL_PORT') || 587);
+
+  if (!host && user && /@gmail\.com$/i.test(user)) {
+    host = 'smtp.gmail.com';
+    port = 465;
+  }
+
+  return {
+    host,
+    port,
+    secure: String(firstEnv('SMTP_SECURE', 'EMAIL_SERVER_SECURE', 'MAIL_SECURE') || '').toLowerCase() === 'true' || port === 465,
+    user,
+    pass,
+    from: firstEnv('SMTP_FROM', 'EMAIL_FROM', 'MAIL_FROM') || 'Paper Forge <no-reply@paperforge.local>'
+  };
+};
+
+const hasSmtpConfig = () => {
+  const config = getSmtpConfig();
+  return Boolean(config.host && config.user && config.pass);
+};
+
+const createTransport = () => {
+  const config = getSmtpConfig();
+  return nodemailer.createTransport({
+    host: config.host,
+    port: config.port,
+    secure: config.secure,
     auth: {
-      user: process.env.SMTP_USER,
-      pass: process.env.SMTP_PASS
+      user: config.user,
+      pass: config.pass
     }
   });
+};
+
+const createEmailConfigError = () => {
+  const error = new Error(
+    'Email verification is not configured. Add SMTP_HOST, SMTP_USER and SMTP_PASS in Vercel Environment Variables, then redeploy.'
+  );
+  error.statusCode = 503;
+  return error;
+};
 
 const sendCodeEmail = async ({ to, code, subject, text, html }) => {
   if (!hasSmtpConfig()) {
     if (!canExposeDevelopmentCode()) {
-      const error = new Error('Email service is not configured. Please contact support.');
-      error.statusCode = 503;
-      throw error;
+      throw createEmailConfigError();
     }
     console.log(`[DEV EMAIL] To: ${to} | ${subject} | ${text}`);
     return { delivered: false, devCode: code };
   }
 
+  const config = getSmtpConfig();
   const transport = createTransport();
-  await transport.sendMail({
-    from: process.env.SMTP_FROM || 'Paper Forge <no-reply@paperforge.local>',
-    to,
-    subject,
-    text,
-    html
-  });
+  try {
+    await transport.sendMail({
+      from: config.from,
+      to,
+      subject,
+      text,
+      html
+    });
+  } catch (error) {
+    console.error('[EMAIL_SEND_FAILED]', {
+      code: error.code,
+      command: error.command,
+      responseCode: error.responseCode,
+      message: error.message
+    });
+    const deliveryError = new Error('Verification email could not be sent. Please check SMTP settings and try again.');
+    deliveryError.statusCode = 502;
+    throw deliveryError;
+  }
 
   return { delivered: true };
 };
