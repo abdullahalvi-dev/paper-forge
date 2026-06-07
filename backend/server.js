@@ -167,6 +167,19 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', app: 'Paper Forge API' });
 });
 
+app.use('/api', async (req, res, next) => {
+  // Roman Urdu: Vercel/serverless cold start par pehle MongoDB ready karta hai, phir API controller chalata hai.
+  if (req.path === '/health') return next();
+  try {
+    await connectDB();
+    return next();
+  } catch (error) {
+    error.statusCode = error.statusCode || 503;
+    error.message = error.message || 'Database connection is not ready. Please try again.';
+    return next(error);
+  }
+});
+
 const getSiteBaseUrl = (req) => {
   const configured = (process.env.PUBLIC_SITE_URL || '').trim().replace(/\/+$/, '');
   if (configured) return configured;
@@ -258,10 +271,6 @@ app.use((error, req, res, next) => {
   res.status(statusCode).json({
     message: error.message || 'Server error'
   });
-});
-
-connectDB().catch((error) => {
-  console.error(error.message);
 });
 
 if (process.env.VERCEL !== '1') {
