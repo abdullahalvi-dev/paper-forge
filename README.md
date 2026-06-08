@@ -9,6 +9,20 @@ Paper Forge is a full-stack EdTech platform for board-style paper generation, MC
 - Exports: PDF, Word, and print-friendly A4 paper view
 - Roles: Teacher, Student, Admin
 
+## Production Email Verification (Vercel + Resend)
+
+Paper Forge uses OTP-only account activation. For reliable delivery on Vercel, configure the Resend HTTPS API:
+
+```env
+RESEND_API_KEY=re_your_sending_access_key
+RESEND_FROM=Paper Forge <verify@your-verified-domain.com>
+SUPER_ADMIN_EMAIL=abdullahalvi@gmail.com
+```
+
+The default `onboarding@resend.dev` sender is test-only and can send only to the email address associated with the Resend account. To send OTPs to teachers and students, add your own domain in the Resend dashboard, publish the provided DNS records, wait for the domain status to become `Verified`, and use an address from that domain in `RESEND_FROM`.
+
+After changing Vercel Environment Variables, redeploy the Production deployment. Existing Resend SMTP variables remain supported. When `SMTP_HOST=smtp.resend.com`, `SMTP_USER=resend`, and `SMTP_PASS=re_...` are present, Paper Forge automatically uses the Resend HTTPS API for better serverless reliability.
+
 ## Run Commands
 
 Open this folder in VS Code, then run:
