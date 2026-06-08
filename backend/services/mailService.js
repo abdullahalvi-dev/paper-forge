@@ -1,9 +1,10 @@
 /*
  * Roman Urdu comments:
- * Ye service OTP aur reset email send karti hai.
- * Vercel/serverless ke liye SMTP remove kar diya gaya hai; ab sirf Resend HTTPS API use hoti hai.
- * Agar purani SMTP_PASS value Resend API key ho, to usay bhi safely API key ke taur par read kar leta hai.
+ * Ye service OTP aur reset email SMTP ke zariye send karti hai.
+ * External email API remove kar di gayi hai; ab sirf Nodemailer SMTP transporter use hota hai.
+ * Production mein SMTP settings missing hon to OTP code expose nahi hota aur request fail hoti hai.
  */
+const nodemailer = require('nodemailer');
 
 const isProductionRuntime = () =>
   process.env.NODE_ENV === 'production' ||
@@ -15,38 +16,63 @@ const canExposeDevelopmentCode = () =>
 const firstEnv = (...keys) =>
   keys.map((key) => process.env[key]).find((value) => String(value || '').trim());
 
-const looksLikeResendKey = (value) => /^re_[a-z0-9_/-]+$/i.test(String(value || '').trim());
-
-const getResendConfig = () => {
-  const legacyPossibleKey = firstEnv(
+const getSmtpConfig = () => {
+  const user = firstEnv('SMTP_USER', 'EMAIL_SERVER_USER', 'MAIL_USER', 'MAIL_USERNAME', 'GMAIL_USER');
+  const pass = firstEnv(
     'SMTP_PASS',
     'SMTP_PASSWORD',
     'EMAIL_SERVER_PASSWORD',
     'MAIL_PASS',
-    'MAIL_PASSWORD'
+    'MAIL_PASSWORD',
+    'GMAIL_APP_PASSWORD'
   );
+  let host = firstEnv('SMTP_HOST', 'EMAIL_SERVER_HOST', 'MAIL_HOST');
+  let port = Number(firstEnv('SMTP_PORT', 'EMAIL_SERVER_PORT', 'MAIL_PORT') || 587);
+
+  // Roman Urdu: Gmail user diya ho aur host missing ho to Gmail SMTP auto-set ho jata hai.
+  if (!host && user && /@gmail\.com$/i.test(user)) {
+    host = 'smtp.gmail.com';
+    port = 465;
+  }
 
   return {
-    apiKey:
-      firstEnv('RESEND_API_KEY', 'RESEND_KEY') ||
-      (looksLikeResendKey(legacyPossibleKey) ? legacyPossibleKey : ''),
-    from: firstEnv('RESEND_FROM', 'SMTP_FROM', 'EMAIL_FROM', 'MAIL_FROM') || '',
-    testRecipient: String(firstEnv('RESEND_TEST_RECIPIENT') || '')
-      .trim()
-      .toLowerCase()
+    host,
+    port,
+    secure:
+      String(firstEnv('SMTP_SECURE', 'EMAIL_SERVER_SECURE', 'MAIL_SECURE') || '').toLowerCase() ===
+        'true' || port === 465,
+    user,
+    pass,
+    from:
+      firstEnv('SMTP_FROM', 'EMAIL_FROM', 'MAIL_FROM') ||
+      (user ? `Paper Forge <${user}>` : 'Paper Forge <no-reply@paperforge.local>')
   };
 };
 
-const hasResendConfig = () => {
-  const config = getResendConfig();
-  return Boolean(config.apiKey && config.from);
+const hasSmtpConfig = () => {
+  const config = getSmtpConfig();
+  return Boolean(config.host && config.user && config.pass && config.from);
 };
 
-const hasSmtpConfig = () => false;
+const createTransport = () => {
+  const config = getSmtpConfig();
+  return nodemailer.createTransport({
+    host: config.host,
+    port: config.port,
+    secure: config.secure,
+    auth: {
+      user: config.user,
+      pass: config.pass
+    },
+    connectionTimeout: 12000,
+    greetingTimeout: 12000,
+    socketTimeout: 20000
+  });
+};
 
 const createEmailConfigError = () => {
   const error = new Error(
-    'Email verification is not configured. Add RESEND_API_KEY and RESEND_FROM in Vercel Environment Variables, then redeploy.'
+    'Email verification is not configured. Add valid SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS and SMTP_FROM in Vercel Environment Variables, then redeploy.'
   );
   error.statusCode = 503;
   error.code = 'EMAIL_CONFIG_MISSING';
@@ -60,122 +86,70 @@ const createDeliveryError = (message, code = 'EMAIL_DELIVERY_FAILED', statusCode
   return error;
 };
 
-const getResendError = ({ status, providerMessage, from }) => {
-  const message = String(providerMessage || '');
-  const usingTestSender = /@resend\.dev\b/i.test(String(from || ''));
+const getSmtpDeliveryError = (error) => {
+  const responseCode = Number(error.responseCode || 0);
+  const message = String(error.message || '');
+  const isAuthError = error.code === 'EAUTH' || responseCode === 535 || /invalid login|auth/i.test(message);
 
-  if (
-    status === 403 &&
-    (usingTestSender || /only send testing emails|verify a domain|own email address/i.test(message))
-  ) {
+  if (isAuthError) {
     return createDeliveryError(
-      'Resend testing sender can only email the address used for your Resend account. To send OTPs to all users, verify your own domain in Resend and set RESEND_FROM to Paper Forge <verify@your-domain.com>.',
-      'EMAIL_SENDER_DOMAIN_REQUIRED',
-      503
+      'SMTP authentication failed. Please check SMTP_USER and SMTP_PASS exactly as provided by your email provider.',
+      'SMTP_AUTH_FAILED',
+      502
     );
   }
 
-  if (status === 401 || /api key is invalid|invalid api key/i.test(message)) {
+  if (['ETIMEDOUT', 'ECONNECTION', 'ESOCKET'].includes(error.code)) {
     return createDeliveryError(
-      'Resend API key is invalid. Create a new Sending access API key, update RESEND_API_KEY in Vercel, and redeploy.',
-      'EMAIL_API_KEY_INVALID',
-      503
-    );
-  }
-
-  if (/domain.*not verified|from.*not verified|sender.*not verified/i.test(message)) {
-    return createDeliveryError(
-      'The Resend sender domain is not verified. Verify the domain in Resend and use an address from that domain in RESEND_FROM.',
-      'EMAIL_SENDER_NOT_VERIFIED',
-      503
+      'SMTP server connection failed. Please check SMTP_HOST, SMTP_PORT, SMTP_SECURE and whether your provider allows SMTP from Vercel.',
+      'SMTP_CONNECTION_FAILED',
+      502
     );
   }
 
   return createDeliveryError(
-    message
-      ? `Verification email could not be sent by Resend: ${message}`
-      : 'Verification email could not be sent by Resend. Please check RESEND_API_KEY and RESEND_FROM.',
+    'Verification email could not be sent through SMTP. Please check SMTP settings and try again.',
     'EMAIL_DELIVERY_FAILED',
-    status >= 400 && status < 500 ? 503 : 502
+    502
   );
 };
 
-const sendWithResendApi = async ({ to, subject, text, html }) => {
-  const config = getResendConfig();
-  const normalizedRecipient = String(to || '').trim().toLowerCase();
-
-  if (
-    config.testRecipient &&
-    /@resend\.dev\b/i.test(config.from) &&
-    normalizedRecipient !== config.testRecipient
-  ) {
-    throw getResendError({
-      status: 403,
-      providerMessage: 'The resend.dev testing sender can only send to the configured Resend account email.',
-      from: config.from
-    });
-  }
-
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15000);
+const sendWithSmtp = async ({ to, subject, text, html }) => {
+  const config = getSmtpConfig();
+  const transport = createTransport();
 
   try {
-    const response = await fetch('https://api.resend.com/emails', {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${config.apiKey}`,
-        'Content-Type': 'application/json',
-        'User-Agent': 'paper-forge/1.0'
-      },
-      body: JSON.stringify({
-        from: config.from,
-        to: [to],
-        subject,
-        text,
-        ...(html ? { html } : {})
-      }),
-      signal: controller.signal
+    const result = await transport.sendMail({
+      from: config.from,
+      to,
+      subject,
+      text,
+      html
     });
-
-    const responseText = await response.text();
-    let responseBody = {};
-    try {
-      responseBody = responseText ? JSON.parse(responseText) : {};
-    } catch {
-      responseBody = { message: responseText };
-    }
-
-    if (!response.ok) {
-      throw getResendError({
-        status: response.status,
-        providerMessage: responseBody.message || responseBody.error,
-        from: config.from
-      });
-    }
-
     return {
       delivered: true,
-      provider: 'resend',
-      messageId: responseBody.id || null
+      provider: 'smtp',
+      messageId: result.messageId || null
     };
   } catch (error) {
-    if (error.statusCode) throw error;
-    const timedOut = error.name === 'AbortError';
-    throw createDeliveryError(
-      timedOut
-        ? 'Resend email request timed out. Please try again.'
-        : 'Could not connect to the Resend email service. Please try again.',
-      timedOut ? 'EMAIL_PROVIDER_TIMEOUT' : 'EMAIL_PROVIDER_UNAVAILABLE',
-      503
-    );
-  } finally {
-    clearTimeout(timeout);
+    console.error('[EMAIL_SEND_FAILED]', {
+      provider: 'smtp',
+      host: config.host,
+      port: config.port,
+      secure: config.secure,
+      user: config.user,
+      code: error.code,
+      command: error.command,
+      responseCode: error.responseCode,
+      message: error.message
+    });
+    throw getSmtpDeliveryError(error);
   }
 };
 
 const sendCodeEmail = async ({ to, code, subject, text, html }) => {
-  if (hasResendConfig()) {
-    return sendWithResendApi({ to, subject, text, html });
+  if (hasSmtpConfig()) {
+    return sendWithSmtp({ to, subject, text, html });
   }
   if (!canExposeDevelopmentCode()) {
     throw createEmailConfigError();
@@ -212,7 +186,6 @@ const sendRegistrationCode = (to, code, ttlMinutes) => {
 };
 
 module.exports = {
-  hasResendConfig,
   hasSmtpConfig,
   sendRegistrationCode,
   sendResetPin

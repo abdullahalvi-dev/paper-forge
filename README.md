@@ -9,19 +9,32 @@ Paper Forge is a full-stack EdTech platform for board-style paper generation, MC
 - Exports: PDF, Word, and print-friendly A4 paper view
 - Roles: Teacher, Student, Admin
 
-## Production Email Verification (Vercel + Resend)
+## Production Email Verification (SMTP)
 
-Paper Forge uses OTP-only account activation. For reliable delivery on Vercel, configure the Resend HTTPS API:
+Paper Forge uses OTP-only account activation. Configure a real SMTP provider in Vercel:
 
 ```env
-RESEND_API_KEY=re_your_sending_access_key
-RESEND_FROM=Paper Forge <verify@your-verified-domain.com>
+SMTP_HOST=smtp.example.com
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=your_smtp_username
+SMTP_PASS=your_smtp_password
+SMTP_FROM=Paper Forge <no-reply@example.com>
 SUPER_ADMIN_EMAIL=abdullahalvi@gmail.com
 ```
 
-The default `onboarding@resend.dev` sender is test-only and can send only to the email address associated with the Resend account. To send OTPs to teachers and students, add your own domain in the Resend dashboard, publish the provided DNS records, wait for the domain status to become `Verified`, and use an address from that domain in `RESEND_FROM`.
+Gmail SMTP example:
 
-After changing Vercel Environment Variables, redeploy the Production deployment. SMTP email sending is intentionally disabled for production OTPs because serverless SMTP auth and port handling are fragile. Use `RESEND_API_KEY` and `RESEND_FROM` only. If old `SMTP_*`, `EMAIL_SERVER_*`, `MAIL_*`, or `GMAIL_*` variables exist in Vercel, delete them to avoid confusion.
+```env
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=your-gmail@gmail.com
+SMTP_PASS=your_16_character_gmail_app_password
+SMTP_FROM=Paper Forge <your-gmail@gmail.com>
+```
+
+After changing Vercel Environment Variables, redeploy the Production deployment. This project sends OTPs through SMTP only.
 
 ## Run Commands
 
