@@ -1,10 +1,9 @@
 /*
  * Roman Urdu comments:
- * Ye service email sending handle karti hai.
- * Resend configured ho to Vercel-friendly HTTPS API use hoti hai, warna SMTP fallback chalta hai.
- * Production mein email provider missing ho to code response mein expose nahi hota aur request fail hoti hai.
+ * Ye service OTP aur reset email send karti hai.
+ * Vercel/serverless ke liye SMTP remove kar diya gaya hai; ab sirf Resend HTTPS API use hoti hai.
+ * Agar purani SMTP_PASS value Resend API key ho, to usay bhi safely API key ke taur par read kar leta hai.
  */
-const nodemailer = require('nodemailer');
 
 const isProductionRuntime = () =>
   process.env.NODE_ENV === 'production' ||
@@ -16,47 +15,21 @@ const canExposeDevelopmentCode = () =>
 const firstEnv = (...keys) =>
   keys.map((key) => process.env[key]).find((value) => String(value || '').trim());
 
-const getSmtpConfig = () => {
-  const user = firstEnv('SMTP_USER', 'EMAIL_SERVER_USER', 'MAIL_USER', 'MAIL_USERNAME', 'GMAIL_USER');
-  const pass = firstEnv(
+const looksLikeResendKey = (value) => /^re_[a-z0-9_/-]+$/i.test(String(value || '').trim());
+
+const getResendConfig = () => {
+  const legacyPossibleKey = firstEnv(
     'SMTP_PASS',
     'SMTP_PASSWORD',
     'EMAIL_SERVER_PASSWORD',
     'MAIL_PASS',
-    'MAIL_PASSWORD',
-    'GMAIL_APP_PASSWORD'
+    'MAIL_PASSWORD'
   );
-  let host = firstEnv('SMTP_HOST', 'EMAIL_SERVER_HOST', 'MAIL_HOST');
-  let port = Number(firstEnv('SMTP_PORT', 'EMAIL_SERVER_PORT', 'MAIL_PORT') || 587);
-
-  if (!host && user && /@gmail\.com$/i.test(user)) {
-    host = 'smtp.gmail.com';
-    port = 465;
-  }
 
   return {
-    host,
-    port,
-    secure:
-      String(firstEnv('SMTP_SECURE', 'EMAIL_SERVER_SECURE', 'MAIL_SECURE') || '').toLowerCase() ===
-        'true' || port === 465,
-    user,
-    pass,
-    from:
-      firstEnv('SMTP_FROM', 'EMAIL_FROM', 'MAIL_FROM') ||
-      'Paper Forge <no-reply@paperforge.local>'
-  };
-};
-
-const getResendConfig = () => {
-  const smtp = getSmtpConfig();
-  const smtpUsesResend =
-    String(smtp.host || '').toLowerCase() === 'smtp.resend.com' &&
-    String(smtp.user || '').toLowerCase() === 'resend';
-
-  return {
-    // Roman Urdu: Purani Resend SMTP settings ko bhi API setup ke taur par accept kiya jata hai.
-    apiKey: firstEnv('RESEND_API_KEY', 'RESEND_KEY') || (smtpUsesResend ? smtp.pass : ''),
+    apiKey:
+      firstEnv('RESEND_API_KEY', 'RESEND_KEY') ||
+      (looksLikeResendKey(legacyPossibleKey) ? legacyPossibleKey : ''),
     from: firstEnv('RESEND_FROM', 'SMTP_FROM', 'EMAIL_FROM', 'MAIL_FROM') || '',
     testRecipient: String(firstEnv('RESEND_TEST_RECIPIENT') || '')
       .trim()
@@ -64,35 +37,16 @@ const getResendConfig = () => {
   };
 };
 
-const hasSmtpConfig = () => {
-  const config = getSmtpConfig();
-  return Boolean(config.host && config.user && config.pass);
-};
-
 const hasResendConfig = () => {
   const config = getResendConfig();
   return Boolean(config.apiKey && config.from);
 };
 
-const createTransport = () => {
-  const config = getSmtpConfig();
-  return nodemailer.createTransport({
-    host: config.host,
-    port: config.port,
-    secure: config.secure,
-    auth: {
-      user: config.user,
-      pass: config.pass
-    },
-    connectionTimeout: 12000,
-    greetingTimeout: 12000,
-    socketTimeout: 20000
-  });
-};
+const hasSmtpConfig = () => false;
 
 const createEmailConfigError = () => {
   const error = new Error(
-    'Email verification is not configured. Add RESEND_API_KEY and RESEND_FROM, or valid SMTP settings, in Vercel Environment Variables and redeploy.'
+    'Email verification is not configured. Add RESEND_API_KEY and RESEND_FROM in Vercel Environment Variables, then redeploy.'
   );
   error.statusCode = 503;
   error.code = 'EMAIL_CONFIG_MISSING';
@@ -140,7 +94,7 @@ const getResendError = ({ status, providerMessage, from }) => {
   return createDeliveryError(
     message
       ? `Verification email could not be sent by Resend: ${message}`
-      : 'Verification email could not be sent by Resend. Please check the API key and sender domain.',
+      : 'Verification email could not be sent by Resend. Please check RESEND_API_KEY and RESEND_FROM.',
     'EMAIL_DELIVERY_FAILED',
     status >= 400 && status < 500 ? 503 : 502
   );
@@ -219,45 +173,9 @@ const sendWithResendApi = async ({ to, subject, text, html }) => {
   }
 };
 
-const sendWithSmtp = async ({ to, subject, text, html }) => {
-  const config = getSmtpConfig();
-  const transport = createTransport();
-
-  try {
-    const result = await transport.sendMail({
-      from: config.from,
-      to,
-      subject,
-      text,
-      html
-    });
-    return {
-      delivered: true,
-      provider: 'smtp',
-      messageId: result.messageId || null
-    };
-  } catch (error) {
-    console.error('[EMAIL_SEND_FAILED]', {
-      provider: 'smtp',
-      code: error.code,
-      command: error.command,
-      responseCode: error.responseCode,
-      message: error.message
-    });
-    throw createDeliveryError(
-      'Verification email could not be sent through SMTP. Please check the SMTP host, port, username, password and sender.',
-      'EMAIL_DELIVERY_FAILED',
-      502
-    );
-  }
-};
-
 const sendCodeEmail = async ({ to, code, subject, text, html }) => {
   if (hasResendConfig()) {
     return sendWithResendApi({ to, subject, text, html });
-  }
-  if (hasSmtpConfig()) {
-    return sendWithSmtp({ to, subject, text, html });
   }
   if (!canExposeDevelopmentCode()) {
     throw createEmailConfigError();

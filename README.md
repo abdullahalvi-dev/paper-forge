@@ -21,7 +21,7 @@ SUPER_ADMIN_EMAIL=abdullahalvi@gmail.com
 
 The default `onboarding@resend.dev` sender is test-only and can send only to the email address associated with the Resend account. To send OTPs to teachers and students, add your own domain in the Resend dashboard, publish the provided DNS records, wait for the domain status to become `Verified`, and use an address from that domain in `RESEND_FROM`.
 
-After changing Vercel Environment Variables, redeploy the Production deployment. Existing Resend SMTP variables remain supported. When `SMTP_HOST=smtp.resend.com`, `SMTP_USER=resend`, and `SMTP_PASS=re_...` are present, Paper Forge automatically uses the Resend HTTPS API for better serverless reliability.
+After changing Vercel Environment Variables, redeploy the Production deployment. SMTP email sending is intentionally disabled for production OTPs because serverless SMTP auth and port handling are fragile. Use `RESEND_API_KEY` and `RESEND_FROM` only. If old `SMTP_*`, `EMAIL_SERVER_*`, `MAIL_*`, or `GMAIL_*` variables exist in Vercel, delete them to avoid confusion.
 
 ## Run Commands
 
