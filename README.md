@@ -4,7 +4,7 @@ Paper Forge is a full-stack EdTech platform that uses Generative AI to automate 
 
 ## Live Demo
 
-https://paper-forge-one.vercel.app
+https://www.paperforge.store/
 
 ## Overview
 
