@@ -6,3 +6,4 @@ backend/.env
 backend/certs/
 *.pem
 *.zip
+backend/uploads/
