@@ -243,8 +243,8 @@ The frontend application is deployed using Vercel.
 
 Live Demo:
 
-https://paper-forge-one.vercel.app
 
+https://www.paperforge.store/
 ## Author
 
 **Muhammad Abdullah Alvi**
